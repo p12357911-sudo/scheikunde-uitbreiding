@@ -1,0 +1,157 @@
+{
+ "title": "Soorten stoffen en bindingen - 123 school",
+ "heading": "Soorten stoffen en bindingen",
+ "intro": [
+  "In de scheikunde onderscheid je drie soorten stoffen, elk met een eigen bouw en een eigen typische binding. <b>Metalen</b> bestaan uit metaalatomen: positieve metaalionen met vrije elektronen ertussen (metaalbinding). <b>Zouten</b> bestaan uit positieve en negatieve ionen (ionbinding). <b>Moleculaire stoffen</b> bestaan uit ongeladen moleculen, die elkaar aantrekken met de vanderwaalsbinding (en met waterstofbruggen bij -OH of -NH).",
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Welke drie soorten stoffen onderscheid je op grond van de deeltjes waaruit ze bestaan?",
+   "a": "Metalen, zouten en moleculaire stoffen"
+  },
+  {
+   "q": "Uit welke deeltjes bestaat een metaal, een zout en een moleculaire stof?",
+   "a": "Metaal: metaalatomen (positieve metaalionen met vrije elektronen). Zout: positieve en negatieve ionen. Moleculaire stof: ongeladen moleculen"
+  },
+  {
+   "q": "Welke typische binding hoort bij metalen, bij zouten en bij moleculaire stoffen (tussen de moleculen)?",
+   "a": "Metalen: metaalbinding. Zouten: ionbinding. Moleculaire stoffen: vanderwaalsbinding (en waterstofbruggen bij -OH of -NH)"
+  },
+  {
+   "q": "Hoe kun je aan de formule zien tot welke soort stof een stof behoort?",
+   "a": "Alleen een metaal: metaal. Een metaal met een niet-metaal: zout. Alleen niet-metalen: moleculaire stof",
+   "e": "Uitzondering: een zout met het ammoniumion (NH<sub>4</sub><sup>+</sup>) heeft geen metaal, maar is wel een zout."
+  },
+  {
+   "q": "Tot welke soort stof hoort elk van deze formules: Cu, KBr, CH<sub>4</sub> en (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>?",
+   "a": "Cu: metaal. KBr: zout. CH<sub>4</sub>: moleculaire stof. (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>: zout",
+   "e": "Ammonium (NH<sub>4</sub><sup>+</sup>) en sulfaat (SO<sub>4</sub><sup>2-</sup>) zijn ionen, dus er zijn geen moleculen en het is een zout."
+  },
+  {
+   "q": "Tot welke soort stof hoort elk van deze formules: Zn, CO<sub>2</sub>, Fe<sub>2</sub>O<sub>3</sub> en C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?",
+   "a": "Zn: metaal. CO<sub>2</sub>: moleculaire stof. Fe<sub>2</sub>O<sub>3</sub>: zout (ijzer(III)oxide). C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>: moleculaire stof (glucose)"
+  },
+  {
+   "q": "Is strontium (Sr) een metaal of een niet-metaal? (gebruik BINAS tabel 99)",
+   "a": "Een metaal",
+   "e": "Sr staat in groep 2 (de aardalkalimetalen), links in het periodiek systeem.",
+   "goed": [
+    "metaal",
+    "Een metaal"
+   ]
+  },
+  {
+   "q": "Wat houdt de deeltjes in een metaal bij elkaar? Leg uit.",
+   "a": "De metaalbinding: de aantrekking tussen de positieve metaalionen en de vrij bewegende elektronen ertussen"
+  },
+  {
+   "q": "Wat is een metaalrooster?",
+   "a": "Een regelmatige rangschikking van positieve metaalionen waartussen de vrije elektronen bewegen",
+   "e": "De valentie-elektronen horen niet meer bij één atoom, maar bewegen door het hele rooster."
+  },
+  {
+   "q": "Waarom geleidt een metaal ook in vaste toestand elektrische stroom?",
+   "a": "De vrije elektronen kunnen door het rooster bewegen en nemen zo lading mee"
+  },
+  {
+   "q": "Waarom geleiden metalen warmte goed?",
+   "a": "De vrije elektronen verplaatsen zich snel en dragen bewegingsenergie van het warme naar het koude deel"
+  },
+  {
+   "q": "Waarom kun je een metaal buigen of smeden zonder dat het breekt?",
+   "a": "De lagen metaalionen kunnen langs elkaar schuiven; de vrije elektronen houden de ionen bij elkaar, dus de binding blijft bestaan"
+  },
+  {
+   "q": "Noem drie eigenschappen die typisch zijn voor metalen",
+   "a": "Bijvoorbeeld: geleiden stroom, geleiden warmte, vervormbaar, glanzend, meestal een hoog smeltpunt",
+   "e": "Heb je er twee van de drie goed, dan telt het als goed."
+  },
+  {
+   "q": "Wat is een legering? Geef een voorbeeld.",
+   "a": "Een mengsel van een metaal met andere elementen (vaak andere metalen), bijvoorbeeld brons (koper en tin) of messing (koper en zink)",
+   "e": "Staal (ijzer met een beetje koolstof) is ook een legering."
+  },
+  {
+   "q": "Wat gebeurt er met de elektronen als een natriumatoom en een chlooratoom een ionbinding vormen?",
+   "a": "Natrium draagt een elektron over aan chloor: er ontstaan Na<sup>+</sup> en Cl<sup>-</sup>",
+   "e": "Beide ionen hebben nu een volle buitenste schil (edelgasconfiguratie)."
+  },
+  {
+   "q": "Wat is het verschil tussen een ionbinding en een atoombinding (covalente binding)?",
+   "a": "Ionbinding: elektronen worden overgedragen en de ionen trekken elkaar aan. Atoombinding: atomen delen elektronen"
+  },
+  {
+   "q": "Wat is een ionrooster?",
+   "a": "Een regelmatige rangschikking van positieve en negatieve ionen, waarbij elk ion omringd wordt door ionen met de tegengestelde lading"
+  },
+  {
+   "q": "Een zout bestaat uit geladen ionen. Waarom is een stuk zout als geheel toch neutraal?",
+   "a": "De totale positieve lading is even groot als de totale negatieve lading"
+  },
+  {
+   "q": "Waarom spreek je bij een zout van een verhoudingsformule en niet van een molecuulformule?",
+   "a": "Een zout bestaat niet uit moleculen. De formule geeft alleen de kleinste verhouding waarin de ionen voorkomen",
+   "e": "NaCl betekent dus: evenveel Na<sup>+</sup> als Cl<sup>-</sup>-ionen, geen los molecuul NaCl."
+  },
+  {
+   "q": "Waarom is een zoutkristal bros en breekt het als je er hard op slaat?",
+   "a": "Door een verschuiving komen gelijk geladen ionen naast elkaar te liggen; die stoten elkaar af en het kristal splijt"
+  },
+  {
+   "q": "Water smelt bij 0 °C, keukenzout pas bij ongeveer 800 °C. Verklaar dit verschil.",
+   "a": "In keukenzout trekken de ionen elkaar sterk aan (ionbinding), bij ijs zijn de bindingen tussen de moleculen zwak. Voor het smelten van zout is veel meer energie nodig"
+  },
+  {
+   "q": "Magnesiumoxide (Mg<sup>2+</sup> en O<sup>2-</sup>) smelt bij ongeveer 2850 °C, natriumchloride (Na<sup>+</sup> en Cl<sup>-</sup>) bij ongeveer 800 °C. Verklaar dit verschil.",
+   "a": "De ionen in magnesiumoxide hebben een grotere lading (2+ en 2-), dus de aantrekking is sterker en er is meer energie nodig om te smelten"
+  },
+  {
+   "q": "Wat gebeurt er met het ionrooster als een zout in water oplost?",
+   "a": "De watermoleculen trekken de ionen los uit het rooster en omringen ze; de ionen bewegen vrij in het water"
+  },
+  {
+   "q": "Welke twee soorten binding zitten er in vloeibaar water en waar zitten ze?",
+   "a": "Atoombindingen binnen de H<sub>2</sub>O-moleculen (sterk) en waterstofbruggen tussen de moleculen (zwakker)"
+  },
+  {
+   "q": "Waarom hebben moleculaire stoffen meestal een laag smelt- en kookpunt?",
+   "a": "Bij smelten en koken worden alleen de zwakke bindingen tussen de moleculen verbroken, niet de atoombindingen in de moleculen"
+  },
+  {
+   "q": "Een stof geleidt in vaste toestand elektrische stroom. Welke soort stof is het?",
+   "a": "Een metaal",
+   "e": "Van de drie soorten stoffen geleiden alleen metalen in vaste toestand stroom, door de vrije elektronen.",
+   "goed": [
+    "metaal",
+    "Een metaal"
+   ]
+  },
+  {
+   "q": "Een stof geleidt in vaste toestand geen stroom, maar gesmolten wel. Welke soort stof is het?",
+   "a": "Een zout",
+   "e": "In de smelt kunnen de ionen vrij bewegen.",
+   "goed": [
+    "zout",
+    "Een zout"
+   ]
+  },
+  {
+   "q": "Een stof geleidt noch vast noch vloeibaar stroom. Welke soort stof is het meestal?",
+   "a": "Een moleculaire stof",
+   "e": "Er zijn geen vrije elektronen of ionen.",
+   "goed": [
+    "moleculaire stof",
+    "Een moleculaire stof"
+   ]
+  },
+  {
+   "q": "Een metaal en een gesmolten zout geleiden allebei stroom. Wat is het verschil in de deeltjes die de lading vervoeren?",
+   "a": "In een metaal vervoeren vrije elektronen de lading, in een gesmolten zout de bewegende ionen"
+  },
+  {
+   "q": "Je lost suiker op in water en je lost keukenzout op in water. Welke oplossing geleidt stroom en waarom?",
+   "a": "De keukenzoutoplossing, want daarin zitten vrije ionen. Suiker blijft als moleculen in het water zitten"
+  }
+ ]
+}

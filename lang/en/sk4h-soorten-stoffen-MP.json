@@ -1,0 +1,249 @@
+{
+ "title": "Types of substances and bonds - 123 school",
+ "heading": "Types of substances and bonds",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "Which bond holds the particles in a metal together?",
+   "answers": {
+    "a": "The van der Waals bond",
+    "b": "The hydrogen bond",
+    "c": "The metallic bond",
+    "d": "The ionic bond"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which particles move freely in a metal?",
+   "answers": {
+    "a": "Electrons",
+    "b": "Negative ions",
+    "c": "Molecules",
+    "d": "Positive metal ions"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why does copper conduct current even in the solid state?",
+   "answers": {
+    "a": "There are freely moving molecules",
+    "b": "There are freely moving negative ions",
+    "c": "There are freely moving electrons",
+    "d": "The covalent bonds let charge through"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which property is typical for a metal?",
+   "answers": {
+    "a": "It does not conduct current in the solid state",
+    "b": "It is malleable",
+    "c": "It dissolves well in water",
+    "d": "It is brittle"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why can you bend a copper wire without it breaking?",
+   "answers": {
+    "a": "The water molecules in the copper act as a lubricant",
+    "b": "The copper atoms share electrons and form molecules",
+    "c": "Ions with the same charge repel each other",
+    "d": "The layers of metal ions slide past each other and the free electrons keep them together"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is an alloy?",
+   "answers": {
+    "a": "A metal dissolved in water",
+    "b": "A mixture of a metal with other elements",
+    "c": "A molecule of two metal atoms",
+    "d": "A salt of two metals"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which of these elements is a metal? (use BINAS table 99)",
+   "answers": {
+    "a": "Zinc (Zn)",
+    "b": "Iodine (I)",
+    "c": "Phosphorus (P)",
+    "d": "Neon (Ne)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Between which two kinds of atoms does an ionic bond form?",
+   "answers": {
+    "a": "Chlorine and chlorine",
+    "b": "Sodium and chlorine",
+    "c": "Carbon and hydrogen",
+    "d": "Copper and zinc"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What happens to the electrons when sodium chloride forms from sodium and chlorine?",
+   "answers": {
+    "a": "Chlorine gives an electron to sodium",
+    "b": "The electrons become free and move through the lattice",
+    "c": "Sodium and chlorine share an electron pair",
+    "d": "Sodium gives an electron to chlorine"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why is a salt crystal brittle?",
+   "answers": {
+    "a": "After a shift ions with the same charge sit next to each other and repel each other",
+    "b": "The molecules are only weakly bound to each other",
+    "c": "The ions can slide freely past each other",
+    "d": "The free electrons disappear when it is hit"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does the formula NaCl mean for table salt?",
+   "answers": {
+    "a": "There are two Na<sup>+</sup> ions per Cl<sup>-</sup> ion",
+    "b": "There are molecules of one Na atom and one Cl atom",
+    "c": "There is one Cl<sup>-</sup> ion for each Na<sup>+</sup> ion",
+    "d": "Sodium and chlorine share an electron pair"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which kind of substance is MgCl<sub>2</sub>?",
+   "answers": {
+    "a": "A salt",
+    "b": "A metal",
+    "c": "A molecular substance",
+    "d": "An alloy"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which kind of substance is Fe?",
+   "answers": {
+    "a": "A molecular substance",
+    "b": "A metal",
+    "c": "A mixture of molecules",
+    "d": "A salt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which kind of substance is (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>?",
+   "answers": {
+    "a": "A molecular substance",
+    "b": "An alloy",
+    "c": "A salt",
+    "d": "A metal"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which statement about a salt is correct?",
+   "answers": {
+    "a": "It consists of ions and is neutral as a whole",
+    "b": "It consists of ions and is positive as a whole",
+    "c": "It consists of molecules and is neutral as a whole",
+    "d": "It consists of atoms and free electrons"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why does magnesium oxide (Mg<sup>2+</sup>, O<sup>2-</sup>) melt at a higher temperature than sodium chloride (Na<sup>+</sup>, Cl<sup>-</sup>)?",
+   "answers": {
+    "a": "The ions are smaller than molecules",
+    "b": "Magnesium oxide consists of molecules",
+    "c": "There are more free electrons",
+    "d": "The ions have a larger charge and attract each other more strongly"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which bond is broken when table salt melts?",
+   "answers": {
+    "a": "The covalent bond in the molecules",
+    "b": "The hydrogen bond between the molecules",
+    "c": "The ionic bond between the ions",
+    "d": "The metallic bond"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why do molecular substances usually have a low melting point?",
+   "answers": {
+    "a": "They have no bonds at all",
+    "b": "They consist of weak ions",
+    "c": "Only the weak bonds between the molecules are broken",
+    "d": "The covalent bonds in the molecules break first"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A substance conducts current as a solid and as a liquid and does not dissolve in water. Which kind of substance is it?",
+   "answers": {
+    "a": "A molecular substance",
+    "b": "A metal",
+    "c": "A salt",
+    "d": "A solution of a salt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A substance does not conduct current as a solid, but does when melted. Which kind of substance is it?",
+   "answers": {
+    "a": "A salt",
+    "b": "A metal",
+    "c": "A molecular substance",
+    "d": "An alloy"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which particles carry the charge in molten salt?",
+   "answers": {
+    "a": "Electrons",
+    "b": "Neutral atoms",
+    "c": "Molecules",
+    "d": "Ions"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which combination of kind of substance and typical bond is correct?",
+   "answers": {
+    "a": "Molecular substance: ionic bond",
+    "b": "Salt: van der Waals bond",
+    "c": "Salt: ionic bond",
+    "d": "Metal: hydrogen bond"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What happens when a salt dissolves in water?",
+   "answers": {
+    "a": "Water molecules pull the ions out of the lattice",
+    "b": "The ions are converted into molecules",
+    "c": "The electrons are shared with the water",
+    "d": "The salt melts because of the heat of the water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which solution does not conduct electric current?",
+   "answers": {
+    "a": "Potassium nitrate in water",
+    "b": "Sugar in water",
+    "c": "Table salt in water",
+    "d": "Calcium chloride in water"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

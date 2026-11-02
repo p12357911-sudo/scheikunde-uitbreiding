@@ -1,0 +1,157 @@
+{
+ "title": "Types of substances and bonds - 123 school",
+ "heading": "Types of substances and bonds",
+ "intro": [
+  "In chemistry you distinguish three kinds of substances, each with its own structure and its own typical bond. <b>Metals</b> consist of metal atoms: positive metal ions with free electrons between them (metallic bond). <b>Salts</b> consist of positive and negative ions (ionic bond). <b>Molecular substances</b> consist of uncharged molecules, which attract each other through the van der Waals bond (and through hydrogen bonds with -OH or -NH).",
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Which three kinds of substances do you distinguish by the particles they are made of?",
+   "a": "Metals, salts and molecular substances"
+  },
+  {
+   "q": "Which particles make up a metal, a salt and a molecular substance?",
+   "a": "Metal: metal atoms (positive metal ions with free electrons). Salt: positive and negative ions. Molecular substance: uncharged molecules"
+  },
+  {
+   "q": "Which typical bond goes with metals, with salts and with molecular substances (between the molecules)?",
+   "a": "Metals: metallic bond. Salts: ionic bond. Molecular substances: van der Waals bond (and hydrogen bonds with -OH or -NH)"
+  },
+  {
+   "q": "How can you tell from the formula which kind of substance it is?",
+   "a": "Only a metal: metal. A metal with a non-metal: salt. Only non-metals: molecular substance",
+   "e": "Exception: a salt with the ammonium ion (NH<sub>4</sub><sup>+</sup>) contains no metal but is still a salt."
+  },
+  {
+   "q": "To which kind of substance does each of these formulas belong: Cu, KBr, CH<sub>4</sub> and (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>?",
+   "a": "Cu: metal. KBr: salt. CH<sub>4</sub>: molecular substance. (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>: salt",
+   "e": "Ammonium (NH<sub>4</sub><sup>+</sup>) and sulfate (SO<sub>4</sub><sup>2-</sup>) are ions, so there are no molecules and it is a salt."
+  },
+  {
+   "q": "To which kind of substance does each of these formulas belong: Zn, CO<sub>2</sub>, Fe<sub>2</sub>O<sub>3</sub> and C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?",
+   "a": "Zn: metal. CO<sub>2</sub>: molecular substance. Fe<sub>2</sub>O<sub>3</sub>: salt (iron(III) oxide). C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>: molecular substance (glucose)"
+  },
+  {
+   "q": "Is strontium (Sr) a metal or a non-metal? (use BINAS table 99)",
+   "a": "A metal",
+   "e": "Sr is in group 2 (the alkaline earth metals), on the left of the periodic table.",
+   "goed": [
+    "metal",
+    "A metal"
+   ]
+  },
+  {
+   "q": "What holds the particles in a metal together? Explain.",
+   "a": "The metallic bond: the attraction between the positive metal ions and the freely moving electrons between them"
+  },
+  {
+   "q": "What is a metal lattice?",
+   "a": "A regular arrangement of positive metal ions with the free electrons moving between them",
+   "e": "The valence electrons no longer belong to one atom but move through the whole lattice."
+  },
+  {
+   "q": "Why does a metal conduct electric current even in the solid state?",
+   "a": "The free electrons can move through the lattice and carry charge with them"
+  },
+  {
+   "q": "Why do metals conduct heat well?",
+   "a": "The free electrons move quickly and carry kinetic energy from the hot part to the cold part"
+  },
+  {
+   "q": "Why can you bend or forge a metal without it breaking?",
+   "a": "The layers of metal ions can slide past each other; the free electrons keep the ions together, so the bond stays intact"
+  },
+  {
+   "q": "Name three properties that are typical for metals",
+   "a": "For example: conduct electricity, conduct heat, malleable, shiny, usually a high melting point",
+   "e": "If you got two of the three right, it counts as correct."
+  },
+  {
+   "q": "What is an alloy? Give an example.",
+   "a": "A mixture of a metal with other elements (often other metals), for example bronze (copper and tin) or brass (copper and zinc)",
+   "e": "Steel (iron with a little carbon) is also an alloy."
+  },
+  {
+   "q": "What happens to the electrons when a sodium atom and a chlorine atom form an ionic bond?",
+   "a": "Sodium gives one electron to chlorine: Na<sup>+</sup> and Cl<sup>-</sup> are formed",
+   "e": "Both ions now have a full outer shell (noble gas configuration)."
+  },
+  {
+   "q": "What is the difference between an ionic bond and an atomic (covalent) bond?",
+   "a": "Ionic bond: electrons are transferred and the ions attract each other. Covalent bond: atoms share electrons"
+  },
+  {
+   "q": "What is an ion lattice?",
+   "a": "A regular arrangement of positive and negative ions, in which each ion is surrounded by ions of the opposite charge"
+  },
+  {
+   "q": "A salt is made of charged ions. Why is a piece of salt neutral as a whole?",
+   "a": "The total positive charge is equal to the total negative charge"
+  },
+  {
+   "q": "Why do you call the formula of a salt a ratio formula and not a molecular formula?",
+   "a": "A salt does not consist of molecules. The formula only gives the smallest ratio in which the ions occur",
+   "e": "So NaCl means: as many Na<sup>+</sup> ions as Cl<sup>-</sup> ions, not a separate NaCl molecule."
+  },
+  {
+   "q": "Why is a salt crystal brittle and does it break if you hit it hard?",
+   "a": "A shift puts ions with the same charge next to each other; they repel each other and the crystal splits"
+  },
+  {
+   "q": "Water melts at 0 °C, table salt only at about 800 °C. Explain this difference.",
+   "a": "In table salt the ions attract each other strongly (ionic bond), in ice the bonds between the molecules are weak. Melting salt takes much more energy"
+  },
+  {
+   "q": "Magnesium oxide (Mg<sup>2+</sup> and O<sup>2-</sup>) melts at about 2850 °C, sodium chloride (Na<sup>+</sup> and Cl<sup>-</sup>) at about 800 °C. Explain this difference.",
+   "a": "The ions in magnesium oxide have a larger charge (2+ and 2-), so the attraction is stronger and more energy is needed to melt it"
+  },
+  {
+   "q": "What happens to the ion lattice when a salt dissolves in water?",
+   "a": "The water molecules pull the ions out of the lattice and surround them; the ions move freely in the water"
+  },
+  {
+   "q": "Which two kinds of bond are there in liquid water and where are they?",
+   "a": "Covalent bonds inside the H<sub>2</sub>O molecules (strong) and hydrogen bonds between the molecules (weaker)"
+  },
+  {
+   "q": "Why do molecular substances usually have a low melting and boiling point?",
+   "a": "When melting and boiling only the weak bonds between the molecules are broken, not the covalent bonds inside the molecules"
+  },
+  {
+   "q": "A substance conducts electric current in the solid state. Which kind of substance is it?",
+   "a": "A metal",
+   "e": "Of the three kinds of substances only metals conduct current in the solid state, because of the free electrons.",
+   "goed": [
+    "metal",
+    "A metal"
+   ]
+  },
+  {
+   "q": "A substance does not conduct current in the solid state, but does when melted. Which kind of substance is it?",
+   "a": "A salt",
+   "e": "In the melt the ions can move freely.",
+   "goed": [
+    "salt",
+    "A salt"
+   ]
+  },
+  {
+   "q": "A substance conducts current neither as a solid nor as a liquid. Which kind of substance is it usually?",
+   "a": "A molecular substance",
+   "e": "There are no free electrons or ions.",
+   "goed": [
+    "molecular substance",
+    "A molecular substance"
+   ]
+  },
+  {
+   "q": "A metal and a molten salt both conduct current. What is the difference in the particles that carry the charge?",
+   "a": "In a metal free electrons carry the charge, in a molten salt the moving ions do"
+  },
+  {
+   "q": "You dissolve sugar in water and you dissolve table salt in water. Which solution conducts current and why?",
+   "a": "The table salt solution, because it contains free ions. Sugar stays in the water as molecules"
+  }
+ ]
+}

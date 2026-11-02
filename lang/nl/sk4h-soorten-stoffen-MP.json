@@ -1,0 +1,249 @@
+{
+ "title": "Soorten stoffen en bindingen - 123 school",
+ "heading": "Soorten stoffen en bindingen",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Welke binding houdt de deeltjes in een metaal bij elkaar?",
+   "answers": {
+    "a": "De vanderwaalsbinding",
+    "b": "De waterstofbrug",
+    "c": "De metaalbinding",
+    "d": "De ionbinding"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke deeltjes bewegen vrij in een metaal?",
+   "answers": {
+    "a": "Elektronen",
+    "b": "Negatieve ionen",
+    "c": "Moleculen",
+    "d": "Positieve metaalionen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom geleidt koper ook in vaste toestand stroom?",
+   "answers": {
+    "a": "Er zijn vrij bewegende moleculen",
+    "b": "Er zijn vrij bewegende negatieve ionen",
+    "c": "Er zijn vrij bewegende elektronen",
+    "d": "De atoombindingen laten lading door"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke eigenschap is typisch voor een metaal?",
+   "answers": {
+    "a": "Het geleidt in vaste toestand geen stroom",
+    "b": "Het is vervormbaar",
+    "c": "Het lost goed op in water",
+    "d": "Het is bros"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom kun je een koperdraad buigen zonder dat het breekt?",
+   "answers": {
+    "a": "De watermoleculen in het koper werken als smeermiddel",
+    "b": "De koperatomen delen elektronen en vormen moleculen",
+    "c": "Gelijk geladen ionen stoten elkaar af",
+    "d": "De lagen metaalionen schuiven langs elkaar en de vrije elektronen houden ze bij elkaar"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een legering?",
+   "answers": {
+    "a": "Een metaal dat is opgelost in water",
+    "b": "Een mengsel van een metaal met andere elementen",
+    "c": "Een molecuul van twee metaalatomen",
+    "d": "Een zout van twee metalen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk van deze elementen is een metaal? (gebruik BINAS tabel 99)",
+   "answers": {
+    "a": "Zink (Zn)",
+    "b": "Jood (I)",
+    "c": "Fosfor (P)",
+    "d": "Neon (Ne)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Tussen welke twee atoomsoorten ontstaat een ionbinding?",
+   "answers": {
+    "a": "Chloor en chloor",
+    "b": "Natrium en chloor",
+    "c": "Koolstof en waterstof",
+    "d": "Koper en zink"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat gebeurt er met de elektronen bij het ontstaan van natriumchloride uit natrium en chloor?",
+   "answers": {
+    "a": "Chloor draagt een elektron over aan natrium",
+    "b": "De elektronen worden vrij en bewegen door het rooster",
+    "c": "Natrium en chloor delen een elektronenpaar",
+    "d": "Natrium draagt een elektron over aan chloor"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom is een zoutkristal bros?",
+   "answers": {
+    "a": "Bij een verschuiving komen gelijk geladen ionen naast elkaar en stoten elkaar af",
+    "b": "De moleculen zijn maar zwak aan elkaar gebonden",
+    "c": "De ionen kunnen vrij langs elkaar schuiven",
+    "d": "De vrije elektronen verdwijnen bij een klap"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent de formule NaCl voor keukenzout?",
+   "answers": {
+    "a": "Er zijn twee Na<sup>+</sup>-ionen per Cl<sup>-</sup>-ion",
+    "b": "Er bestaan moleculen van één Na-atoom en één Cl-atoom",
+    "c": "Op elk Na<sup>+</sup>-ion komt één Cl<sup>-</sup>-ion",
+    "d": "Natrium en chloor delen een elektronenpaar"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Tot welke soort stof hoort MgCl<sub>2</sub>?",
+   "answers": {
+    "a": "Een zout",
+    "b": "Een metaal",
+    "c": "Een moleculaire stof",
+    "d": "Een legering"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Tot welke soort stof hoort Fe?",
+   "answers": {
+    "a": "Een moleculaire stof",
+    "b": "Een metaal",
+    "c": "Een mengsel van moleculen",
+    "d": "Een zout"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Tot welke soort stof hoort (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>?",
+   "answers": {
+    "a": "Een moleculaire stof",
+    "b": "Een legering",
+    "c": "Een zout",
+    "d": "Een metaal"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke bewering over een zout klopt?",
+   "answers": {
+    "a": "Het bestaat uit ionen en is als geheel neutraal",
+    "b": "Het bestaat uit ionen en is als geheel positief",
+    "c": "Het bestaat uit moleculen en is als geheel neutraal",
+    "d": "Het bestaat uit atomen en vrije elektronen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom smelt magnesiumoxide (Mg<sup>2+</sup>, O<sup>2-</sup>) bij een hogere temperatuur dan natriumchloride (Na<sup>+</sup>, Cl<sup>-</sup>)?",
+   "answers": {
+    "a": "De ionen zijn kleiner dan moleculen",
+    "b": "Magnesiumoxide bestaat uit moleculen",
+    "c": "Er zijn meer vrije elektronen",
+    "d": "De ionen hebben een grotere lading en trekken elkaar sterker aan"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke binding wordt verbroken als keukenzout smelt?",
+   "answers": {
+    "a": "De atoombinding in de moleculen",
+    "b": "De waterstofbrug tussen de moleculen",
+    "c": "De ionbinding tussen de ionen",
+    "d": "De metaalbinding"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom hebben moleculaire stoffen meestal een laag smeltpunt?",
+   "answers": {
+    "a": "Ze hebben geen enkele binding",
+    "b": "Ze bestaan uit zwakke ionen",
+    "c": "Alleen de zwakke bindingen tussen de moleculen worden verbroken",
+    "d": "De atoombindingen in de moleculen breken eerst"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een stof geleidt vast en vloeibaar stroom en lost niet op in water. Welke soort stof is het?",
+   "answers": {
+    "a": "Een moleculaire stof",
+    "b": "Een metaal",
+    "c": "Een zout",
+    "d": "Een oplossing van een zout"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een stof geleidt vast geen stroom, maar gesmolten wel. Welke soort stof is het?",
+   "answers": {
+    "a": "Een zout",
+    "b": "Een metaal",
+    "c": "Een moleculaire stof",
+    "d": "Een legering"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke deeltjes vervoeren de lading in gesmolten zout?",
+   "answers": {
+    "a": "Elektronen",
+    "b": "Neutrale atomen",
+    "c": "Moleculen",
+    "d": "Ionen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke combinatie van soort stof en typische binding klopt?",
+   "answers": {
+    "a": "Moleculaire stof: ionbinding",
+    "b": "Zout: vanderwaalsbinding",
+    "c": "Zout: ionbinding",
+    "d": "Metaal: waterstofbrug"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat gebeurt er als een zout in water oplost?",
+   "answers": {
+    "a": "Watermoleculen trekken de ionen los uit het rooster",
+    "b": "De ionen worden omgezet in moleculen",
+    "c": "De elektronen worden gedeeld met het water",
+    "d": "Het zout smelt door de warmte van het water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke oplossing geleidt geen elektrische stroom?",
+   "answers": {
+    "a": "Kaliumnitraat in water",
+    "b": "Suiker in water",
+    "c": "Keukenzout in water",
+    "d": "Calciumchloride in water"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}
