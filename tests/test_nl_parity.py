@@ -93,6 +93,7 @@ def main():
     with sync_playwright() as p:
         b = browser(p); new = serve(ROOT); old = serve(ORIG)
         for pg in paginas:
+            if not os.path.exists(os.path.join(ORIG, pg + '.html')): print('NIEUW (geen handgeschreven basislijn, overgeslagen)', pg); continue
             soort = 'index' if pg == 'index' else ('puzzel' if pg.startswith('puzzel') else man[pg]['soort'])
             js = {'kb': JS_KB, 'mp': JS_MP, 'index': JS_INDEX, 'puzzel': JS_PUZ}[soort]
             res = []; foutjs = []
@@ -113,6 +114,9 @@ def main():
                 a['links'] = [l.replace('Kennis Basis vragen (KB)|http://www.shorturl.at/kCJK7', 'Vraag-antwoord (KB)|' + _KB).replace('Multiple choice (MP)|http://www.shorturl.at/sFNSX', 'Meerkeuze (MP)|' + _MP) for l in a['links']]
                 a['sec'] = {k: v.replace('Kies hier het type vraag Kennis Basis vragen (KB) Multiple choice (MP)', 'Vraag-antwoord (KB) Meerkeuze (MP)').replace('en volg de link', 'en klik op de knop').replace('vraag-antwoord en multiple choice', 'vraag-antwoord en meerkeuze') for k, v in a['sec'].items()}
                 a['links'] = [l.replace('http://www.shorturl.at/motR0', 'https://docs.google.com/forms/d/e/1FAIpQLSd4PXOavgX6V543qbkOmy8MxyS5pHjNA50CFyZFEqMx6oQZjw/viewform') for l in a['links']]   # bewust: Klimaatcrisis-link naar het Google Form Klimaatverandering (NL)
+                # bewust (uitbreidingssite): extra menu-item 'Soorten stoffen' en de Proefversie-tekst
+                c['links'] = [l for l in c['links'] if 'sk4h-soorten-stoffen' not in l]
+                c['sec'] = {k: v.replace(' Soorten stoffen', '', 1).replace('Proefversie scheikunde-uitbreiding', 'Proefversie') for k, v in c['sec'].items()}
                 a['sec'].pop('contact'); cc = c['sec'].pop('contact')
                 a['links'] = [l for l in a['links'] if 'mailto:' not in l and l != 'Stuur ons een bericht|#contact']
                 c_links = [l for l in c['links'] if l != 'Stuur een bericht|'+FORM]
