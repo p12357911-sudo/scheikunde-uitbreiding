@@ -7,6 +7,106 @@
  ],
  "questions": [
   {
+   "q": "How many significant figures does 2.30 have?",
+   "a": "3",
+   "e": "2, 3 and the 0 after the decimal point count: 3 figures."
+  },
+  {
+   "q": "How many significant figures does 4.59 have?",
+   "a": "3",
+   "e": "All digits other than 0 count: 4, 5 and 9."
+  },
+  {
+   "q": "How many significant figures does 6.54 have?",
+   "a": "3",
+   "e": "All digits other than 0 count: 6, 5 and 4."
+  },
+  {
+   "q": "How many significant figures does 12.8 have?",
+   "a": "3",
+   "e": "1, 2 and 8 count: 3 figures."
+  },
+  {
+   "q": "How many significant figures does 5.0 have?",
+   "a": "2",
+   "e": "A 0 after the decimal point counts: 5 and 0."
+  },
+  {
+   "q": "How many significant figures does 3.40 have?",
+   "a": "3",
+   "e": "The final 0 after the decimal point counts."
+  },
+  {
+   "q": "How many significant figures does 1.500 have?",
+   "a": "4",
+   "e": "Trailing zeros after the decimal point count: 1, 5, 0, 0."
+  },
+  {
+   "q": "How many significant figures does 7.05 have?",
+   "a": "3",
+   "e": "A 0 between other digits always counts."
+  },
+  {
+   "q": "How many significant figures does 0.0045 have?",
+   "a": "2",
+   "e": "Zeros before the first non-zero digit do not count: only 4 and 5."
+  },
+  {
+   "q": "How many significant figures does 0.25 have?",
+   "a": "2",
+   "e": "The leading 0 does not count: only 2 and 5."
+  },
+  {
+   "q": "Round 3.467 to 3 significant figures.",
+   "a": "3.47",
+   "e": "The 4th figure is 7 (5 or more), so round up: 3.47."
+  },
+  {
+   "q": "Round 2.541 to 2 significant figures.",
+   "a": "2.5",
+   "e": "The 3rd figure is 4 (less than 5), so round down: 2.5."
+  },
+  {
+   "q": "Round 8.76 to 2 significant figures.",
+   "a": "8.8",
+   "e": "The 3rd figure is 6, so round up: 8.8."
+  },
+  {
+   "q": "Round 15.43 to 3 significant figures.",
+   "a": "15.4",
+   "e": "The 4th figure is 3, so round down: 15.4."
+  },
+  {
+   "q": "Round 1.2345 to 3 significant figures.",
+   "a": "1.23",
+   "e": "The 4th figure is 4, so round down: 1.23."
+  },
+  {
+   "q": "Round 0.04562 to 2 significant figures.",
+   "a": "0.046",
+   "e": "Leading zeros do not count; 4 and 5, and the next figure 6 rounds up: 0.046."
+  },
+  {
+   "q": "Calculate 2.0 × 3.15. Give the answer to the correct number of significant figures.",
+   "a": "6.3",
+   "e": "2.0 × 3.15 = 6.30; 2.0 has 2 significant figures, so 6.3."
+  },
+  {
+   "q": "Calculate 4.50 × 2.00. Give the answer to the correct number of significant figures.",
+   "a": "9.00",
+   "e": "Both numbers have 3 significant figures, so 9.00."
+  },
+  {
+   "q": "Calculate 9.6 ÷ 3.0. Give the answer to the correct number of significant figures.",
+   "a": "3.2",
+   "e": "Both numbers have 2 significant figures, so 3.2."
+  },
+  {
+   "q": "Calculate 6.24 ÷ 2.0. Give the answer to the correct number of significant figures.",
+   "a": "3.1",
+   "e": "6.24 ÷ 2.0 = 3.12; 2.0 has 2 significant figures, so 3.1."
+  },
+  {
    "q": "How many significant figures does 0.0480 have?",
    "a": "3"
   },

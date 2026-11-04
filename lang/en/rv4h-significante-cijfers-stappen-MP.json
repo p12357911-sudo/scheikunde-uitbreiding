@@ -6,6 +6,206 @@
  ],
  "questions": [
   {
+   "question": "How many significant figures does 2.30 have?",
+   "answers": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many significant figures does 4.59 have?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "1",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many significant figures does 6.54 have?",
+   "answers": {
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "1"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many significant figures does 12.8 have?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many significant figures does 5.0 have?",
+   "answers": {
+    "a": "1",
+    "b": "3",
+    "c": "2",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many significant figures does 3.40 have?",
+   "answers": {
+    "a": "1",
+    "b": "3",
+    "c": "2",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many significant figures does 1.500 have?",
+   "answers": {
+    "a": "1",
+    "b": "3",
+    "c": "4",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How many significant figures does 7.05 have?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many significant figures does 0.0045 have?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many significant figures does 0.25 have?",
+   "answers": {
+    "a": "4",
+    "b": "2",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Round 3.467 to 3 significant figures.",
+   "answers": {
+    "a": "3.47",
+    "b": "3.5",
+    "c": "3.46",
+    "d": "3.467"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Round 2.541 to 2 significant figures.",
+   "answers": {
+    "a": "3",
+    "b": "2.6",
+    "c": "2.54",
+    "d": "2.5"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Round 8.76 to 2 significant figures.",
+   "answers": {
+    "a": "8.76",
+    "b": "8.8",
+    "c": "8.7",
+    "d": "9"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Round 15.43 to 3 significant figures.",
+   "answers": {
+    "a": "15.4",
+    "b": "15.5",
+    "c": "15",
+    "d": "15.43"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Round 1.2345 to 3 significant figures.",
+   "answers": {
+    "a": "1.2",
+    "b": "1.24",
+    "c": "1.234",
+    "d": "1.23"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Round 0.04562 to 2 significant figures.",
+   "answers": {
+    "a": "0.0456",
+    "b": "0.045",
+    "c": "0.05",
+    "d": "0.046"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate 2.0 × 3.15. Give the answer to the correct number of significant figures.",
+   "answers": {
+    "a": "6.315",
+    "b": "6.30",
+    "c": "6.3",
+    "d": "6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate 4.50 × 2.00. Give the answer to the correct number of significant figures.",
+   "answers": {
+    "a": "9.0",
+    "b": "9",
+    "c": "9.00",
+    "d": "9.000"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate 9.6 ÷ 3.0. Give the answer to the correct number of significant figures.",
+   "answers": {
+    "a": "3.2",
+    "b": "3",
+    "c": "3.20",
+    "d": "3.200"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate 6.24 ÷ 2.0. Give the answer to the correct number of significant figures.",
+   "answers": {
+    "a": "3.1",
+    "b": "3.12",
+    "c": "3",
+    "d": "3.120"
+   },
+   "correctAnswer": "a"
+  },
+  {
    "question": "How many significant figures does 0.0480 have?",
    "answers": {
     "a": "4",

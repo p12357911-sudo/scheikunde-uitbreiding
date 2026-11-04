@@ -6,6 +6,206 @@
  ],
  "questions": [
   {
+   "question": "Hoeveel significante cijfers heeft 2,30?",
+   "answers": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 4,59?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "1",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 6,54?",
+   "answers": {
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "1"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 12,8?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 5,0?",
+   "answers": {
+    "a": "1",
+    "b": "3",
+    "c": "2",
+    "d": "4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 3,40?",
+   "answers": {
+    "a": "1",
+    "b": "3",
+    "c": "2",
+    "d": "4"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 1,500?",
+   "answers": {
+    "a": "1",
+    "b": "3",
+    "c": "4",
+    "d": "2"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 7,05?",
+   "answers": {
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "3"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 0,0045?",
+   "answers": {
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel significante cijfers heeft 0,25?",
+   "answers": {
+    "a": "4",
+    "b": "2",
+    "c": "1",
+    "d": "3"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Rond 3,467 af op 3 significante cijfers.",
+   "answers": {
+    "a": "3,47",
+    "b": "3,5",
+    "c": "3,46",
+    "d": "3,467"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Rond 2,541 af op 2 significante cijfers.",
+   "answers": {
+    "a": "3",
+    "b": "2,6",
+    "c": "2,54",
+    "d": "2,5"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Rond 8,76 af op 2 significante cijfers.",
+   "answers": {
+    "a": "8,76",
+    "b": "8,8",
+    "c": "8,7",
+    "d": "9"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Rond 15,43 af op 3 significante cijfers.",
+   "answers": {
+    "a": "15,4",
+    "b": "15,5",
+    "c": "15",
+    "d": "15,43"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Rond 1,2345 af op 3 significante cijfers.",
+   "answers": {
+    "a": "1,2",
+    "b": "1,24",
+    "c": "1,234",
+    "d": "1,23"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Rond 0,04562 af op 2 significante cijfers.",
+   "answers": {
+    "a": "0,0456",
+    "b": "0,045",
+    "c": "0,05",
+    "d": "0,046"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken 2,0 × 3,15. Geef het antwoord met het juiste aantal significante cijfers.",
+   "answers": {
+    "a": "6,315",
+    "b": "6,30",
+    "c": "6,3",
+    "d": "6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken 4,50 × 2,00. Geef het antwoord met het juiste aantal significante cijfers.",
+   "answers": {
+    "a": "9,0",
+    "b": "9",
+    "c": "9,00",
+    "d": "9,000"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken 9,6 : 3,0. Geef het antwoord met het juiste aantal significante cijfers.",
+   "answers": {
+    "a": "3,2",
+    "b": "3",
+    "c": "3,20",
+    "d": "3,200"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bereken 6,24 : 2,0. Geef het antwoord met het juiste aantal significante cijfers.",
+   "answers": {
+    "a": "3,1",
+    "b": "3,12",
+    "c": "3",
+    "d": "3,120"
+   },
+   "correctAnswer": "a"
+  },
+  {
    "question": "Hoeveel significante cijfers heeft 0,0480?",
    "answers": {
     "a": "4",

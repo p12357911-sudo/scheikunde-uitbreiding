@@ -7,6 +7,106 @@
  ],
  "questions": [
   {
+   "q": "Hoeveel significante cijfers heeft 2,30?",
+   "a": "3",
+   "e": "2, 3 en de 0 achter de komma tellen mee: 3 cijfers."
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 4,59?",
+   "a": "3",
+   "e": "Alle cijfers die geen 0 zijn tellen mee: 4, 5 en 9."
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 6,54?",
+   "a": "3",
+   "e": "Alle cijfers die geen 0 zijn tellen mee: 6, 5 en 4."
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 12,8?",
+   "a": "3",
+   "e": "1, 2 en 8 tellen mee: 3 cijfers."
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 5,0?",
+   "a": "2",
+   "e": "Een 0 achter de komma telt mee: 5 en 0."
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 3,40?",
+   "a": "3",
+   "e": "De 0 aan het eind, achter de komma, telt mee."
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 1,500?",
+   "a": "4",
+   "e": "Nullen aan het eind achter de komma tellen mee: 1, 5, 0, 0."
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 7,05?",
+   "a": "3",
+   "e": "Een 0 tussen andere cijfers telt altijd mee."
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 0,0045?",
+   "a": "2",
+   "e": "Nullen vóór het eerste cijfer tellen niet mee: alleen 4 en 5."
+  },
+  {
+   "q": "Hoeveel significante cijfers heeft 0,25?",
+   "a": "2",
+   "e": "De 0 vooraan telt niet mee: alleen 2 en 5."
+  },
+  {
+   "q": "Rond 3,467 af op 3 significante cijfers.",
+   "a": "3,47",
+   "e": "Het 4e cijfer is 7 (5 of meer), dus naar boven: 3,47."
+  },
+  {
+   "q": "Rond 2,541 af op 2 significante cijfers.",
+   "a": "2,5",
+   "e": "Het 3e cijfer is 4 (minder dan 5), dus naar beneden: 2,5."
+  },
+  {
+   "q": "Rond 8,76 af op 2 significante cijfers.",
+   "a": "8,8",
+   "e": "Het 3e cijfer is 6, dus naar boven: 8,8."
+  },
+  {
+   "q": "Rond 15,43 af op 3 significante cijfers.",
+   "a": "15,4",
+   "e": "Het 4e cijfer is 3, dus naar beneden: 15,4."
+  },
+  {
+   "q": "Rond 1,2345 af op 3 significante cijfers.",
+   "a": "1,23",
+   "e": "Het 4e cijfer is 4, dus naar beneden: 1,23."
+  },
+  {
+   "q": "Rond 0,04562 af op 2 significante cijfers.",
+   "a": "0,046",
+   "e": "De nullen vooraan tellen niet; 4 en 5, en het volgende cijfer 6 rondt naar boven: 0,046."
+  },
+  {
+   "q": "Bereken 2,0 × 3,15. Geef het antwoord met het juiste aantal significante cijfers.",
+   "a": "6,3",
+   "e": "2,0 × 3,15 = 6,30; 2,0 heeft 2 significante cijfers, dus 6,3."
+  },
+  {
+   "q": "Bereken 4,50 × 2,00. Geef het antwoord met het juiste aantal significante cijfers.",
+   "a": "9,00",
+   "e": "Beide getallen hebben 3 significante cijfers, dus 9,00."
+  },
+  {
+   "q": "Bereken 9,6 : 3,0. Geef het antwoord met het juiste aantal significante cijfers.",
+   "a": "3,2",
+   "e": "Beide getallen hebben 2 significante cijfers, dus 3,2."
+  },
+  {
+   "q": "Bereken 6,24 : 2,0. Geef het antwoord met het juiste aantal significante cijfers.",
+   "a": "3,1",
+   "e": "6,24 : 2,0 = 3,12; 2,0 heeft 2 significante cijfers, dus 3,1."
+  },
+  {
    "q": "Hoeveel significante cijfers heeft 0,0480?",
    "a": "3"
   },
