@@ -55,7 +55,7 @@
   },
   {
    "q": "What is K<sub>z</sub> of acetic acid? (use BINAS table 49)",
-   "a": "1.8·10<sup>–5</sup>"
+   "a": "1.7·10<sup>–5</sup>"
   },
   {
    "q": "What is K<sub>b</sub> of ammonia? (use BINAS table 49)",
@@ -63,7 +63,7 @@
   },
   {
    "q": "Use K<sub>z</sub> of acetic acid (BINAS table 49) to calculate the pH of 0.10 mol/L acetic acid",
-   "a": "2.87"
+   "a": "2.88"
   },
   {
    "q": "Use K<sub>b</sub> of ammonia (BINAS table 49) to calculate the pH of 0.10 mol/L ammonia",
@@ -71,7 +71,7 @@
   },
   {
    "q": "Calculate K<sub>b</sub> of the acetate ion using K<sub>z</sub> of acetic acid from BINAS table 49",
-   "a": "5.6·10<sup>–10</sup>"
+   "a": "5.9·10<sup>–10</sup>"
   },
   {
    "q": "What is E<sup>0</sup> of the half-reaction Cu<sup>2+</sup> + 2 e<sup>–</sup> ⇌ Cu? (use BINAS table 48)",

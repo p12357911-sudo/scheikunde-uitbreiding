@@ -130,7 +130,7 @@
    "answers": {
     "a": "1,0·10<sup>–7</sup>",
     "b": "5,6·10<sup>–10</sup>",
-    "c": "1,8·10<sup>–5</sup>",
+    "c": "1,7·10<sup>–5</sup>",
     "d": "1,8·10<sup>–10</sup>"
    },
    "correctAnswer": "c"
@@ -149,7 +149,7 @@
    "question": "Bereken met K<sub>z</sub> van azijnzuur (BINAS tabel 49) de pH van 0,10 mol/L azijnzuur",
    "answers": {
     "a": "4,74",
-    "b": "2,87",
+    "b": "2,88",
     "c": "5,74",
     "d": "1,00"
    },
@@ -168,10 +168,10 @@
   {
    "question": "Bereken K<sub>b</sub> van het acetaat-ion met K<sub>z</sub> van azijnzuur uit BINAS tabel 49",
    "answers": {
-    "a": "5,6·10<sup>–5</sup>",
+    "a": "5,9·10<sup>–5</sup>",
     "b": "1,8·10<sup>–5</sup>",
-    "c": "5,6·10<sup>–10</sup>",
-    "d": "1,8·10<sup>–19</sup>"
+    "c": "5,9·10<sup>–10</sup>",
+    "d": "1,7·10<sup>–19</sup>"
    },
    "correctAnswer": "c"
   },

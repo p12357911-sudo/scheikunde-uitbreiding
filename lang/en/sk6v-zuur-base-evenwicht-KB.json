@@ -62,8 +62,8 @@
    "a": "[H<sub>3</sub>O<sup>+</sup>] = √(1.0·10<sup>–5</sup> × 0.10) = 1.0·10<sup>–3</sup> mol/L, so pH = 3.00"
   },
   {
-   "q": "Calculate the pH of 0.10 mol/L acetic acid. Take K<sub>z</sub> = 1.8·10<sup>–5</sup>",
-   "a": "[H<sub>3</sub>O<sup>+</sup>] = √(1.8·10<sup>–5</sup> × 0.10) = 1.3·10<sup>–3</sup> mol/L, so pH = 2.87"
+   "q": "Calculate the pH of 0.10 mol/L acetic acid. Take K<sub>z</sub> = 1.7·10<sup>–5</sup>",
+   "a": "[H<sub>3</sub>O<sup>+</sup>] = √(1.7·10<sup>–5</sup> × 0.10) = 1.3·10<sup>–3</sup> mol/L, so pH = 2.88"
   },
   {
    "q": "A weak acid has K<sub>z</sub> = 1.0·10<sup>–5</sup>. The solution has pH = 3.00. Calculate the initial concentration of the acid",
@@ -118,8 +118,8 @@
    "a": "When so much acid or base has been added that one of the two components of the buffer is used up"
   },
   {
-   "q": "Acetic acid (K<sub>z</sub> = 1.8·10<sup>–5</sup>) reacts with ammonia (NH<sub>4</sub><sup>+</sup> has K<sub>z</sub> = 5.6·10<sup>–10</sup>). Does this equilibrium lie to the left or to the right?",
-   "a": "K = K<sub>z</sub>(acetic acid) / K<sub>z</sub>(NH<sub>4</sub><sup>+</sup>) = 1.8·10<sup>–5</sup> / 5.6·10<sup>–10</sup> = 3.2·10<sup>4</sup>. K is large, so the equilibrium lies far to the right"
+   "q": "Acetic acid (K<sub>z</sub> = 1.7·10<sup>–5</sup>) reacts with ammonia (NH<sub>4</sub><sup>+</sup> has K<sub>z</sub> = 5.6·10<sup>–10</sup>). Does this equilibrium lie to the left or to the right?",
+   "a": "K = K<sub>z</sub>(acetic acid) / K<sub>z</sub>(NH<sub>4</sub><sup>+</sup>) = 1.7·10<sup>–5</sup> / 5.6·10<sup>–10</sup> = 3.0·10<sup>4</sup>. K is large, so the equilibrium lies far to the right"
   },
   {
    "q": "What is the pH at the equivalence point when you titrate acetic acid with NaOH: lower than, equal to or higher than 7?",

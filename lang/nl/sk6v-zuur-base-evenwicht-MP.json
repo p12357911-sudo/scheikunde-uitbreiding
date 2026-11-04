@@ -116,11 +116,11 @@
    "correctAnswer": "a"
   },
   {
-   "question": "Wat is de pH van 0,10 mol/L azijnzuur (K<sub>z</sub> = 1,8·10<sup>–5</sup>)?",
+   "question": "Wat is de pH van 0,10 mol/L azijnzuur (K<sub>z</sub> = 1,7·10<sup>–5</sup>)?",
    "answers": {
     "a": "4,74",
     "b": "1,00",
-    "c": "2,87",
+    "c": "2,88",
     "d": "5,74"
    },
    "correctAnswer": "c"
@@ -246,7 +246,7 @@
    "correctAnswer": "c"
   },
   {
-   "question": "Azijnzuur (K<sub>z</sub> = 1,8·10<sup>–5</sup>) reageert met NH<sub>3</sub> (NH<sub>4</sub><sup>+</sup> heeft K<sub>z</sub> = 5,6·10<sup>–10</sup>). Wat is waar?",
+   "question": "Azijnzuur (K<sub>z</sub> = 1,7·10<sup>–5</sup>) reageert met NH<sub>3</sub> (NH<sub>4</sub><sup>+</sup> heeft K<sub>z</sub> = 5,6·10<sup>–10</sup>). Wat is waar?",
    "answers": {
     "a": "het evenwicht ligt ver naar rechts",
     "b": "het evenwicht ligt ver naar links",

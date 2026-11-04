@@ -55,7 +55,7 @@
   },
   {
    "q": "Wat is K<sub>z</sub> van azijnzuur? (gebruik BINAS tabel 49)",
-   "a": "1,8·10<sup>–5</sup>"
+   "a": "1,7·10<sup>–5</sup>"
   },
   {
    "q": "Wat is K<sub>b</sub> van ammoniak? (gebruik BINAS tabel 49)",
@@ -63,7 +63,7 @@
   },
   {
    "q": "Bereken met K<sub>z</sub> van azijnzuur (BINAS tabel 49) de pH van 0,10 mol/L azijnzuur",
-   "a": "2,87"
+   "a": "2,88"
   },
   {
    "q": "Bereken met K<sub>b</sub> van ammoniak (BINAS tabel 49) de pH van 0,10 mol/L ammoniak",
@@ -71,7 +71,7 @@
   },
   {
    "q": "Bereken K<sub>b</sub> van het acetaat-ion met K<sub>z</sub> van azijnzuur uit BINAS tabel 49",
-   "a": "5,6·10<sup>–10</sup>"
+   "a": "5,9·10<sup>–10</sup>"
   },
   {
    "q": "Wat is E<sup>0</sup> van de halfreactie Cu<sup>2+</sup> + 2 e<sup>–</sup> ⇌ Cu? (gebruik BINAS tabel 48)",

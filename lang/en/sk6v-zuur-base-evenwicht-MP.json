@@ -116,11 +116,11 @@
    "correctAnswer": "a"
   },
   {
-   "question": "What is the pH of 0.10 mol/L acetic acid (K<sub>z</sub> = 1.8·10<sup>–5</sup>)?",
+   "question": "What is the pH of 0.10 mol/L acetic acid (K<sub>z</sub> = 1.7·10<sup>–5</sup>)?",
    "answers": {
     "a": "4.74",
     "b": "1.00",
-    "c": "2.87",
+    "c": "2.88",
     "d": "5.74"
    },
    "correctAnswer": "c"
@@ -246,7 +246,7 @@
    "correctAnswer": "c"
   },
   {
-   "question": "Acetic acid (K<sub>z</sub> = 1.8·10<sup>–5</sup>) reacts with NH<sub>3</sub> (NH<sub>4</sub><sup>+</sup> has K<sub>z</sub> = 5.6·10<sup>–10</sup>). What is true?",
+   "question": "Acetic acid (K<sub>z</sub> = 1.7·10<sup>–5</sup>) reacts with NH<sub>3</sub> (NH<sub>4</sub><sup>+</sup> has K<sub>z</sub> = 5.6·10<sup>–10</sup>). What is true?",
    "answers": {
     "a": "the equilibrium lies far to the right",
     "b": "the equilibrium lies far to the left",
