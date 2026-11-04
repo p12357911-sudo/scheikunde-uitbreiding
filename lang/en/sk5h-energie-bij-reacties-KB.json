@@ -79,8 +79,8 @@
    "a": "n = 10/16.04 = 0.62 mol; heat = 0.62 × 8.90·10<sup>5</sup> J = 5.5·10<sup>5</sup> J"
   },
   {
-   "q": "How much heat is released when 23.0 g of ethanol burns? (M = 46.07 g/mol; BINAS table 56)",
-   "a": "n = 0.499 mol; heat = 0.499 × 13.66·10<sup>5</sup> J = 6.82·10<sup>5</sup> J"
+   "q": "Calculate the reaction heat of CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O(l) using formation heats (BINAS table 57A; for CH<sub>4</sub>(g) the value is –0.75·10<sup>5</sup> J/mol, table 57B)",
+   "a": "(–3.935 + 2 × (–2.86)) – (–0.75) = –8.905·10<sup>5</sup> J; this agrees with the heat of combustion of methane in table 56"
   },
   {
    "q": "What is activation energy?",
@@ -125,6 +125,10 @@
   {
    "q": "How much heat is needed to warm 250 g of water by 10 K? (c = 4.18 J/(g·K))",
    "a": "Q = m·c·ΔT = 250 × 4.18 × 10 = 1.0·10<sup>4</sup> J"
+  },
+  {
+   "q": "Calculate the reaction heat of 2 ZnS + 3 O<sub>2</sub> → 2 ZnO + 2 SO<sub>2</sub> (BINAS table 57A; ZnS is sphalerite)",
+   "a": "2 × (–3.51) + 2 × (–2.97) – 2 × (–2.06) = –8.84·10<sup>5</sup> J; exothermic"
   }
  ]
 }

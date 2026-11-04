@@ -196,14 +196,14 @@
    "correctAnswer": "d"
   },
   {
-   "question": "For 2.0 kg of product 10 kg of waste is formed. What is the E-factor?",
+   "question": "From 40.0 g of starting materials 15.7 g of the desired product is formed; the rest is waste. What is the E-factor?",
    "answers": {
-    "a": "12",
-    "b": "5.0",
-    "c": "20",
-    "d": "0.20"
+    "a": "1.55",
+    "b": "2.55",
+    "c": "0.65",
+    "d": "0.39"
    },
-   "correctAnswer": "b"
+   "correctAnswer": "a"
   },
   {
    "question": "Which BINAS table contains the principles of green chemistry?",
@@ -244,6 +244,16 @@
     "d": "the yield can never be lower than the atom economy"
    },
    "correctAnswer": "a"
+  },
+  {
+   "question": "In a factory starting materials continuously enter the reactor and product continuously leaves it. What is such a process called?",
+   "answers": {
+    "a": "a batch process",
+    "b": "a continuous process",
+    "c": "a process with an excess",
+    "d": "a process without a catalyst"
+   },
+   "correctAnswer": "b"
   },
   {
    "question": "What is a substance in excess?",

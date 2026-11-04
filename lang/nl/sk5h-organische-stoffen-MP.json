@@ -304,6 +304,16 @@
     "d": "koolstof en waterstof"
    },
    "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof heeft een cis- en een trans-vorm?",
+   "answers": {
+    "a": "but-1-een",
+    "b": "propeen",
+    "c": "but-2-een",
+    "d": "eteen"
+   },
+   "correctAnswer": "c"
   }
  ]
 }

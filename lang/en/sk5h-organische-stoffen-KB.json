@@ -125,6 +125,10 @@
   {
    "q": "Give the equation for the complete combustion of methane",
    "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "Which substance has a cis and a trans form: but-1-ene or but-2-ene? Explain",
+   "a": "But-2-ene: each C atom of the double bond carries two different groups (H and CH<sub>3</sub>). In but-1-ene one C atom of the double bond carries two H atoms"
   }
  ]
 }

@@ -95,8 +95,8 @@
    "a": "20 / 5.0 = 4.0"
   },
   {
-   "q": "For 2.0 kg of product 10 kg of waste is formed. Calculate the E-factor",
-   "a": "10 / 2.0 = 5.0"
+   "q": "From 40.0 g of starting materials 15.7 g of the desired product is formed; the rest is waste. Calculate the E-factor",
+   "a": "(40.0 – 15.7) / 15.7 = 1.55"
   },
   {
    "q": "Name three principles of green chemistry",
@@ -109,6 +109,10 @@
   {
    "q": "Why is a catalyst good for green chemistry?",
    "a": "A catalyst makes reactions possible at a lower temperature (less energy) and is not used up"
+  },
+  {
+   "q": "What is the difference between a batch process and a continuous process?",
+   "a": "In a batch process you make one portion of product at a time (fill, react, empty); in a continuous process starting materials are fed in all the time and product comes out all the time"
   },
   {
    "q": "Why is a closed cycle (reusing substances) good for green chemistry?",

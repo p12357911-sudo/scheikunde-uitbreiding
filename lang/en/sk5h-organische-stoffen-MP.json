@@ -304,6 +304,16 @@
     "d": "carbon and hydrogen"
    },
    "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance has a cis and a trans form?",
+   "answers": {
+    "a": "but-1-ene",
+    "b": "propene",
+    "c": "but-2-ene",
+    "d": "ethene"
+   },
+   "correctAnswer": "c"
   }
  ]
 }

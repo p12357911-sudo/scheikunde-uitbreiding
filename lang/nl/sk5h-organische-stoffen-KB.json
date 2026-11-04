@@ -125,6 +125,10 @@
   {
    "q": "Geef de reactievergelijking van de volledige verbranding van methaan",
    "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O"
+  },
+  {
+   "q": "Welke stof heeft een cis- en een trans-vorm: but-1-een of but-2-een? Leg uit",
+   "a": "But-2-een: aan elk C-atoom van de dubbele binding zitten twee verschillende groepen (H en CH<sub>3</sub>). Bij but-1-een zitten aan één C-atoom van de dubbele binding twee H-atomen"
   }
  ]
 }

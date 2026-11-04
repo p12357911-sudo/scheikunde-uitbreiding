@@ -176,12 +176,12 @@
    "correctAnswer": "c"
   },
   {
-   "question": "Hoeveel warmte komt vrij bij de verbranding van 2,0 mol propaan? (Binas tabel 56)",
+   "question": "Bereken de reactiewarmte van CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O(l). Gebruik Binas tabel 57A en voor CH<sub>4</sub>(g) –0,75·10<sup>5</sup> J/mol (tabel 57B)",
    "answers": {
-    "a": "4,4·10<sup>5</sup> J",
-    "b": "2,2·10<sup>6</sup> J",
-    "c": "4,4·10<sup>6</sup> J",
-    "d": "8,9·10<sup>5</sup> J"
+    "a": "–10,41·10<sup>5</sup> J",
+    "b": "–6,05·10<sup>5</sup> J",
+    "c": "–8,905·10<sup>5</sup> J",
+    "d": "+8,905·10<sup>5</sup> J"
    },
    "correctAnswer": "c"
   },
@@ -284,6 +284,16 @@
     "d": "10,4 J"
    },
    "correctAnswer": "b"
+  },
+  {
+   "question": "Bereken de reactiewarmte van 2 ZnS + 3 O<sub>2</sub> → 2 ZnO + 2 SO<sub>2</sub> (Binas tabel 57A; ZnS is sphaleriet)",
+   "answers": {
+    "a": "+8,84·10<sup>5</sup> J",
+    "b": "–4,42·10<sup>5</sup> J",
+    "c": "–17,08·10<sup>5</sup> J",
+    "d": "–8,84·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
   }
  ]
 }

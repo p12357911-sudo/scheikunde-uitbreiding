@@ -15,10 +15,6 @@
    "a": "The difference in particle size: the solid particles stay behind on the filter, the liquid passes through"
   },
   {
-   "q": "Which mixture do you separate by filtration?",
-   "a": "A suspension, for example sand and water"
-  },
-  {
    "q": "What difference is distillation based on?",
    "a": "The difference in boiling point: the substance with the lowest boiling point evaporates first"
   },
@@ -103,6 +99,10 @@
    "a": "The mixture contains at least two different substances"
   },
   {
+   "q": "What is the retention time in gas chromatography?",
+   "a": "The time a substance needs to travel through the column; under the same conditions it is always the same for a given substance, so you can use it to recognise substances"
+  },
+  {
    "q": "What is a calibration line?",
    "a": "A graph of a measured value (for example absorbance) against the concentration, made with solutions of known concentration"
   },
@@ -119,6 +119,10 @@
    "a": "Adding a solution of known concentration to a measured amount of another solution until the reaction is exactly complete"
   },
   {
+   "q": "In a titration the burette reading at the start is 12.45 mL and at the end 24.72 mL. How many mL was added?",
+   "a": "24.72 – 12.45 = 12.27 mL"
+  },
+  {
    "q": "What do you use an indicator for in a titration?",
    "a": "To see from the colour change when the reaction is exactly complete"
   },
@@ -129,6 +133,10 @@
   {
    "q": "25.0 mL of HCl needs 20.0 mL of 0.100 mol/L NaOH (HCl + NaOH → NaCl + H<sub>2</sub>O). Calculate the concentration of the HCl",
    "a": "n(NaOH) = 0.100 × 0.0200 = 2.00·10<sup>-3</sup> mol; n(HCl) is also 2.00·10<sup>-3</sup> mol; c(HCl) = 2.00·10<sup>-3</sup> / 0.0250 = 0.0800 mol/L"
+  },
+  {
+   "q": "Why do you repeat a titration several times and take the average?",
+   "a": "The result is more reliable, because measurement errors partly cancel out"
   }
  ]
 }

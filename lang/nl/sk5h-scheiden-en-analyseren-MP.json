@@ -76,16 +76,6 @@
    "correctAnswer": "a"
   },
   {
-   "question": "Wat blijft er over als je zout water indampt?",
-   "answers": {
-    "a": "zout",
-    "b": "water",
-    "c": "niets",
-    "d": "zout water"
-   },
-   "correctAnswer": "a"
-  },
-  {
    "question": "Hoe scheid je ijzervijlsel van zand?",
    "answers": {
     "a": "met een filter",
@@ -114,16 +104,6 @@
     "d": "een mengsel van twee stoffen"
    },
    "correctAnswer": "c"
-  },
-  {
-   "question": "Wat doet een centrifuge?",
-   "answers": {
-    "a": "mengsels scheiden door snel te draaien",
-    "b": "mengsels koelen",
-    "c": "mengsels filtreren met een papieren filter",
-    "d": "mengsels verwarmen"
-   },
-   "correctAnswer": "a"
   },
   {
    "question": "Waarvoor gebruik je chromatografie?",
@@ -246,6 +226,26 @@
    "correctAnswer": "d"
   },
   {
+   "question": "Wat is de retentietijd bij gaschromatografie?",
+   "answers": {
+    "a": "de tijd die het apparaat nodig heeft om op te warmen",
+    "b": "de tijd tussen twee metingen",
+    "c": "de afstand van de stof gedeeld door de afstand van de loopvloeistof",
+    "d": "de tijd die een stof nodig heeft om door de kolom te komen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In een gaschromatogram heeft piek A een grotere oppervlakte dan piek B. Wat betekent dat?",
+   "answers": {
+    "a": "er zit meer van stof A in het mengsel dan van stof B",
+    "b": "stof A heeft een langere retentietijd dan stof B",
+    "c": "stof A is zuiverder dan stof B",
+    "d": "stof A kookt bij een hogere temperatuur dan stof B"
+   },
+   "correctAnswer": "a"
+  },
+  {
    "question": "Wat is een ijklijn?",
    "answers": {
     "a": "een lijn op een maatcilinder",
@@ -284,6 +284,16 @@
     "d": "een mengsel verwarmen tot het kookt"
    },
    "correctAnswer": "b"
+  },
+  {
+   "question": "Bij een titratie is de buretstand aan het begin 12,45 mL en aan het eind 24,72 mL. Hoeveel mL is toegevoegd?",
+   "answers": {
+    "a": "37,17 mL",
+    "b": "24,72 mL",
+    "c": "12,27 mL",
+    "d": "12,45 mL"
+   },
+   "correctAnswer": "c"
   },
   {
    "question": "Waarvoor dient een buret bij een titratie?",

@@ -196,14 +196,14 @@
    "correctAnswer": "d"
   },
   {
-   "question": "Voor 2,0 kg product is 10 kg afval nodig. Wat is de E-factor?",
+   "question": "Uit 40,0 g beginstoffen ontstaat 15,7 g gewenst product; de rest is afval. Wat is de E-factor?",
    "answers": {
-    "a": "12",
-    "b": "5,0",
-    "c": "20",
-    "d": "0,20"
+    "a": "1,55",
+    "b": "2,55",
+    "c": "0,65",
+    "d": "0,39"
    },
-   "correctAnswer": "b"
+   "correctAnswer": "a"
   },
   {
    "question": "Welke Binas-tabel bevat de principes van groene chemie?",
@@ -244,6 +244,16 @@
     "d": "het rendement kan nooit lager zijn dan de atoomeconomie"
    },
    "correctAnswer": "a"
+  },
+  {
+   "question": "In een fabriek gaan voortdurend beginstoffen de reactor in en komt voortdurend product eruit. Hoe heet zo'n proces?",
+   "answers": {
+    "a": "een batchproces",
+    "b": "een continu proces",
+    "c": "een proces met overmaat",
+    "d": "een proces zonder katalysator"
+   },
+   "correctAnswer": "b"
   },
   {
    "question": "Wat is een stof in overmaat?",

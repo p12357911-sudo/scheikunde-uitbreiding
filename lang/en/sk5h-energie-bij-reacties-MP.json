@@ -176,12 +176,12 @@
    "correctAnswer": "c"
   },
   {
-   "question": "How much heat is released when 2.0 mol of propane burns? (BINAS table 56)",
+   "question": "Calculate the reaction heat of CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O(l). Use BINAS table 57A and for CH<sub>4</sub>(g) –0.75·10<sup>5</sup> J/mol (table 57B)",
    "answers": {
-    "a": "4.4·10<sup>5</sup> J",
-    "b": "2.2·10<sup>6</sup> J",
-    "c": "4.4·10<sup>6</sup> J",
-    "d": "8.9·10<sup>5</sup> J"
+    "a": "–10.41·10<sup>5</sup> J",
+    "b": "–6.05·10<sup>5</sup> J",
+    "c": "–8.905·10<sup>5</sup> J",
+    "d": "+8.905·10<sup>5</sup> J"
    },
    "correctAnswer": "c"
   },
@@ -284,6 +284,16 @@
     "d": "10.4 J"
    },
    "correctAnswer": "b"
+  },
+  {
+   "question": "Calculate the reaction heat of 2 ZnS + 3 O<sub>2</sub> → 2 ZnO + 2 SO<sub>2</sub> (BINAS table 57A; ZnS is sphalerite)",
+   "answers": {
+    "a": "+8.84·10<sup>5</sup> J",
+    "b": "–4.42·10<sup>5</sup> J",
+    "c": "–17.08·10<sup>5</sup> J",
+    "d": "–8.84·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
   }
  ]
 }

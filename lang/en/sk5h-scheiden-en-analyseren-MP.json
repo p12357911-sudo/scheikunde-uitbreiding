@@ -76,16 +76,6 @@
    "correctAnswer": "a"
   },
   {
-   "question": "What remains when you evaporate salt water?",
-   "answers": {
-    "a": "salt",
-    "b": "water",
-    "c": "nothing",
-    "d": "salt water"
-   },
-   "correctAnswer": "a"
-  },
-  {
    "question": "How do you separate iron filings from sand?",
    "answers": {
     "a": "with a filter",
@@ -114,16 +104,6 @@
     "d": "a mixture of two substances"
    },
    "correctAnswer": "c"
-  },
-  {
-   "question": "What does a centrifuge do?",
-   "answers": {
-    "a": "separates mixtures by spinning quickly",
-    "b": "cools mixtures",
-    "c": "filters mixtures with a paper filter",
-    "d": "heats mixtures"
-   },
-   "correctAnswer": "a"
   },
   {
    "question": "What do you use chromatography for?",
@@ -246,6 +226,26 @@
    "correctAnswer": "d"
   },
   {
+   "question": "What is the retention time in gas chromatography?",
+   "answers": {
+    "a": "the time the instrument needs to warm up",
+    "b": "the time between two measurements",
+    "c": "the distance of the substance divided by the distance of the solvent",
+    "d": "the time a substance needs to travel through the column"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In a gas chromatogram peak A has a larger area than peak B. What does that mean?",
+   "answers": {
+    "a": "there is more of substance A in the mixture than of substance B",
+    "b": "substance A has a longer retention time than substance B",
+    "c": "substance A is purer than substance B",
+    "d": "substance A boils at a higher temperature than substance B"
+   },
+   "correctAnswer": "a"
+  },
+  {
    "question": "What is a calibration line?",
    "answers": {
     "a": "a line on a measuring cylinder",
@@ -284,6 +284,16 @@
     "d": "heating a mixture until it boils"
    },
    "correctAnswer": "b"
+  },
+  {
+   "question": "In a titration the burette reading at the start is 12.45 mL and at the end 24.72 mL. How many mL was added?",
+   "answers": {
+    "a": "37.17 mL",
+    "b": "24.72 mL",
+    "c": "12.27 mL",
+    "d": "12.45 mL"
+   },
+   "correctAnswer": "c"
   },
   {
    "question": "What is a burette used for in a titration?",

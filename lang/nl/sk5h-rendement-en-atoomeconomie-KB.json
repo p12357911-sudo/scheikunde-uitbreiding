@@ -95,8 +95,8 @@
    "a": "20 / 5,0 = 4,0"
   },
   {
-   "q": "Voor 2,0 kg product is 10 kg afval nodig. Bereken de E-factor",
-   "a": "10 / 2,0 = 5,0"
+   "q": "Uit 40,0 g beginstoffen ontstaat 15,7 g gewenst product; de rest is afval. Bereken de E-factor",
+   "a": "(40,0 – 15,7) / 15,7 = 1,55"
   },
   {
    "q": "Noem drie principes van groene chemie",
@@ -109,6 +109,10 @@
   {
    "q": "Waarom is een katalysator goed voor groene chemie?",
    "a": "Een katalysator maakt reacties mogelijk bij lagere temperatuur (minder energie) en wordt niet verbruikt"
+  },
+  {
+   "q": "Wat is het verschil tussen een batchproces en een continu proces?",
+   "a": "Bij een batchproces maak je per keer één portie product (vullen, laten reageren, legen); bij een continu proces gaan er voortdurend beginstoffen in en komt er voortdurend product uit"
   },
   {
    "q": "Waarom is een gesloten kringloop (stoffen hergebruiken) goed voor groene chemie?",

@@ -15,10 +15,6 @@
    "a": "Op het verschil in deeltjesgrootte: de vaste deeltjes blijven op het filter achter, de vloeistof loopt erdoor"
   },
   {
-   "q": "Welk mengsel scheid je door filtreren?",
-   "a": "Een suspensie, bijvoorbeeld zand en water"
-  },
-  {
    "q": "Op welk verschil berust destilleren?",
    "a": "Op het verschil in kookpunt: de stof met het laagste kookpunt verdampt het eerst"
   },
@@ -103,6 +99,10 @@
    "a": "Het mengsel bevat minstens twee verschillende stoffen"
   },
   {
+   "q": "Wat is de retentietijd bij gaschromatografie?",
+   "a": "De tijd die een stof nodig heeft om door de kolom te komen; onder dezelfde omstandigheden is die voor elke stof steeds hetzelfde, dus je kunt er stoffen mee herkennen"
+  },
+  {
    "q": "Wat is een ijklijn?",
    "a": "Een grafiek van een meetwaarde (bijvoorbeeld extinctie) tegen de concentratie, gemaakt met oplossingen waarvan de concentratie bekend is"
   },
@@ -119,6 +119,10 @@
    "a": "Een oplossing met bekende concentratie toevoegen aan een afgemeten hoeveelheid van een andere oplossing totdat de reactie precies compleet is"
   },
   {
+   "q": "Bij een titratie is de buretstand aan het begin 12,45 mL en aan het eind 24,72 mL. Hoeveel mL is toegevoegd?",
+   "a": "24,72 – 12,45 = 12,27 mL"
+  },
+  {
    "q": "Waarvoor gebruik je een indicator bij een titratie?",
    "a": "Om aan de kleuromslag te zien wanneer de reactie precies compleet is"
   },
@@ -129,6 +133,10 @@
   {
    "q": "Voor 25,0 mL HCl is 20,0 mL 0,100 mol/L NaOH nodig (HCl + NaOH → NaCl + H<sub>2</sub>O). Bereken de concentratie van het HCl",
    "a": "n(NaOH) = 0,100 × 0,0200 = 2,00·10<sup>-3</sup> mol; n(HCl) is ook 2,00·10<sup>-3</sup> mol; c(HCl) = 2,00·10<sup>-3</sup> / 0,0250 = 0,0800 mol/L"
+  },
+  {
+   "q": "Waarom herhaal je een titratie meerdere keren en neem je het gemiddelde?",
+   "a": "Dan is het resultaat betrouwbaarder, omdat meetfouten elkaar deels compenseren"
   }
  ]
 }
