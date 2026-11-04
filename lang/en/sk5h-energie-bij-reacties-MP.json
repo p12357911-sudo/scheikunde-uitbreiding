@@ -286,7 +286,7 @@
    "correctAnswer": "b"
   },
   {
-   "question": "Calculate the reaction heat of 2 ZnS + 3 O<sub>2</sub> → 2 ZnO + 2 SO<sub>2</sub> (BINAS table 57A; ZnS is sphalerite)",
+   "question": "Calculate the reaction heat of 2 ZnS + 3 O<sub>2</sub> → 2 ZnO + 2 SO<sub>2</sub> (BINAS table 57A; ZnS is zinc sulfide)",
    "answers": {
     "a": "+8.84·10<sup>5</sup> J",
     "b": "–4.42·10<sup>5</sup> J",
