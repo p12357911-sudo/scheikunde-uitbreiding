@@ -94,8 +94,8 @@
    "a": "When Q (with the concentrations after mixing) is greater than K<sub>s</sub>"
   },
   {
-   "q": "You mix 50 mL 1.0·10<sup>–3</sup> mol/L AgNO<sub>3</sub> with 50 mL 1.0·10<sup>–3</sup> mol/L NaCl. K<sub>s</sub> of AgCl is 1.8·10<sup>–10</sup>. Does a precipitate form?",
-   "a": "After mixing [Ag<sup>+</sup>] = [Cl<sup>–</sup>] = 5.0·10<sup>–4</sup> mol/L. Q = 2.5·10<sup>–7</sup>, and that is greater than K<sub>s</sub>. So yes, a precipitate forms"
+   "q": "In a solution [Ag<sup>+</sup>] = [Cl<sup>–</sup>] = 5.0·10<sup>–4</sup> mol/L. K<sub>s</sub> of AgCl is 1.8·10<sup>–10</sup>. Does a precipitate form?",
+   "a": "Q = [Ag<sup>+</sup>]·[Cl<sup>–</sup>] = 2.5·10<sup>–7</sup>, greater than K<sub>s</sub>. So a precipitate forms"
   },
   {
    "q": "Why does AgCl dissolve less well in a NaCl solution than in pure water?",

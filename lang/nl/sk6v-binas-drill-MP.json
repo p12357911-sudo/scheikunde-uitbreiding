@@ -256,12 +256,12 @@
    "correctAnswer": "b"
   },
   {
-   "question": "Reageert Cl<sub>2</sub> met Br<sup>–</sup>? (gebruik BINAS tabel 48)",
+   "question": "Welk deeltje is de sterkste oxidator: F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> of I<sub>2</sub>? (gebruik BINAS tabel 48)",
    "answers": {
-    "a": "nee, beide zijn gassen",
-    "b": "nee, Br<sub>2</sub> is een sterkere oxidator dan Cl<sub>2</sub>",
-    "c": "ja, Br<sup>–</sup> is een sterkere oxidator dan Cl<sub>2</sub>",
-    "d": "ja, Cl<sub>2</sub> is een sterkere oxidator dan Br<sub>2</sub>"
+    "a": "I<sub>2</sub>",
+    "b": "Br<sub>2</sub>",
+    "c": "Cl<sub>2</sub>",
+    "d": "F<sub>2</sub>"
    },
    "correctAnswer": "d"
   },

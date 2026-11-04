@@ -48,8 +48,8 @@
   {
    "question": "Is BaSO<sub>4</sub> goed of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
    "answers": {
-    "a": "Het is een gas",
-    "b": "Het lost alleen op in alcohol",
+    "a": "Matig oplosbaar",
+    "b": "Het lost alleen op in warm water",
     "c": "Slecht oplosbaar",
     "d": "Goed oplosbaar"
    },
@@ -199,8 +199,8 @@
    "question": "Waarom kun je nitraat-ionen (NO<sub>3</sub><sup>−</sup>) niet als neerslag uit water halen?",
    "answers": {
     "a": "Nitraat lost nooit op",
-    "b": "Nitraat is een metaal",
-    "c": "Nitraat is een gas",
+    "b": "Nitraatzouten zijn allemaal slecht oplosbaar",
+    "c": "Nitraat-ionen zijn te klein om een neerslag te vormen",
     "d": "Nitraten zijn goed oplosbaar, dus er ontstaat nooit een neerslag"
    },
    "correctAnswer": "d"

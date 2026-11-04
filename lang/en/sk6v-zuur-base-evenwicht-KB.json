@@ -66,8 +66,8 @@
    "a": "[H<sub>3</sub>O<sup>+</sup>] = √(1.7·10<sup>–5</sup> × 0.10) = 1.3·10<sup>–3</sup> mol/L, so pH = 2.88"
   },
   {
-   "q": "A weak acid has K<sub>z</sub> = 1.0·10<sup>–5</sup>. The solution has pH = 3.00. Calculate the initial concentration of the acid",
-   "a": "[H<sub>3</sub>O<sup>+</sup>] = 1.0·10<sup>–3</sup> mol/L, so [HZ] = (1.0·10<sup>–3</sup>)<sup>2</sup> / 1.0·10<sup>–5</sup> = 0.10 mol/L"
+   "q": "A solution has pH = 3.00. What is [H<sub>3</sub>O<sup>+</sup>]?",
+   "a": "[H<sub>3</sub>O<sup>+</sup>] = 10<sup>–pH</sup> = 1.0·10<sup>–3</sup> mol/L"
   },
   {
    "q": "Calculate the pH of 0.10 mol/L of a weak base with K<sub>b</sub> = 1.0·10<sup>–5</sup>",
@@ -106,8 +106,8 @@
    "a": "The H<sub>2</sub>CO<sub>3</sub> / HCO<sub>3</sub><sup>–</sup> system in the blood (pH about 7.4)"
   },
   {
-   "q": "You mix 100 mL 0.20 mol/L acetic acid with 50 mL 0.20 mol/L NaOH. Which substances are in the solution afterwards and is it a buffer?",
-   "a": "CH<sub>3</sub>COOH + OH<sup>–</sup> → CH<sub>3</sub>COO<sup>–</sup> + H<sub>2</sub>O. 10 mmol CH<sub>3</sub>COOH is left and 10 mmol CH<sub>3</sub>COO<sup>–</sup> has formed. So yes, it is a buffer"
+   "q": "What is the conjugate base of acetic acid (CH<sub>3</sub>COOH)?",
+   "a": "CH<sub>3</sub>COO<sup>–</sup> (acetate ion)"
   },
   {
    "q": "A buffer contains as much acid HZ as base Z<sup>–</sup>. The acid has K<sub>z</sub> = 1.0·10<sup>–5</sup>. What is the pH?",

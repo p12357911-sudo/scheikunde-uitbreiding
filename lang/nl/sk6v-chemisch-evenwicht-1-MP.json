@@ -226,17 +226,17 @@
    "correctAnswer": "b"
   },
   {
-   "question": "Je begint met 1,00 mol/L H<sub>2</sub> en 1,00 mol/L I<sub>2</sub>. In evenwicht is [HI] = 1,60 mol/L. Wat is [H<sub>2</sub>] in evenwicht?",
+   "question": "Voor H<sub>2</sub> + I<sub>2</sub> ⇌ 2 HI geldt K = 50. In evenwicht is [H<sub>2</sub>] = [I<sub>2</sub>] = 0,10 mol/L. Wat is [HI]?",
    "answers": {
-    "a": "0,80 mol/L",
-    "b": "1,00 mol/L",
-    "c": "0,40 mol/L",
-    "d": "0,20 mol/L"
+    "a": "0,50 mol/L",
+    "b": "0,71 mol/L",
+    "c": "5,0 mol/L",
+    "d": "0,071 mol/L"
    },
-   "correctAnswer": "d"
+   "correctAnswer": "b"
   },
   {
-   "question": "Je begint met 1,00 mol/L H<sub>2</sub> en 1,00 mol/L I<sub>2</sub>. In evenwicht is [HI] = 1,60 mol/L. Wat is K?",
+   "question": "Bij H<sub>2</sub> + I<sub>2</sub> ⇌ 2 HI is in evenwicht [H<sub>2</sub>] = 0,20, [I<sub>2</sub>] = 0,20 en [HI] = 1,60 mol/L. Wat is K?",
    "answers": {
     "a": "64",
     "b": "8,0",

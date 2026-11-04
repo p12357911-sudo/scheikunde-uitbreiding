@@ -48,8 +48,8 @@
   {
    "question": "Is BaSO<sub>4</sub> very soluble or poorly soluble in water? (use BINAS table 35)",
    "answers": {
-    "a": "It is a gas",
-    "b": "It only dissolves in alcohol",
+    "a": "Moderately soluble",
+    "b": "It only dissolves in warm water",
     "c": "Poorly soluble",
     "d": "Very soluble"
    },
@@ -199,8 +199,8 @@
    "question": "Why can you not remove nitrate ions (NO<sub>3</sub><sup>−</sup>) from water as a precipitate?",
    "answers": {
     "a": "Nitrate never dissolves",
-    "b": "Nitrate is a metal",
-    "c": "Nitrate is a gas",
+    "b": "All nitrate salts are poorly soluble",
+    "c": "Nitrate ions are too small to form a precipitate",
     "d": "Nitrates are very soluble, so a precipitate never forms"
    },
    "correctAnswer": "d"

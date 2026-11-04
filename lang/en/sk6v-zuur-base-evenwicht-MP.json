@@ -126,14 +126,14 @@
    "correctAnswer": "c"
   },
   {
-   "question": "A weak acid (K<sub>z</sub> = 1.0·10<sup>–5</sup>) has pH = 3.00. What is the initial concentration of the acid?",
+   "question": "A solution has pH = 3.00. What is [H<sub>3</sub>O<sup>+</sup>]?",
    "answers": {
-    "a": "1.0·10<sup>–2</sup> mol/L",
-    "b": "1.0 mol/L",
-    "c": "1.0·10<sup>–3</sup> mol/L",
-    "d": "0.10 mol/L"
+    "a": "3.0 mol/L",
+    "b": "1.0·10<sup>–3</sup> mol/L",
+    "c": "1.0·10<sup>–11</sup> mol/L",
+    "d": "0.30 mol/L"
    },
-   "correctAnswer": "d"
+   "correctAnswer": "b"
   },
   {
    "question": "What is the pH of 0.10 mol/L of a weak base with K<sub>b</sub> = 1.0·10<sup>–5</sup>?",
@@ -216,12 +216,12 @@
    "correctAnswer": "d"
   },
   {
-   "question": "You mix 100 mL 0.20 mol/L acetic acid with 50 mL 0.20 mol/L NaOH. What is formed?",
+   "question": "What is the conjugate base of acetic acid (CH<sub>3</sub>COOH)?",
    "answers": {
-    "a": "a buffer of CH<sub>3</sub>COOH and CH<sub>3</sub>COO<sup>–</sup>",
-    "b": "only a solution of CH<sub>3</sub>COO<sup>–</sup>",
-    "c": "a solution of only NaOH",
-    "d": "a solution of a strong acid"
+    "a": "CH<sub>3</sub>COO<sup>–</sup>",
+    "b": "CH<sub>3</sub>COOH<sub>2</sub><sup>+</sup>",
+    "c": "OH<sup>–</sup>",
+    "d": "H<sub>3</sub>O<sup>+</sup>"
    },
    "correctAnswer": "a"
   },
@@ -246,12 +246,12 @@
    "correctAnswer": "c"
   },
   {
-   "question": "Acetic acid (K<sub>z</sub> = 1.7·10<sup>–5</sup>) reacts with NH<sub>3</sub> (NH<sub>4</sub><sup>+</sup> has K<sub>z</sub> = 5.6·10<sup>–10</sup>). What is true?",
+   "question": "Which acid is stronger: acetic acid (K<sub>z</sub> = 1.7·10<sup>–5</sup>) or NH<sub>4</sub><sup>+</sup> (K<sub>z</sub> = 5.6·10<sup>–10</sup>)?",
    "answers": {
-    "a": "the equilibrium lies far to the right",
-    "b": "the equilibrium lies far to the left",
-    "c": "K = 1",
-    "d": "there is no reaction"
+    "a": "acetic acid, because K<sub>z</sub> is larger",
+    "b": "NH<sub>4</sub><sup>+</sup>, because K<sub>z</sub> is smaller",
+    "c": "they are equally strong",
+    "d": "you cannot tell from K<sub>z</sub>"
    },
    "correctAnswer": "a"
   },

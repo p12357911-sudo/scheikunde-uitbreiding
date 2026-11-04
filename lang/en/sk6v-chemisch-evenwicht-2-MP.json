@@ -196,7 +196,7 @@
    "correctAnswer": "a"
   },
   {
-   "question": "You mix 50 mL 1.0·10<sup>–3</sup> mol/L AgNO<sub>3</sub> with 50 mL 1.0·10<sup>–3</sup> mol/L NaCl. K<sub>s</sub> of AgCl is 1.8·10<sup>–10</sup>. What is Q and what happens?",
+   "question": "In a solution [Ag<sup>+</sup>] = [Cl<sup>–</sup>] = 5.0·10<sup>–4</sup> mol/L. K<sub>s</sub> of AgCl is 1.8·10<sup>–10</sup>. What is Q and what happens?",
    "answers": {
     "a": "Q = 2.5·10<sup>–7</sup>; no precipitate forms",
     "b": "Q = 2.5·10<sup>–7</sup>; a precipitate forms",

@@ -126,14 +126,14 @@
    "correctAnswer": "c"
   },
   {
-   "question": "Een zwak zuur (K<sub>z</sub> = 1,0·10<sup>–5</sup>) heeft pH = 3,00. Wat is de beginconcentratie van het zuur?",
+   "question": "Een oplossing heeft pH = 3,00. Wat is [H<sub>3</sub>O<sup>+</sup>]?",
    "answers": {
-    "a": "1,0·10<sup>–2</sup> mol/L",
-    "b": "1,0 mol/L",
-    "c": "1,0·10<sup>–3</sup> mol/L",
-    "d": "0,10 mol/L"
+    "a": "3,0 mol/L",
+    "b": "1,0·10<sup>–3</sup> mol/L",
+    "c": "1,0·10<sup>–11</sup> mol/L",
+    "d": "0,30 mol/L"
    },
-   "correctAnswer": "d"
+   "correctAnswer": "b"
   },
   {
    "question": "Wat is de pH van 0,10 mol/L van een zwakke base met K<sub>b</sub> = 1,0·10<sup>–5</sup>?",
@@ -216,12 +216,12 @@
    "correctAnswer": "d"
   },
   {
-   "question": "Je mengt 100 mL 0,20 mol/L azijnzuur met 50 mL 0,20 mol/L NaOH. Wat ontstaat er?",
+   "question": "Wat is de geconjugeerde base van azijnzuur (CH<sub>3</sub>COOH)?",
    "answers": {
-    "a": "een buffer van CH<sub>3</sub>COOH en CH<sub>3</sub>COO<sup>–</sup>",
-    "b": "alleen een oplossing van CH<sub>3</sub>COO<sup>–</sup>",
-    "c": "een oplossing van alleen NaOH",
-    "d": "een oplossing van een sterk zuur"
+    "a": "CH<sub>3</sub>COO<sup>–</sup>",
+    "b": "CH<sub>3</sub>COOH<sub>2</sub><sup>+</sup>",
+    "c": "OH<sup>–</sup>",
+    "d": "H<sub>3</sub>O<sup>+</sup>"
    },
    "correctAnswer": "a"
   },
@@ -246,12 +246,12 @@
    "correctAnswer": "c"
   },
   {
-   "question": "Azijnzuur (K<sub>z</sub> = 1,7·10<sup>–5</sup>) reageert met NH<sub>3</sub> (NH<sub>4</sub><sup>+</sup> heeft K<sub>z</sub> = 5,6·10<sup>–10</sup>). Wat is waar?",
+   "question": "Welk zuur is sterker: azijnzuur (K<sub>z</sub> = 1,7·10<sup>–5</sup>) of NH<sub>4</sub><sup>+</sup> (K<sub>z</sub> = 5,6·10<sup>–10</sup>)?",
    "answers": {
-    "a": "het evenwicht ligt ver naar rechts",
-    "b": "het evenwicht ligt ver naar links",
-    "c": "K = 1",
-    "d": "er is geen reactie"
+    "a": "azijnzuur, want K<sub>z</sub> is groter",
+    "b": "NH<sub>4</sub><sup>+</sup>, want K<sub>z</sub> is kleiner",
+    "c": "ze zijn even sterk",
+    "d": "dat kun je niet zien aan K<sub>z</sub>"
    },
    "correctAnswer": "a"
   },

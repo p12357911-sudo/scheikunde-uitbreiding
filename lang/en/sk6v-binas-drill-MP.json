@@ -256,12 +256,12 @@
    "correctAnswer": "b"
   },
   {
-   "question": "Does Cl<sub>2</sub> react with Br<sup>–</sup>? (use BINAS table 48)",
+   "question": "Which particle is the strongest oxidising agent: F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> or I<sub>2</sub>? (use BINAS table 48)",
    "answers": {
-    "a": "no, both are gases",
-    "b": "no, Br<sub>2</sub> is a stronger oxidising agent than Cl<sub>2</sub>",
-    "c": "yes, Br<sup>–</sup> is a stronger oxidising agent than Cl<sub>2</sub>",
-    "d": "yes, Cl<sub>2</sub> is a stronger oxidising agent than Br<sub>2</sub>"
+    "a": "I<sub>2</sub>",
+    "b": "Br<sub>2</sub>",
+    "c": "Cl<sub>2</sub>",
+    "d": "F<sub>2</sub>"
    },
    "correctAnswer": "d"
   },

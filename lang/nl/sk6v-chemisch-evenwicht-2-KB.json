@@ -94,8 +94,8 @@
    "a": "Als Q (met de concentraties na het mengen) groter is dan K<sub>s</sub>"
   },
   {
-   "q": "Je mengt 50 mL 1,0·10<sup>–3</sup> mol/L AgNO<sub>3</sub> met 50 mL 1,0·10<sup>–3</sup> mol/L NaCl. K<sub>s</sub> van AgCl is 1,8·10<sup>–10</sup>. Ontstaat er een neerslag?",
-   "a": "Na mengen is [Ag<sup>+</sup>] = [Cl<sup>–</sup>] = 5,0·10<sup>–4</sup> mol/L. Q = 2,5·10<sup>–7</sup>, en dat is groter dan K<sub>s</sub>. Dus ja, er ontstaat een neerslag"
+   "q": "In een oplossing is [Ag<sup>+</sup>] = [Cl<sup>–</sup>] = 5,0·10<sup>–4</sup> mol/L. K<sub>s</sub> van AgCl is 1,8·10<sup>–10</sup>. Ontstaat er een neerslag?",
+   "a": "Q = [Ag<sup>+</sup>]·[Cl<sup>–</sup>] = 2,5·10<sup>–7</sup>, groter dan K<sub>s</sub>. Dus er ontstaat een neerslag"
   },
   {
    "q": "Waarom lost AgCl slechter op in een NaCl-oplossing dan in zuiver water?",

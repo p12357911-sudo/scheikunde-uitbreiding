@@ -196,7 +196,7 @@
    "correctAnswer": "a"
   },
   {
-   "question": "Je mengt 50 mL 1,0·10<sup>–3</sup> mol/L AgNO<sub>3</sub> met 50 mL 1,0·10<sup>–3</sup> mol/L NaCl. K<sub>s</sub> van AgCl is 1,8·10<sup>–10</sup>. Wat is Q en wat gebeurt er?",
+   "question": "In een oplossing is [Ag<sup>+</sup>] = [Cl<sup>–</sup>] = 5,0·10<sup>–4</sup> mol/L. K<sub>s</sub> van AgCl is 1,8·10<sup>–10</sup>. Wat is Q en wat gebeurt er?",
    "answers": {
     "a": "Q = 2,5·10<sup>–7</sup>; er ontstaat geen neerslag",
     "b": "Q = 2,5·10<sup>–7</sup>; er ontstaat een neerslag",
