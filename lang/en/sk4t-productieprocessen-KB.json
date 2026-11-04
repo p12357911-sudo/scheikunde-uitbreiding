@@ -1,0 +1,103 @@
+{
+ "title": "Production processes - 123 school",
+ "heading": "Production processes",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is a production chain?",
+   "a": "A series of steps in which a raw material is converted into an end product via intermediate products"
+  },
+  {
+   "q": "Give a production chain from crude oil to a plastic bag",
+   "a": "Crude oil → distillation → naphtha → cracking → ethene → polymerisation → polyethylene → plastic bag",
+   "e": "Use BINAS table 41 for the flow chart of crude oil."
+  },
+  {
+   "q": "What is shown in a block diagram?",
+   "a": "Blocks for the steps of the process (and the substances) and arrows that show which way the substances go"
+  },
+  {
+   "q": "How do you show in a block diagram that a substance is recycled?",
+   "a": "With an arrow back to an earlier block"
+  },
+  {
+   "q": "What is a raw material?",
+   "a": "A substance from nature with which a production process starts, for example crude oil, air or an ore"
+  },
+  {
+   "q": "Why does a factory mix the starting substances in the right mass ratio?",
+   "a": "Otherwise a starting substance is left over and that is a waste"
+  },
+  {
+   "q": "What is an excess?",
+   "a": "The starting substance of which some is left after the reaction"
+  },
+  {
+   "q": "Give the mass ratio hydrogen : oxygen : water for 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O (use BINAS table 33 for the atomic masses)",
+   "a": "4.0 : 32.0 : 36.0",
+   "e": "2 × 2.0 = 4.0 (hydrogen), 2 × 16.0 = 32.0 (oxygen), 2 × 18.0 = 36.0 (water)."
+  },
+  {
+   "q": "How many grams of oxygen are needed for 4.0 g of hydrogen?",
+   "a": "32 g"
+  },
+  {
+   "q": "How many grams of hydrogen are needed to make 90 g of water?",
+   "a": "90 g × 4.0 : 36.0 = 10 g"
+  },
+  {
+   "q": "The combustion of carbon is C + O<sub>2</sub> → CO<sub>2</sub> with mass ratio 12.0 : 32.0 : 44.0. How many grams of CO<sub>2</sub> are formed from 6.0 g of carbon?",
+   "a": "6.0 g × 44.0 : 12.0 = 22 g"
+  },
+  {
+   "q": "You let 4.0 g of hydrogen react with 40.0 g of oxygen. Which substance is in excess and how many grams are left?",
+   "a": "Oxygen; 32.0 g is needed, so 8.0 g is left"
+  },
+  {
+   "q": "You let 6.0 g of carbon react with 12.0 g of oxygen (C + O<sub>2</sub> → CO<sub>2</sub>, mass ratio 12.0 : 32.0 : 44.0). Which substance is in excess and how many grams are left?",
+   "a": "Carbon; 12.0 g of oxygen reacts with 4.5 g of carbon, so 1.5 g of carbon is left"
+  },
+  {
+   "q": "Methane burns according to CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O. Give the mass ratio methane : oxygen : carbon dioxide : water",
+   "a": "16.0 : 64.0 : 44.0 : 36.0"
+  },
+  {
+   "q": "How many grams of carbon dioxide are formed in the complete combustion of 32.0 g of methane?",
+   "a": "32.0 g × 44.0 : 16.0 = 88 g"
+  },
+  {
+   "q": "For ammonia, N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> with mass ratio 28.0 : 6.0 : 34.0. How many grams of ammonia are formed from 28.0 g of nitrogen?",
+   "a": "34.0 g"
+  },
+  {
+   "q": "From which raw materials does industry make ammonia?",
+   "a": "Nitrogen (from the air) and hydrogen (for example from natural gas)"
+  },
+  {
+   "q": "Why does a factory feed substances that have not reacted back into the process?",
+   "a": "This wastes less and fewer new raw materials are needed"
+  },
+  {
+   "q": "In an ore sample of 200 g there is 140 g of iron oxide. What is the mass percentage of iron oxide?",
+   "a": "140 : 200 × 100% = 70%"
+  },
+  {
+   "q": "Wine of 750 mL contains 12 volume percent alcohol. How many mL of alcohol is that?",
+   "a": "12% of 750 mL = 90 mL"
+  },
+  {
+   "q": "Air contains 21 volume percent oxygen. How many litres of oxygen are in 50 L of air?",
+   "a": "21% of 50 L = 10.5 L"
+  },
+  {
+   "q": "For the production of iron, 2 Fe<sub>2</sub>O<sub>3</sub> + 3 C → 4 Fe + 3 CO<sub>2</sub>. From 319.2 g of iron oxide, 223.2 g of iron is formed. How many grams of iron are formed from 159.6 g of iron oxide?",
+   "a": "159.6 g × 223.2 : 319.2 = 111.6 g"
+  },
+  {
+   "q": "What is an intermediate product?",
+   "a": "A substance that is made in a production chain and then used for a next step"
+  }
+ ]
+}

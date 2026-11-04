@@ -1,0 +1,329 @@
+{
+ "title": "Organic chemistry: isomerism, alkynes, benzene, ethers and C=O - 123 school",
+ "heading": "Organic chemistry: isomerism, alkynes, benzene, ethers and C=O",
+ "intro": [
+  "Choose the correct answer for each question. Use a calculator where needed."
+ ],
+ "questions": [
+  {
+   "question": "What is the general formula of alkynes (open chain)?",
+   "answers": {
+    "a": "C<sub>n</sub>H<sub>2n+2</sub>",
+    "b": "C<sub>n</sub>H<sub>n</sub>",
+    "c": "C<sub>n</sub>H<sub>2n</sub>",
+    "d": "C<sub>n</sub>H<sub>2n–2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which bond is characteristic of alkynes?",
+   "answers": {
+    "a": "C–O–C",
+    "b": "C≡C",
+    "c": "C=C",
+    "d": "C=O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the molecular formula of ethyne?",
+   "answers": {
+    "a": "C<sub>2</sub>H<sub>2</sub>",
+    "b": "C<sub>2</sub>H<sub>6</sub>",
+    "c": "C<sub>3</sub>H<sub>4</sub>",
+    "d": "C<sub>2</sub>H<sub>4</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the molecular formula of hex-1-yne?",
+   "answers": {
+    "a": "C<sub>6</sub>H<sub>8</sub>",
+    "b": "C<sub>6</sub>H<sub>10</sub>",
+    "c": "C<sub>6</sub>H<sub>14</sub>",
+    "d": "C<sub>6</sub>H<sub>12</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many moles of Br<sub>2</sub> can 1 mol of ethyne take up at most?",
+   "answers": {
+    "a": "4 mol",
+    "b": "2 mol",
+    "c": "3 mol",
+    "d": "1 mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the molecular formula of cyclohexane?",
+   "answers": {
+    "a": "C<sub>6</sub>H<sub>12</sub>",
+    "b": "C<sub>6</sub>H<sub>10</sub>",
+    "c": "C<sub>6</sub>H<sub>14</sub>",
+    "d": "C<sub>6</sub>H<sub>6</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Cyclopentane has the same molecular formula as:",
+   "answers": {
+    "a": "pent-1-ene",
+    "b": "pentane",
+    "c": "benzene",
+    "d": "pent-1-yne"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance does not decolourise bromine water?",
+   "answers": {
+    "a": "but-2-ene",
+    "b": "ethyne",
+    "c": "cyclohexene",
+    "d": "cyclohexane"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molecular formula of benzene?",
+   "answers": {
+    "a": "C<sub>6</sub>H<sub>6</sub>",
+    "b": "C<sub>6</sub>H<sub>10</sub>",
+    "c": "C<sub>6</sub>H<sub>12</sub>",
+    "d": "C<sub>6</sub>H<sub>14</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is true about the C–C bonds in the ring of benzene?",
+   "answers": {
+    "a": "three are single and three are double, with different lengths",
+    "b": "they are all double bonds",
+    "c": "they are all equally long",
+    "d": "they are all single bonds with the length of an alkane"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the phenyl group?",
+   "answers": {
+    "a": "C<sub>7</sub>H<sub>7</sub>–",
+    "b": "C<sub>6</sub>H<sub>6</sub>",
+    "c": "C<sub>6</sub>H<sub>11</sub>–",
+    "d": "C<sub>6</sub>H<sub>5</sub>–"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molecular formula of bromobenzene?",
+   "answers": {
+    "a": "C<sub>6</sub>H<sub>5</sub>Br",
+    "b": "C<sub>6</sub>H<sub>4</sub>Br",
+    "c": "C<sub>6</sub>H<sub>6</sub>Br",
+    "d": "C<sub>6</sub>H<sub>11</sub>Br"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which group characterises an ether?",
+   "answers": {
+    "a": "C–O–H",
+    "b": "C–O–C",
+    "c": "O–H",
+    "d": "C=O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–O–CH<sub>2</sub>–CH<sub>3</sub>?",
+   "answers": {
+    "a": "propanone",
+    "b": "ethoxyethane",
+    "c": "methoxyethane",
+    "d": "propan-1-ol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–O–CH<sub>3</sub>?",
+   "answers": {
+    "a": "ethanol",
+    "b": "ethanal",
+    "c": "methoxymethane",
+    "d": "dimethyl ketone"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance is a structural isomer of ethanol?",
+   "answers": {
+    "a": "ethanoic acid",
+    "b": "ethane",
+    "c": "ethanal",
+    "d": "methoxymethane"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why does methoxymethane boil much lower than ethanol?",
+   "answers": {
+    "a": "the molecules are much larger",
+    "b": "methoxymethane is a salt",
+    "c": "there are no hydrogen bonds between the molecules",
+    "d": "methoxymethane has a double bond"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CH<sub>2</sub>–CHO?",
+   "answers": {
+    "a": "propan-1-ol",
+    "b": "propanoic acid",
+    "c": "propanal",
+    "d": "propanone"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CO–CH<sub>2</sub>–CH<sub>3</sub>?",
+   "answers": {
+    "a": "butanoic acid",
+    "b": "butanal",
+    "c": "butan-1-ol",
+    "d": "butanone"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the difference between an aldehyde and a ketone?",
+   "answers": {
+    "a": "an aldehyde has an OH group, a ketone does not",
+    "b": "a ketone has a C=C, an aldehyde does not",
+    "c": "an aldehyde is always an acid",
+    "d": "in an aldehyde the C=O is at the end of the chain, in a ketone it is inside the chain"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What are structural isomers?",
+   "answers": {
+    "a": "substances with the same name",
+    "b": "substances with the same molecular formula and a different structural formula",
+    "c": "substances with the same structural formula and a different spatial arrangement",
+    "d": "substances with the same mass and a different formula"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How many structural isomers does C<sub>5</sub>H<sub>12</sub> have?",
+   "answers": {
+    "a": "4",
+    "b": "3",
+    "c": "5",
+    "d": "2"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which pair are structural isomers?",
+   "answers": {
+    "a": "propanal and propanone",
+    "b": "butane and butanone",
+    "c": "ethanol and ethanal",
+    "d": "propane and propene"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is stereoisomerism?",
+   "answers": {
+    "a": "the same spatial arrangement, a different structural formula",
+    "b": "a different number of C atoms",
+    "c": "a different molecular formula",
+    "d": "the same structural formula, a different spatial arrangement"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance has cis/trans isomerism?",
+   "answers": {
+    "a": "but-2-ene",
+    "b": "but-1-ene",
+    "c": "butane",
+    "d": "2-methylpropene"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which condition must a molecule with C=C meet for cis/trans isomerism?",
+   "answers": {
+    "a": "there is an OH group on the chain",
+    "b": "each C atom of the C=C carries two different groups",
+    "c": "the chain has at least 10 C atoms",
+    "d": "there is an asymmetric C atom"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is an asymmetric C atom?",
+   "answers": {
+    "a": "a C atom with two H atoms",
+    "b": "a C atom in a ring",
+    "c": "a C atom with four different groups",
+    "d": "a C atom with a double bond"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance has an asymmetric C atom?",
+   "answers": {
+    "a": "ethanol",
+    "b": "butan-2-ol",
+    "c": "propan-2-ol",
+    "d": "propan-1-ol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What are enantiomers?",
+   "answers": {
+    "a": "molecules with a different number of C atoms",
+    "b": "molecules with the same structure and the same spatial arrangement",
+    "c": "molecules that are mirror images of each other and cannot be superimposed",
+    "d": "cis and trans isomers"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is different in two enantiomers?",
+   "answers": {
+    "a": "the rotation of polarised light",
+    "b": "the solubility in water",
+    "c": "the molecular formula",
+    "d": "the boiling point"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A molecule has 2 asymmetric C atoms. What is the maximum number of stereoisomers?",
+   "answers": {
+    "a": "6",
+    "b": "2",
+    "c": "8",
+    "d": "4"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance has two enantiomers?",
+   "answers": {
+    "a": "propan-2-ol",
+    "b": "acetic acid",
+    "c": "lactic acid (2-hydroxypropanoic acid)",
+    "d": "ethanol"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

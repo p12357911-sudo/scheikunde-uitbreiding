@@ -1,0 +1,289 @@
+{
+ "title": "Product investigation - 123 school",
+ "heading": "Product investigation",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is the end point of a titration?",
+   "answers": {
+    "a": "the moment you start adding",
+    "b": "the moment the indicator changes colour",
+    "c": "the moment the solution starts to boil",
+    "d": "the moment the burette is empty"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "With which piece of glassware do you add liquid accurately in a titration?",
+   "answers": {
+    "a": "a burette",
+    "b": "a beaker",
+    "c": "a test tube",
+    "d": "a measuring jug"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "1.0 mL of sodium hydroxide solution reacts with 3.0 mg of acetic acid. 12.0 mL of sodium hydroxide solution is needed. How many mg of acetic acid was in the sample?",
+   "answers": {
+    "a": "4.0 mg",
+    "b": "15 mg",
+    "c": "0.25 mg",
+    "d": "36 mg"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "The sample from the previous question contained 36 mg of acetic acid in 20 mL. What is the content in mg/mL?",
+   "answers": {
+    "a": "0.56 mg/mL",
+    "b": "720 mg/mL",
+    "c": "16 mg/mL",
+    "d": "1.8 mg/mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the pH of a basic solution?",
+   "answers": {
+    "a": "always exactly 14",
+    "b": "lower than 7",
+    "c": "higher than 7",
+    "d": "exactly 7"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What colour is phenolphthalein in a basic solution?",
+   "answers": {
+    "a": "yellow",
+    "b": "colourless",
+    "c": "pink or purple",
+    "d": "green"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "An indicator is yellow below pH 6.0 and blue above pH 7.6. What colour is the indicator at pH 9?",
+   "answers": {
+    "a": "yellow",
+    "b": "blue",
+    "c": "colourless",
+    "d": "green"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which BINAS table gives the colour change range of indicators?",
+   "answers": {
+    "a": "table 45",
+    "b": "table 36",
+    "c": "table 35",
+    "d": "table 15"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is breaking down with the help of light called?",
+   "answers": {
+    "a": "photolysis",
+    "b": "thermolysis",
+    "c": "distillation",
+    "d": "electrolysis"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is breaking down with the help of electricity called?",
+   "answers": {
+    "a": "thermolysis",
+    "b": "photolysis",
+    "c": "filtration",
+    "d": "electrolysis"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substances are formed in the electrolysis of water?",
+   "answers": {
+    "a": "nitrogen and oxygen",
+    "b": "hydrogen and oxygen",
+    "c": "hydrogen and carbon",
+    "d": "carbon dioxide and water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you show the presence of oxygen?",
+   "answers": {
+    "a": "white copper sulphate turns blue",
+    "b": "limewater turns cloudy",
+    "c": "you hear a pop",
+    "d": "a glowing splint glows brighter"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you show the presence of hydrogen?",
+   "answers": {
+    "a": "a glowing splint glows brighter",
+    "b": "limewater turns cloudy",
+    "c": "with a burning splint you hear a pop",
+    "d": "white copper sulphate turns blue"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How do you show the presence of carbon dioxide?",
+   "answers": {
+    "a": "a glowing splint glows brighter",
+    "b": "limewater turns cloudy",
+    "c": "litmus paper turns blue",
+    "d": "you hear a pop"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you show the presence of water?",
+   "answers": {
+    "a": "phenolphthalein turns pink",
+    "b": "limewater turns cloudy",
+    "c": "white copper sulphate turns blue",
+    "d": "a burning splint goes out with a bang"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which precipitate forms when sodium chloride solution and silver nitrate solution are mixed? (use BINAS table 35)",
+   "answers": {
+    "a": "AgCl",
+    "b": "AgNa",
+    "c": "NaNO<sub>3</sub>",
+    "d": "NaCl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You dilute 10 mL of a solution with water to 100 mL. What is the dilution factor?",
+   "answers": {
+    "a": "10",
+    "b": "90",
+    "c": "1000",
+    "d": "0.1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A solution of 50 g/L is diluted 10 times. What is the new concentration?",
+   "answers": {
+    "a": "40 g/L",
+    "b": "0.2 g/L",
+    "c": "5.0 g/L",
+    "d": "500 g/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You take 25 mL of a solution of 40 g/L and add water to make 500 mL. What is the new concentration?",
+   "answers": {
+    "a": "20 g/L",
+    "b": "2.0 g/L",
+    "c": "800 g/L",
+    "d": "0.5 g/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You see a yellow flame colour. Which metal ion was in the substance? (use BINAS table 38)",
+   "answers": {
+    "a": "sulphate (SO<sub>4</sub><sup>2-</sup>)",
+    "b": "nitrate (NO<sub>3</sub><sup>-</sup>)",
+    "c": "chloride (Cl<sup>-</sup>)",
+    "d": "sodium (Na<sup>+</sup>)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you look up an E number?",
+   "answers": {
+    "a": "table 39",
+    "b": "table 35",
+    "c": "table 42",
+    "d": "table 45"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is E-420 used for? (use BINAS table 45)",
+   "answers": {
+    "a": "as a colouring",
+    "b": "as a preservative",
+    "c": "as a sweetener",
+    "d": "as a fragrance"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A label says: \"Contains water, sugar, citric acid\". Which substance is present in the largest amount?",
+   "answers": {
+    "a": "water",
+    "b": "it does not say",
+    "c": "sugar",
+    "d": "citric acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In which BINAS table do you find the meaning of hazard symbols on a label?",
+   "answers": {
+    "a": "table 36",
+    "b": "table 45",
+    "c": "table 39",
+    "d": "table 40"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation method do you use to remove an insoluble solid from a liquid?",
+   "answers": {
+    "a": "filtration",
+    "b": "evaporation",
+    "c": "cracking",
+    "d": "extraction with a solvent"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which separation method do you use to separate two liquids with different boiling points?",
+   "answers": {
+    "a": "settling",
+    "b": "filtration",
+    "c": "evaporation",
+    "d": "distillation"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which separation method do you use to get dissolved salt out of a solution?",
+   "answers": {
+    "a": "settling",
+    "b": "evaporation",
+    "c": "cracking",
+    "d": "filtration"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which separation method does a substance stick to the surface of a solid (such as activated carbon)?",
+   "answers": {
+    "a": "adsorption",
+    "b": "distillation",
+    "c": "evaporation",
+    "d": "settling"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

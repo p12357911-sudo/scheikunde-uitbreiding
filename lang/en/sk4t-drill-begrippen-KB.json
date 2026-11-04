@@ -1,0 +1,129 @@
+{
+ "title": "Drill: terms - 123 school",
+ "heading": "Drill: terms",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What does \"atom\" mean?",
+   "a": "the smallest particle of an element"
+  },
+  {
+   "q": "What does \"molecule\" mean?",
+   "a": "a group of atoms that are joined together"
+  },
+  {
+   "q": "What does \"ion\" mean?",
+   "a": "an atom or group of atoms with a charge"
+  },
+  {
+   "q": "What does \"pure substance\" mean?",
+   "a": "a substance with only one kind of particle"
+  },
+  {
+   "q": "What does \"mixture\" mean?",
+   "a": "two or more substances mixed together"
+  },
+  {
+   "q": "What does \"solution\" mean?",
+   "a": "a clear mixture of a dissolved substance in a liquid"
+  },
+  {
+   "q": "What does \"suspension\" mean?",
+   "a": "a liquid with small solid particles in it"
+  },
+  {
+   "q": "What does \"emulsion\" mean?",
+   "a": "a mixture of two liquids that do not dissolve in each other"
+  },
+  {
+   "q": "What does \"melting\" mean?",
+   "a": "from solid to liquid"
+  },
+  {
+   "q": "What does \"freezing\" mean?",
+   "a": "from liquid to solid"
+  },
+  {
+   "q": "What does \"evaporating\" mean?",
+   "a": "from liquid to gas"
+  },
+  {
+   "q": "What does \"condensing\" mean?",
+   "a": "from gas to liquid"
+  },
+  {
+   "q": "What does \"subliming\" mean?",
+   "a": "from solid directly to gas"
+  },
+  {
+   "q": "What does \"reactant\" mean?",
+   "a": "a substance that is present before the reaction"
+  },
+  {
+   "q": "What does \"reaction product\" mean?",
+   "a": "a substance that is formed by the reaction"
+  },
+  {
+   "q": "What does \"catalyst\" mean?",
+   "a": "a substance that makes a reaction faster and is not used up itself"
+  },
+  {
+   "q": "What does \"combustion\" mean?",
+   "a": "a reaction of a substance with oxygen that releases heat"
+  },
+  {
+   "q": "What does \"decomposition\" mean?",
+   "a": "a reaction in which a substance breaks down into other substances"
+  },
+  {
+   "q": "What does \"salt\" mean?",
+   "a": "a substance built from positive and negative ions"
+  },
+  {
+   "q": "What does \"acid\" mean?",
+   "a": "a substance that gives off H<sup>+</sup> and gives a pH below 7"
+  },
+  {
+   "q": "What does \"base\" mean?",
+   "a": "a substance that gives a pH above 7"
+  },
+  {
+   "q": "What does \"indicator\" mean?",
+   "a": "a substance that changes colour at a different pH"
+  },
+  {
+   "q": "What does \"precipitate\" mean?",
+   "a": "a solid that forms in a liquid"
+  },
+  {
+   "q": "What does \"filtering\" mean?",
+   "a": "separating a solid from a liquid with a filter"
+  },
+  {
+   "q": "What does \"distilling\" mean?",
+   "a": "separating substances because they have different boiling points"
+  },
+  {
+   "q": "What does \"evaporating to dryness\" mean?",
+   "a": "letting the liquid evaporate so the dissolved substance is left"
+  },
+  {
+   "q": "What does \"adsorbing\" mean?",
+   "a": "making a substance stick to the surface of a solid"
+  },
+  {
+   "q": "What does \"alloy\" mean?",
+   "a": "a mixture of metals"
+  },
+  {
+   "q": "What does \"corrosion\" mean?",
+   "a": "the attack of a metal by substances from the environment"
+  },
+  {
+   "q": "What does \"cracking\" mean?",
+   "a": "splitting large hydrocarbon molecules into smaller ones"
+  }
+ ]
+}

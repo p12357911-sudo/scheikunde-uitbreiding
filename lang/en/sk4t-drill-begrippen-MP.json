@@ -1,0 +1,309 @@
+{
+ "title": "Drill: terms - 123 school",
+ "heading": "Drill: terms",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What does \"atom\" mean?",
+   "answers": {
+    "a": "the smallest particle of an element",
+    "b": "letting the liquid evaporate so the dissolved substance is left",
+    "c": "a solid that forms in a liquid",
+    "d": "separating substances because they have different boiling points"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does \"molecule\" mean?",
+   "answers": {
+    "a": "letting the liquid evaporate so the dissolved substance is left",
+    "b": "a group of atoms that are joined together",
+    "c": "a substance that is present before the reaction",
+    "d": "a mixture of two liquids that do not dissolve in each other"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does \"ion\" mean?",
+   "answers": {
+    "a": "an atom or group of atoms with a charge",
+    "b": "separating a solid from a liquid with a filter",
+    "c": "a solid that forms in a liquid",
+    "d": "a mixture of metals"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does \"pure substance\" mean?",
+   "answers": {
+    "a": "making a substance stick to the surface of a solid",
+    "b": "a substance with only one kind of particle",
+    "c": "a clear mixture of a dissolved substance in a liquid",
+    "d": "a mixture of two liquids that do not dissolve in each other"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does \"mixture\" mean?",
+   "answers": {
+    "a": "a solid that forms in a liquid",
+    "b": "two or more substances mixed together",
+    "c": "a reaction in which a substance breaks down into other substances",
+    "d": "a mixture of two liquids that do not dissolve in each other"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does \"solution\" mean?",
+   "answers": {
+    "a": "a clear mixture of a dissolved substance in a liquid",
+    "b": "letting the liquid evaporate so the dissolved substance is left",
+    "c": "the attack of a metal by substances from the environment",
+    "d": "an atom or group of atoms with a charge"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does \"suspension\" mean?",
+   "answers": {
+    "a": "making a substance stick to the surface of a solid",
+    "b": "a group of atoms that are joined together",
+    "c": "a substance that gives off H<sup>+</sup> and gives a pH below 7",
+    "d": "a liquid with small solid particles in it"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does \"emulsion\" mean?",
+   "answers": {
+    "a": "a mixture of metals",
+    "b": "a substance that changes colour at a different pH",
+    "c": "a mixture of two liquids that do not dissolve in each other",
+    "d": "making a substance stick to the surface of a solid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does \"melting\" mean?",
+   "answers": {
+    "a": "from solid to liquid",
+    "b": "from liquid to solid",
+    "c": "from gas to liquid",
+    "d": "from liquid to gas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does \"freezing\" mean?",
+   "answers": {
+    "a": "from solid to liquid",
+    "b": "from gas to liquid",
+    "c": "from liquid to gas",
+    "d": "from liquid to solid"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does \"evaporating\" mean?",
+   "answers": {
+    "a": "from liquid to solid",
+    "b": "from gas to liquid",
+    "c": "from liquid to gas",
+    "d": "from solid to liquid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does \"condensing\" mean?",
+   "answers": {
+    "a": "from gas to liquid",
+    "b": "from liquid to gas",
+    "c": "from liquid to solid",
+    "d": "from solid to liquid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does \"subliming\" mean?",
+   "answers": {
+    "a": "from liquid to solid",
+    "b": "from solid directly to gas",
+    "c": "from liquid to gas",
+    "d": "from solid to liquid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does \"reactant\" mean?",
+   "answers": {
+    "a": "a solid that forms in a liquid",
+    "b": "a substance that makes a reaction faster and is not used up itself",
+    "c": "a substance that is formed by the reaction",
+    "d": "a substance that is present before the reaction"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does \"reaction product\" mean?",
+   "answers": {
+    "a": "a substance that makes a reaction faster and is not used up itself",
+    "b": "a substance that is formed by the reaction",
+    "c": "a substance that is present before the reaction",
+    "d": "a solid that forms in a liquid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does \"catalyst\" mean?",
+   "answers": {
+    "a": "a substance that makes a reaction faster and is not used up itself",
+    "b": "a clear mixture of a dissolved substance in a liquid",
+    "c": "letting the liquid evaporate so the dissolved substance is left",
+    "d": "making a substance stick to the surface of a solid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does \"combustion\" mean?",
+   "answers": {
+    "a": "an atom or group of atoms with a charge",
+    "b": "a reaction of a substance with oxygen that releases heat",
+    "c": "the smallest particle of an element",
+    "d": "a solid that forms in a liquid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does \"decomposition\" mean?",
+   "answers": {
+    "a": "a mixture of two liquids that do not dissolve in each other",
+    "b": "a reaction in which a substance breaks down into other substances",
+    "c": "a liquid with small solid particles in it",
+    "d": "a group of atoms that are joined together"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does \"salt\" mean?",
+   "answers": {
+    "a": "a substance built from positive and negative ions",
+    "b": "the smallest particle of an element",
+    "c": "a substance that gives a pH above 7",
+    "d": "letting the liquid evaporate so the dissolved substance is left"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does \"acid\" mean?",
+   "answers": {
+    "a": "a substance built from positive and negative ions",
+    "b": "a substance that gives a pH above 7",
+    "c": "a substance that changes colour at a different pH",
+    "d": "a substance that gives off H<sup>+</sup> and gives a pH below 7"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does \"base\" mean?",
+   "answers": {
+    "a": "a substance built from positive and negative ions",
+    "b": "a substance that changes colour at a different pH",
+    "c": "a substance that gives off H<sup>+</sup> and gives a pH below 7",
+    "d": "a substance that gives a pH above 7"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does \"indicator\" mean?",
+   "answers": {
+    "a": "a substance that gives off H<sup>+</sup> and gives a pH below 7",
+    "b": "a substance that changes colour at a different pH",
+    "c": "separating substances because they have different boiling points",
+    "d": "a substance that makes a reaction faster and is not used up itself"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does \"precipitate\" mean?",
+   "answers": {
+    "a": "a mixture of two liquids that do not dissolve in each other",
+    "b": "a substance that changes colour at a different pH",
+    "c": "a liquid with small solid particles in it",
+    "d": "a solid that forms in a liquid"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does \"filtering\" mean?",
+   "answers": {
+    "a": "separating a solid from a liquid with a filter",
+    "b": "a substance that is formed by the reaction",
+    "c": "the attack of a metal by substances from the environment",
+    "d": "a substance that gives a pH above 7"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does \"distilling\" mean?",
+   "answers": {
+    "a": "the attack of a metal by substances from the environment",
+    "b": "the smallest particle of an element",
+    "c": "separating substances because they have different boiling points",
+    "d": "an atom or group of atoms with a charge"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does \"evaporating to dryness\" mean?",
+   "answers": {
+    "a": "a substance that gives off H<sup>+</sup> and gives a pH below 7",
+    "b": "a mixture of metals",
+    "c": "letting the liquid evaporate so the dissolved substance is left",
+    "d": "a substance that is present before the reaction"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does \"adsorbing\" mean?",
+   "answers": {
+    "a": "a substance built from positive and negative ions",
+    "b": "an atom or group of atoms with a charge",
+    "c": "making a substance stick to the surface of a solid",
+    "d": "a solid that forms in a liquid"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does \"alloy\" mean?",
+   "answers": {
+    "a": "a substance that is formed by the reaction",
+    "b": "splitting large hydrocarbon molecules into smaller ones",
+    "c": "a mixture of metals",
+    "d": "a reaction of a substance with oxygen that releases heat"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does \"corrosion\" mean?",
+   "answers": {
+    "a": "a substance that changes colour at a different pH",
+    "b": "a substance that is formed by the reaction",
+    "c": "a mixture of two liquids that do not dissolve in each other",
+    "d": "the attack of a metal by substances from the environment"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does \"cracking\" mean?",
+   "answers": {
+    "a": "the smallest particle of an element",
+    "b": "separating substances because they have different boiling points",
+    "c": "splitting large hydrocarbon molecules into smaller ones",
+    "d": "an atom or group of atoms with a charge"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

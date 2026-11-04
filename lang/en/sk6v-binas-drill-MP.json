@@ -1,0 +1,349 @@
+{
+ "title": "Drill: looking up data tables and equilibria - 123 school",
+ "heading": "Drill: looking up data tables and equilibria",
+ "intro": [
+  "Each question tells you which BINAS table you need. Use a calculator where needed."
+ ],
+ "questions": [
+  {
+   "question": "In which BINAS table do you find the solubility products (K<sub>s</sub>) of salts?",
+   "answers": {
+    "a": "table 45",
+    "b": "table 46",
+    "c": "table 49",
+    "d": "table 48"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the K<sub>z</sub> of acids and the K<sub>b</sub> of bases?",
+   "answers": {
+    "a": "table 49",
+    "b": "table 51",
+    "c": "table 46",
+    "d": "table 48"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In which BINAS table do you find the standard electrode potentials?",
+   "answers": {
+    "a": "table 48",
+    "b": "table 46",
+    "c": "table 49",
+    "d": "table 51"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In which BINAS table do you find the equilibrium constants of reactions between gases?",
+   "answers": {
+    "a": "table 48",
+    "b": "table 46",
+    "c": "table 51",
+    "d": "table 50"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which BINAS table do you find the ionisation constant K<sub>w</sub> of water?",
+   "answers": {
+    "a": "table 51",
+    "b": "table 46",
+    "c": "table 49",
+    "d": "table 50"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you find the colour change range of acid-base indicators?",
+   "answers": {
+    "a": "table 49",
+    "b": "table 52A",
+    "c": "table 50",
+    "d": "table 46"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the molar mass of substances?",
+   "answers": {
+    "a": "table 46",
+    "b": "table 40",
+    "c": "table 98",
+    "d": "table 99"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which BINAS table do you find the periodic table?",
+   "answers": {
+    "a": "table 40",
+    "b": "table 98",
+    "c": "table 46",
+    "d": "table 99"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you find the heat of combustion of substances?",
+   "answers": {
+    "a": "table 48",
+    "b": "table 56",
+    "c": "table 98",
+    "d": "table 46"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the formulas and names of complex ions?",
+   "answers": {
+    "a": "table 47",
+    "b": "table 49",
+    "c": "table 48",
+    "d": "table 46"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is K<sub>s</sub> of AgCl? (use BINAS table 46)",
+   "answers": {
+    "a": "5.6·10<sup>–10</sup>",
+    "b": "1.8·10<sup>–10</sup>",
+    "c": "1.8·10<sup>–16</sup>",
+    "d": "1.8·10<sup>–5</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Use K<sub>s</sub> of AgCl (BINAS table 46) to calculate the solubility of AgCl in pure water",
+   "answers": {
+    "a": "1.8·10<sup>–10</sup> mol/L",
+    "b": "1.8·10<sup>–5</sup> mol/L",
+    "c": "1.3·10<sup>–5</sup> mol/L",
+    "d": "9.0·10<sup>–11</sup> mol/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is K<sub>z</sub> of acetic acid? (use BINAS table 49)",
+   "answers": {
+    "a": "1.0·10<sup>–7</sup>",
+    "b": "5.6·10<sup>–10</sup>",
+    "c": "1.8·10<sup>–5</sup>",
+    "d": "1.8·10<sup>–10</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is K<sub>b</sub> of ammonia? (use BINAS table 49)",
+   "answers": {
+    "a": "1.0·10<sup>–14</sup>",
+    "b": "1.8·10<sup>–5</sup>",
+    "c": "5.6·10<sup>–10</sup>",
+    "d": "1.8·10<sup>–9</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Use K<sub>z</sub> of acetic acid (BINAS table 49) to calculate the pH of 0.10 mol/L acetic acid",
+   "answers": {
+    "a": "4.74",
+    "b": "2.87",
+    "c": "5.74",
+    "d": "1.00"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Use K<sub>b</sub> of ammonia (BINAS table 49) to calculate the pH of 0.10 mol/L ammonia",
+   "answers": {
+    "a": "13.00",
+    "b": "8.87",
+    "c": "2.87",
+    "d": "11.13"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate K<sub>b</sub> of the acetate ion using K<sub>z</sub> of acetic acid from BINAS table 49",
+   "answers": {
+    "a": "5.6·10<sup>–5</sup>",
+    "b": "1.8·10<sup>–5</sup>",
+    "c": "5.6·10<sup>–10</sup>",
+    "d": "1.8·10<sup>–19</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is E<sup>0</sup> of the half-reaction Cu<sup>2+</sup> + 2 e<sup>–</sup> ⇌ Cu? (use BINAS table 48)",
+   "answers": {
+    "a": "–0.34 V",
+    "b": "+0.52 V",
+    "c": "+0.80 V",
+    "d": "+0.34 V"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is E<sup>0</sup> of the half-reaction Zn<sup>2+</sup> + 2 e<sup>–</sup> ⇌ Zn? (use BINAS table 48)",
+   "answers": {
+    "a": "+0.76 V",
+    "b": "–0.44 V",
+    "c": "–1.66 V",
+    "d": "–0.76 V"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the standard voltage of a cell with Zn and Cu (BINAS table 48)",
+   "answers": {
+    "a": "–1.10 V",
+    "b": "0.34 V",
+    "c": "0.42 V",
+    "d": "1.10 V"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the standard voltage of a cell with Fe and Ag (BINAS table 48)",
+   "answers": {
+    "a": "1.24 V",
+    "b": "0.36 V",
+    "c": "0.80 V",
+    "d": "0.44 V"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is the strongest oxidising agent: Ag<sup>+</sup>, Cu<sup>2+</sup> or Zn<sup>2+</sup>? (use BINAS table 48)",
+   "answers": {
+    "a": "Ag<sup>+</sup>",
+    "b": "Cu<sup>2+</sup>",
+    "c": "Zn<sup>2+</sup>",
+    "d": "they are equally strong"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is the strongest reducing agent: Zn, Cu or Ag? (use BINAS table 48)",
+   "answers": {
+    "a": "Cu",
+    "b": "Zn",
+    "c": "they are equally strong",
+    "d": "Ag"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Does Zn react with a solution of HCl? (use BINAS table 48)",
+   "answers": {
+    "a": "yes, because Zn is a non-metal",
+    "b": "no, because E<sup>0</sup> of Zn is higher than that of H<sup>+</sup>",
+    "c": "yes, because E<sup>0</sup> of Zn is lower than that of H<sup>+</sup>",
+    "d": "no, because Zn is a noble metal"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Does Cu react with a solution of HCl? (use BINAS table 48)",
+   "answers": {
+    "a": "no, because HCl is a weak acid",
+    "b": "no, because E<sup>0</sup> of Cu is higher than that of H<sup>+</sup>",
+    "c": "yes, because E<sup>0</sup> of Cu is higher than that of H<sup>+</sup>",
+    "d": "yes, because Cu is a base metal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Does Cl<sub>2</sub> react with Br<sup>–</sup>? (use BINAS table 48)",
+   "answers": {
+    "a": "no, both are gases",
+    "b": "no, Br<sub>2</sub> is a stronger oxidising agent than Cl<sub>2</sub>",
+    "c": "yes, Br<sup>–</sup> is a stronger oxidising agent than Cl<sub>2</sub>",
+    "d": "yes, Cl<sub>2</sub> is a stronger oxidising agent than Br<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You titrate acetic acid with sodium hydroxide. The equivalence point is at a pH higher than 7. Which indicator from BINAS table 52A fits best?",
+   "answers": {
+    "a": "phenolphthalein (changes around pH 9)",
+    "b": "methyl orange (changes around pH 4)",
+    "c": "bromothymol blue (changes around pH 7)",
+    "d": "methyl red (changes around pH 5)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You titrate HCl with sodium hydroxide. The equivalence point is at pH 7. Which indicator from BINAS table 52A fits best?",
+   "answers": {
+    "a": "methyl orange (changes around pH 4)",
+    "b": "methyl red (changes around pH 5)",
+    "c": "bromothymol blue (changes around pH 7)",
+    "d": "phenolphthalein (changes around pH 9)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "For A + B ⇌ C, K = 10. At equilibrium [A] = 0.10 and [B] = 0.20 mol/L. What is [C]?",
+   "answers": {
+    "a": "0.030 mol/L",
+    "b": "0.50 mol/L",
+    "c": "2.0 mol/L",
+    "d": "0.20 mol/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "For 2 A ⇌ B, K = 5.0. At equilibrium [A] = 0.20 mol/L. What is [B]?",
+   "answers": {
+    "a": "0.20 mol/L",
+    "b": "1.0 mol/L",
+    "c": "0.10 mol/L",
+    "d": "0.040 mol/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "For A ⇌ 2 B, K = 0.10. At equilibrium [A] = 0.40 mol/L. What is [B]?",
+   "answers": {
+    "a": "0.80 mol/L",
+    "b": "0.20 mol/L",
+    "c": "0.040 mol/L",
+    "d": "0.10 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "For A + B ⇌ C, K = 10. Now [A] = 0.10, [B] = 0.10 and [C] = 0.20 mol/L. What happens?",
+   "answers": {
+    "a": "Q = 20; the reaction goes to the left",
+    "b": "Q = 10; there is equilibrium",
+    "c": "Q = 20; the reaction goes to the right",
+    "d": "Q = 0.050; the reaction goes to the left"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is K for C ⇌ A + B if for A + B ⇌ C K = 10?",
+   "answers": {
+    "a": "–10",
+    "b": "10",
+    "c": "0.10",
+    "d": "100"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is [Ag<sup>+</sup>] in a saturated solution of AgCl with [Cl<sup>–</sup>] = 0.010 mol/L? (K<sub>s</sub> from BINAS table 46)",
+   "answers": {
+    "a": "1.8·10<sup>–8</sup> mol/L",
+    "b": "1.8·10<sup>–12</sup> mol/L",
+    "c": "1.8·10<sup>–10</sup> mol/L",
+    "d": "1.3·10<sup>–5</sup> mol/L"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

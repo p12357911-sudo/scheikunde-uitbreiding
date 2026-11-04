@@ -1,0 +1,309 @@
+{
+ "title": "Drill: begrippen - 123 school",
+ "heading": "Drill: begrippen",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat betekent \"atoom\"?",
+   "answers": {
+    "a": "het kleinste deeltje van een element",
+    "b": "de vloeistof laten verdampen zodat de opgeloste stof overblijft",
+    "c": "een vaste stof die ontstaat in een vloeistof",
+    "d": "stoffen scheiden doordat ze een ander kookpunt hebben"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent \"molecuul\"?",
+   "answers": {
+    "a": "de vloeistof laten verdampen zodat de opgeloste stof overblijft",
+    "b": "een groepje atomen dat aan elkaar zit",
+    "c": "een stof die voor de reactie aanwezig is",
+    "d": "een mengsel van twee vloeistoffen die niet in elkaar oplossen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent \"ion\"?",
+   "answers": {
+    "a": "een atoom of groepje atomen met een lading",
+    "b": "een vaste stof van een vloeistof scheiden met een filter",
+    "c": "een vaste stof die ontstaat in een vloeistof",
+    "d": "een mengsel van metalen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent \"zuivere stof\"?",
+   "answers": {
+    "a": "een stof laten vastzitten aan het oppervlak van een vaste stof",
+    "b": "een stof met maar één soort deeltjes",
+    "c": "een helder mengsel van een opgeloste stof in een vloeistof",
+    "d": "een mengsel van twee vloeistoffen die niet in elkaar oplossen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent \"mengsel\"?",
+   "answers": {
+    "a": "een vaste stof die ontstaat in een vloeistof",
+    "b": "twee of meer stoffen door elkaar",
+    "c": "een reactie waarbij een stof in andere stoffen uit elkaar valt",
+    "d": "een mengsel van twee vloeistoffen die niet in elkaar oplossen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent \"oplossing\"?",
+   "answers": {
+    "a": "een helder mengsel van een opgeloste stof in een vloeistof",
+    "b": "de vloeistof laten verdampen zodat de opgeloste stof overblijft",
+    "c": "het aantasten van een metaal door stoffen uit de omgeving",
+    "d": "een atoom of groepje atomen met een lading"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent \"suspensie\"?",
+   "answers": {
+    "a": "een stof laten vastzitten aan het oppervlak van een vaste stof",
+    "b": "een groepje atomen dat aan elkaar zit",
+    "c": "een stof die H<sup>+</sup> afstaat en een pH onder 7 geeft",
+    "d": "een vloeistof met kleine vaste deeltjes erin"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent \"emulsie\"?",
+   "answers": {
+    "a": "een mengsel van metalen",
+    "b": "een stof die van kleur verandert bij een andere pH",
+    "c": "een mengsel van twee vloeistoffen die niet in elkaar oplossen",
+    "d": "een stof laten vastzitten aan het oppervlak van een vaste stof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent \"smelten\"?",
+   "answers": {
+    "a": "van vast naar vloeibaar",
+    "b": "van vloeibaar naar vast",
+    "c": "van gas naar vloeibaar",
+    "d": "van vloeibaar naar gas"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent \"stollen\"?",
+   "answers": {
+    "a": "van vast naar vloeibaar",
+    "b": "van gas naar vloeibaar",
+    "c": "van vloeibaar naar gas",
+    "d": "van vloeibaar naar vast"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent \"verdampen\"?",
+   "answers": {
+    "a": "van vloeibaar naar vast",
+    "b": "van gas naar vloeibaar",
+    "c": "van vloeibaar naar gas",
+    "d": "van vast naar vloeibaar"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent \"condenseren\"?",
+   "answers": {
+    "a": "van gas naar vloeibaar",
+    "b": "van vloeibaar naar gas",
+    "c": "van vloeibaar naar vast",
+    "d": "van vast naar vloeibaar"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent \"sublimeren\"?",
+   "answers": {
+    "a": "van vloeibaar naar vast",
+    "b": "van vast direct naar gas",
+    "c": "van vloeibaar naar gas",
+    "d": "van vast naar vloeibaar"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent \"beginstof\"?",
+   "answers": {
+    "a": "een vaste stof die ontstaat in een vloeistof",
+    "b": "een stof die een reactie sneller maakt en zelf niet opgebruikt wordt",
+    "c": "een stof die na de reactie is ontstaan",
+    "d": "een stof die voor de reactie aanwezig is"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent \"reactieproduct\"?",
+   "answers": {
+    "a": "een stof die een reactie sneller maakt en zelf niet opgebruikt wordt",
+    "b": "een stof die na de reactie is ontstaan",
+    "c": "een stof die voor de reactie aanwezig is",
+    "d": "een vaste stof die ontstaat in een vloeistof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent \"katalysator\"?",
+   "answers": {
+    "a": "een stof die een reactie sneller maakt en zelf niet opgebruikt wordt",
+    "b": "een helder mengsel van een opgeloste stof in een vloeistof",
+    "c": "de vloeistof laten verdampen zodat de opgeloste stof overblijft",
+    "d": "een stof laten vastzitten aan het oppervlak van een vaste stof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent \"verbranding\"?",
+   "answers": {
+    "a": "een atoom of groepje atomen met een lading",
+    "b": "een reactie van een stof met zuurstof waarbij warmte vrijkomt",
+    "c": "het kleinste deeltje van een element",
+    "d": "een vaste stof die ontstaat in een vloeistof"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent \"ontleding\"?",
+   "answers": {
+    "a": "een mengsel van twee vloeistoffen die niet in elkaar oplossen",
+    "b": "een reactie waarbij een stof in andere stoffen uit elkaar valt",
+    "c": "een vloeistof met kleine vaste deeltjes erin",
+    "d": "een groepje atomen dat aan elkaar zit"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent \"zout\"?",
+   "answers": {
+    "a": "een stof opgebouwd uit positieve en negatieve ionen",
+    "b": "het kleinste deeltje van een element",
+    "c": "een stof die een pH boven 7 geeft",
+    "d": "de vloeistof laten verdampen zodat de opgeloste stof overblijft"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent \"zuur\"?",
+   "answers": {
+    "a": "een stof opgebouwd uit positieve en negatieve ionen",
+    "b": "een stof die een pH boven 7 geeft",
+    "c": "een stof die van kleur verandert bij een andere pH",
+    "d": "een stof die H<sup>+</sup> afstaat en een pH onder 7 geeft"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent \"base\"?",
+   "answers": {
+    "a": "een stof opgebouwd uit positieve en negatieve ionen",
+    "b": "een stof die van kleur verandert bij een andere pH",
+    "c": "een stof die H<sup>+</sup> afstaat en een pH onder 7 geeft",
+    "d": "een stof die een pH boven 7 geeft"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent \"indicator\"?",
+   "answers": {
+    "a": "een stof die H<sup>+</sup> afstaat en een pH onder 7 geeft",
+    "b": "een stof die van kleur verandert bij een andere pH",
+    "c": "stoffen scheiden doordat ze een ander kookpunt hebben",
+    "d": "een stof die een reactie sneller maakt en zelf niet opgebruikt wordt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat betekent \"neerslag\"?",
+   "answers": {
+    "a": "een mengsel van twee vloeistoffen die niet in elkaar oplossen",
+    "b": "een stof die van kleur verandert bij een andere pH",
+    "c": "een vloeistof met kleine vaste deeltjes erin",
+    "d": "een vaste stof die ontstaat in een vloeistof"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent \"filtreren\"?",
+   "answers": {
+    "a": "een vaste stof van een vloeistof scheiden met een filter",
+    "b": "een stof die na de reactie is ontstaan",
+    "c": "het aantasten van een metaal door stoffen uit de omgeving",
+    "d": "een stof die een pH boven 7 geeft"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent \"destilleren\"?",
+   "answers": {
+    "a": "het aantasten van een metaal door stoffen uit de omgeving",
+    "b": "het kleinste deeltje van een element",
+    "c": "stoffen scheiden doordat ze een ander kookpunt hebben",
+    "d": "een atoom of groepje atomen met een lading"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent \"indampen\"?",
+   "answers": {
+    "a": "een stof die H<sup>+</sup> afstaat en een pH onder 7 geeft",
+    "b": "een mengsel van metalen",
+    "c": "de vloeistof laten verdampen zodat de opgeloste stof overblijft",
+    "d": "een stof die voor de reactie aanwezig is"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent \"adsorberen\"?",
+   "answers": {
+    "a": "een stof opgebouwd uit positieve en negatieve ionen",
+    "b": "een atoom of groepje atomen met een lading",
+    "c": "een stof laten vastzitten aan het oppervlak van een vaste stof",
+    "d": "een vaste stof die ontstaat in een vloeistof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent \"legering\"?",
+   "answers": {
+    "a": "een stof die na de reactie is ontstaan",
+    "b": "grote koolwaterstofmoleculen in kleinere splitsen",
+    "c": "een mengsel van metalen",
+    "d": "een reactie van een stof met zuurstof waarbij warmte vrijkomt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent \"corrosie\"?",
+   "answers": {
+    "a": "een stof die van kleur verandert bij een andere pH",
+    "b": "een stof die na de reactie is ontstaan",
+    "c": "een mengsel van twee vloeistoffen die niet in elkaar oplossen",
+    "d": "het aantasten van een metaal door stoffen uit de omgeving"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat betekent \"kraken\"?",
+   "answers": {
+    "a": "het kleinste deeltje van een element",
+    "b": "stoffen scheiden doordat ze een ander kookpunt hebben",
+    "c": "grote koolwaterstofmoleculen in kleinere splitsen",
+    "d": "een atoom of groepje atomen met een lading"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

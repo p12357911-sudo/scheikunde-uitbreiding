@@ -1,0 +1,133 @@
+{
+ "title": "Drill: calculations - 123 school",
+ "heading": "Drill: calculations",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "A piece of metal has a mass of 54 g and a volume of 20 cm³. What is the density?",
+   "a": "2.7 g/cm³"
+  },
+  {
+   "q": "A piece of metal has a mass of 78.7 g and a volume of 10.0 cm³. What is the density?",
+   "a": "7.87 g/cm³"
+  },
+  {
+   "q": "A small block has a volume of 5.0 cm³ and a density of 19.3 g/cm³. What is the mass?",
+   "a": "96.5 g"
+  },
+  {
+   "q": "A piece of copper has a volume of 10 cm³. The density of copper is 8.96 g/cm³. What is the mass?",
+   "a": "89.6 g"
+  },
+  {
+   "q": "Alcohol has a density of 0.80 g/mL. What is the mass of 250 mL of alcohol?",
+   "a": "200 g"
+  },
+  {
+   "q": "A piece of rock has a mass of 500 g and a density of 2.5 g/cm³. What is the volume?",
+   "a": "200 cm³"
+  },
+  {
+   "q": "Water has a density of 1.0 g/mL. What is the mass of 3.0 L of water?",
+   "a": "3000 g"
+  },
+  {
+   "q": "Convert: 2.5 kg = ... g",
+   "a": "2500 g"
+  },
+  {
+   "q": "Convert: 750 mL = ... L",
+   "a": "0.75 L"
+  },
+  {
+   "q": "Convert: 0.35 L = ... mL",
+   "a": "350 mL"
+  },
+  {
+   "q": "Convert: 4500 mg = ... g",
+   "a": "4.5 g"
+  },
+  {
+   "q": "Convert: 30 °C = ... K",
+   "a": "303 K"
+  },
+  {
+   "q": "Convert: 300 K = ... °C",
+   "a": "27 °C"
+  },
+  {
+   "q": "Convert: 5.0 cm³ = ... mL",
+   "a": "5.0 mL"
+  },
+  {
+   "q": "Convert: 0.5 kg = ... g",
+   "a": "500 g"
+  },
+  {
+   "q": "A mixture of 120 g contains 30 g of salt. What is the mass percentage of salt?",
+   "a": "25%"
+  },
+  {
+   "q": "A mixture of 200 g contains 15% sugar. How many grams of sugar is that?",
+   "a": "30 g"
+  },
+  {
+   "q": "A mixture of 80 g contains 12 g of salt. What is the mass percentage of salt?",
+   "a": "15%"
+  },
+  {
+   "q": "Sea water contains 3.5% salt. How many grams of salt are in 2000 g of sea water?",
+   "a": "70 g"
+  },
+  {
+   "q": "20 g of salt is dissolved in 0.50 L of solution. What is the concentration?",
+   "a": "40 g/L"
+  },
+  {
+   "q": "The concentration is 15 g/L. How many grams are in 2.0 L?",
+   "a": "30 g"
+  },
+  {
+   "q": "60 g of sugar is dissolved in 3.0 L of solution. What is the concentration?",
+   "a": "20 g/L"
+  },
+  {
+   "q": "The concentration is 25 g/L. How many litres of solution contain 100 g?",
+   "a": "4.0 L"
+  },
+  {
+   "q": "You dilute 100 mL of a solution of 20 g/L with water to 400 mL. What is the new concentration?",
+   "a": "5.0 g/L"
+  },
+  {
+   "q": "A solution of 50 g/L is diluted 5 times. What is the new concentration?",
+   "a": "10 g/L"
+  },
+  {
+   "q": "You dilute 10 mL of a solution of 30 g/L with water to 60 mL. What is the new concentration?",
+   "a": "5.0 g/L"
+  },
+  {
+   "q": "What is the molecular mass of H<sub>2</sub>O? (H = 1.0 and O = 16.0)",
+   "a": "18.0 u"
+  },
+  {
+   "q": "What is the molecular mass of CO<sub>2</sub>? (C = 12.0 and O = 16.0)",
+   "a": "44.0 u"
+  },
+  {
+   "q": "What is the molecular mass of NH<sub>3</sub>? (N = 14.0 and H = 1.0)",
+   "a": "17.0 u"
+  },
+  {
+   "q": "A device takes in 200 J of energy and gives 60 J of useful energy. What is the efficiency?",
+   "a": "30%"
+  },
+  {
+   "q": "A device has an efficiency of 40% and takes in 500 J. How much of that is useful?",
+   "a": "200 J"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "title": "Productieprocessen - 123 school",
+ "heading": "Productieprocessen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een productieketen?",
+   "a": "Een reeks stappen waarin een grondstof via tussenproducten wordt omgezet in een eindproduct"
+  },
+  {
+   "q": "Geef een productieketen van aardolie tot een plastic zak",
+   "a": "Aardolie → destillatie → nafta → kraken → etheen → polymerisatie → polyetheen → plastic zak",
+   "e": "Gebruik BINAS tabel 41 voor het stroomschema van aardolie."
+  },
+  {
+   "q": "Wat staat er in een blokschema?",
+   "a": "Blokken voor de stappen van het proces (en de stoffen) en pijlen die laten zien welke kant de stoffen op gaan"
+  },
+  {
+   "q": "Hoe laat je in een blokschema zien dat een stof wordt teruggevoerd?",
+   "a": "Met een pijl terug naar een eerder blok"
+  },
+  {
+   "q": "Wat is een grondstof?",
+   "a": "Een stof uit de natuur waarmee een productieproces begint, bijvoorbeeld aardolie, lucht of een erts"
+  },
+  {
+   "q": "Waarom mengt een fabriek de beginstoffen in de juiste massaverhouding?",
+   "a": "Anders blijft er een beginstof over en dat is verspilling"
+  },
+  {
+   "q": "Wat is overmaat?",
+   "a": "De beginstof waarvan er na de reactie nog wat over is"
+  },
+  {
+   "q": "Geef de massaverhouding waterstof : zuurstof : water bij 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O (gebruik BINAS tabel 33 voor de atoommassa's)",
+   "a": "4,0 : 32,0 : 36,0",
+   "e": "2 × 2,0 = 4,0 (waterstof), 2 × 16,0 = 32,0 (zuurstof), 2 × 18,0 = 36,0 (water)."
+  },
+  {
+   "q": "Hoeveel gram zuurstof is nodig voor 4,0 g waterstof?",
+   "a": "32 g"
+  },
+  {
+   "q": "Hoeveel gram waterstof is nodig om 90 g water te maken?",
+   "a": "90 g × 4,0 : 36,0 = 10 g"
+  },
+  {
+   "q": "Bij de verbranding van koolstof geldt C + O<sub>2</sub> → CO<sub>2</sub> met massaverhouding 12,0 : 32,0 : 44,0. Hoeveel gram CO<sub>2</sub> ontstaat uit 6,0 g koolstof?",
+   "a": "6,0 g × 44,0 : 12,0 = 22 g"
+  },
+  {
+   "q": "Je laat 4,0 g waterstof reageren met 40,0 g zuurstof. Welke stof is in overmaat en hoeveel gram blijft over?",
+   "a": "Zuurstof; er is 32,0 g nodig, dus 8,0 g blijft over"
+  },
+  {
+   "q": "Je laat 6,0 g koolstof reageren met 12,0 g zuurstof (C + O<sub>2</sub> → CO<sub>2</sub>, massaverhouding 12,0 : 32,0 : 44,0). Welke stof is in overmaat en hoeveel gram blijft over?",
+   "a": "Koolstof; 12,0 g zuurstof reageert met 4,5 g koolstof, dus 1,5 g koolstof blijft over"
+  },
+  {
+   "q": "Methaan verbrandt volgens CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O. Geef de massaverhouding methaan : zuurstof : koolstofdioxide : water",
+   "a": "16,0 : 64,0 : 44,0 : 36,0"
+  },
+  {
+   "q": "Hoeveel gram koolstofdioxide ontstaat bij de volledige verbranding van 32,0 g methaan?",
+   "a": "32,0 g × 44,0 : 16,0 = 88 g"
+  },
+  {
+   "q": "Voor ammoniak geldt N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> met massaverhouding 28,0 : 6,0 : 34,0. Hoeveel gram ammoniak ontstaat uit 28,0 g stikstof?",
+   "a": "34,0 g"
+  },
+  {
+   "q": "Uit welke grondstoffen maakt de industrie ammoniak?",
+   "a": "Stikstof (uit de lucht) en waterstof (bijvoorbeeld uit aardgas)"
+  },
+  {
+   "q": "Waarom voert een fabriek stoffen die niet gereageerd hebben terug in het proces?",
+   "a": "Zo wordt er minder verspild en zijn er minder nieuwe grondstoffen nodig"
+  },
+  {
+   "q": "In een ertsmonster van 200 g zit 140 g ijzeroxide. Wat is het massapercentage ijzeroxide?",
+   "a": "140 : 200 × 100% = 70%"
+  },
+  {
+   "q": "Wijn van 750 mL bevat 12 volumeprocent alcohol. Hoeveel mL alcohol is dat?",
+   "a": "12% van 750 mL = 90 mL"
+  },
+  {
+   "q": "Lucht bevat 21 volumeprocent zuurstof. Hoeveel liter zuurstof zit er in 50 L lucht?",
+   "a": "21% van 50 L = 10,5 L"
+  },
+  {
+   "q": "Voor de productie van ijzer geldt 2 Fe<sub>2</sub>O<sub>3</sub> + 3 C → 4 Fe + 3 CO<sub>2</sub>. Uit 319,2 g ijzeroxide ontstaat 223,2 g ijzer. Hoeveel gram ijzer ontstaat uit 159,6 g ijzeroxide?",
+   "a": "159,6 g × 223,2 : 319,2 = 111,6 g"
+  },
+  {
+   "q": "Wat is een tussenproduct?",
+   "a": "Een stof die in een productieketen wordt gemaakt en daarna weer wordt gebruikt voor een volgende stap"
+  }
+ ]
+}

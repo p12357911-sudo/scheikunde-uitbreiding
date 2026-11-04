@@ -86,6 +86,8 @@ def vergelijk(a, c):
             else: delen.append(f'  {k}\n    orig: {str(a[k])[:3000]}\n    nieuw: {str(c.get(k))[:3000]}')
     return delen
 
+_NIEUW4T = ('sk4t-productonderzoek', 'sk4t-productieprocessen', 'sk4t-drill-', 'sk6v-')
+
 def main():
     man = json.load(open(os.path.join(ROOT, 'tools/manifest.json')))['pagina']
     paginas = sys.argv[1:] or (['index', 'puzzel-moleculaire-stoffen'] + sorted(man))
@@ -115,8 +117,12 @@ def main():
                 a['sec'] = {k: v.replace('Kies hier het type vraag Kennis Basis vragen (KB) Multiple choice (MP)', 'Vraag-antwoord (KB) Meerkeuze (MP)').replace('en volg de link', 'en klik op de knop').replace('vraag-antwoord en multiple choice', 'vraag-antwoord en meerkeuze') for k, v in a['sec'].items()}
                 a['links'] = [l.replace('http://www.shorturl.at/motR0', 'https://docs.google.com/forms/d/e/1FAIpQLSd4PXOavgX6V543qbkOmy8MxyS5pHjNA50CFyZFEqMx6oQZjw/viewform') for l in a['links']]   # bewust: Klimaatcrisis-link naar het Google Form Klimaatverandering (NL)
                 # bewust (uitbreidingssite): extra menu-item 'Soorten stoffen' en de Proefversie-tekst
-                c['links'] = [l for l in c['links'] if 'sk4h-soorten-stoffen' not in l]
+                c['links'] = [l for l in c['links'] if 'sk4h-soorten-stoffen' not in l and not any(x in l for x in _NIEUW4T)]
                 c['sec'] = {k: v.replace(' Soorten stoffen', '', 1).replace('Proefversie scheikunde-uitbreiding', 'Proefversie') for k, v in c['sec'].items()}
+                # bewust (uitbreidingssite): nieuwe menu-items in de NaSk2-lijst (leerjaar 4 vmbo)
+                for _t in ('Productonderzoek', 'Productieprocessen', 'Drill: begrippen', 'Drill: rekenen', 'Drill: Binas opzoeken', 'Chemisch evenwicht 1', 'Chemisch evenwicht 2', 'Zuur-base-evenwichten', 'Koolstofchemie', 'Drill: Binas en evenwichten'):
+                    c['sec'] = {k: v.replace(' ' + _t, '', 1) for k, v in c['sec'].items()}
+                c['sec'] = {k: v.replace(' Leerjaar 6 Onderwerpen', '', 1) for k, v in c['sec'].items()}; c['kop'] = [h for h in c['kop'] if h != 'H2:Leerjaar 6']   # bewust (uitbreidingssite): extra kolom Leerjaar 6
                 a['sec'].pop('contact'); cc = c['sec'].pop('contact')
                 a['links'] = [l for l in a['links'] if 'mailto:' not in l and l != 'Stuur ons een bericht|#contact']
                 c_links = [l for l in c['links'] if l != 'Stuur een bericht|'+FORM]

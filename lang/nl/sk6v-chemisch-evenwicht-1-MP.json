@@ -1,0 +1,249 @@
+{
+ "title": "Chemisch evenwicht 1: omkeerbaar, Q en K - 123 school",
+ "heading": "Chemisch evenwicht 1: omkeerbaar, Q en K",
+ "intro": [
+  "Kies bij elke vraag het juiste antwoord. Gebruik waar nodig een rekenmachine."
+ ],
+ "questions": [
+  {
+   "question": "Wat betekent het teken ⇌ in een reactievergelijking?",
+   "answers": {
+    "a": "de reactie is omkeerbaar",
+    "b": "de reactie heeft een katalysator nodig",
+    "c": "de reactie is aflopend",
+    "d": "de reactie is explosief"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat geldt er in een chemisch evenwicht voor de heen- en terugreactie?",
+   "answers": {
+    "a": "alleen de terugreactie verloopt",
+    "b": "beide reacties zijn gestopt",
+    "c": "alleen de heenreactie verloopt",
+    "d": "ze verlopen even snel"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is waar over de concentraties in een evenwicht?",
+   "answers": {
+    "a": "ze zijn allemaal nul",
+    "b": "ze zijn constant",
+    "c": "ze worden steeds kleiner",
+    "d": "ze zijn allemaal gelijk"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een voorwaarde om een evenwicht te laten ontstaan?",
+   "answers": {
+    "a": "een overmaat van een beginstof",
+    "b": "een hoge temperatuur",
+    "c": "een gesloten systeem",
+    "d": "een katalysator"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de evenwichtsvoorwaarde van N<sub>2</sub> + 3 H<sub>2</sub> ⇌ 2 NH<sub>3</sub>?",
+   "answers": {
+    "a": "K = ([N<sub>2</sub>] · [H<sub>2</sub>]<sup>3</sup>) / [NH<sub>3</sub>]<sup>2</sup>",
+    "b": "K = [NH<sub>3</sub>] / ([N<sub>2</sub>] · [H<sub>2</sub>])",
+    "c": "K = [NH<sub>3</sub>]<sup>2</sup> / ([N<sub>2</sub>] · [H<sub>2</sub>]<sup>3</sup>)",
+    "d": "K = [NH<sub>3</sub>]<sup>2</sup> / ([N<sub>2</sub>] + [H<sub>2</sub>]<sup>3</sup>)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de evenwichtsvoorwaarde van H<sub>2</sub> + I<sub>2</sub> ⇌ 2 HI?",
+   "answers": {
+    "a": "K = [HI] / ([H<sub>2</sub>] · [I<sub>2</sub>])",
+    "b": "K = [HI]<sup>2</sup> / ([H<sub>2</sub>] · [I<sub>2</sub>])",
+    "c": "K = 2 [HI] / ([H<sub>2</sub>] · [I<sub>2</sub>])",
+    "d": "K = ([H<sub>2</sub>] · [I<sub>2</sub>]) / [HI]<sup>2</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de evenwichtsvoorwaarde van 2 NO<sub>2</sub> ⇌ N<sub>2</sub>O<sub>4</sub>?",
+   "answers": {
+    "a": "K = [N<sub>2</sub>O<sub>4</sub>] / (2 [NO<sub>2</sub>])",
+    "b": "K = [N<sub>2</sub>O<sub>4</sub>] / [NO<sub>2</sub>]<sup>2</sup>",
+    "c": "K = [N<sub>2</sub>O<sub>4</sub>] · [NO<sub>2</sub>]<sup>2</sup>",
+    "d": "K = [NO<sub>2</sub>]<sup>2</sup> / [N<sub>2</sub>O<sub>4</sub>]"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de evenwichtsvoorwaarde van CaCO<sub>3</sub> (s) ⇌ CaO (s) + CO<sub>2</sub> (g)?",
+   "answers": {
+    "a": "K = [CaO] / [CaCO<sub>3</sub>]",
+    "b": "K = [CaO] · [CO<sub>2</sub>] / [CaCO<sub>3</sub>]",
+    "c": "K = 1 / [CO<sub>2</sub>]",
+    "d": "K = [CO<sub>2</sub>]"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de evenwichtsvoorwaarde van C (s) + CO<sub>2</sub> (g) ⇌ 2 CO (g)?",
+   "answers": {
+    "a": "K = [CO]<sup>2</sup> / ([C] · [CO<sub>2</sub>])",
+    "b": "K = [CO] / [CO<sub>2</sub>]",
+    "c": "K = [CO]<sup>2</sup> / [CO<sub>2</sub>]",
+    "d": "K = [CO<sub>2</sub>] / [CO]<sup>2</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stoffen komen niet voor in de evenwichtsvoorwaarde?",
+   "answers": {
+    "a": "alle reactieproducten",
+    "b": "gassen",
+    "c": "opgeloste stoffen",
+    "d": "vaste stoffen en zuivere vloeistoffen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de concentratiebreuk Q?",
+   "answers": {
+    "a": "de breuk van K met de concentraties op een willekeurig moment",
+    "b": "de waarde van K bij 298 K",
+    "c": "de breuk van K met alleen de beginconcentraties",
+    "d": "het verschil tussen heen- en terugreactie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat geldt er in een evenwicht?",
+   "answers": {
+    "a": "Q = 0",
+    "b": "Q < K",
+    "c": "Q = K",
+    "d": "Q > K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Q is kleiner dan K. Wat gebeurt er?",
+   "answers": {
+    "a": "de reactie verloopt netto naar rechts",
+    "b": "de reactie stopt",
+    "c": "de reactie verloopt netto naar links",
+    "d": "er is evenwicht"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Q is groter dan K. Wat gebeurt er?",
+   "answers": {
+    "a": "de reactie verloopt netto naar rechts",
+    "b": "de reactie verloopt netto naar links",
+    "c": "er is evenwicht",
+    "d": "K wordt groter"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waar hangt K van af?",
+   "answers": {
+    "a": "van de reactie en de temperatuur",
+    "b": "van het volume van het vat",
+    "c": "van de hoeveelheid katalysator",
+    "d": "van de beginconcentraties"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat doet een katalysator met K?",
+   "answers": {
+    "a": "K wordt groter",
+    "b": "niets, K blijft gelijk",
+    "c": "K wordt kleiner",
+    "d": "K wordt nul"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een reactie heeft een zeer grote K. Wat betekent dat?",
+   "answers": {
+    "a": "de reactie is erg langzaam",
+    "b": "de reactie is niet omkeerbaar",
+    "c": "in het evenwicht zijn er vooral reactieproducten",
+    "d": "in het evenwicht zijn er vooral beginstoffen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een reactie heeft een zeer kleine K. Wat betekent dat?",
+   "answers": {
+    "a": "er is nooit een evenwicht",
+    "b": "in het evenwicht zijn er vooral reactieproducten",
+    "c": "de reactie is erg snel",
+    "d": "in het evenwicht zijn er vooral beginstoffen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bij H<sub>2</sub> + I<sub>2</sub> ⇌ 2 HI is in evenwicht [H<sub>2</sub>] = 0,10, [I<sub>2</sub>] = 0,10 en [HI] = 0,40 mol/L. Wat is K?",
+   "answers": {
+    "a": "4,0",
+    "b": "0,0625",
+    "c": "16",
+    "d": "1,6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bij 2 SO<sub>2</sub> + O<sub>2</sub> ⇌ 2 SO<sub>3</sub> is in evenwicht [SO<sub>2</sub>] = 0,20, [O<sub>2</sub>] = 0,10 en [SO<sub>3</sub>] = 0,40 mol/L. Wat is K?",
+   "answers": {
+    "a": "40",
+    "b": "0,025",
+    "c": "20",
+    "d": "80"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Neem aan dat voor N<sub>2</sub>O<sub>4</sub> ⇌ 2 NO<sub>2</sub> geldt K = 0,20. Nu is [N<sub>2</sub>O<sub>4</sub>] = 0,50 en [NO<sub>2</sub>] = 0,10 mol/L. Wat is Q en wat gebeurt er?",
+   "answers": {
+    "a": "Q = 0,20; er is evenwicht",
+    "b": "Q = 2,0; de reactie verloopt naar links",
+    "c": "Q = 0,020; de reactie verloopt naar links",
+    "d": "Q = 0,020; de reactie verloopt naar rechts"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Voor A + B ⇌ C geldt K = 4,0. In evenwicht is [A] = 0,20 en [B] = 0,50 mol/L. Wat is [C]?",
+   "answers": {
+    "a": "0,70 mol/L",
+    "b": "0,40 mol/L",
+    "c": "0,025 mol/L",
+    "d": "2,5 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je begint met 1,00 mol/L H<sub>2</sub> en 1,00 mol/L I<sub>2</sub>. In evenwicht is [HI] = 1,60 mol/L. Wat is [H<sub>2</sub>] in evenwicht?",
+   "answers": {
+    "a": "0,80 mol/L",
+    "b": "1,00 mol/L",
+    "c": "0,40 mol/L",
+    "d": "0,20 mol/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je begint met 1,00 mol/L H<sub>2</sub> en 1,00 mol/L I<sub>2</sub>. In evenwicht is [HI] = 1,60 mol/L. Wat is K?",
+   "answers": {
+    "a": "64",
+    "b": "8,0",
+    "c": "0,016",
+    "d": "16"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

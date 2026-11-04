@@ -1,0 +1,339 @@
+{
+ "title": "Stoffen uit de aarde - 123 school",
+ "heading": "Stoffen uit de aarde",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Welke drie stoffen zijn fossiele brandstoffen?",
+   "answers": {
+    "a": "waterstof, zuurstof en stikstof",
+    "b": "aardolie, zand en zout",
+    "c": "aardolie, aardgas en steenkool",
+    "d": "hout, kolen en wind"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is mijnbouw?",
+   "answers": {
+    "a": "Het bouwen van huizen onder de grond",
+    "b": "Het verbranden van fossiele brandstoffen",
+    "c": "Het uit de grond halen van grondstoffen",
+    "d": "Het zuiveren van afvalwater"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk metaal komt als zuiver metaal in de grond voor?",
+   "answers": {
+    "a": "goud",
+    "b": "zink",
+    "c": "ijzer",
+    "d": "aluminium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In welke vorm komen de meeste metalen in de grond voor?",
+   "answers": {
+    "a": "als vloeistof",
+    "b": "als kunststof",
+    "c": "als metaalerts",
+    "d": "als zuiver metaal"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is corrosie?",
+   "answers": {
+    "a": "Twee metalen worden gemengd tot een legering",
+    "b": "Een onedel metaal reageert met stoffen uit de omgeving, zoals zuurstof en water",
+    "c": "Een metaal smelt door hitte",
+    "d": "Een metaal lost op zonder dat er een reactie plaatsvindt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet corrosie van ijzer?",
+   "answers": {
+    "a": "smelten",
+    "b": "destilleren",
+    "c": "bezinken",
+    "d": "roesten"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stoffen zijn nodig voor het roesten van ijzer?",
+   "answers": {
+    "a": "koolstofdioxide en helium",
+    "b": "alleen waterstof",
+    "c": "stikstof en waterstof",
+    "d": "zuurstof en water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat moet verschillen om twee vloeistoffen met destillatie te kunnen scheiden?",
+   "answers": {
+    "a": "het kookpunt",
+    "b": "het volume",
+    "c": "de kleur",
+    "d": "de hoeveelheid zuurstof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Met welk scheidingsproces worden de fracties van aardolie gescheiden? (gebruik BINAS tabel 41)",
+   "answers": {
+    "a": "filtreren",
+    "b": "(gefractioneerde) destillatie",
+    "c": "indampen",
+    "d": "bezinken"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is kraken?",
+   "answers": {
+    "a": "Water uit aardolie halen",
+    "b": "Kleine moleculen aan elkaar koppelen tot lange ketens",
+    "c": "Grote koolwaterstofmoleculen in kleinere moleculen breken",
+    "d": "Aardolie verbranden"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke atoomsoorten komen vooral voor in koolwaterstoffen?",
+   "answers": {
+    "a": "koolstof en waterstof",
+    "b": "waterstof en stikstof",
+    "c": "koolstof en zuurstof",
+    "d": "koolstof en zwavel"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvoor wordt het residu van de destillatie van aardolie gebruikt?",
+   "answers": {
+    "a": "voor kerosine in vliegtuigen",
+    "b": "voor gasolie in dieselmotoren",
+    "c": "voor benzine in auto's",
+    "d": "voor bitumen en asfalt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de dichtheid van goud? (gebruik BINAS tabel 15)",
+   "answers": {
+    "a": "2,7 g/cm<sup>3</sup>",
+    "b": "8,96 g/cm<sup>3</sup>",
+    "c": "19,30 g/cm<sup>3</sup>",
+    "d": "7,87 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een blokje goud en een even groot blokje koper (dichtheid 8,96 g/cm<sup>3</sup>) liggen naast elkaar. Welk blokje is zwaarder?",
+   "answers": {
+    "a": "het goud, want goud heeft de grootste dichtheid",
+    "b": "het koper, want koper heeft de grootste dichtheid",
+    "c": "ze zijn even zwaar, want ze zijn even groot",
+    "d": "dat kun je niet weten zonder het volume te meten"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel mL is 1 cm<sup>3</sup>?",
+   "answers": {
+    "a": "1000 mL",
+    "b": "100 mL",
+    "c": "10 mL",
+    "d": "1 mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel gram is 1 kg?",
+   "answers": {
+    "a": "10 g",
+    "b": "100 g",
+    "c": "0,001 g",
+    "d": "1000 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waaruit zijn polymeren opgebouwd?",
+   "answers": {
+    "a": "uit zoutkristallen",
+    "b": "uit monomeren",
+    "c": "uit losse ionen",
+    "d": "uit metaalatomen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke kunststof kan smelten bij hogere temperatuur en opnieuw worden gevormd?",
+   "answers": {
+    "a": "een metaalerts",
+    "b": "een thermoharder",
+    "c": "een legering",
+    "d": "een thermoplast"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe geleiden kunststoffen elektrische stroom?",
+   "answers": {
+    "a": "slecht",
+    "b": "goed",
+    "c": "beter dan metalen",
+    "d": "alleen goed in vloeibare vorm"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een legering?",
+   "answers": {
+    "a": "een zout dat is opgelost in water",
+    "b": "een metaal dat uit de grond komt",
+    "c": "een kunststof met een laagje metaal",
+    "d": "een mengsel van een metaal met een of meer andere stoffen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het massapercentage goud in 18 karaat goud? (24 karaat is zuiver goud)",
+   "answers": {
+    "a": "50%",
+    "b": "100%",
+    "c": "75%",
+    "d": "18%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een eigenschap van edelmetalen?",
+   "answers": {
+    "a": "ze corroderen bijna niet",
+    "b": "ze zijn altijd vloeibaar",
+    "c": "ze roesten snel",
+    "d": "ze reageren hevig met water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Zink is een onedel metaal, maar wordt toch gebruikt voor dakgoten. Waarom kan dat?",
+   "answers": {
+    "a": "zink reageert niet met zuurstof",
+    "b": "zink is zwaarder dan ijzer",
+    "c": "zink is een edelmetaal",
+    "d": "er ontstaat een laagje zinkoxide dat het zink beschermt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waar staat MAC voor?",
+   "answers": {
+    "a": "meting van aanwezige chemicaliën",
+    "b": "maximaal aanwezige chemie",
+    "c": "maximaal aanvaarbare concentratie",
+    "d": "massa aan chemische stof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de MAC-waarde van kwik? (gebruik BINAS tabel 40)",
+   "answers": {
+    "a": "5 mg/m<sup>3</sup>",
+    "b": "0,05 mg/m<sup>3</sup>",
+    "c": "0,5 mg/m<sup>3</sup>",
+    "d": "50 mg/m<sup>3</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een reep van 250 g bevat 160 g cacao. Wat is het massapercentage cacao?",
+   "answers": {
+    "a": "160%",
+    "b": "0,64%",
+    "c": "64%",
+    "d": "36%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke scheidingsmethoden worden gebruikt om water te zuiveren?",
+   "answers": {
+    "a": "filtreren en bezinken",
+    "b": "smelten en roesten",
+    "c": "kraken en polymeriseren",
+    "d": "verbranden en kraken"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke drie soorten straling ken je?",
+   "answers": {
+    "a": "rode, groene en blauwe straling",
+    "b": "alfa-, bèta- en gammastraling",
+    "c": "licht-, geluids- en warmtestraling",
+    "d": "zure, neutrale en basische straling"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke maatregel beschermt je tegen straling?",
+   "answers": {
+    "a": "afstand houden en zo kort mogelijk blootstaan",
+    "b": "katoenen handschoenen dragen",
+    "c": "veel water drinken",
+    "d": "zo dicht mogelijk bij de bron komen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van koper? (gebruik BINAS tabel 34)",
+   "answers": {
+    "a": "Ca",
+    "b": "Cu",
+    "c": "Co",
+    "d": "C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het symbool van tin? (gebruik BINAS tabel 34)",
+   "answers": {
+    "a": "Zn",
+    "b": "Sn",
+    "c": "Ti",
+    "d": "Tn"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke fossiele brandstof werd in Nederland vooral in Groningen uit de grond gehaald?",
+   "answers": {
+    "a": "bruinkool",
+    "b": "aardgas",
+    "c": "aardolie",
+    "d": "steenkool"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is een nadeel van het verbranden van kunststofafval?",
+   "answers": {
+    "a": "er komen broeikasgassen en soms schadelijke stoffen vrij",
+    "b": "er ontstaat alleen water",
+    "c": "de kunststof verdwijnt zonder reactieproducten",
+    "d": "er ontstaat zuiver metaal"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

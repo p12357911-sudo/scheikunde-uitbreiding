@@ -1,0 +1,129 @@
+{
+ "title": "Chemical equilibrium 2: shifts, Ks, Kv and industry - 123 school",
+ "heading": "Chemical equilibrium 2: shifts, Ks, Kv and industry",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "Which three things can you change to make an equilibrium shift?",
+   "a": "The concentration of a substance, the pressure (or volume) for gases and the temperature"
+  },
+  {
+   "q": "You add extra starting substance to an equilibrium. What happens to Q and which way does the equilibrium shift?",
+   "a": "Q becomes smaller than K, so the equilibrium shifts to the right (towards the products)"
+  },
+  {
+   "q": "You remove a reaction product from an equilibrium. Which way does the equilibrium shift?",
+   "a": "To the right, because Q becomes smaller than K"
+  },
+  {
+   "q": "What happens to the value of K if you change the concentration of a substance?",
+   "a": "Nothing. K only changes with temperature"
+  },
+  {
+   "q": "You increase the pressure by decreasing the volume. Which way does an equilibrium with gases shift?",
+   "a": "Towards the side with the smaller number of moles of gas"
+  },
+  {
+   "q": "You increase the pressure for N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) ⇌ 2 NH<sub>3</sub> (g). Which way does the equilibrium shift?",
+   "a": "To the right: 4 mol of gas on the left, 2 mol of gas on the right"
+  },
+  {
+   "q": "You increase the pressure for H<sub>2</sub> (g) + I<sub>2</sub> (g) ⇌ 2 HI (g). Which way does the equilibrium shift?",
+   "a": "The equilibrium does not shift: 2 mol of gas on both sides"
+  },
+  {
+   "q": "You double the volume for 2 NO<sub>2</sub> (g) ⇌ N<sub>2</sub>O<sub>4</sub> (g). What happens to Q and which way does the equilibrium shift?",
+   "a": "All concentrations become half. Q becomes 2 times as great and so is greater than K, so the equilibrium shifts to the left"
+  },
+  {
+   "q": "You add a noble gas at constant volume. Does the equilibrium shift?",
+   "a": "No. The concentrations of the reacting substances do not change, so Q stays equal to K"
+  },
+  {
+   "q": "What happens to the position of an equilibrium if you add a catalyst?",
+   "a": "Nothing. The equilibrium is only reached faster"
+  },
+  {
+   "q": "You increase the temperature. Which way does the equilibrium shift?",
+   "a": "Towards the endothermic side (the side that absorbs heat)"
+  },
+  {
+   "q": "You decrease the temperature. Which way does the equilibrium shift?",
+   "a": "Towards the exothermic side (the side that releases heat)"
+  },
+  {
+   "q": "The formation of NH<sub>3</sub> from N<sub>2</sub> and H<sub>2</sub> is exothermic. What happens to K and to the amount of NH<sub>3</sub> if you increase the temperature?",
+   "a": "K becomes smaller and the equilibrium shifts to the left, so there is less NH<sub>3</sub>"
+  },
+  {
+   "q": "Why is a very low temperature not used in ammonia production, although that is favourable for the equilibrium?",
+   "a": "At low temperature the reaction is too slow. That is why a compromise of about 450 °C is used"
+  },
+  {
+   "q": "Which catalyst is used in ammonia production (Haber-Bosch)?",
+   "a": "Iron"
+  },
+  {
+   "q": "How do you remove NH<sub>3</sub> from the equilibrium mixture in ammonia production, and what happens to N<sub>2</sub> and H<sub>2</sub>?",
+   "a": "NH<sub>3</sub> becomes liquid by cooling and is removed. N<sub>2</sub> and H<sub>2</sub> go back to the reactor. So the equilibrium keeps shifting to the right"
+  },
+  {
+   "q": "Give the equilibrium condition for the solubility product of AgCl",
+   "a": "K<sub>s</sub> = [Ag<sup>+</sup>] · [Cl<sup>–</sup>]"
+  },
+  {
+   "q": "Give the equilibrium condition for the solubility product of Ca(OH)<sub>2</sub>",
+   "a": "K<sub>s</sub> = [Ca<sup>2+</sup>] · [OH<sup>–</sup>]<sup>2</sup>"
+  },
+  {
+   "q": "Give the equilibrium condition for the solubility product of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+   "a": "K<sub>s</sub> = [Ca<sup>2+</sup>]<sup>3</sup> · [PO<sub>4</sub><sup>3–</sup>]<sup>2</sup>"
+  },
+  {
+   "q": "For a salt MX (1 : 1), K<sub>s</sub> = 1.0·10<sup>–10</sup>. Calculate the solubility in mol/L in pure water",
+   "a": "[M<sup>+</sup>] = [X<sup>–</sup>] = s, so s<sup>2</sup> = 1.0·10<sup>–10</sup> and s = 1.0·10<sup>–5</sup> mol/L"
+  },
+  {
+   "q": "For a salt M(OH)<sub>2</sub>, K<sub>s</sub> = 4.0·10<sup>–6</sup>. Calculate the solubility s in mol/L in pure water",
+   "a": "[M<sup>2+</sup>] = s and [OH<sup>–</sup>] = 2s, so 4s<sup>3</sup> = 4.0·10<sup>–6</sup> and s = 1.0·10<sup>–2</sup> mol/L"
+  },
+  {
+   "q": "When does a precipitate form if you mix two solutions?",
+   "a": "When Q (with the concentrations after mixing) is greater than K<sub>s</sub>"
+  },
+  {
+   "q": "You mix 50 mL 1.0·10<sup>–3</sup> mol/L AgNO<sub>3</sub> with 50 mL 1.0·10<sup>–3</sup> mol/L NaCl. K<sub>s</sub> of AgCl is 1.8·10<sup>–10</sup>. Does a precipitate form?",
+   "a": "After mixing [Ag<sup>+</sup>] = [Cl<sup>–</sup>] = 5.0·10<sup>–4</sup> mol/L. Q = 2.5·10<sup>–7</sup>, and that is greater than K<sub>s</sub>. So yes, a precipitate forms"
+  },
+  {
+   "q": "Why does AgCl dissolve less well in a NaCl solution than in pure water?",
+   "a": "Because of the extra Cl<sup>–</sup> from NaCl the equilibrium shifts to the left. This is called the common-ion effect"
+  },
+  {
+   "q": "K<sub>s</sub> of AgCl is 1.8·10<sup>–10</sup>. Calculate [Ag<sup>+</sup>] in a saturated solution with [Cl<sup>–</sup>] = 0.10 mol/L",
+   "a": "[Ag<sup>+</sup>] = K<sub>s</sub> / [Cl<sup>–</sup>] = 1.8·10<sup>–10</sup> / 0.10 = 1.8·10<sup>–9</sup> mol/L"
+  },
+  {
+   "q": "What is K<sub>v</sub>?",
+   "a": "The constant of the distribution (partition) equilibrium: a substance distributes itself over two immiscible liquids"
+  },
+  {
+   "q": "A substance A distributes itself over hexane and water. Give K<sub>v</sub> if K<sub>v</sub> = [A] in hexane / [A] in water. At equilibrium [A] in water is 0.020 mol/L and in hexane 1.0 mol/L",
+   "a": "K<sub>v</sub> = 1.0 / 0.020 = 50"
+  },
+  {
+   "q": "For a substance A, K<sub>v</sub> = [A] in hexane / [A] in water = 40. In water [A] = 0.010 mol/L. Calculate [A] in the hexane",
+   "a": "[A] in hexane = 40 × 0.010 = 0.40 mol/L"
+  },
+  {
+   "q": "What must be true about K<sub>v</sub> to be able to extract a substance well from water?",
+   "a": "K<sub>v</sub> (organic / water) must be large, so the substance mainly ends up in the extraction agent"
+  },
+  {
+   "q": "Is it better to extract once with 100 mL extraction agent or four times with 25 mL?",
+   "a": "Four times with 25 mL: that removes more of the substance from the water"
+  }
+ ]
+}

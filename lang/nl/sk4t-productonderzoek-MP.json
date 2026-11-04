@@ -1,0 +1,289 @@
+{
+ "title": "Productonderzoek - 123 school",
+ "heading": "Productonderzoek",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is het eindpunt van een titratie?",
+   "answers": {
+    "a": "het moment waarop je begint met toevoegen",
+    "b": "het moment waarop de indicator van kleur verandert",
+    "c": "het moment waarop de oplossing gaat koken",
+    "d": "het moment waarop de buret leeg is"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Met welk glaswerk voeg je bij een titratie nauwkeurig vloeistof toe?",
+   "answers": {
+    "a": "een buret",
+    "b": "een bekerglas",
+    "c": "een reageerbuis",
+    "d": "een maatbeker"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "1,0 mL natronloog reageert met 3,0 mg azijnzuur. Er is 12,0 mL natronloog nodig. Hoeveel mg azijnzuur zat er in het monster?",
+   "answers": {
+    "a": "4,0 mg",
+    "b": "15 mg",
+    "c": "0,25 mg",
+    "d": "36 mg"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In het monster uit de vorige vraag zat 36 mg azijnzuur in 20 mL. Wat is het gehalte in mg/mL?",
+   "answers": {
+    "a": "0,56 mg/mL",
+    "b": "720 mg/mL",
+    "c": "16 mg/mL",
+    "d": "1,8 mg/mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke pH heeft een basische oplossing?",
+   "answers": {
+    "a": "altijd precies 14",
+    "b": "lager dan 7",
+    "c": "hoger dan 7",
+    "d": "precies 7"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke kleur heeft fenolftaleïne in een basische oplossing?",
+   "answers": {
+    "a": "geel",
+    "b": "kleurloos",
+    "c": "roze of paars",
+    "d": "groen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een indicator is geel onder pH 6,0 en blauw boven pH 7,6. Welke kleur heeft de indicator bij pH 9?",
+   "answers": {
+    "a": "geel",
+    "b": "blauw",
+    "c": "kleurloos",
+    "d": "groen"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke BINAS-tabel geeft het omslagtraject van indicatoren?",
+   "answers": {
+    "a": "tabel 45",
+    "b": "tabel 36",
+    "c": "tabel 35",
+    "d": "tabel 15"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe heet ontleden met behulp van licht?",
+   "answers": {
+    "a": "fotolyse",
+    "b": "thermolyse",
+    "c": "destillatie",
+    "d": "elektrolyse"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heet ontleden met behulp van elektriciteit?",
+   "answers": {
+    "a": "thermolyse",
+    "b": "fotolyse",
+    "c": "filtratie",
+    "d": "elektrolyse"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stoffen ontstaan bij de elektrolyse van water?",
+   "answers": {
+    "a": "stikstof en zuurstof",
+    "b": "waterstof en zuurstof",
+    "c": "waterstof en koolstof",
+    "d": "koolstofdioxide en water"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe toon je zuurstof aan?",
+   "answers": {
+    "a": "wit kopersulfaat wordt blauw",
+    "b": "kalkwater wordt troebel",
+    "c": "je hoort een knalletje",
+    "d": "een gloeiende houtspaander gaat feller gloeien"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe toon je waterstof aan?",
+   "answers": {
+    "a": "een gloeiende houtspaander gaat feller gloeien",
+    "b": "kalkwater wordt troebel",
+    "c": "met een brandende houtspaander hoor je een knalletje",
+    "d": "wit kopersulfaat wordt blauw"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe toon je koolstofdioxide aan?",
+   "answers": {
+    "a": "een gloeiende houtspaander gaat feller gloeien",
+    "b": "kalkwater wordt troebel",
+    "c": "lakmoespapier wordt blauw",
+    "d": "je hoort een knalletje"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe toon je water aan?",
+   "answers": {
+    "a": "fenolftaleïne wordt roze",
+    "b": "kalkwater wordt troebel",
+    "c": "wit kopersulfaat wordt blauw",
+    "d": "een brandende houtspaander gaat uit door een knal"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk neerslag ontstaat bij het mengen van natriumchloride-oplossing en zilvernitraat-oplossing? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "AgCl",
+    "b": "AgNa",
+    "c": "NaNO<sub>3</sub>",
+    "d": "NaCl"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je verdunt 10 mL van een oplossing met water tot 100 mL. Wat is de verdunningsfactor?",
+   "answers": {
+    "a": "10",
+    "b": "90",
+    "c": "1000",
+    "d": "0,1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een oplossing van 50 g/L wordt 10 keer verdund. Wat is de nieuwe concentratie?",
+   "answers": {
+    "a": "40 g/L",
+    "b": "0,2 g/L",
+    "c": "5,0 g/L",
+    "d": "500 g/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je haalt 25 mL uit een oplossing van 40 g/L en vult aan met water tot 500 mL. Wat is de nieuwe concentratie?",
+   "answers": {
+    "a": "20 g/L",
+    "b": "2,0 g/L",
+    "c": "800 g/L",
+    "d": "0,5 g/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Je ziet een gele vlamkleuring. Welk metaalion zat in de stof? (gebruik BINAS tabel 38)",
+   "answers": {
+    "a": "sulfaat (SO<sub>4</sub><sup>2-</sup>)",
+    "b": "nitraat (NO<sub>3</sub><sup>-</sup>)",
+    "c": "chloride (Cl<sup>-</sup>)",
+    "d": "natrium (Na<sup>+</sup>)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke BINAS-tabel zoek je een E-nummer op?",
+   "answers": {
+    "a": "tabel 39",
+    "b": "tabel 35",
+    "c": "tabel 42",
+    "d": "tabel 45"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarvoor wordt E-420 gebruikt? (gebruik BINAS tabel 45)",
+   "answers": {
+    "a": "als kleurstof",
+    "b": "als conserveermiddel",
+    "c": "als zoetstof",
+    "d": "als geurstof"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Op een etiket staat: \"Bevat water, suiker, citroenzuur\". Welke stof zit er het meest in?",
+   "answers": {
+    "a": "water",
+    "b": "dat staat er niet",
+    "c": "suiker",
+    "d": "citroenzuur"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je de betekenis van gevaarsymbolen op een etiket?",
+   "answers": {
+    "a": "tabel 36",
+    "b": "tabel 45",
+    "c": "tabel 39",
+    "d": "tabel 40"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke scheidingsmethode gebruik je om een niet-oplosbare vaste stof uit een vloeistof te halen?",
+   "answers": {
+    "a": "filtreren",
+    "b": "indampen",
+    "c": "kraken",
+    "d": "extraheren met een oplosmiddel"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke scheidingsmethode gebruik je om twee vloeistoffen met verschillend kookpunt te scheiden?",
+   "answers": {
+    "a": "bezinken",
+    "b": "filtreren",
+    "c": "indampen",
+    "d": "destilleren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke scheidingsmethode gebruik je om opgelost zout uit een oplossing te krijgen?",
+   "answers": {
+    "a": "bezinken",
+    "b": "indampen",
+    "c": "kraken",
+    "d": "filtreren"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bij welke scheidingsmethode blijft een stof aan het oppervlak van een vaste stof (zoals actieve kool) vastzitten?",
+   "answers": {
+    "a": "adsorberen",
+    "b": "destilleren",
+    "c": "indampen",
+    "d": "bezinken"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

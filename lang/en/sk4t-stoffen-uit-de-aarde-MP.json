@@ -1,0 +1,339 @@
+{
+ "title": "Materials from the Earth - 123 school",
+ "heading": "Materials from the Earth",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "Which three substances are fossil fuels?",
+   "answers": {
+    "a": "hydrogen, oxygen and nitrogen",
+    "b": "crude oil, sand and salt",
+    "c": "crude oil, natural gas and coal",
+    "d": "wood, charcoal and wind"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is mining?",
+   "answers": {
+    "a": "Building houses underground",
+    "b": "Burning fossil fuels",
+    "c": "Getting raw materials out of the ground",
+    "d": "Purifying waste water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which metal is found in the ground as a pure metal?",
+   "answers": {
+    "a": "gold",
+    "b": "zinc",
+    "c": "iron",
+    "d": "aluminium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In what form are most metals found in the ground?",
+   "answers": {
+    "a": "as a liquid",
+    "b": "as a plastic",
+    "c": "as a metal ore",
+    "d": "as a pure metal"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is corrosion?",
+   "answers": {
+    "a": "Two metals are mixed to form an alloy",
+    "b": "A base metal reacts with substances from its surroundings, such as oxygen and water",
+    "c": "A metal melts because of heat",
+    "d": "A metal dissolves without any reaction taking place"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is corrosion of iron called?",
+   "answers": {
+    "a": "melting",
+    "b": "distilling",
+    "c": "settling",
+    "d": "rusting"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substances are needed for iron to rust?",
+   "answers": {
+    "a": "carbon dioxide and helium",
+    "b": "only hydrogen",
+    "c": "nitrogen and hydrogen",
+    "d": "oxygen and water"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What must be different to separate two liquids by distillation?",
+   "answers": {
+    "a": "the boiling point",
+    "b": "the volume",
+    "c": "the colour",
+    "d": "the amount of oxygen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "With which separation process are the fractions of crude oil separated? (use BINAS table 41)",
+   "answers": {
+    "a": "filtration",
+    "b": "(fractional) distillation",
+    "c": "evaporation",
+    "d": "settling"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is cracking?",
+   "answers": {
+    "a": "Removing water from crude oil",
+    "b": "Joining small molecules into long chains",
+    "c": "Breaking large hydrocarbon molecules into smaller molecules",
+    "d": "Burning crude oil"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which kinds of atoms mainly occur in hydrocarbons?",
+   "answers": {
+    "a": "carbon and hydrogen",
+    "b": "hydrogen and nitrogen",
+    "c": "carbon and oxygen",
+    "d": "carbon and sulphur"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the residue of the distillation of crude oil used for?",
+   "answers": {
+    "a": "for kerosene in aircraft",
+    "b": "for diesel in diesel engines",
+    "c": "for petrol in cars",
+    "d": "for bitumen and asphalt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the density of gold? (use BINAS table 15)",
+   "answers": {
+    "a": "2.7 g/cm<sup>3</sup>",
+    "b": "8.96 g/cm<sup>3</sup>",
+    "c": "19.30 g/cm<sup>3</sup>",
+    "d": "7.87 g/cm<sup>3</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A block of gold and a block of copper (density 8.96 g/cm<sup>3</sup>) of the same size lie side by side. Which block is heavier?",
+   "answers": {
+    "a": "the gold, because gold has the larger density",
+    "b": "the copper, because copper has the larger density",
+    "c": "they are equally heavy, because they are the same size",
+    "d": "you cannot know without measuring the volume"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many mL is 1 cm<sup>3</sup>?",
+   "answers": {
+    "a": "1000 mL",
+    "b": "100 mL",
+    "c": "10 mL",
+    "d": "1 mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many grams is 1 kg?",
+   "answers": {
+    "a": "10 g",
+    "b": "100 g",
+    "c": "0.001 g",
+    "d": "1000 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What are polymers made of?",
+   "answers": {
+    "a": "of salt crystals",
+    "b": "of monomers",
+    "c": "of loose ions",
+    "d": "of metal atoms"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which plastic can melt at a higher temperature and be shaped again?",
+   "answers": {
+    "a": "a metal ore",
+    "b": "a thermoset",
+    "c": "an alloy",
+    "d": "a thermoplastic"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How well do plastics conduct electric current?",
+   "answers": {
+    "a": "poorly",
+    "b": "well",
+    "c": "better than metals",
+    "d": "only well in liquid form"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is an alloy?",
+   "answers": {
+    "a": "a salt dissolved in water",
+    "b": "a metal that comes out of the ground",
+    "c": "a plastic with a layer of metal",
+    "d": "a mixture of a metal with one or more other substances"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the mass percentage of gold in 18 carat gold? (24 carat is pure gold)",
+   "answers": {
+    "a": "50%",
+    "b": "100%",
+    "c": "75%",
+    "d": "18%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a property of noble metals?",
+   "answers": {
+    "a": "they hardly corrode",
+    "b": "they are always liquid",
+    "c": "they rust quickly",
+    "d": "they react violently with water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Zinc is a base metal, but it is still used for gutters. Why is that possible?",
+   "answers": {
+    "a": "zinc does not react with oxygen",
+    "b": "zinc is heavier than iron",
+    "c": "zinc is a noble metal",
+    "d": "a thin layer of zinc oxide forms that protects the zinc"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What does MAC stand for?",
+   "answers": {
+    "a": "measurement of present chemicals",
+    "b": "maximum amount of chemistry",
+    "c": "maximum acceptable concentration",
+    "d": "mass of chemical substance"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the MAC value of mercury? (use BINAS table 40)",
+   "answers": {
+    "a": "5 mg/m<sup>3</sup>",
+    "b": "0.05 mg/m<sup>3</sup>",
+    "c": "0.5 mg/m<sup>3</sup>",
+    "d": "50 mg/m<sup>3</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A bar of 250 g contains 160 g of cocoa. What is the mass percentage of cocoa?",
+   "answers": {
+    "a": "160%",
+    "b": "0.64%",
+    "c": "64%",
+    "d": "36%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which separation methods are used to purify water?",
+   "answers": {
+    "a": "filtration and settling",
+    "b": "melting and rusting",
+    "c": "cracking and polymerisation",
+    "d": "burning and cracking"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which three types of radiation do you know?",
+   "answers": {
+    "a": "red, green and blue radiation",
+    "b": "alpha, beta and gamma radiation",
+    "c": "light, sound and heat radiation",
+    "d": "acidic, neutral and basic radiation"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which measure protects you against radiation?",
+   "answers": {
+    "a": "keeping your distance and being exposed for as short a time as possible",
+    "b": "wearing cotton gloves",
+    "c": "drinking a lot of water",
+    "d": "getting as close to the source as possible"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of copper? (use BINAS table 34)",
+   "answers": {
+    "a": "Ca",
+    "b": "Cu",
+    "c": "Co",
+    "d": "C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the symbol of tin? (use BINAS table 34)",
+   "answers": {
+    "a": "Zn",
+    "b": "Sn",
+    "c": "Ti",
+    "d": "Tn"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which fossil fuel was mainly extracted in Groningen in the Netherlands?",
+   "answers": {
+    "a": "lignite",
+    "b": "natural gas",
+    "c": "crude oil",
+    "d": "coal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a disadvantage of burning plastic waste?",
+   "answers": {
+    "a": "greenhouse gases and sometimes harmful substances are released",
+    "b": "only water is formed",
+    "c": "the plastic disappears without reaction products",
+    "d": "pure metal is formed"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

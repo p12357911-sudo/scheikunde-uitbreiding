@@ -1,0 +1,129 @@
+{
+ "title": "Zuur-base-evenwichten: Kz, Kb, Kw en buffers - 123 school",
+ "heading": "Zuur-base-evenwichten: Kz, Kb, Kw en buffers",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Geef de evenwichtsvoorwaarde van een zwak zuur HZ in water: HZ + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + Z<sup>–</sup>",
+   "a": "K<sub>z</sub> = [H<sub>3</sub>O<sup>+</sup>] · [Z<sup>–</sup>] / [HZ]"
+  },
+  {
+   "q": "Geef de evenwichtsvoorwaarde van NH<sub>3</sub> + H<sub>2</sub>O ⇌ NH<sub>4</sub><sup>+</sup> + OH<sup>–</sup>",
+   "a": "K<sub>b</sub> = [NH<sub>4</sub><sup>+</sup>] · [OH<sup>–</sup>] / [NH<sub>3</sub>]"
+  },
+  {
+   "q": "Waarom staat H<sub>2</sub>O niet in de breuk van K<sub>z</sub> en K<sub>b</sub>?",
+   "a": "Water is het oplosmiddel en de concentratie ervan is vrijwel constant. Die zit al in de constante"
+  },
+  {
+   "q": "Geef de evenwichtsvoorwaarde voor het zelfionisatie-evenwicht van water: 2 H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + OH<sup>–</sup>",
+   "a": "K<sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>] · [OH<sup>–</sup>]"
+  },
+  {
+   "q": "Wat is de waarde van K<sub>w</sub> bij 298 K?",
+   "a": "1,0·10<sup>–14</sup>"
+  },
+  {
+   "q": "Welk verband bestaat er tussen pH en pOH bij 298 K?",
+   "a": "pH + pOH = 14,00"
+  },
+  {
+   "q": "Welk verband bestaat er tussen K<sub>z</sub> van een zuur, K<sub>b</sub> van de geconjugeerde base en K<sub>w</sub>?",
+   "a": "K<sub>z</sub> · K<sub>b</sub> = K<sub>w</sub>"
+  },
+  {
+   "q": "Het zuur HZ heeft K<sub>z</sub> = 1,0·10<sup>–5</sup>. Bereken K<sub>b</sub> van Z<sup>–</sup>",
+   "a": "K<sub>b</sub> = K<sub>w</sub> / K<sub>z</sub> = 1,0·10<sup>–14</sup> / 1,0·10<sup>–5</sup> = 1,0·10<sup>–9</sup>"
+  },
+  {
+   "q": "Wat zegt een grotere K<sub>z</sub> over een zuur?",
+   "a": "Het zuur is sterker: het geeft in verhouding meer H<sup>+</sup> af aan water"
+  },
+  {
+   "q": "Wat is het verschil tussen een sterk en een zwak zuur in water?",
+   "a": "Een sterk zuur reageert (vrijwel) volledig met water. Een zwak zuur reageert maar gedeeltelijk, er ontstaat een evenwicht"
+  },
+  {
+   "q": "Bereken de pH van 0,10 mol/L HCl",
+   "a": "HCl is een sterk zuur, dus [H<sub>3</sub>O<sup>+</sup>] = 0,10 mol/L en pH = 1,00"
+  },
+  {
+   "q": "Bereken de pH van 0,010 mol/L NaOH",
+   "a": "NaOH is een sterke base, dus [OH<sup>–</sup>] = 0,010 mol/L, pOH = 2,00 en pH = 12,00"
+  },
+  {
+   "q": "Welke benadering gebruik je om de pH van een zwak zuur te berekenen?",
+   "a": "[H<sub>3</sub>O<sup>+</sup>] = [Z<sup>–</sup>] en [HZ] is vrijwel gelijk aan de beginconcentratie. Dan is [H<sub>3</sub>O<sup>+</sup>]<sup>2</sup> = K<sub>z</sub> · [HZ]"
+  },
+  {
+   "q": "Bereken de pH van 0,10 mol/L van een zwak zuur met K<sub>z</sub> = 1,0·10<sup>–5</sup>",
+   "a": "[H<sub>3</sub>O<sup>+</sup>] = √(1,0·10<sup>–5</sup> × 0,10) = 1,0·10<sup>–3</sup> mol/L, dus pH = 3,00"
+  },
+  {
+   "q": "Bereken de pH van 0,10 mol/L azijnzuur. Neem K<sub>z</sub> = 1,8·10<sup>–5</sup>",
+   "a": "[H<sub>3</sub>O<sup>+</sup>] = √(1,8·10<sup>–5</sup> × 0,10) = 1,3·10<sup>–3</sup> mol/L, dus pH = 2,87"
+  },
+  {
+   "q": "Een zwak zuur heeft K<sub>z</sub> = 1,0·10<sup>–5</sup>. De oplossing heeft pH = 3,00. Bereken de beginconcentratie van het zuur",
+   "a": "[H<sub>3</sub>O<sup>+</sup>] = 1,0·10<sup>–3</sup> mol/L, dus [HZ] = (1,0·10<sup>–3</sup>)<sup>2</sup> / 1,0·10<sup>–5</sup> = 0,10 mol/L"
+  },
+  {
+   "q": "Bereken de pH van 0,10 mol/L van een zwakke base met K<sub>b</sub> = 1,0·10<sup>–5</sup>",
+   "a": "[OH<sup>–</sup>] = √(1,0·10<sup>–5</sup> × 0,10) = 1,0·10<sup>–3</sup> mol/L, pOH = 3,00 en pH = 11,00"
+  },
+  {
+   "q": "Je verdunt een oplossing van een zwak zuur 100 keer. Hoe verandert de pH ongeveer?",
+   "a": "[H<sub>3</sub>O<sup>+</sup>] wordt 10 keer zo klein (wortel uit 100), dus de pH wordt ongeveer 1 hoger"
+  },
+  {
+   "q": "Je verdunt een oplossing van een sterk zuur 100 keer. Hoe verandert de pH?",
+   "a": "[H<sub>3</sub>O<sup>+</sup>] wordt 100 keer zo klein, dus de pH wordt 2 hoger"
+  },
+  {
+   "q": "Wat is een buffer?",
+   "a": "Een oplossing waarvan de pH bijna niet verandert als je een beetje zuur of base toevoegt"
+  },
+  {
+   "q": "Waaruit bestaat een buffer?",
+   "a": "Uit een zwak zuur en de geconjugeerde base ervan (of een zwakke base en het geconjugeerde zuur) in vergelijkbare hoeveelheden"
+  },
+  {
+   "q": "Hoe werkt een azijnzuur / acetaat-buffer als je een beetje zuur toevoegt?",
+   "a": "Het toegevoegde H<sub>3</sub>O<sup>+</sup> reageert met de base CH<sub>3</sub>COO<sup>–</sup>. Daardoor blijft de pH bijna gelijk"
+  },
+  {
+   "q": "Hoe werkt een azijnzuur / acetaat-buffer als je een beetje base toevoegt?",
+   "a": "Het toegevoegde OH<sup>–</sup> reageert met het zuur CH<sub>3</sub>COOH. Daardoor blijft de pH bijna gelijk"
+  },
+  {
+   "q": "Waarom is een mengsel van HCl en NaCl geen buffer?",
+   "a": "HCl is een sterk zuur en Cl<sup>–</sup> is geen base die H<sub>3</sub>O<sup>+</sup> kan binden. Er is dus geen zwak zuur-basepaar"
+  },
+  {
+   "q": "Noem een voorbeeld van een buffer in het lichaam",
+   "a": "Het H<sub>2</sub>CO<sub>3</sub> / HCO<sub>3</sub><sup>–</sup>-systeem in het bloed (pH ongeveer 7,4)"
+  },
+  {
+   "q": "Je mengt 100 mL 0,20 mol/L azijnzuur met 50 mL 0,20 mol/L NaOH. Welke stoffen zijn er daarna in de oplossing en is het een buffer?",
+   "a": "CH<sub>3</sub>COOH + OH<sup>–</sup> → CH<sub>3</sub>COO<sup>–</sup> + H<sub>2</sub>O. Er blijft 10 mmol CH<sub>3</sub>COOH over en er is 10 mmol CH<sub>3</sub>COO<sup>–</sup> gevormd. Dus ja, het is een buffer"
+  },
+  {
+   "q": "Een buffer bevat evenveel zuur HZ als base Z<sup>–</sup>. Het zuur heeft K<sub>z</sub> = 1,0·10<sup>–5</sup>. Wat is de pH?",
+   "a": "K<sub>z</sub> = [H<sub>3</sub>O<sup>+</sup>] · [Z<sup>–</sup>] / [HZ] en [Z<sup>–</sup>] = [HZ], dus [H<sub>3</sub>O<sup>+</sup>] = K<sub>z</sub> = 1,0·10<sup>–5</sup> mol/L en pH = 5,00"
+  },
+  {
+   "q": "Wanneer houdt een buffer op te werken?",
+   "a": "Als er zoveel zuur of base is toegevoegd dat een van de twee componenten van de buffer op is"
+  },
+  {
+   "q": "Azijnzuur (K<sub>z</sub> = 1,8·10<sup>–5</sup>) reageert met ammoniak (NH<sub>4</sub><sup>+</sup> heeft K<sub>z</sub> = 5,6·10<sup>–10</sup>). Ligt dit evenwicht links of rechts?",
+   "a": "K = K<sub>z</sub>(azijnzuur) / K<sub>z</sub>(NH<sub>4</sub><sup>+</sup>) = 1,8·10<sup>–5</sup> / 5,6·10<sup>–10</sup> = 3,2·10<sup>4</sup>. K is groot, dus het evenwicht ligt ver naar rechts"
+  },
+  {
+   "q": "Wat is de pH in het equivalentiepunt als je azijnzuur titreert met NaOH: lager dan, gelijk aan of hoger dan 7?",
+   "a": "Hoger dan 7, want CH<sub>3</sub>COO<sup>–</sup> is een zwakke base"
+  }
+ ]
+}

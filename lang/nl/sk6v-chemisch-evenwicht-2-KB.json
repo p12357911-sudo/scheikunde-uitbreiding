@@ -1,0 +1,129 @@
+{
+ "title": "Chemisch evenwicht 2: verschuiving, Ks, Kv en industrie - 123 school",
+ "heading": "Chemisch evenwicht 2: verschuiving, Ks, Kv en industrie",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Welke drie dingen kun je veranderen om een evenwicht te laten verschuiven?",
+   "a": "De concentratie van een stof, de druk (of het volume) bij gassen en de temperatuur"
+  },
+  {
+   "q": "Je voegt extra beginstof toe aan een evenwicht. Wat gebeurt er met Q en welke kant verschuift het evenwicht?",
+   "a": "Q wordt kleiner dan K, dus het evenwicht verschuift naar rechts (naar de producten)"
+  },
+  {
+   "q": "Je haalt een reactieproduct weg uit een evenwicht. Welke kant verschuift het evenwicht?",
+   "a": "Naar rechts, want Q wordt kleiner dan K"
+  },
+  {
+   "q": "Wat gebeurt er met de waarde van K als je de concentratie van een stof verandert?",
+   "a": "Niets. K verandert alleen door de temperatuur"
+  },
+  {
+   "q": "Je verhoogt de druk door het volume te verkleinen. Naar welke kant verschuift een evenwicht met gassen?",
+   "a": "Naar de kant met het kleinste aantal mol gas"
+  },
+  {
+   "q": "Je verhoogt de druk bij N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) ⇌ 2 NH<sub>3</sub> (g). Welke kant verschuift het evenwicht?",
+   "a": "Naar rechts: links zijn 4 mol gas, rechts 2 mol gas"
+  },
+  {
+   "q": "Je verhoogt de druk bij H<sub>2</sub> (g) + I<sub>2</sub> (g) ⇌ 2 HI (g). Welke kant verschuift het evenwicht?",
+   "a": "Het evenwicht verschuift niet: links en rechts zijn 2 mol gas"
+  },
+  {
+   "q": "Je verdubbelt het volume bij 2 NO<sub>2</sub> (g) ⇌ N<sub>2</sub>O<sub>4</sub> (g). Wat gebeurt er met Q en welke kant verschuift het evenwicht?",
+   "a": "Alle concentraties worden de helft. Q wordt 2 keer zo groot en dus groter dan K, dus het evenwicht verschuift naar links"
+  },
+  {
+   "q": "Je voegt een edelgas toe bij constant volume. Verschuift het evenwicht?",
+   "a": "Nee. De concentraties van de reagerende stoffen veranderen niet, dus Q blijft gelijk aan K"
+  },
+  {
+   "q": "Wat gebeurt er met de ligging van een evenwicht als je een katalysator toevoegt?",
+   "a": "Niets. Het evenwicht wordt alleen sneller bereikt"
+  },
+  {
+   "q": "Je verhoogt de temperatuur. Naar welke kant verschuift het evenwicht?",
+   "a": "Naar de endotherme kant (de kant die warmte opneemt)"
+  },
+  {
+   "q": "Je verlaagt de temperatuur. Naar welke kant verschuift het evenwicht?",
+   "a": "Naar de exotherme kant (de kant die warmte afgeeft)"
+  },
+  {
+   "q": "De vorming van NH<sub>3</sub> uit N<sub>2</sub> en H<sub>2</sub> is exotherm. Wat gebeurt er met K en met de hoeveelheid NH<sub>3</sub> als je de temperatuur verhoogt?",
+   "a": "K wordt kleiner en het evenwicht verschuift naar links, dus er is minder NH<sub>3</sub>"
+  },
+  {
+   "q": "Waarom wordt bij de ammoniakproductie niet een heel lage temperatuur gebruikt, terwijl dat gunstig is voor het evenwicht?",
+   "a": "Bij lage temperatuur verloopt de reactie te langzaam. Daarom is gekozen voor een compromis van ongeveer 450 °C"
+  },
+  {
+   "q": "Welke katalysator gebruik je bij de ammoniakproductie (Haber-Bosch)?",
+   "a": "Ijzer"
+  },
+  {
+   "q": "Hoe haal je bij de ammoniakproductie de NH<sub>3</sub> uit het evenwichtsmengsel, en wat gebeurt er met N<sub>2</sub> en H<sub>2</sub>?",
+   "a": "NH<sub>3</sub> wordt vloeibaar door afkoelen en afgevoerd. N<sub>2</sub> en H<sub>2</sub> gaan terug naar de reactor. Zo verschuift het evenwicht steeds naar rechts"
+  },
+  {
+   "q": "Geef de evenwichtsvoorwaarde van het oplosbaarheidsproduct van AgCl",
+   "a": "K<sub>s</sub> = [Ag<sup>+</sup>] · [Cl<sup>–</sup>]"
+  },
+  {
+   "q": "Geef de evenwichtsvoorwaarde van het oplosbaarheidsproduct van Ca(OH)<sub>2</sub>",
+   "a": "K<sub>s</sub> = [Ca<sup>2+</sup>] · [OH<sup>–</sup>]<sup>2</sup>"
+  },
+  {
+   "q": "Geef de evenwichtsvoorwaarde van het oplosbaarheidsproduct van Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+   "a": "K<sub>s</sub> = [Ca<sup>2+</sup>]<sup>3</sup> · [PO<sub>4</sub><sup>3–</sup>]<sup>2</sup>"
+  },
+  {
+   "q": "Van een zout MX (1 : 1) is K<sub>s</sub> = 1,0·10<sup>–10</sup>. Bereken de oplosbaarheid in mol/L in zuiver water",
+   "a": "[M<sup>+</sup>] = [X<sup>–</sup>] = s, dus s<sup>2</sup> = 1,0·10<sup>–10</sup> en s = 1,0·10<sup>–5</sup> mol/L"
+  },
+  {
+   "q": "Van een zout M(OH)<sub>2</sub> is K<sub>s</sub> = 4,0·10<sup>–6</sup>. Bereken de oplosbaarheid s in mol/L in zuiver water",
+   "a": "[M<sup>2+</sup>] = s en [OH<sup>–</sup>] = 2s, dus 4s<sup>3</sup> = 4,0·10<sup>–6</sup> en s = 1,0·10<sup>–2</sup> mol/L"
+  },
+  {
+   "q": "Wanneer ontstaat er een neerslag als je twee oplossingen mengt?",
+   "a": "Als Q (met de concentraties na het mengen) groter is dan K<sub>s</sub>"
+  },
+  {
+   "q": "Je mengt 50 mL 1,0·10<sup>–3</sup> mol/L AgNO<sub>3</sub> met 50 mL 1,0·10<sup>–3</sup> mol/L NaCl. K<sub>s</sub> van AgCl is 1,8·10<sup>–10</sup>. Ontstaat er een neerslag?",
+   "a": "Na mengen is [Ag<sup>+</sup>] = [Cl<sup>–</sup>] = 5,0·10<sup>–4</sup> mol/L. Q = 2,5·10<sup>–7</sup>, en dat is groter dan K<sub>s</sub>. Dus ja, er ontstaat een neerslag"
+  },
+  {
+   "q": "Waarom lost AgCl slechter op in een NaCl-oplossing dan in zuiver water?",
+   "a": "Door de extra Cl<sup>–</sup> uit NaCl verschuift het evenwicht naar links. Dat heet het gemeenschappelijk-ion-effect"
+  },
+  {
+   "q": "K<sub>s</sub> van AgCl is 1,8·10<sup>–10</sup>. Bereken [Ag<sup>+</sup>] in een verzadigde oplossing met [Cl<sup>–</sup>] = 0,10 mol/L",
+   "a": "[Ag<sup>+</sup>] = K<sub>s</sub> / [Cl<sup>–</sup>] = 1,8·10<sup>–10</sup> / 0,10 = 1,8·10<sup>–9</sup> mol/L"
+  },
+  {
+   "q": "Wat is K<sub>v</sub>?",
+   "a": "De constante van het verdelingsevenwicht: een stof verdeelt zich over twee niet-mengbare vloeistoffen"
+  },
+  {
+   "q": "Een stof A verdeelt zich over hexaan en water. Geef K<sub>v</sub> als K<sub>v</sub> = [A] in hexaan / [A] in water. In evenwicht is [A] in water 0,020 mol/L en in hexaan 1,0 mol/L",
+   "a": "K<sub>v</sub> = 1,0 / 0,020 = 50"
+  },
+  {
+   "q": "Voor een stof A geldt K<sub>v</sub> = [A] in hexaan / [A] in water = 40. In water is [A] = 0,010 mol/L. Bereken [A] in het hexaan",
+   "a": "[A] in hexaan = 40 × 0,010 = 0,40 mol/L"
+  },
+  {
+   "q": "Wat moet je weten over K<sub>v</sub> om een stof goed uit water te kunnen extraheren?",
+   "a": "K<sub>v</sub> (organisch / water) moet groot zijn, zodat de stof vooral in het extractiemiddel terechtkomt"
+  },
+  {
+   "q": "Is het beter om één keer met 100 mL extractiemiddel te extraheren of vier keer met 25 mL?",
+   "a": "Vier keer met 25 mL: dat haalt meer van de stof uit het water"
+  }
+ ]
+}

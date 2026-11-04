@@ -1,0 +1,142 @@
+{
+ "title": "Organic chemistry: isomerism, alkynes, benzene, ethers and C=O - 123 school",
+ "heading": "Organic chemistry: isomerism, alkynes, benzene, ethers and C=O",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is the general formula of alkanes, alkenes and alkynes (open chain)?",
+   "a": "Alkanes: C<sub>n</sub>H<sub>2n+2</sub>, alkenes: C<sub>n</sub>H<sub>2n</sub>, alkynes: C<sub>n</sub>H<sub>2n–2</sub>"
+  },
+  {
+   "q": "Which group is characteristic of alkynes?",
+   "a": "The triple bond C≡C"
+  },
+  {
+   "q": "Give the name and molecular formula of the simplest alkyne",
+   "a": "Ethyne, C<sub>2</sub>H<sub>2</sub>"
+  },
+  {
+   "q": "Give the molecular formula of hex-1-yne",
+   "a": "C<sub>6</sub>H<sub>10</sub>"
+  },
+  {
+   "q": "How many moles of Br<sub>2</sub> can 1 mol of ethyne take up at most and what is the product then?",
+   "a": "2 mol of Br<sub>2</sub>. The product is 1,1,2,2-tetrabromoethane"
+  },
+  {
+   "q": "How many moles of H<sub>2</sub> are needed to convert 1 mol of ethyne completely into ethane?",
+   "a": "2 mol: C<sub>2</sub>H<sub>2</sub> + 2 H<sub>2</sub> → C<sub>2</sub>H<sub>6</sub>"
+  },
+  {
+   "q": "What are cycloalkanes and what is their general formula?",
+   "a": "Hydrocarbons with a ring of single C–C bonds. General formula C<sub>n</sub>H<sub>2n</sub>"
+  },
+  {
+   "q": "Give the molecular formula of cyclohexane",
+   "a": "C<sub>6</sub>H<sub>12</sub>"
+  },
+  {
+   "q": "Which kind of hydrocarbon is an isomer of cyclohexane?",
+   "a": "Hex-1-ene (an alkene with formula C<sub>6</sub>H<sub>12</sub>)"
+  },
+  {
+   "q": "How can you distinguish between cyclohexane and cyclohexene with bromine water?",
+   "a": "Cyclohexene decolourises bromine water (addition), cyclohexane does not"
+  },
+  {
+   "q": "What is the molecular formula of benzene and what does the molecule look like?",
+   "a": "C<sub>6</sub>H<sub>6</sub>. A flat ring of 6 C atoms with all C–C bonds equally long"
+  },
+  {
+   "q": "Does benzene react easily with bromine water like alkenes?",
+   "a": "No. Benzene does not decolourise bromine water. It does react with bromine under other conditions, for example with a catalyst, by substitution"
+  },
+  {
+   "q": "What is a phenyl group?",
+   "a": "A benzene ring of which one H atom is replaced by a bond to the rest of the molecule: C<sub>6</sub>H<sub>5</sub>–"
+  },
+  {
+   "q": "Give the molecular formula of bromobenzene",
+   "a": "C<sub>6</sub>H<sub>5</sub>Br"
+  },
+  {
+   "q": "What is an ether and which group does it contain?",
+   "a": "A substance with an oxygen atom between two carbon atoms: C–O–C"
+  },
+  {
+   "q": "Give the name of CH<sub>3</sub>–O–CH<sub>3</sub>",
+   "a": "Methoxymethane"
+  },
+  {
+   "q": "Give the name of CH<sub>3</sub>–O–CH<sub>2</sub>–CH<sub>3</sub>",
+   "a": "Methoxyethane"
+  },
+  {
+   "q": "Why does methoxymethane have a much lower boiling point than ethanol (same molecular formula)?",
+   "a": "Methoxymethane has no OH group. The molecules form no hydrogen bonds with each other"
+  },
+  {
+   "q": "Which group do aldehydes and ketones have in common, and what is the difference?",
+   "a": "Both have a C=O group. In an aldehyde the C=O is at the end of the chain (CHO), in a ketone the C=O is inside the chain"
+  },
+  {
+   "q": "Give the name of CH<sub>3</sub>–CH<sub>2</sub>–CHO and of CH<sub>3</sub>–CO–CH<sub>3</sub>",
+   "a": "Propanal and propanone"
+  },
+  {
+   "q": "Give the name of CH<sub>3</sub>–CO–CH<sub>2</sub>–CH<sub>2</sub>–CH<sub>3</sub>",
+   "a": "Pentan-2-one"
+  },
+  {
+   "q": "What are structural isomers?",
+   "a": "Substances with the same molecular formula but a different structural formula"
+  },
+  {
+   "q": "Name three structural isomers of C<sub>5</sub>H<sub>12</sub>",
+   "a": "Pentane, 2-methylbutane and 2,2-dimethylpropane",
+   "e": "If you have two of the three right, it counts as correct."
+  },
+  {
+   "q": "Which two kinds of substances with the molecular formula C<sub>3</sub>H<sub>6</sub>O are structural isomers of each other?",
+   "a": "Propanal (aldehyde) and propanone (ketone)"
+  },
+  {
+   "q": "What is stereoisomerism?",
+   "a": "Substances with the same structural formula but a different spatial arrangement of the atoms"
+  },
+  {
+   "q": "Which two conditions must a molecule meet to have cis/trans isomerism?",
+   "a": "There is a C=C (or ring) and each C atom of that bond carries two different groups"
+  },
+  {
+   "q": "Does but-2-ene have cis/trans isomerism? And but-1-ene?",
+   "a": "But-2-ene does (cis-but-2-ene and trans-but-2-ene), but-1-ene does not (two H atoms on one C of the double bond)"
+  },
+  {
+   "q": "What is an asymmetric C atom?",
+   "a": "A C atom with four different groups attached"
+  },
+  {
+   "q": "Which of these substances has an asymmetric C atom: butan-2-ol or propan-2-ol?",
+   "a": "Butan-2-ol (C-2 has H, OH, CH<sub>3</sub> and C<sub>2</sub>H<sub>5</sub>). In propan-2-ol there are two equal CH<sub>3</sub> groups on C-2"
+  },
+  {
+   "q": "What are enantiomers?",
+   "a": "Two molecules that are mirror images of each other and cannot be superimposed. They arise at an asymmetric C atom"
+  },
+  {
+   "q": "What is the same and what is different in two enantiomers?",
+   "a": "Nearly all properties (boiling point, solubility) are equal. They rotate polarised light in opposite directions and can act differently in the body"
+  },
+  {
+   "q": "A molecule has 3 asymmetric C atoms. What is the maximum number of stereoisomers?",
+   "a": "2<sup>3</sup> = 8"
+  },
+  {
+   "q": "What is the connection between lactic acid (2-hydroxypropanoic acid) and enantiomers?",
+   "a": "C-2 has four different groups (H, OH, CH<sub>3</sub>, COOH), so lactic acid has two enantiomers"
+  }
+ ]
+}

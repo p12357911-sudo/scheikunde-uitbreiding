@@ -1146,6 +1146,10 @@
   },
   "sk4t-stoffen-uit-de-aarde-KB": {
    "soort": "kb",
+   "wissel": [
+    "sk4t-stoffen-uit-de-aarde-KB",
+    "sk4t-stoffen-uit-de-aarde-MP"
+   ],
    "ai": false,
    "vrij": "alle",
    "opnieuw": true,
@@ -1153,6 +1157,10 @@
   },
   "sk4t-zouten-KB": {
    "soort": "kb",
+   "wissel": [
+    "sk4t-zouten-KB",
+    "sk4t-zouten-MP"
+   ],
    "ai": false,
    "vrij": "alle",
    "opnieuw": true,
@@ -1222,6 +1230,284 @@
    "wissel": [
     "sk4h-soorten-stoffen-KB",
     "sk4h-soorten-stoffen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-productonderzoek-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-productonderzoek-KB",
+    "sk4t-productonderzoek-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-productonderzoek-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-productonderzoek-KB",
+    "sk4t-productonderzoek-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-productieprocessen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-productieprocessen-KB",
+    "sk4t-productieprocessen-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-productieprocessen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-productieprocessen-KB",
+    "sk4t-productieprocessen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-drill-begrippen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-drill-begrippen-KB",
+    "sk4t-drill-begrippen-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-drill-begrippen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-drill-begrippen-KB",
+    "sk4t-drill-begrippen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-drill-rekenen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-drill-rekenen-KB",
+    "sk4t-drill-rekenen-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-drill-rekenen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-drill-rekenen-KB",
+    "sk4t-drill-rekenen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-drill-binas-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk4t-drill-binas-KB",
+    "sk4t-drill-binas-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk4t-drill-binas-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-drill-binas-KB",
+    "sk4t-drill-binas-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-zouten-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-zouten-KB",
+    "sk4t-zouten-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk4t-stoffen-uit-de-aarde-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk4t-stoffen-uit-de-aarde-KB",
+    "sk4t-stoffen-uit-de-aarde-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk6v-chemisch-evenwicht-1-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk6v-chemisch-evenwicht-1-KB",
+    "sk6v-chemisch-evenwicht-1-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk6v-chemisch-evenwicht-1-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk6v-chemisch-evenwicht-1-KB",
+    "sk6v-chemisch-evenwicht-1-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk6v-chemisch-evenwicht-2-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk6v-chemisch-evenwicht-2-KB",
+    "sk6v-chemisch-evenwicht-2-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk6v-chemisch-evenwicht-2-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk6v-chemisch-evenwicht-2-KB",
+    "sk6v-chemisch-evenwicht-2-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk6v-zuur-base-evenwicht-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk6v-zuur-base-evenwicht-KB",
+    "sk6v-zuur-base-evenwicht-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk6v-zuur-base-evenwicht-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk6v-zuur-base-evenwicht-KB",
+    "sk6v-zuur-base-evenwicht-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk6v-organisch-vwo-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk6v-organisch-vwo-KB",
+    "sk6v-organisch-vwo-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk6v-organisch-vwo-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk6v-organisch-vwo-KB",
+    "sk6v-organisch-vwo-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk6v-binas-drill-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk6v-binas-drill-KB",
+    "sk6v-binas-drill-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk6v-binas-drill-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk6v-binas-drill-KB",
+    "sk6v-binas-drill-MP"
    ],
    "ai": false,
    "kop": "em",

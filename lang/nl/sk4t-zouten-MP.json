@@ -1,0 +1,349 @@
+{
+ "title": "Zouten - 123 school",
+ "heading": "Zouten",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "In welke drie groepen kun je alle stoffen indelen?",
+   "answers": {
+    "a": "gassen, vloeistoffen en vaste stoffen",
+    "b": "atomen, ionen en elektronen",
+    "c": "moleculaire stoffen, zouten en metalen",
+    "d": "zuren, basen en zouten"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waaruit bestaan zouten?",
+   "answers": {
+    "a": "uit positieve en negatieve ionen",
+    "b": "uit neutrale atomen",
+    "c": "uit alleen negatieve ionen",
+    "d": "uit ongeladen moleculen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de lading van een zout als geheel?",
+   "answers": {
+    "a": "dat hangt af van de temperatuur",
+    "b": "neutraal (nul)",
+    "c": "positief",
+    "d": "negatief"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wanneer geleidt een zout elektrische stroom?",
+   "answers": {
+    "a": "als het is opgelost in water",
+    "b": "nooit",
+    "c": "alleen als het koud is",
+    "d": "als het een vaste stof is"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heet de regelmatige rangschikking van de ionen in een vast zout?",
+   "answers": {
+    "a": "oplossing",
+    "b": "legering",
+    "c": "molecuul",
+    "d": "kristalrooster"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke kleur heeft Cu<sup>2+</sup> (aq)?",
+   "answers": {
+    "a": "geel",
+    "b": "rood",
+    "c": "blauw",
+    "d": "kleurloos"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de chemische formule van water?",
+   "answers": {
+    "a": "H<sub>2</sub>O<sub>2</sub>",
+    "b": "H<sub>2</sub>O",
+    "c": "HO<sub>2</sub>",
+    "d": "OH"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van calciumchloride?",
+   "answers": {
+    "a": "CaCl",
+    "b": "CaCl<sub>2</sub>",
+    "c": "Ca<sub>2</sub>Cl<sub>2</sub>",
+    "d": "Ca<sub>2</sub>Cl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de formule van magnesiumchloride?",
+   "answers": {
+    "a": "Mg<sub>2</sub>Cl",
+    "b": "MgCl<sub>3</sub>",
+    "c": "MgCl",
+    "d": "MgCl<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van ijzer(III)oxide?",
+   "answers": {
+    "a": "Fe<sub>3</sub>O<sub>2</sub>",
+    "b": "FeO",
+    "c": "Fe<sub>2</sub>O",
+    "d": "Fe<sub>2</sub>O<sub>3</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van ammoniumsulfaat?",
+   "answers": {
+    "a": "NH<sub>4</sub>SO<sub>4</sub>",
+    "b": "NH<sub>4</sub>(SO<sub>4</sub>)<sub>2</sub>",
+    "c": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+    "d": "(NH<sub>3</sub>)<sub>2</sub>SO<sub>4</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de lading van chloride-, bromide- en jodide-ionen?",
+   "answers": {
+    "a": "2+",
+    "b": "1+",
+    "c": "1-",
+    "d": "2-"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de lading van natrium- en kalium-ionen?",
+   "answers": {
+    "a": "1+",
+    "b": "2+",
+    "c": "1-",
+    "d": "0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de lading van het sulfaation?",
+   "answers": {
+    "a": "3-",
+    "b": "2-",
+    "c": "2+",
+    "d": "1-"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de lading van het fosfaation?",
+   "answers": {
+    "a": "3-",
+    "b": "3+",
+    "c": "1-",
+    "d": "2-"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule van het ammoniumion?",
+   "answers": {
+    "a": "NH<sub>3</sub><sup>+</sup>",
+    "b": "NH<sub>4</sub><sup>-</sup>",
+    "c": "NO<sub>3</sub><sup>-</sup>",
+    "d": "NH<sub>4</sub><sup>+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de formule van het hydroxide-ion?",
+   "answers": {
+    "a": "OH<sup>-</sup>",
+    "b": "H<sup>+</sup>",
+    "c": "O<sup>2-</sup>",
+    "d": "OH<sup>+</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk ion staat altijd vooraan in de formule van een zout?",
+   "answers": {
+    "a": "het negatieve ion",
+    "b": "het metaalion (of ammoniumion)",
+    "c": "het ion met de grootste lading",
+    "d": "het ion met de kleinste massa"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de lading van chroom in CrCl<sub>3</sub>?",
+   "answers": {
+    "a": "1+",
+    "b": "2+",
+    "c": "3-",
+    "d": "3+"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe schrijf je opgelost keukenzout?",
+   "answers": {
+    "a": "Na<sup>+</sup> (aq) + Cl<sup>-</sup> (aq)",
+    "b": "Na<sup>-</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "c": "NaCl (aq) + H<sub>2</sub>O (l)",
+    "d": "Na (aq) + Cl (aq)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de oplosvergelijking van MgCl<sub>2</sub>?",
+   "answers": {
+    "a": "MgCl<sub>2</sub> (s) → Mg<sup>+</sup> (aq) + Cl<sub>2</sub><sup>-</sup> (aq)",
+    "b": "MgCl<sub>2</sub> (s) → Mg<sup>2+</sup> (aq) + Cl<sup>-</sup> (aq)",
+    "c": "Mg<sup>2+</sup> (aq) + 2 Cl<sup>-</sup> (aq) → MgCl<sub>2</sub> (s)",
+    "d": "MgCl<sub>2</sub> (s) → Mg<sup>2+</sup> (aq) + 2 Cl<sup>-</sup> (aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de indampvergelijking van een oplossing van bariumjodide?",
+   "answers": {
+    "a": "Ba<sup>2+</sup> (aq) + I<sup>-</sup> (aq) → BaI (s)",
+    "b": "Ba<sup>2+</sup> (aq) + 2 I<sup>-</sup> (aq) → BaI<sub>2</sub> (s)",
+    "c": "BaI<sub>2</sub> (s) → Ba<sup>2+</sup> (aq) + 2 I<sup>-</sup> (aq)",
+    "d": "Ba<sup>2+</sup> (aq) + 2 I<sup>-</sup> (aq) → Ba (s) + I<sub>2</sub> (s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe kun je vast zout uit een oplossing terugkrijgen?",
+   "answers": {
+    "a": "door te kraken",
+    "b": "door te bezinken",
+    "c": "door het water te laten verdampen (indampen)",
+    "d": "door te filtreren"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat betekent een verzadigde oplossing van keukenzout?",
+   "answers": {
+    "a": "de oplossing is zuur",
+    "b": "er lost geen extra keukenzout meer op",
+    "c": "er zit geen keukenzout in",
+    "d": "er zit zoveel water in dat het zout verdwenen is"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe kun je zoutkristallen sneller laten oplossen?",
+   "answers": {
+    "a": "de temperatuur verlagen",
+    "b": "niet roeren",
+    "c": "de kristallen groter maken",
+    "d": "de kristallen fijner maken, roeren of de temperatuur verhogen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke tabel van BINAS vind je de oplosbaarheid van zouten?",
+   "answers": {
+    "a": "tabel 34",
+    "b": "tabel 41",
+    "c": "tabel 35",
+    "d": "tabel 38"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Van een zout lost meer dan 10 g per liter op. Hoe noem je het zout?",
+   "answers": {
+    "a": "matig oplosbaar",
+    "b": "goed oplosbaar",
+    "c": "slecht oplosbaar",
+    "d": "onoplosbaar"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke zouten zijn altijd goed oplosbaar?",
+   "answers": {
+    "a": "zouten met OH<sup>-</sup>",
+    "b": "zouten met Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> of NO<sub>3</sub><sup>-</sup>",
+    "c": "zouten met CO<sub>3</sub><sup>2-</sup>",
+    "d": "zouten met Cl<sup>-</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Is PbI<sub>2</sub> goed, matig of slecht oplosbaar in water? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "matig oplosbaar",
+    "b": "goed oplosbaar",
+    "c": "dat staat niet in de tabel",
+    "d": "slecht oplosbaar"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de concentratie als 12 g zout is opgelost in 2,5 L water?",
+   "answers": {
+    "a": "4,8 g/L",
+    "b": "30 g/L",
+    "c": "0,21 g/L",
+    "d": "9,5 g/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de concentratie als 200 mg zout is opgelost in 2,5 mL water?",
+   "answers": {
+    "a": "500 g/L",
+    "b": "0,08 g/L",
+    "c": "80 g/L",
+    "d": "80 mg/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe heet het Cl<sup>-</sup>-ion in de naam van een zout?",
+   "answers": {
+    "a": "chloride",
+    "b": "chloraat",
+    "c": "chloor",
+    "d": "chlooride"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe heet het O<sup>2-</sup>-ion in de naam van een zout?",
+   "answers": {
+    "a": "oxide",
+    "b": "zuurstofion",
+    "c": "oxy",
+    "d": "sulfide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke twee metaalionen kunnen een 3+-lading hebben?",
+   "answers": {
+    "a": "Cl<sup>-</sup> en Br<sup>-</sup>",
+    "b": "Na<sup>+</sup> en K<sup>+</sup>",
+    "c": "Fe<sup>3+</sup> en Al<sup>3+</sup>",
+    "d": "Mg<sup>2+</sup> en Ca<sup>2+</sup>"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

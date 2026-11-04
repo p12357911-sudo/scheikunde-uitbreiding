@@ -1,0 +1,229 @@
+{
+ "title": "Production processes - 123 school",
+ "heading": "Production processes",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "What is a production chain?",
+   "answers": {
+    "a": "a series of steps from raw material via intermediate products to end product",
+    "b": "a list of all hazardous substances",
+    "c": "a chain of metal atoms",
+    "d": "the place where a factory stands"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do the arrows in a block diagram show?",
+   "answers": {
+    "a": "how hot the substances are",
+    "b": "which way the substances go",
+    "c": "how much the substances cost",
+    "d": "which substances are poisonous"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How do you show a recycled substance in a block diagram?",
+   "answers": {
+    "a": "a double block",
+    "b": "an arrow to the last block",
+    "c": "a dotted line to the outside",
+    "d": "an arrow back to an earlier block"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the correct order of a production chain for a plastic bag?",
+   "answers": {
+    "a": "crude oil → polyethylene → naphtha → ethene",
+    "b": "crude oil → naphtha → ethene → polyethylene → bag",
+    "c": "ethene → crude oil → bag → polyethylene",
+    "d": "bag → polyethylene → ethene → crude oil"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which process turns ethene into the polymer polyethylene?",
+   "answers": {
+    "a": "cracking",
+    "b": "evaporation",
+    "c": "distillation",
+    "d": "polymerisation"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Why does a factory mix starting substances in the right mass ratio?",
+   "answers": {
+    "a": "otherwise the product becomes heavier",
+    "b": "otherwise nothing reacts",
+    "c": "otherwise a substance is left over and that is a waste",
+    "d": "otherwise a different salt always forms"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is an excess?",
+   "answers": {
+    "a": "a starting substance of which some is left after the reaction",
+    "b": "a starting substance that has been used up completely",
+    "c": "a substance that speeds up the reaction",
+    "d": "the product that is formed"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the mass ratio hydrogen : oxygen : water for 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O?",
+   "answers": {
+    "a": "4.0 : 16.0 : 20.0",
+    "b": "1.0 : 16.0 : 17.0",
+    "c": "2.0 : 32.0 : 34.0",
+    "d": "4.0 : 32.0 : 36.0"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many grams of oxygen are needed for 8.0 g of hydrogen? (mass ratio 4.0 : 32.0 : 36.0)",
+   "answers": {
+    "a": "8.0 g",
+    "b": "32 g",
+    "c": "64 g",
+    "d": "16 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You let 8.0 g of hydrogen react with 32.0 g of oxygen (mass ratio 4.0 : 32.0 : 36.0). Which substance is in excess?",
+   "answers": {
+    "a": "neither",
+    "b": "hydrogen, 4.0 g is left",
+    "c": "hydrogen, 8.0 g is left",
+    "d": "oxygen, 4.0 g is left"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "For C + O<sub>2</sub> → CO<sub>2</sub> the mass ratio is 12.0 : 32.0 : 44.0. How many grams of CO<sub>2</sub> are formed from 6.0 g of carbon?",
+   "answers": {
+    "a": "22 g",
+    "b": "44 g",
+    "c": "50 g",
+    "d": "2.7 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Methane burns according to CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O. What is the mass ratio methane : oxygen?",
+   "answers": {
+    "a": "16.0 : 64.0",
+    "b": "16.0 : 16.0",
+    "c": "12.0 : 32.0",
+    "d": "16.0 : 32.0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How many grams of CO<sub>2</sub> are formed from 32.0 g of methane in complete combustion? (mass ratio methane : CO<sub>2</sub> = 16.0 : 44.0)",
+   "answers": {
+    "a": "48 g",
+    "b": "88 g",
+    "c": "22 g",
+    "d": "44 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "For ammonia, N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> with mass ratio 28.0 : 6.0 : 34.0. You have 14.0 g of nitrogen and 6.0 g of hydrogen. Which substance is in excess?",
+   "answers": {
+    "a": "hydrogen, 6.0 g is left",
+    "b": "neither",
+    "c": "nitrogen, 3.0 g is left",
+    "d": "hydrogen, 3.0 g is left"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "From which substance does industry get the nitrogen for ammonia?",
+   "answers": {
+    "a": "from sea water",
+    "b": "from coal",
+    "c": "from air",
+    "d": "from crude oil"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Why does a factory feed substances that have not reacted back into the process?",
+   "answers": {
+    "a": "so more waste is formed",
+    "b": "so less is wasted",
+    "c": "so the reaction becomes slower",
+    "d": "so the product becomes more poisonous"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "An ore sample of 200 g contains 140 g of iron oxide. What is the mass percentage of iron oxide?",
+   "answers": {
+    "a": "30%",
+    "b": "140%",
+    "c": "70%",
+    "d": "1.4%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wine of 750 mL contains 12 volume percent alcohol. How many mL of alcohol is that?",
+   "answers": {
+    "a": "90 mL",
+    "b": "9.0 mL",
+    "c": "62.5 mL",
+    "d": "900 mL"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Air contains 21 volume percent oxygen. How many litres of oxygen are in 50 L of air?",
+   "answers": {
+    "a": "21 L",
+    "b": "29 L",
+    "c": "2.4 L",
+    "d": "10.5 L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "From 319.2 g of iron oxide, 223.2 g of iron is formed. How many grams of iron are formed from 159.6 g of iron oxide?",
+   "answers": {
+    "a": "111.6 g",
+    "b": "223.2 g",
+    "c": "446.4 g",
+    "d": "55.8 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is an intermediate product?",
+   "answers": {
+    "a": "the end product the customer buys",
+    "b": "a raw material from nature",
+    "c": "a substance that is made in the chain and then used again",
+    "d": "waste that is burned"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a raw material?",
+   "answers": {
+    "a": "a substance that is formed at the end of the process",
+    "b": "a substance from nature with which a production process starts",
+    "c": "a substance that only consists of metals",
+    "d": "a waste substance"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

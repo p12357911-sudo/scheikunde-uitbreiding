@@ -1,0 +1,249 @@
+{
+ "title": "Chemical equilibrium 1: reversible, Q and K - 123 school",
+ "heading": "Chemical equilibrium 1: reversible, Q and K",
+ "intro": [
+  "Choose the correct answer for each question. Use a calculator where needed."
+ ],
+ "questions": [
+  {
+   "question": "What does the sign ⇌ in a reaction equation mean?",
+   "answers": {
+    "a": "the reaction is reversible",
+    "b": "the reaction needs a catalyst",
+    "c": "the reaction goes to completion",
+    "d": "the reaction is explosive"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What holds in a chemical equilibrium for the forward and reverse reaction?",
+   "answers": {
+    "a": "only the reverse reaction goes on",
+    "b": "both reactions have stopped",
+    "c": "only the forward reaction goes on",
+    "d": "they go equally fast"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is true about the concentrations at equilibrium?",
+   "answers": {
+    "a": "they are all zero",
+    "b": "they are constant",
+    "c": "they keep getting smaller",
+    "d": "they are all equal"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a condition for an equilibrium to arise?",
+   "answers": {
+    "a": "an excess of a starting substance",
+    "b": "a high temperature",
+    "c": "a closed system",
+    "d": "a catalyst"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the equilibrium condition of N<sub>2</sub> + 3 H<sub>2</sub> ⇌ 2 NH<sub>3</sub>?",
+   "answers": {
+    "a": "K = ([N<sub>2</sub>] · [H<sub>2</sub>]<sup>3</sup>) / [NH<sub>3</sub>]<sup>2</sup>",
+    "b": "K = [NH<sub>3</sub>] / ([N<sub>2</sub>] · [H<sub>2</sub>])",
+    "c": "K = [NH<sub>3</sub>]<sup>2</sup> / ([N<sub>2</sub>] · [H<sub>2</sub>]<sup>3</sup>)",
+    "d": "K = [NH<sub>3</sub>]<sup>2</sup> / ([N<sub>2</sub>] + [H<sub>2</sub>]<sup>3</sup>)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the equilibrium condition of H<sub>2</sub> + I<sub>2</sub> ⇌ 2 HI?",
+   "answers": {
+    "a": "K = [HI] / ([H<sub>2</sub>] · [I<sub>2</sub>])",
+    "b": "K = [HI]<sup>2</sup> / ([H<sub>2</sub>] · [I<sub>2</sub>])",
+    "c": "K = 2 [HI] / ([H<sub>2</sub>] · [I<sub>2</sub>])",
+    "d": "K = ([H<sub>2</sub>] · [I<sub>2</sub>]) / [HI]<sup>2</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the equilibrium condition of 2 NO<sub>2</sub> ⇌ N<sub>2</sub>O<sub>4</sub>?",
+   "answers": {
+    "a": "K = [N<sub>2</sub>O<sub>4</sub>] / (2 [NO<sub>2</sub>])",
+    "b": "K = [N<sub>2</sub>O<sub>4</sub>] / [NO<sub>2</sub>]<sup>2</sup>",
+    "c": "K = [N<sub>2</sub>O<sub>4</sub>] · [NO<sub>2</sub>]<sup>2</sup>",
+    "d": "K = [NO<sub>2</sub>]<sup>2</sup> / [N<sub>2</sub>O<sub>4</sub>]"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the equilibrium condition of CaCO<sub>3</sub> (s) ⇌ CaO (s) + CO<sub>2</sub> (g)?",
+   "answers": {
+    "a": "K = [CaO] / [CaCO<sub>3</sub>]",
+    "b": "K = [CaO] · [CO<sub>2</sub>] / [CaCO<sub>3</sub>]",
+    "c": "K = 1 / [CO<sub>2</sub>]",
+    "d": "K = [CO<sub>2</sub>]"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the equilibrium condition of C (s) + CO<sub>2</sub> (g) ⇌ 2 CO (g)?",
+   "answers": {
+    "a": "K = [CO]<sup>2</sup> / ([C] · [CO<sub>2</sub>])",
+    "b": "K = [CO] / [CO<sub>2</sub>]",
+    "c": "K = [CO]<sup>2</sup> / [CO<sub>2</sub>]",
+    "d": "K = [CO<sub>2</sub>] / [CO]<sup>2</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substances do not appear in the equilibrium condition?",
+   "answers": {
+    "a": "all reaction products",
+    "b": "gases",
+    "c": "dissolved substances",
+    "d": "solids and pure liquids"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the concentration quotient Q?",
+   "answers": {
+    "a": "the fraction of K with the concentrations at any moment",
+    "b": "the value of K at 298 K",
+    "c": "the fraction of K with only the initial concentrations",
+    "d": "the difference between forward and reverse reaction"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What holds at equilibrium?",
+   "answers": {
+    "a": "Q = 0",
+    "b": "Q < K",
+    "c": "Q = K",
+    "d": "Q > K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Q is smaller than K. What happens?",
+   "answers": {
+    "a": "the reaction goes to the right overall",
+    "b": "the reaction stops",
+    "c": "the reaction goes to the left overall",
+    "d": "there is equilibrium"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Q is greater than K. What happens?",
+   "answers": {
+    "a": "the reaction goes to the right overall",
+    "b": "the reaction goes to the left overall",
+    "c": "there is equilibrium",
+    "d": "K becomes greater"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What does K depend on?",
+   "answers": {
+    "a": "on the reaction and the temperature",
+    "b": "on the volume of the vessel",
+    "c": "on the amount of catalyst",
+    "d": "on the initial concentrations"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does a catalyst do to K?",
+   "answers": {
+    "a": "K becomes greater",
+    "b": "nothing, K stays the same",
+    "c": "K becomes smaller",
+    "d": "K becomes zero"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A reaction has a very large K. What does that mean?",
+   "answers": {
+    "a": "the reaction is very slow",
+    "b": "the reaction is not reversible",
+    "c": "at equilibrium there are mainly reaction products",
+    "d": "at equilibrium there are mainly starting substances"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A reaction has a very small K. What does that mean?",
+   "answers": {
+    "a": "there is never an equilibrium",
+    "b": "at equilibrium there are mainly reaction products",
+    "c": "the reaction is very fast",
+    "d": "at equilibrium there are mainly starting substances"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "For H<sub>2</sub> + I<sub>2</sub> ⇌ 2 HI at equilibrium [H<sub>2</sub>] = 0.10, [I<sub>2</sub>] = 0.10 and [HI] = 0.40 mol/L. What is K?",
+   "answers": {
+    "a": "4.0",
+    "b": "0.0625",
+    "c": "16",
+    "d": "1.6"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "For 2 SO<sub>2</sub> + O<sub>2</sub> ⇌ 2 SO<sub>3</sub> at equilibrium [SO<sub>2</sub>] = 0.20, [O<sub>2</sub>] = 0.10 and [SO<sub>3</sub>] = 0.40 mol/L. What is K?",
+   "answers": {
+    "a": "40",
+    "b": "0.025",
+    "c": "20",
+    "d": "80"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Assume that for N<sub>2</sub>O<sub>4</sub> ⇌ 2 NO<sub>2</sub> K = 0.20. Now [N<sub>2</sub>O<sub>4</sub>] = 0.50 and [NO<sub>2</sub>] = 0.10 mol/L. What is Q and what happens?",
+   "answers": {
+    "a": "Q = 0.20; there is equilibrium",
+    "b": "Q = 2.0; the reaction goes to the left",
+    "c": "Q = 0.020; the reaction goes to the left",
+    "d": "Q = 0.020; the reaction goes to the right"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "For A + B ⇌ C, K = 4.0. At equilibrium [A] = 0.20 and [B] = 0.50 mol/L. What is [C]?",
+   "answers": {
+    "a": "0.70 mol/L",
+    "b": "0.40 mol/L",
+    "c": "0.025 mol/L",
+    "d": "2.5 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You start with 1.00 mol/L H<sub>2</sub> and 1.00 mol/L I<sub>2</sub>. At equilibrium [HI] = 1.60 mol/L. What is [H<sub>2</sub>] at equilibrium?",
+   "answers": {
+    "a": "0.80 mol/L",
+    "b": "1.00 mol/L",
+    "c": "0.40 mol/L",
+    "d": "0.20 mol/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You start with 1.00 mol/L H<sub>2</sub> and 1.00 mol/L I<sub>2</sub>. At equilibrium [HI] = 1.60 mol/L. What is K?",
+   "answers": {
+    "a": "64",
+    "b": "8.0",
+    "c": "0.016",
+    "d": "16"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

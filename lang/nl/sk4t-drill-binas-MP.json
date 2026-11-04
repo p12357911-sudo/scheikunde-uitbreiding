@@ -1,0 +1,359 @@
+{
+ "title": "Drill: Binas opzoeken - 123 school",
+ "heading": "Drill: Binas opzoeken",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "In welke BINAS-tabel vind je de dichtheid van vaste stoffen?",
+   "answers": {
+    "a": "tabel 35",
+    "b": "tabel 45",
+    "c": "tabel 39",
+    "d": "tabel 15"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je de oplosbaarheid van zouten?",
+   "answers": {
+    "a": "tabel 42",
+    "b": "tabel 15",
+    "c": "tabel 36",
+    "d": "tabel 35"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je het omslagtraject van indicatoren?",
+   "answers": {
+    "a": "tabel 35",
+    "b": "tabel 36",
+    "c": "tabel 38",
+    "d": "tabel 40"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je de vlamkleuring van metaalionen?",
+   "answers": {
+    "a": "tabel 39",
+    "b": "tabel 36",
+    "c": "tabel 38",
+    "d": "tabel 41"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je de betekenis van gevaarsymbolen?",
+   "answers": {
+    "a": "tabel 45",
+    "b": "tabel 38",
+    "c": "tabel 39",
+    "d": "tabel 40"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je de maximaal toelaatbare concentratie (MAC) van gevaarlijke stoffen in lucht?",
+   "answers": {
+    "a": "tabel 41",
+    "b": "tabel 40",
+    "c": "tabel 44",
+    "d": "tabel 39"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je het stroomschema van aardolie?",
+   "answers": {
+    "a": "tabel 41",
+    "b": "tabel 42",
+    "c": "tabel 40",
+    "d": "tabel 43"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je de triviale namen van stoffen?",
+   "answers": {
+    "a": "tabel 41",
+    "b": "tabel 45",
+    "c": "tabel 43",
+    "d": "tabel 42"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je de E-nummers van hulpstoffen?",
+   "answers": {
+    "a": "tabel 43",
+    "b": "tabel 45",
+    "c": "tabel 44",
+    "d": "tabel 42"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In welke BINAS-tabel vind je het periodiek systeem?",
+   "answers": {
+    "a": "tabel 34",
+    "b": "tabel 45",
+    "c": "tabel 35",
+    "d": "tabel 15"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de dichtheid van ijzer in g/cm³? (gebruik BINAS tabel 15)",
+   "answers": {
+    "a": "7,87 g/cm³",
+    "b": "8,90 g/cm³",
+    "c": "11,35 g/cm³",
+    "d": "2,70 g/cm³"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de dichtheid van lood in g/cm³? (gebruik BINAS tabel 15)",
+   "answers": {
+    "a": "7,87 g/cm³",
+    "b": "11,35 g/cm³",
+    "c": "2,70 g/cm³",
+    "d": "8,90 g/cm³"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de dichtheid van nikkel in g/cm³? (gebruik BINAS tabel 15)",
+   "answers": {
+    "a": "11,35 g/cm³",
+    "b": "7,87 g/cm³",
+    "c": "2,70 g/cm³",
+    "d": "8,90 g/cm³"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het smeltpunt van suiker in K? (gebruik BINAS tabel 15)",
+   "answers": {
+    "a": "933 K",
+    "b": "458 K",
+    "c": "1081 K",
+    "d": "373 K"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het smeltpunt van keukenzout in K? (gebruik BINAS tabel 15)",
+   "answers": {
+    "a": "933 K",
+    "b": "273 K",
+    "c": "1081 K",
+    "d": "458 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het stolpunt van alcohol in K? (gebruik BINAS tabel 16)",
+   "answers": {
+    "a": "273 K",
+    "b": "159 K",
+    "c": "373 K",
+    "d": "234 K"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het kookpunt van zuurstof in K? (gebruik BINAS tabel 17)",
+   "answers": {
+    "a": "373 K",
+    "b": "231 K",
+    "c": "90 K",
+    "d": "4,2 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het kookpunt van helium in K? (gebruik BINAS tabel 17)",
+   "answers": {
+    "a": "90 K",
+    "b": "231 K",
+    "c": "159 K",
+    "d": "4,2 K"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de MAC-waarde van koolmonoxide in mg/m³? (gebruik BINAS tabel 40)",
+   "answers": {
+    "a": "3 mg/m³",
+    "b": "0,05 mg/m³",
+    "c": "55 mg/m³",
+    "d": "500 mg/m³"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de MAC-waarde van chloor in mg/m³? (gebruik BINAS tabel 40)",
+   "answers": {
+    "a": "0,05 mg/m³",
+    "b": "3 mg/m³",
+    "c": "30 mg/m³",
+    "d": "55 mg/m³"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke kleur heeft de vlam van een natriumzout? (gebruik BINAS tabel 38)",
+   "answers": {
+    "a": "geel",
+    "b": "groen",
+    "c": "blauw",
+    "d": "paars"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvoor wordt E-420 gebruikt? (gebruik BINAS tabel 45)",
+   "answers": {
+    "a": "als zoetstof",
+    "b": "als conserveermiddel",
+    "c": "als kleurstof",
+    "d": "als verdikkingsmiddel"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvoor wordt E-250 (nitriet) gebruikt? (gebruik BINAS tabel 45)",
+   "answers": {
+    "a": "als conserveermiddel",
+    "b": "als zoetstof",
+    "c": "als smaakversterker",
+    "d": "als kleurstof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke kleur heeft fenolrood bij pH 5? (gebruik BINAS tabel 36)",
+   "answers": {
+    "a": "kleurloos",
+    "b": "blauw",
+    "c": "geel",
+    "d": "rood"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke kleur heeft rodekoolsap bij pH 12? (gebruik BINAS tabel 36)",
+   "answers": {
+    "a": "paars",
+    "b": "groen",
+    "c": "rood",
+    "d": "roze"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe goed lost Mg(OH)<sub>2</sub> op in water? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "matig oplosbaar",
+    "b": "goed oplosbaar",
+    "c": "slecht oplosbaar",
+    "d": "reageert met water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoe goed lost FeSO<sub>4</sub> op in water? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "goed oplosbaar",
+    "b": "reageert met water",
+    "c": "slecht oplosbaar",
+    "d": "matig oplosbaar"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe goed lost PbF<sub>2</sub> op in water? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "goed oplosbaar",
+    "b": "matig oplosbaar",
+    "c": "reageert met water",
+    "d": "slecht oplosbaar"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe goed lost AgCl op in water? (gebruik BINAS tabel 35)",
+   "answers": {
+    "a": "reageert met water",
+    "b": "goed oplosbaar",
+    "c": "matig oplosbaar",
+    "d": "slecht oplosbaar"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is lachgas? (gebruik BINAS tabel 42)",
+   "answers": {
+    "a": "koolstofmonoxide",
+    "b": "stikstofdioxide",
+    "c": "distikstofmonoxide",
+    "d": "waterstofperoxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is kalkwater? (gebruik BINAS tabel 42)",
+   "answers": {
+    "a": "een oplossing van calciumchloride",
+    "b": "een oplossing van calciumcarbonaat",
+    "c": "een oplossing van natriumhydroxide",
+    "d": "een oplossing van calciumhydroxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is natronloog? (gebruik BINAS tabel 42)",
+   "answers": {
+    "a": "een oplossing van natriumhydroxide",
+    "b": "een oplossing van calciumhydroxide",
+    "c": "een oplossing van natriumchloride",
+    "d": "een oplossing van natriumcarbonaat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van koper? (gebruik BINAS tabel 34)",
+   "answers": {
+    "a": "Cu",
+    "b": "C",
+    "c": "Co",
+    "d": "Ca"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het symbool van tin? (gebruik BINAS tabel 34)",
+   "answers": {
+    "a": "Ti",
+    "b": "Pb",
+    "c": "Tn",
+    "d": "Sn"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is het atoomnummer van ijzer? (gebruik BINAS tabel 34)",
+   "answers": {
+    "a": "16",
+    "b": "29",
+    "c": "26",
+    "d": "56"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

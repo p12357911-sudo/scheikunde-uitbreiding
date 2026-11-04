@@ -1,0 +1,279 @@
+{
+ "title": "Acid-base equilibria: Kz, Kb, Kw and buffers - 123 school",
+ "heading": "Acid-base equilibria: Kz, Kb, Kw and buffers",
+ "intro": [
+  "Choose the correct answer for each question. Use a calculator where needed."
+ ],
+ "questions": [
+  {
+   "question": "What is the equilibrium condition of HZ + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + Z<sup>–</sup>?",
+   "answers": {
+    "a": "K<sub>z</sub> = [HZ] / ([H<sub>3</sub>O<sup>+</sup>] · [Z<sup>–</sup>])",
+    "b": "K<sub>z</sub> = [H<sub>3</sub>O<sup>+</sup>] · [Z<sup>–</sup>] / [HZ]",
+    "c": "K<sub>z</sub> = [H<sub>3</sub>O<sup>+</sup>] · [Z<sup>–</sup>] / ([HZ] · [H<sub>2</sub>O])",
+    "d": "K<sub>z</sub> = [H<sub>3</sub>O<sup>+</sup>] / [HZ]"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the equilibrium condition of NH<sub>3</sub> + H<sub>2</sub>O ⇌ NH<sub>4</sub><sup>+</sup> + OH<sup>–</sup>?",
+   "answers": {
+    "a": "K<sub>b</sub> = [NH<sub>4</sub><sup>+</sup>] · [OH<sup>–</sup>] / [NH<sub>3</sub>]",
+    "b": "K<sub>b</sub> = [NH<sub>4</sub><sup>+</sup>] / [NH<sub>3</sub>]",
+    "c": "K<sub>b</sub> = [NH<sub>4</sub><sup>+</sup>] · [OH<sup>–</sup>] / ([NH<sub>3</sub>] · [H<sub>2</sub>O])",
+    "d": "K<sub>b</sub> = [NH<sub>3</sub>] / ([NH<sub>4</sub><sup>+</sup>] · [OH<sup>–</sup>])"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the value of K<sub>w</sub> at 298 K?",
+   "answers": {
+    "a": "1.0·10<sup>–7</sup>",
+    "b": "1.0·10<sup>14</sup>",
+    "c": "1.0·10<sup>–14</sup>",
+    "d": "14.00"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which equation is correct at 298 K?",
+   "answers": {
+    "a": "pH – pOH = 14.00",
+    "b": "pH + pOH = 7.00",
+    "c": "pH + pOH = 14.00",
+    "d": "pH · pOH = 14.00"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which relationship holds for an acid and its conjugate base?",
+   "answers": {
+    "a": "K<sub>z</sub> = K<sub>b</sub>",
+    "b": "K<sub>z</sub> · K<sub>b</sub> = K<sub>w</sub>",
+    "c": "K<sub>z</sub> + K<sub>b</sub> = K<sub>w</sub>",
+    "d": "K<sub>z</sub> / K<sub>b</sub> = K<sub>w</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "An acid has K<sub>z</sub> = 1.0·10<sup>–5</sup>. What is K<sub>b</sub> of the conjugate base?",
+   "answers": {
+    "a": "1.0·10<sup>–9</sup>",
+    "b": "1.0·10<sup>9</sup>",
+    "c": "1.0·10<sup>–5</sup>",
+    "d": "1.0·10<sup>–19</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Acid A has K<sub>z</sub> = 1.0·10<sup>–3</sup>, acid B has K<sub>z</sub> = 1.0·10<sup>–6</sup>. What is true?",
+   "answers": {
+    "a": "A is a base",
+    "b": "A is the stronger acid",
+    "c": "A and B are equally strong",
+    "d": "B is the stronger acid"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the difference between a strong and a weak acid?",
+   "answers": {
+    "a": "a strong acid has an equilibrium and a weak acid does not",
+    "b": "a strong acid is always concentrated",
+    "c": "a weak acid has pH 7",
+    "d": "a strong acid reacts (almost) completely with water, a weak acid only partly"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the pH of 0.10 mol/L HCl?",
+   "answers": {
+    "a": "0.10",
+    "b": "7.00",
+    "c": "1.00",
+    "d": "13.00"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the pH of 0.010 mol/L NaOH?",
+   "answers": {
+    "a": "10.00",
+    "b": "12.00",
+    "c": "1.00",
+    "d": "2.00"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the pH of 0.10 mol/L of a weak acid with K<sub>z</sub> = 1.0·10<sup>–5</sup>?",
+   "answers": {
+    "a": "3.00",
+    "b": "5.00",
+    "c": "1.00",
+    "d": "2.00"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the pH of 0.10 mol/L acetic acid (K<sub>z</sub> = 1.8·10<sup>–5</sup>)?",
+   "answers": {
+    "a": "4.74",
+    "b": "1.00",
+    "c": "2.87",
+    "d": "5.74"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A weak acid (K<sub>z</sub> = 1.0·10<sup>–5</sup>) has pH = 3.00. What is the initial concentration of the acid?",
+   "answers": {
+    "a": "1.0·10<sup>–2</sup> mol/L",
+    "b": "1.0 mol/L",
+    "c": "1.0·10<sup>–3</sup> mol/L",
+    "d": "0.10 mol/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the pH of 0.10 mol/L of a weak base with K<sub>b</sub> = 1.0·10<sup>–5</sup>?",
+   "answers": {
+    "a": "13.00",
+    "b": "3.00",
+    "c": "9.00",
+    "d": "11.00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You dilute a solution of a weak acid 100 times. What approximately happens to the pH?",
+   "answers": {
+    "a": "the pH becomes 1 higher",
+    "b": "the pH becomes 100 times as large",
+    "c": "the pH becomes 2 higher",
+    "d": "the pH stays the same"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You dilute a solution of a strong acid 100 times. What happens to the pH?",
+   "answers": {
+    "a": "the pH becomes 1 higher",
+    "b": "the pH stays the same",
+    "c": "the pH becomes 2 higher",
+    "d": "the pH becomes 2 lower"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a buffer?",
+   "answers": {
+    "a": "a solution with pH 7",
+    "b": "a solution of a strong acid",
+    "c": "a solution that does not react with acids and bases",
+    "d": "a solution whose pH hardly changes when you add a little acid or base"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which mixture is a buffer?",
+   "answers": {
+    "a": "NaOH and NaCl",
+    "b": "HNO<sub>3</sub> and NaNO<sub>3</sub>",
+    "c": "CH<sub>3</sub>COOH and CH<sub>3</sub>COONa",
+    "d": "HCl and NaCl"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You add a little acid to an acetic acid / acetate buffer. What reacts with the added H<sub>3</sub>O<sup>+</sup>?",
+   "answers": {
+    "a": "CH<sub>3</sub>COO<sup>–</sup>",
+    "b": "CH<sub>3</sub>COOH",
+    "c": "H<sub>3</sub>O<sup>+</sup>",
+    "d": "Na<sup>+</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You add a little base to an acetic acid / acetate buffer. What reacts with the added OH<sup>–</sup>?",
+   "answers": {
+    "a": "CH<sub>3</sub>COO<sup>–</sup>",
+    "b": "CH<sub>3</sub>COOH",
+    "c": "Na<sup>+</sup>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which system keeps the pH of blood almost constant at about 7.4?",
+   "answers": {
+    "a": "H<sub>2</sub>O / O<sub>2</sub>",
+    "b": "NaOH / Na<sup>+</sup>",
+    "c": "HCl / Cl<sup>–</sup>",
+    "d": "H<sub>2</sub>CO<sub>3</sub> / HCO<sub>3</sub><sup>–</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You mix 100 mL 0.20 mol/L acetic acid with 50 mL 0.20 mol/L NaOH. What is formed?",
+   "answers": {
+    "a": "a buffer of CH<sub>3</sub>COOH and CH<sub>3</sub>COO<sup>–</sup>",
+    "b": "only a solution of CH<sub>3</sub>COO<sup>–</sup>",
+    "c": "a solution of only NaOH",
+    "d": "a solution of a strong acid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A buffer contains as much HZ as Z<sup>–</sup>. For HZ, K<sub>z</sub> = 1.0·10<sup>–5</sup>. What is the pH?",
+   "answers": {
+    "a": "2.50",
+    "b": "9.00",
+    "c": "7.00",
+    "d": "5.00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "When does a buffer no longer work?",
+   "answers": {
+    "a": "when water is added",
+    "b": "when the pH is exactly 7",
+    "c": "when one of the two components of the buffer is used up",
+    "d": "when the temperature is 298 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Acetic acid (K<sub>z</sub> = 1.8·10<sup>–5</sup>) reacts with NH<sub>3</sub> (NH<sub>4</sub><sup>+</sup> has K<sub>z</sub> = 5.6·10<sup>–10</sup>). What is true?",
+   "answers": {
+    "a": "the equilibrium lies far to the right",
+    "b": "the equilibrium lies far to the left",
+    "c": "K = 1",
+    "d": "there is no reaction"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You titrate acetic acid with NaOH. What is the pH at the equivalence point?",
+   "answers": {
+    "a": "exactly 7",
+    "b": "higher than 7",
+    "c": "equal to pK<sub>z</sub> – 7",
+    "d": "lower than 7"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance can react both as an acid and as a base?",
+   "answers": {
+    "a": "Na<sup>+</sup>",
+    "b": "HCO<sub>3</sub><sup>–</sup>",
+    "c": "NO<sub>3</sub><sup>–</sup>",
+    "d": "Cl<sup>–</sup>"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

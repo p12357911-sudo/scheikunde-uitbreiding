@@ -1,0 +1,133 @@
+{
+ "title": "Drill: rekenen - 123 school",
+ "heading": "Drill: rekenen",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Een stuk metaal heeft een massa van 54 g en een volume van 20 cm³. Wat is de dichtheid?",
+   "a": "2,7 g/cm³"
+  },
+  {
+   "q": "Een stuk metaal heeft een massa van 78,7 g en een volume van 10,0 cm³. Wat is de dichtheid?",
+   "a": "7,87 g/cm³"
+  },
+  {
+   "q": "Een blokje heeft een volume van 5,0 cm³ en een dichtheid van 19,3 g/cm³. Wat is de massa?",
+   "a": "96,5 g"
+  },
+  {
+   "q": "Een stuk koper heeft een volume van 10 cm³. De dichtheid van koper is 8,96 g/cm³. Wat is de massa?",
+   "a": "89,6 g"
+  },
+  {
+   "q": "Alcohol heeft een dichtheid van 0,80 g/mL. Wat is de massa van 250 mL alcohol?",
+   "a": "200 g"
+  },
+  {
+   "q": "Een stuk steen heeft een massa van 500 g en een dichtheid van 2,5 g/cm³. Wat is het volume?",
+   "a": "200 cm³"
+  },
+  {
+   "q": "Water heeft een dichtheid van 1,0 g/mL. Wat is de massa van 3,0 L water?",
+   "a": "3000 g"
+  },
+  {
+   "q": "Reken om: 2,5 kg = ... g",
+   "a": "2500 g"
+  },
+  {
+   "q": "Reken om: 750 mL = ... L",
+   "a": "0,75 L"
+  },
+  {
+   "q": "Reken om: 0,35 L = ... mL",
+   "a": "350 mL"
+  },
+  {
+   "q": "Reken om: 4500 mg = ... g",
+   "a": "4,5 g"
+  },
+  {
+   "q": "Reken om: 30 °C = ... K",
+   "a": "303 K"
+  },
+  {
+   "q": "Reken om: 300 K = ... °C",
+   "a": "27 °C"
+  },
+  {
+   "q": "Reken om: 5,0 cm³ = ... mL",
+   "a": "5,0 mL"
+  },
+  {
+   "q": "Reken om: 0,5 kg = ... g",
+   "a": "500 g"
+  },
+  {
+   "q": "In 120 g mengsel zit 30 g zout. Wat is het massapercentage zout?",
+   "a": "25%"
+  },
+  {
+   "q": "Een mengsel van 200 g bevat 15% suiker. Hoeveel gram suiker is dat?",
+   "a": "30 g"
+  },
+  {
+   "q": "In 80 g mengsel zit 12 g zout. Wat is het massapercentage zout?",
+   "a": "15%"
+  },
+  {
+   "q": "Zeewater bevat 3,5% zout. Hoeveel gram zout zit er in 2000 g zeewater?",
+   "a": "70 g"
+  },
+  {
+   "q": "Er is 20 g zout opgelost in 0,50 L oplossing. Wat is de concentratie?",
+   "a": "40 g/L"
+  },
+  {
+   "q": "De concentratie is 15 g/L. Hoeveel gram zit er in 2,0 L?",
+   "a": "30 g"
+  },
+  {
+   "q": "Er is 60 g suiker opgelost in 3,0 L oplossing. Wat is de concentratie?",
+   "a": "20 g/L"
+  },
+  {
+   "q": "De concentratie is 25 g/L. Hoeveel liter oplossing bevat 100 g?",
+   "a": "4,0 L"
+  },
+  {
+   "q": "Je verdunt 100 mL oplossing van 20 g/L met water tot 400 mL. Wat is de nieuwe concentratie?",
+   "a": "5,0 g/L"
+  },
+  {
+   "q": "Een oplossing van 50 g/L wordt 5 keer verdund. Wat is de nieuwe concentratie?",
+   "a": "10 g/L"
+  },
+  {
+   "q": "Je verdunt 10 mL oplossing van 30 g/L met water tot 60 mL. Wat is de nieuwe concentratie?",
+   "a": "5,0 g/L"
+  },
+  {
+   "q": "Wat is de molecuulmassa van H<sub>2</sub>O? (H = 1,0 en O = 16,0)",
+   "a": "18,0 u"
+  },
+  {
+   "q": "Wat is de molecuulmassa van CO<sub>2</sub>? (C = 12,0 en O = 16,0)",
+   "a": "44,0 u"
+  },
+  {
+   "q": "Wat is de molecuulmassa van NH<sub>3</sub>? (N = 14,0 en H = 1,0)",
+   "a": "17,0 u"
+  },
+  {
+   "q": "Een apparaat neemt 200 J energie op en geeft 60 J nuttige energie. Wat is het rendement?",
+   "a": "30%"
+  },
+  {
+   "q": "Een apparaat heeft een rendement van 40% en neemt 500 J op. Hoeveel J is nuttig?",
+   "a": "200 J"
+  }
+ ]
+}

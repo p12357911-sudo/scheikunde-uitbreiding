@@ -1,0 +1,113 @@
+{
+ "title": "Chemical equilibrium 1: reversible, Q and K - 123 school",
+ "heading": "Chemical equilibrium 1: reversible, Q and K",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is a reaction that goes to completion?",
+   "a": "A reaction in which the starting substances (almost) completely disappear and only reaction products remain"
+  },
+  {
+   "q": "What is a reversible reaction?",
+   "a": "A reaction that can proceed in both directions. You write it with the sign ⇌"
+  },
+  {
+   "q": "What is a chemical equilibrium?",
+   "a": "A state in which the forward and the reverse reaction go equally fast, so the concentrations no longer change"
+  },
+  {
+   "q": "Why is a chemical equilibrium called dynamic?",
+   "a": "Because the forward and reverse reactions keep going; they just go equally fast"
+  },
+  {
+   "q": "Are the concentrations of all substances in an equilibrium equal?",
+   "a": "No. They are constant, but not necessarily equal to each other"
+  },
+  {
+   "q": "What must you do with a system to let it reach an equilibrium?",
+   "a": "Close it (closed system) so that no substances can escape"
+  },
+  {
+   "q": "Give the equilibrium condition of N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) ⇌ 2 NH<sub>3</sub> (g)",
+   "a": "K = [NH<sub>3</sub>]<sup>2</sup> / ([N<sub>2</sub>] · [H<sub>2</sub>]<sup>3</sup>)"
+  },
+  {
+   "q": "Give the equilibrium condition of H<sub>2</sub> (g) + I<sub>2</sub> (g) ⇌ 2 HI (g)",
+   "a": "K = [HI]<sup>2</sup> / ([H<sub>2</sub>] · [I<sub>2</sub>])"
+  },
+  {
+   "q": "Give the equilibrium condition of 2 NO<sub>2</sub> (g) ⇌ N<sub>2</sub>O<sub>4</sub> (g)",
+   "a": "K = [N<sub>2</sub>O<sub>4</sub>] / [NO<sub>2</sub>]<sup>2</sup>"
+  },
+  {
+   "q": "Give the equilibrium condition of 2 SO<sub>2</sub> (g) + O<sub>2</sub> (g) ⇌ 2 SO<sub>3</sub> (g)",
+   "a": "K = [SO<sub>3</sub>]<sup>2</sup> / ([SO<sub>2</sub>]<sup>2</sup> · [O<sub>2</sub>])"
+  },
+  {
+   "q": "Which substances do you leave out of the equilibrium condition?",
+   "a": "Solids and pure liquids (and the solvent water)"
+  },
+  {
+   "q": "Give the equilibrium condition of CaCO<sub>3</sub> (s) ⇌ CaO (s) + CO<sub>2</sub> (g)",
+   "a": "K = [CO<sub>2</sub>]"
+  },
+  {
+   "q": "Give the equilibrium condition of C (s) + CO<sub>2</sub> (g) ⇌ 2 CO (g)",
+   "a": "K = [CO]<sup>2</sup> / [CO<sub>2</sub>]"
+  },
+  {
+   "q": "What is the concentration quotient Q?",
+   "a": "The same fraction as K, but with the concentrations at any moment (not necessarily at equilibrium)"
+  },
+  {
+   "q": "What holds for Q and K in an equilibrium?",
+   "a": "Q = K"
+  },
+  {
+   "q": "Q is smaller than K. In which direction does the reaction go overall?",
+   "a": "To the right (more products are formed) until Q = K"
+  },
+  {
+   "q": "Q is greater than K. In which direction does the reaction go overall?",
+   "a": "To the left (more starting substances are formed) until Q = K"
+  },
+  {
+   "q": "What does the value of K depend on?",
+   "a": "Only on the reaction and the temperature"
+  },
+  {
+   "q": "Does a catalyst change the value of K?",
+   "a": "No. A catalyst only makes the equilibrium be reached faster"
+  },
+  {
+   "q": "What does a very large K (much greater than 1) mean?",
+   "a": "At equilibrium there are mainly reaction products"
+  },
+  {
+   "q": "What does a very small K (much smaller than 1) mean?",
+   "a": "At equilibrium there are mainly starting substances"
+  },
+  {
+   "q": "For H<sub>2</sub> + I<sub>2</sub> ⇌ 2 HI at equilibrium [H<sub>2</sub>] = 0.10 mol/L, [I<sub>2</sub>] = 0.10 mol/L and [HI] = 0.40 mol/L. Calculate K",
+   "a": "K = 0.40<sup>2</sup> / (0.10 × 0.10) = 16"
+  },
+  {
+   "q": "For 2 SO<sub>2</sub> + O<sub>2</sub> ⇌ 2 SO<sub>3</sub> at equilibrium [SO<sub>2</sub>] = 0.20 mol/L, [O<sub>2</sub>] = 0.10 mol/L and [SO<sub>3</sub>] = 0.40 mol/L. Calculate K",
+   "a": "K = 0.40<sup>2</sup> / (0.20<sup>2</sup> × 0.10) = 40"
+  },
+  {
+   "q": "Assume that for N<sub>2</sub>O<sub>4</sub> ⇌ 2 NO<sub>2</sub> K = 0.20. At a certain moment [N<sub>2</sub>O<sub>4</sub>] = 0.50 mol/L and [NO<sub>2</sub>] = 0.10 mol/L. In which direction does the reaction go?",
+   "a": "Q = 0.10<sup>2</sup> / 0.50 = 0.020. Q is smaller than K, so to the right"
+  },
+  {
+   "q": "For A + B ⇌ C, K = 4.0. At equilibrium [A] = 0.20 mol/L and [B] = 0.50 mol/L. Calculate [C]",
+   "a": "[C] = K × [A] × [B] = 4.0 × 0.20 × 0.50 = 0.40 mol/L"
+  },
+  {
+   "q": "In a vessel of 1.0 L you start with 1.00 mol H<sub>2</sub> and 1.00 mol I<sub>2</sub>. At equilibrium [HI] = 1.60 mol/L. Calculate K for H<sub>2</sub> + I<sub>2</sub> ⇌ 2 HI",
+   "a": "0.80 mol H<sub>2</sub> and 0.80 mol I<sub>2</sub> react, so [H<sub>2</sub>] = [I<sub>2</sub>] = 0.20 mol/L. K = 1.60<sup>2</sup> / 0.20<sup>2</sup> = 64"
+  }
+ ]
+}

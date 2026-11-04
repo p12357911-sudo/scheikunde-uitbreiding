@@ -1,0 +1,131 @@
+{
+ "title": "Productonderzoek - 123 school",
+ "heading": "Productonderzoek",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat doe je bij een titratie?",
+   "a": "Je voegt met een buret langzaam een oplossing toe aan een andere oplossing, tot de indicator van kleur verandert (het eindpunt)"
+  },
+  {
+   "q": "Waaraan zie je dat het eindpunt van een titratie is bereikt?",
+   "a": "Aan de kleuromslag van de indicator"
+  },
+  {
+   "q": "Met welk glaswerk voeg je bij een titratie nauwkeurig vloeistof toe?",
+   "a": "Met een buret"
+  },
+  {
+   "q": "Bij een ijking blijkt dat 1,0 mL natronloog reageert met 3,0 mg azijnzuur. Voor een azijnmonster is 12,0 mL natronloog nodig. Hoeveel mg azijnzuur zit er in het monster?",
+   "a": "12,0 × 3,0 = 36 mg"
+  },
+  {
+   "q": "Het azijnmonster uit de vorige vraag was 20 mL. Wat is het gehalte azijnzuur in mg/mL?",
+   "a": "36 mg : 20 mL = 1,8 mg/mL"
+  },
+  {
+   "q": "Welke twee gegevens heb je nodig om uit een titratie het gehalte van een zuur of base te berekenen?",
+   "a": "Het volume dat je bij de titratie hebt toegevoegd en het ijkgegeven"
+  },
+  {
+   "q": "Welke pH hoort bij een zure, een neutrale en een basische oplossing?",
+   "a": "Zuur: pH lager dan 7. Neutraal: pH = 7. Basisch: pH hoger dan 7"
+  },
+  {
+   "q": "Noem 3 indicatoren",
+   "a": "Bijvoorbeeld: lakmoes, fenolftaleïne en rodekoolsap (of universeel indicator)",
+   "e": "Heb je er twee van de drie goed, dan telt het als goed."
+  },
+  {
+   "q": "In welke BINAS-tabel vind je het omslagtraject van indicatoren?",
+   "a": "Tabel 36",
+   "goed": [
+    "36",
+    "tabel 36"
+   ]
+  },
+  {
+   "q": "Een indicator is geel onder pH 6,0 en blauw boven pH 7,6. Welke kleur heeft de indicator bij pH 5?",
+   "a": "Geel"
+  },
+  {
+   "q": "Wat is een ontledingsreactie?",
+   "a": "Een reactie waarbij één stof wordt ontleed in twee of meer andere stoffen"
+  },
+  {
+   "q": "Hoe heet ontleden met elektriciteit, met warmte en met licht?",
+   "a": "Elektrolyse, thermolyse en fotolyse"
+  },
+  {
+   "q": "Welke stoffen ontstaan bij de elektrolyse van water?",
+   "a": "Waterstof en zuurstof"
+  },
+  {
+   "q": "Hoe toon je zuurstof aan?",
+   "a": "Een gloeiende houtspaander gaat feller gloeien of vlamt op"
+  },
+  {
+   "q": "Hoe toon je waterstof aan?",
+   "a": "Met een brandende houtspaander: je hoort een (blaffend) knalletje"
+  },
+  {
+   "q": "Hoe toon je koolstofdioxide aan?",
+   "a": "Met kalkwater: het kalkwater wordt troebel (wit)"
+  },
+  {
+   "q": "Hoe toon je water aan?",
+   "a": "Met wit kopersulfaat: het wordt blauw (of met kobaltchloridepapier: blauw wordt roze)"
+  },
+  {
+   "q": "Wat is een neerslagreactie?",
+   "a": "Twee oplossingen worden gemengd en er ontstaat een slecht oplosbaar zout (de neerslag)"
+  },
+  {
+   "q": "Welk neerslag ontstaat als je natriumchloride-oplossing mengt met zilvernitraat-oplossing? (gebruik BINAS tabel 35)",
+   "a": "Zilverchloride, AgCl (s)"
+  },
+  {
+   "q": "Je verdunt 10 mL van een oplossing met water tot 100 mL. Met welke factor is de oplossing verdund?",
+   "a": "Factor 10 (100 : 10)"
+  },
+  {
+   "q": "Een oplossing van 50 g/L wordt 10 keer verdund. Wat is de nieuwe concentratie?",
+   "a": "50 : 10 = 5,0 g/L"
+  },
+  {
+   "q": "Je haalt 25 mL uit een oplossing van 40 g/L en vult aan met water tot 500 mL. Wat is de concentratie van de nieuwe oplossing?",
+   "a": "40 g/L × 25 mL : 500 mL = 2,0 g/L"
+  },
+  {
+   "q": "Je ziet een gele vlamkleuring. Welk metaalion zat in de stof? (gebruik BINAS tabel 38)",
+   "a": "Natrium (Na<sup>+</sup>)"
+  },
+  {
+   "q": "Wat is een E-nummer en waar zoek je het op?",
+   "a": "Een code voor een hulpstof in voeding, bijvoorbeeld een kleurstof of conserveermiddel; je zoekt het op in BINAS tabel 45"
+  },
+  {
+   "q": "Waarvoor gebruik je een zoetstof als E-420 in een product? (gebruik BINAS tabel 45)",
+   "a": "Om het product zoet te maken"
+  },
+  {
+   "q": "Op een etiket staat: \"Bevat water, suiker, citroenzuur\". Welke stof zit er het meest in?",
+   "a": "Water (de stoffen staan van veel naar weinig)"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de betekenis van gevaarsymbolen op een etiket?",
+   "a": "Tabel 39",
+   "goed": [
+    "39",
+    "tabel 39"
+   ]
+  },
+  {
+   "q": "Noem 3 scheidingsmethoden",
+   "a": "Bijvoorbeeld: filtreren, bezinken, extraheren, adsorberen, destilleren of indampen",
+   "e": "Heb je er twee van de drie goed, dan telt het als goed."
+  }
+ ]
+}

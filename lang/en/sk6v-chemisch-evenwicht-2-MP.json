@@ -1,0 +1,279 @@
+{
+ "title": "Chemical equilibrium 2: shifts, Ks, Kv and industry - 123 school",
+ "heading": "Chemical equilibrium 2: shifts, Ks, Kv and industry",
+ "intro": [
+  "Choose the correct answer for each question. Use a calculator where needed."
+ ],
+ "questions": [
+  {
+   "question": "You add extra starting substance to an equilibrium. What happens?",
+   "answers": {
+    "a": "nothing changes",
+    "b": "Q becomes greater than K and the equilibrium shifts to the right",
+    "c": "K becomes greater",
+    "d": "Q becomes smaller than K and the equilibrium shifts to the right"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You remove a reaction product from an equilibrium. What happens?",
+   "answers": {
+    "a": "K becomes greater",
+    "b": "nothing changes",
+    "c": "the equilibrium shifts to the right",
+    "d": "the equilibrium shifts to the left"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What changes the value of K?",
+   "answers": {
+    "a": "the concentration of a starting substance",
+    "b": "the pressure",
+    "c": "a catalyst",
+    "d": "only the temperature"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "You increase the pressure for N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) ⇌ 2 NH<sub>3</sub> (g). What happens?",
+   "answers": {
+    "a": "K becomes greater",
+    "b": "the equilibrium shifts to the right",
+    "c": "the equilibrium does not shift",
+    "d": "the equilibrium shifts to the left"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "For which equilibrium does an increase in pressure have no influence on the position?",
+   "answers": {
+    "a": "H<sub>2</sub> (g) + I<sub>2</sub> (g) ⇌ 2 HI (g)",
+    "b": "2 NO<sub>2</sub> (g) ⇌ N<sub>2</sub>O<sub>4</sub> (g)",
+    "c": "N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) ⇌ 2 NH<sub>3</sub> (g)",
+    "d": "CaCO<sub>3</sub> (s) ⇌ CaO (s) + CO<sub>2</sub> (g)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You double the volume for 2 NO<sub>2</sub> (g) ⇌ N<sub>2</sub>O<sub>4</sub> (g). What happens?",
+   "answers": {
+    "a": "Q becomes greater than K and the equilibrium shifts to the left",
+    "b": "Q becomes smaller than K and the equilibrium shifts to the right",
+    "c": "K becomes half",
+    "d": "Q stays equal to K"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You add a noble gas at constant volume to an equilibrium with gases. What happens?",
+   "answers": {
+    "a": "the equilibrium shifts to the left",
+    "b": "K becomes greater",
+    "c": "the equilibrium does not shift",
+    "d": "the equilibrium shifts to the right"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does a catalyst do to an equilibrium?",
+   "answers": {
+    "a": "K becomes greater",
+    "b": "the equilibrium shifts to the right",
+    "c": "the equilibrium is reached faster",
+    "d": "more product is formed"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You increase the temperature of an equilibrium. Which way does it shift?",
+   "answers": {
+    "a": "towards the exothermic side",
+    "b": "towards the side with the most moles of gas",
+    "c": "it does not shift",
+    "d": "towards the endothermic side"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "For CaCO<sub>3</sub> (s) ⇌ CaO (s) + CO<sub>2</sub> (g) the reaction to the right is endothermic. You increase the temperature. What happens?",
+   "answers": {
+    "a": "K stays the same",
+    "b": "K becomes greater and more CO<sub>2</sub> is formed",
+    "c": "K becomes smaller and more CO<sub>2</sub> is formed",
+    "d": "K becomes greater and less CO<sub>2</sub> is formed"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "The formation of NH<sub>3</sub> is exothermic. You increase the temperature. What happens?",
+   "answers": {
+    "a": "K becomes smaller and the equilibrium shifts to the left",
+    "b": "K stays the same and the equilibrium shifts to the left",
+    "c": "K becomes greater and the equilibrium shifts to the right",
+    "d": "K becomes smaller and the equilibrium shifts to the right"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why is about 450 °C used in ammonia production?",
+   "answers": {
+    "a": "NH<sub>3</sub> is liquid at that temperature",
+    "b": "the catalyst melts at that temperature",
+    "c": "a compromise between the position of the equilibrium and the reaction rate",
+    "d": "K is greatest at that temperature"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the catalyst in ammonia production?",
+   "answers": {
+    "a": "iron",
+    "b": "nickel",
+    "c": "platinum",
+    "d": "copper"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Why is NH<sub>3</sub> continuously removed from the mixture in ammonia production?",
+   "answers": {
+    "a": "so K becomes greater",
+    "b": "so the equilibrium keeps shifting to the right",
+    "c": "so the catalyst is not poisoned by the pressure",
+    "d": "so the temperature drops"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the equilibrium condition for the solubility product of Ca(OH)<sub>2</sub>?",
+   "answers": {
+    "a": "K<sub>s</sub> = [Ca(OH)<sub>2</sub>]",
+    "b": "K<sub>s</sub> = [Ca<sup>2+</sup>] · [OH<sup>–</sup>]<sup>2</sup>",
+    "c": "K<sub>s</sub> = [Ca<sup>2+</sup>] · 2 [OH<sup>–</sup>]",
+    "d": "K<sub>s</sub> = [Ca<sup>2+</sup>] · [OH<sup>–</sup>]"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the equilibrium condition for the solubility product of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>?",
+   "answers": {
+    "a": "K<sub>s</sub> = [Ca<sup>2+</sup>]<sup>2</sup> · [PO<sub>4</sub><sup>3–</sup>]<sup>3</sup>",
+    "b": "K<sub>s</sub> = [Ca<sup>2+</sup>] · [PO<sub>4</sub><sup>3–</sup>]",
+    "c": "K<sub>s</sub> = [Ca<sup>2+</sup>]<sup>3</sup> · [PO<sub>4</sub><sup>3–</sup>]<sup>2</sup>",
+    "d": "K<sub>s</sub> = [Ca<sup>2+</sup>]<sup>3</sup> / [PO<sub>4</sub><sup>3–</sup>]<sup>2</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "For a salt MX (1 : 1), K<sub>s</sub> = 1.0·10<sup>–10</sup>. What is the solubility in pure water?",
+   "answers": {
+    "a": "5.0·10<sup>–11</sup> mol/L",
+    "b": "1.0·10<sup>–5</sup> mol/L",
+    "c": "1.0·10<sup>–20</sup> mol/L",
+    "d": "1.0·10<sup>–10</sup> mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "For a salt M(OH)<sub>2</sub>, K<sub>s</sub> = 4.0·10<sup>–6</sup>. What is the solubility in pure water?",
+   "answers": {
+    "a": "1.0·10<sup>–6</sup> mol/L",
+    "b": "2.0·10<sup>–3</sup> mol/L",
+    "c": "1.6·10<sup>–2</sup> mol/L",
+    "d": "1.0·10<sup>–2</sup> mol/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "When does a precipitate form when you mix two solutions?",
+   "answers": {
+    "a": "when Q is greater than K<sub>s</sub>",
+    "b": "when Q is smaller than K<sub>s</sub>",
+    "c": "when Q is equal to 1",
+    "d": "when K<sub>s</sub> is greater than 1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You mix 50 mL 1.0·10<sup>–3</sup> mol/L AgNO<sub>3</sub> with 50 mL 1.0·10<sup>–3</sup> mol/L NaCl. K<sub>s</sub> of AgCl is 1.8·10<sup>–10</sup>. What is Q and what happens?",
+   "answers": {
+    "a": "Q = 2.5·10<sup>–7</sup>; no precipitate forms",
+    "b": "Q = 2.5·10<sup>–7</sup>; a precipitate forms",
+    "c": "Q = 1.0·10<sup>–6</sup>; a precipitate forms",
+    "d": "Q = 5.0·10<sup>–4</sup>; no precipitate forms"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why does AgCl dissolve less well in NaCl solution than in water?",
+   "answers": {
+    "a": "K<sub>s</sub> becomes smaller due to NaCl",
+    "b": "AgCl becomes a gas",
+    "c": "extra Cl<sup>–</sup> shifts the equilibrium to the left",
+    "d": "Na<sup>+</sup> reacts with AgCl"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "K<sub>s</sub> of AgCl is 1.8·10<sup>–10</sup>. What is [Ag<sup>+</sup>] in a saturated solution with [Cl<sup>–</sup>] = 0.10 mol/L?",
+   "answers": {
+    "a": "1.8·10<sup>–9</sup> mol/L",
+    "b": "1.8·10<sup>–10</sup> mol/L",
+    "c": "1.8·10<sup>–11</sup> mol/L",
+    "d": "1.3·10<sup>–5</sup> mol/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does K<sub>v</sub> stand for?",
+   "answers": {
+    "a": "the formation equilibrium of a complex",
+    "b": "the heat of vaporisation",
+    "c": "the combustion equilibrium",
+    "d": "the distribution equilibrium of a substance over two immiscible liquids"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "K<sub>v</sub> = [A] in hexane / [A] in water. At equilibrium [A] in water is 0.020 mol/L and in hexane 1.0 mol/L. What is K<sub>v</sub>?",
+   "answers": {
+    "a": "0.020",
+    "b": "0.50",
+    "c": "20",
+    "d": "50"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "K<sub>v</sub> = [A] in hexane / [A] in water = 40. In water [A] = 0.010 mol/L. What is [A] in hexane?",
+   "answers": {
+    "a": "0.40 mol/L",
+    "b": "0.00025 mol/L",
+    "c": "4.0 mol/L",
+    "d": "0.050 mol/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is favourable when extracting a substance from water with an extraction agent?",
+   "answers": {
+    "a": "an extraction agent that mixes with water",
+    "b": "a K<sub>v</sub> of exactly 0",
+    "c": "a large K<sub>v</sub> (extraction agent / water)",
+    "d": "a small K<sub>v</sub> (extraction agent / water)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "You want to extract as much substance as possible from water with a total of 100 mL of extraction agent. What is the smartest?",
+   "answers": {
+    "a": "extract 2 times with 50 mL",
+    "b": "extract 4 times with 25 mL",
+    "c": "extract 1 time with 100 mL",
+    "d": "first heat the extraction agent until boiling"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

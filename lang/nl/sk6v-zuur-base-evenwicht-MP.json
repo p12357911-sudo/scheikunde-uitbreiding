@@ -1,0 +1,279 @@
+{
+ "title": "Zuur-base-evenwichten: Kz, Kb, Kw en buffers - 123 school",
+ "heading": "Zuur-base-evenwichten: Kz, Kb, Kw en buffers",
+ "intro": [
+  "Kies bij elke vraag het juiste antwoord. Gebruik waar nodig een rekenmachine."
+ ],
+ "questions": [
+  {
+   "question": "Wat is de evenwichtsvoorwaarde van HZ + H<sub>2</sub>O ⇌ H<sub>3</sub>O<sup>+</sup> + Z<sup>–</sup>?",
+   "answers": {
+    "a": "K<sub>z</sub> = [HZ] / ([H<sub>3</sub>O<sup>+</sup>] · [Z<sup>–</sup>])",
+    "b": "K<sub>z</sub> = [H<sub>3</sub>O<sup>+</sup>] · [Z<sup>–</sup>] / [HZ]",
+    "c": "K<sub>z</sub> = [H<sub>3</sub>O<sup>+</sup>] · [Z<sup>–</sup>] / ([HZ] · [H<sub>2</sub>O])",
+    "d": "K<sub>z</sub> = [H<sub>3</sub>O<sup>+</sup>] / [HZ]"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de evenwichtsvoorwaarde van NH<sub>3</sub> + H<sub>2</sub>O ⇌ NH<sub>4</sub><sup>+</sup> + OH<sup>–</sup>?",
+   "answers": {
+    "a": "K<sub>b</sub> = [NH<sub>4</sub><sup>+</sup>] · [OH<sup>–</sup>] / [NH<sub>3</sub>]",
+    "b": "K<sub>b</sub> = [NH<sub>4</sub><sup>+</sup>] / [NH<sub>3</sub>]",
+    "c": "K<sub>b</sub> = [NH<sub>4</sub><sup>+</sup>] · [OH<sup>–</sup>] / ([NH<sub>3</sub>] · [H<sub>2</sub>O])",
+    "d": "K<sub>b</sub> = [NH<sub>3</sub>] / ([NH<sub>4</sub><sup>+</sup>] · [OH<sup>–</sup>])"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de waarde van K<sub>w</sub> bij 298 K?",
+   "answers": {
+    "a": "1,0·10<sup>–7</sup>",
+    "b": "1,0·10<sup>14</sup>",
+    "c": "1,0·10<sup>–14</sup>",
+    "d": "14,00"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke vergelijking klopt bij 298 K?",
+   "answers": {
+    "a": "pH – pOH = 14,00",
+    "b": "pH + pOH = 7,00",
+    "c": "pH + pOH = 14,00",
+    "d": "pH · pOH = 14,00"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk verband geldt voor een zuur en zijn geconjugeerde base?",
+   "answers": {
+    "a": "K<sub>z</sub> = K<sub>b</sub>",
+    "b": "K<sub>z</sub> · K<sub>b</sub> = K<sub>w</sub>",
+    "c": "K<sub>z</sub> + K<sub>b</sub> = K<sub>w</sub>",
+    "d": "K<sub>z</sub> / K<sub>b</sub> = K<sub>w</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een zuur heeft K<sub>z</sub> = 1,0·10<sup>–5</sup>. Wat is K<sub>b</sub> van de geconjugeerde base?",
+   "answers": {
+    "a": "1,0·10<sup>–9</sup>",
+    "b": "1,0·10<sup>9</sup>",
+    "c": "1,0·10<sup>–5</sup>",
+    "d": "1,0·10<sup>–19</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Zuur A heeft K<sub>z</sub> = 1,0·10<sup>–3</sup>, zuur B heeft K<sub>z</sub> = 1,0·10<sup>–6</sup>. Wat is waar?",
+   "answers": {
+    "a": "A is een base",
+    "b": "A is het sterkere zuur",
+    "c": "A en B zijn even sterk",
+    "d": "B is het sterkere zuur"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is het verschil tussen een sterk en een zwak zuur?",
+   "answers": {
+    "a": "een sterk zuur heeft een evenwicht en een zwak zuur niet",
+    "b": "een sterk zuur is altijd geconcentreerd",
+    "c": "een zwak zuur heeft pH 7",
+    "d": "een sterk zuur reageert (vrijwel) volledig met water, een zwak zuur gedeeltelijk"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de pH van 0,10 mol/L HCl?",
+   "answers": {
+    "a": "0,10",
+    "b": "7,00",
+    "c": "1,00",
+    "d": "13,00"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de pH van 0,010 mol/L NaOH?",
+   "answers": {
+    "a": "10,00",
+    "b": "12,00",
+    "c": "1,00",
+    "d": "2,00"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de pH van 0,10 mol/L van een zwak zuur met K<sub>z</sub> = 1,0·10<sup>–5</sup>?",
+   "answers": {
+    "a": "3,00",
+    "b": "5,00",
+    "c": "1,00",
+    "d": "2,00"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de pH van 0,10 mol/L azijnzuur (K<sub>z</sub> = 1,8·10<sup>–5</sup>)?",
+   "answers": {
+    "a": "4,74",
+    "b": "1,00",
+    "c": "2,87",
+    "d": "5,74"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een zwak zuur (K<sub>z</sub> = 1,0·10<sup>–5</sup>) heeft pH = 3,00. Wat is de beginconcentratie van het zuur?",
+   "answers": {
+    "a": "1,0·10<sup>–2</sup> mol/L",
+    "b": "1,0 mol/L",
+    "c": "1,0·10<sup>–3</sup> mol/L",
+    "d": "0,10 mol/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de pH van 0,10 mol/L van een zwakke base met K<sub>b</sub> = 1,0·10<sup>–5</sup>?",
+   "answers": {
+    "a": "13,00",
+    "b": "3,00",
+    "c": "9,00",
+    "d": "11,00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je verdunt een oplossing van een zwak zuur 100 keer. Wat gebeurt er ongeveer met de pH?",
+   "answers": {
+    "a": "de pH wordt 1 hoger",
+    "b": "de pH wordt 100 keer zo groot",
+    "c": "de pH wordt 2 hoger",
+    "d": "de pH blijft gelijk"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je verdunt een oplossing van een sterk zuur 100 keer. Wat gebeurt er met de pH?",
+   "answers": {
+    "a": "de pH wordt 1 hoger",
+    "b": "de pH blijft gelijk",
+    "c": "de pH wordt 2 hoger",
+    "d": "de pH wordt 2 lager"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een buffer?",
+   "answers": {
+    "a": "een oplossing met pH 7",
+    "b": "een oplossing van een sterk zuur",
+    "c": "een oplossing die niet reageert met zuren en basen",
+    "d": "een oplossing waarvan de pH bijna niet verandert bij toevoegen van een beetje zuur of base"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk mengsel is een buffer?",
+   "answers": {
+    "a": "NaOH en NaCl",
+    "b": "HNO<sub>3</sub> en NaNO<sub>3</sub>",
+    "c": "CH<sub>3</sub>COOH en CH<sub>3</sub>COONa",
+    "d": "HCl en NaCl"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je voegt een beetje zuur toe aan een azijnzuur / acetaat-buffer. Wat reageert met het toegevoegde H<sub>3</sub>O<sup>+</sup>?",
+   "answers": {
+    "a": "CH<sub>3</sub>COO<sup>–</sup>",
+    "b": "CH<sub>3</sub>COOH",
+    "c": "H<sub>3</sub>O<sup>+</sup>",
+    "d": "Na<sup>+</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je voegt een beetje base toe aan een azijnzuur / acetaat-buffer. Wat reageert met het toegevoegde OH<sup>–</sup>?",
+   "answers": {
+    "a": "CH<sub>3</sub>COO<sup>–</sup>",
+    "b": "CH<sub>3</sub>COOH",
+    "c": "Na<sup>+</sup>",
+    "d": "H<sub>2</sub>O"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk systeem zorgt voor een bijna constante pH van ongeveer 7,4 in het bloed?",
+   "answers": {
+    "a": "H<sub>2</sub>O / O<sub>2</sub>",
+    "b": "NaOH / Na<sup>+</sup>",
+    "c": "HCl / Cl<sup>–</sup>",
+    "d": "H<sub>2</sub>CO<sub>3</sub> / HCO<sub>3</sub><sup>–</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je mengt 100 mL 0,20 mol/L azijnzuur met 50 mL 0,20 mol/L NaOH. Wat ontstaat er?",
+   "answers": {
+    "a": "een buffer van CH<sub>3</sub>COOH en CH<sub>3</sub>COO<sup>–</sup>",
+    "b": "alleen een oplossing van CH<sub>3</sub>COO<sup>–</sup>",
+    "c": "een oplossing van alleen NaOH",
+    "d": "een oplossing van een sterk zuur"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een buffer bevat evenveel HZ als Z<sup>–</sup>. Voor HZ geldt K<sub>z</sub> = 1,0·10<sup>–5</sup>. Wat is de pH?",
+   "answers": {
+    "a": "2,50",
+    "b": "9,00",
+    "c": "7,00",
+    "d": "5,00"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wanneer werkt een buffer niet meer?",
+   "answers": {
+    "a": "als er water wordt toegevoegd",
+    "b": "als de pH precies 7 is",
+    "c": "als een van de twee componenten van de buffer op is",
+    "d": "als de temperatuur 298 K is"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Azijnzuur (K<sub>z</sub> = 1,8·10<sup>–5</sup>) reageert met NH<sub>3</sub> (NH<sub>4</sub><sup>+</sup> heeft K<sub>z</sub> = 5,6·10<sup>–10</sup>). Wat is waar?",
+   "answers": {
+    "a": "het evenwicht ligt ver naar rechts",
+    "b": "het evenwicht ligt ver naar links",
+    "c": "K = 1",
+    "d": "er is geen reactie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je titreert azijnzuur met NaOH. Wat is de pH in het equivalentiepunt?",
+   "answers": {
+    "a": "precies 7",
+    "b": "hoger dan 7",
+    "c": "gelijk aan pK<sub>z</sub> – 7",
+    "d": "lager dan 7"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke stof kan zowel als zuur als als base reageren?",
+   "answers": {
+    "a": "Na<sup>+</sup>",
+    "b": "HCO<sub>3</sub><sup>–</sup>",
+    "c": "NO<sub>3</sub><sup>–</sup>",
+    "d": "Cl<sup>–</sup>"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

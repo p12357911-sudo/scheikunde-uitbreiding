@@ -1,0 +1,149 @@
+{
+ "title": "Drill: Binas opzoeken - 123 school",
+ "heading": "Drill: Binas opzoeken",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "In welke BINAS-tabel vind je de dichtheid van vaste stoffen?",
+   "a": "tabel 15"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de oplosbaarheid van zouten?",
+   "a": "tabel 35"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je het omslagtraject van indicatoren?",
+   "a": "tabel 36"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de vlamkleuring van metaalionen?",
+   "a": "tabel 38"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de betekenis van gevaarsymbolen?",
+   "a": "tabel 39"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de maximaal toelaatbare concentratie (MAC) van gevaarlijke stoffen in lucht?",
+   "a": "tabel 40"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je het stroomschema van aardolie?",
+   "a": "tabel 41"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de triviale namen van stoffen?",
+   "a": "tabel 42"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de E-nummers van hulpstoffen?",
+   "a": "tabel 45"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je het periodiek systeem?",
+   "a": "tabel 34"
+  },
+  {
+   "q": "Wat is de dichtheid van ijzer in g/cm³? (gebruik BINAS tabel 15)",
+   "a": "7,87 g/cm³"
+  },
+  {
+   "q": "Wat is de dichtheid van lood in g/cm³? (gebruik BINAS tabel 15)",
+   "a": "11,35 g/cm³"
+  },
+  {
+   "q": "Wat is de dichtheid van nikkel in g/cm³? (gebruik BINAS tabel 15)",
+   "a": "8,90 g/cm³"
+  },
+  {
+   "q": "Wat is het smeltpunt van suiker in K? (gebruik BINAS tabel 15)",
+   "a": "458 K"
+  },
+  {
+   "q": "Wat is het smeltpunt van keukenzout in K? (gebruik BINAS tabel 15)",
+   "a": "1081 K"
+  },
+  {
+   "q": "Wat is het stolpunt van alcohol in K? (gebruik BINAS tabel 16)",
+   "a": "159 K"
+  },
+  {
+   "q": "Wat is het kookpunt van zuurstof in K? (gebruik BINAS tabel 17)",
+   "a": "90 K"
+  },
+  {
+   "q": "Wat is het kookpunt van helium in K? (gebruik BINAS tabel 17)",
+   "a": "4,2 K"
+  },
+  {
+   "q": "Wat is de MAC-waarde van koolmonoxide in mg/m³? (gebruik BINAS tabel 40)",
+   "a": "55 mg/m³"
+  },
+  {
+   "q": "Wat is de MAC-waarde van chloor in mg/m³? (gebruik BINAS tabel 40)",
+   "a": "3 mg/m³"
+  },
+  {
+   "q": "Welke kleur heeft de vlam van een natriumzout? (gebruik BINAS tabel 38)",
+   "a": "geel"
+  },
+  {
+   "q": "Waarvoor wordt E-420 gebruikt? (gebruik BINAS tabel 45)",
+   "a": "als zoetstof"
+  },
+  {
+   "q": "Waarvoor wordt E-250 (nitriet) gebruikt? (gebruik BINAS tabel 45)",
+   "a": "als conserveermiddel"
+  },
+  {
+   "q": "Welke kleur heeft fenolrood bij pH 5? (gebruik BINAS tabel 36)",
+   "a": "geel"
+  },
+  {
+   "q": "Welke kleur heeft rodekoolsap bij pH 12? (gebruik BINAS tabel 36)",
+   "a": "groen"
+  },
+  {
+   "q": "Hoe goed lost Mg(OH)<sub>2</sub> op in water? (gebruik BINAS tabel 35)",
+   "a": "slecht oplosbaar"
+  },
+  {
+   "q": "Hoe goed lost FeSO<sub>4</sub> op in water? (gebruik BINAS tabel 35)",
+   "a": "goed oplosbaar"
+  },
+  {
+   "q": "Hoe goed lost PbF<sub>2</sub> op in water? (gebruik BINAS tabel 35)",
+   "a": "matig oplosbaar"
+  },
+  {
+   "q": "Hoe goed lost AgCl op in water? (gebruik BINAS tabel 35)",
+   "a": "slecht oplosbaar"
+  },
+  {
+   "q": "Wat is lachgas? (gebruik BINAS tabel 42)",
+   "a": "distikstofmonoxide"
+  },
+  {
+   "q": "Wat is kalkwater? (gebruik BINAS tabel 42)",
+   "a": "een oplossing van calciumhydroxide"
+  },
+  {
+   "q": "Wat is natronloog? (gebruik BINAS tabel 42)",
+   "a": "een oplossing van natriumhydroxide"
+  },
+  {
+   "q": "Wat is het symbool van koper? (gebruik BINAS tabel 34)",
+   "a": "Cu"
+  },
+  {
+   "q": "Wat is het symbool van tin? (gebruik BINAS tabel 34)",
+   "a": "Sn"
+  },
+  {
+   "q": "Wat is het atoomnummer van ijzer? (gebruik BINAS tabel 34)",
+   "a": "26"
+  }
+ ]
+}

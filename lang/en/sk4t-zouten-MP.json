@@ -1,0 +1,349 @@
+{
+ "title": "Salts - 123 school",
+ "heading": "Salts",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "Into which three groups can you divide all substances?",
+   "answers": {
+    "a": "gases, liquids and solids",
+    "b": "atoms, ions and electrons",
+    "c": "molecular substances, salts and metals",
+    "d": "acids, bases and salts"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do salts consist of?",
+   "answers": {
+    "a": "positive and negative ions",
+    "b": "neutral atoms",
+    "c": "only negative ions",
+    "d": "uncharged molecules"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the overall charge of a salt?",
+   "answers": {
+    "a": "it depends on the temperature",
+    "b": "neutral (zero)",
+    "c": "positive",
+    "d": "negative"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "When does a salt conduct electric current?",
+   "answers": {
+    "a": "when it is dissolved in water",
+    "b": "never",
+    "c": "only when it is cold",
+    "d": "when it is a solid"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the regular arrangement of the ions in a solid salt called?",
+   "answers": {
+    "a": "solution",
+    "b": "alloy",
+    "c": "molecule",
+    "d": "crystal lattice"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What colour is Cu<sup>2+</sup> (aq)?",
+   "answers": {
+    "a": "yellow",
+    "b": "red",
+    "c": "blue",
+    "d": "colourless"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the chemical formula of water?",
+   "answers": {
+    "a": "H<sub>2</sub>O<sub>2</sub>",
+    "b": "H<sub>2</sub>O",
+    "c": "HO<sub>2</sub>",
+    "d": "OH"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of calcium chloride?",
+   "answers": {
+    "a": "CaCl",
+    "b": "CaCl<sub>2</sub>",
+    "c": "Ca<sub>2</sub>Cl<sub>2</sub>",
+    "d": "Ca<sub>2</sub>Cl"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the formula of magnesium chloride?",
+   "answers": {
+    "a": "Mg<sub>2</sub>Cl",
+    "b": "MgCl<sub>3</sub>",
+    "c": "MgCl",
+    "d": "MgCl<sub>2</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of iron(III) oxide?",
+   "answers": {
+    "a": "Fe<sub>3</sub>O<sub>2</sub>",
+    "b": "FeO",
+    "c": "Fe<sub>2</sub>O",
+    "d": "Fe<sub>2</sub>O<sub>3</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of ammonium sulphate?",
+   "answers": {
+    "a": "NH<sub>4</sub>SO<sub>4</sub>",
+    "b": "NH<sub>4</sub>(SO<sub>4</sub>)<sub>2</sub>",
+    "c": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+    "d": "(NH<sub>3</sub>)<sub>2</sub>SO<sub>4</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the charge of chloride, bromide and iodide ions?",
+   "answers": {
+    "a": "2+",
+    "b": "1+",
+    "c": "1-",
+    "d": "2-"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the charge of sodium and potassium ions?",
+   "answers": {
+    "a": "1+",
+    "b": "2+",
+    "c": "1-",
+    "d": "0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the charge of the sulphate ion?",
+   "answers": {
+    "a": "3-",
+    "b": "2-",
+    "c": "2+",
+    "d": "1-"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the charge of the phosphate ion?",
+   "answers": {
+    "a": "3-",
+    "b": "3+",
+    "c": "1-",
+    "d": "2-"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula of the ammonium ion?",
+   "answers": {
+    "a": "NH<sub>3</sub><sup>+</sup>",
+    "b": "NH<sub>4</sub><sup>-</sup>",
+    "c": "NO<sub>3</sub><sup>-</sup>",
+    "d": "NH<sub>4</sub><sup>+</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the formula of the hydroxide ion?",
+   "answers": {
+    "a": "OH<sup>-</sup>",
+    "b": "H<sup>+</sup>",
+    "c": "O<sup>2-</sup>",
+    "d": "OH<sup>+</sup>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which ion is always written first in the formula of a salt?",
+   "answers": {
+    "a": "the negative ion",
+    "b": "the metal ion (or ammonium ion)",
+    "c": "the ion with the largest charge",
+    "d": "the ion with the smallest mass"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the charge of chromium in CrCl<sub>3</sub>?",
+   "answers": {
+    "a": "1+",
+    "b": "2+",
+    "c": "3-",
+    "d": "3+"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you write dissolved table salt?",
+   "answers": {
+    "a": "Na<sup>+</sup> (aq) + Cl<sup>-</sup> (aq)",
+    "b": "Na<sup>-</sup> (aq) + Cl<sup>+</sup> (aq)",
+    "c": "NaCl (aq) + H<sub>2</sub>O (l)",
+    "d": "Na (aq) + Cl (aq)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the dissolving equation of MgCl<sub>2</sub>?",
+   "answers": {
+    "a": "MgCl<sub>2</sub> (s) → Mg<sup>+</sup> (aq) + Cl<sub>2</sub><sup>-</sup> (aq)",
+    "b": "MgCl<sub>2</sub> (s) → Mg<sup>2+</sup> (aq) + Cl<sup>-</sup> (aq)",
+    "c": "Mg<sup>2+</sup> (aq) + 2 Cl<sup>-</sup> (aq) → MgCl<sub>2</sub> (s)",
+    "d": "MgCl<sub>2</sub> (s) → Mg<sup>2+</sup> (aq) + 2 Cl<sup>-</sup> (aq)"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the evaporation equation of a solution of barium iodide?",
+   "answers": {
+    "a": "Ba<sup>2+</sup> (aq) + I<sup>-</sup> (aq) → BaI (s)",
+    "b": "Ba<sup>2+</sup> (aq) + 2 I<sup>-</sup> (aq) → BaI<sub>2</sub> (s)",
+    "c": "BaI<sub>2</sub> (s) → Ba<sup>2+</sup> (aq) + 2 I<sup>-</sup> (aq)",
+    "d": "Ba<sup>2+</sup> (aq) + 2 I<sup>-</sup> (aq) → Ba (s) + I<sub>2</sub> (s)"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How can you get solid salt back from a solution?",
+   "answers": {
+    "a": "by cracking the solution",
+    "b": "by settling",
+    "c": "by letting the water evaporate (evaporation)",
+    "d": "by filtering"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does a saturated solution of table salt mean?",
+   "answers": {
+    "a": "the solution is acidic",
+    "b": "no more table salt dissolves",
+    "c": "there is no table salt in it",
+    "d": "there is so much water that the salt has disappeared"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How can you make salt crystals dissolve faster?",
+   "answers": {
+    "a": "lower the temperature",
+    "b": "do not stir",
+    "c": "make the crystals larger",
+    "d": "make the crystals finer, stir or raise the temperature"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you find the solubility of salts?",
+   "answers": {
+    "a": "table 34",
+    "b": "table 41",
+    "c": "table 35",
+    "d": "table 38"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "More than 10 g per litre of a salt dissolves. What do you call the salt?",
+   "answers": {
+    "a": "moderately soluble",
+    "b": "very soluble",
+    "c": "poorly soluble",
+    "d": "insoluble"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which salts are always very soluble?",
+   "answers": {
+    "a": "salts with OH<sup>-</sup>",
+    "b": "salts with Na<sup>+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup> or NO<sub>3</sub><sup>-</sup>",
+    "c": "salts with CO<sub>3</sub><sup>2-</sup>",
+    "d": "salts with Cl<sup>-</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Is PbI<sub>2</sub> very, moderately or poorly soluble in water? (use BINAS table 35)",
+   "answers": {
+    "a": "moderately soluble",
+    "b": "very soluble",
+    "c": "it is not in the table",
+    "d": "poorly soluble"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the concentration if 12 g of salt is dissolved in 2.5 L of water?",
+   "answers": {
+    "a": "4.8 g/L",
+    "b": "30 g/L",
+    "c": "0.21 g/L",
+    "d": "9.5 g/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the concentration if 200 mg of salt is dissolved in 2.5 mL of water?",
+   "answers": {
+    "a": "500 g/L",
+    "b": "0.08 g/L",
+    "c": "80 g/L",
+    "d": "80 mg/L"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the Cl<sup>-</sup> ion called in the name of a salt?",
+   "answers": {
+    "a": "chloride",
+    "b": "chlorate",
+    "c": "chlorine",
+    "d": "chlorite"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the O<sup>2-</sup> ion called in the name of a salt?",
+   "answers": {
+    "a": "oxide",
+    "b": "oxygen ion",
+    "c": "oxy",
+    "d": "sulphide"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which two metal ions can have a 3+ charge?",
+   "answers": {
+    "a": "Cl<sup>-</sup> and Br<sup>-</sup>",
+    "b": "Na<sup>+</sup> and K<sup>+</sup>",
+    "c": "Fe<sup>3+</sup> and Al<sup>3+</sup>",
+    "d": "Mg<sup>2+</sup> and Ca<sup>2+</sup>"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

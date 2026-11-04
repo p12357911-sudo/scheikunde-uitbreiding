@@ -1,0 +1,229 @@
+{
+ "title": "Productieprocessen - 123 school",
+ "heading": "Productieprocessen",
+ "intro": [
+  "Deze begrippen en berekeningen leer je door te oefenen. Alleen bij een vraag waar een Binas-tabel bij staat, gebruik je Binas."
+ ],
+ "questions": [
+  {
+   "question": "Wat is een productieketen?",
+   "answers": {
+    "a": "een reeks stappen van grondstof via tussenproducten naar eindproduct",
+    "b": "een lijst met alle gevaarlijke stoffen",
+    "c": "een ketting van metaalatomen",
+    "d": "de plek waar een fabriek staat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat laten de pijlen in een blokschema zien?",
+   "answers": {
+    "a": "hoe warm de stoffen zijn",
+    "b": "welke kant de stoffen op gaan",
+    "c": "hoeveel de stoffen kosten",
+    "d": "welke stoffen giftig zijn"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Hoe laat je in een blokschema een teruggevoerde stof zien?",
+   "answers": {
+    "a": "een dubbel blok",
+    "b": "een pijl naar het laatste blok",
+    "c": "een stippellijn naar buiten",
+    "d": "een pijl terug naar een eerder blok"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de juiste volgorde van een productieketen voor een plastic zak?",
+   "answers": {
+    "a": "aardolie → polyetheen → nafta → etheen",
+    "b": "aardolie → nafta → etheen → polyetheen → zak",
+    "c": "etheen → aardolie → zak → polyetheen",
+    "d": "zak → polyetheen → etheen → aardolie"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk proces maakt van etheen het polymeer polyetheen?",
+   "answers": {
+    "a": "kraken",
+    "b": "indampen",
+    "c": "destillatie",
+    "d": "polymerisatie"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarom mengt een fabriek beginstoffen in de juiste massaverhouding?",
+   "answers": {
+    "a": "anders wordt het product zwaarder",
+    "b": "anders reageert er niets",
+    "c": "anders blijft er een stof over en dat is verspilling",
+    "d": "anders ontstaat er altijd een ander zout"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een overmaat?",
+   "answers": {
+    "a": "een beginstof waarvan na de reactie nog wat over is",
+    "b": "een beginstof die helemaal is opgebruikt",
+    "c": "een stof die de reactie versnelt",
+    "d": "het product dat ontstaat"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de massaverhouding waterstof : zuurstof : water bij 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O?",
+   "answers": {
+    "a": "4,0 : 16,0 : 20,0",
+    "b": "1,0 : 16,0 : 17,0",
+    "c": "2,0 : 32,0 : 34,0",
+    "d": "4,0 : 32,0 : 36,0"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel gram zuurstof is nodig voor 8,0 g waterstof? (massaverhouding 4,0 : 32,0 : 36,0)",
+   "answers": {
+    "a": "8,0 g",
+    "b": "32 g",
+    "c": "64 g",
+    "d": "16 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je laat 8,0 g waterstof reageren met 32,0 g zuurstof (massaverhouding 4,0 : 32,0 : 36,0). Welke stof is in overmaat?",
+   "answers": {
+    "a": "geen van beide",
+    "b": "waterstof, er blijft 4,0 g over",
+    "c": "waterstof, er blijft 8,0 g over",
+    "d": "zuurstof, er blijft 4,0 g over"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bij C + O<sub>2</sub> → CO<sub>2</sub> is de massaverhouding 12,0 : 32,0 : 44,0. Hoeveel gram CO<sub>2</sub> ontstaat uit 6,0 g koolstof?",
+   "answers": {
+    "a": "22 g",
+    "b": "44 g",
+    "c": "50 g",
+    "d": "2,7 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Methaan verbrandt volgens CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O. Wat is de massaverhouding methaan : zuurstof?",
+   "answers": {
+    "a": "16,0 : 64,0",
+    "b": "16,0 : 16,0",
+    "c": "12,0 : 32,0",
+    "d": "16,0 : 32,0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel gram CO<sub>2</sub> ontstaat uit 32,0 g methaan bij volledige verbranding? (massaverhouding methaan : CO<sub>2</sub> = 16,0 : 44,0)",
+   "answers": {
+    "a": "48 g",
+    "b": "88 g",
+    "c": "22 g",
+    "d": "44 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Voor ammoniak geldt N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> met massaverhouding 28,0 : 6,0 : 34,0. Je hebt 14,0 g stikstof en 6,0 g waterstof. Welke stof is in overmaat?",
+   "answers": {
+    "a": "waterstof, er blijft 6,0 g over",
+    "b": "geen van beide",
+    "c": "stikstof, er blijft 3,0 g over",
+    "d": "waterstof, er blijft 3,0 g over"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Uit welke stof wordt in de industrie het stikstof voor ammoniak gehaald?",
+   "answers": {
+    "a": "uit zeewater",
+    "b": "uit steenkool",
+    "c": "uit lucht",
+    "d": "uit aardolie"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarom voert een fabriek stoffen die niet gereageerd hebben terug in het proces?",
+   "answers": {
+    "a": "zo ontstaat er meer afval",
+    "b": "zo wordt er minder verspild",
+    "c": "zo wordt de reactie langzamer",
+    "d": "zo wordt het product giftiger"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een ertsmonster van 200 g bevat 140 g ijzeroxide. Wat is het massapercentage ijzeroxide?",
+   "answers": {
+    "a": "30%",
+    "b": "140%",
+    "c": "70%",
+    "d": "1,4%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wijn van 750 mL bevat 12 volumeprocent alcohol. Hoeveel mL alcohol is dat?",
+   "answers": {
+    "a": "90 mL",
+    "b": "9,0 mL",
+    "c": "62,5 mL",
+    "d": "900 mL"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Lucht bevat 21 volumeprocent zuurstof. Hoeveel liter zuurstof zit er in 50 L lucht?",
+   "answers": {
+    "a": "21 L",
+    "b": "29 L",
+    "c": "2,4 L",
+    "d": "10,5 L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Uit 319,2 g ijzeroxide ontstaat 223,2 g ijzer. Hoeveel gram ijzer ontstaat uit 159,6 g ijzeroxide?",
+   "answers": {
+    "a": "111,6 g",
+    "b": "223,2 g",
+    "c": "446,4 g",
+    "d": "55,8 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een tussenproduct?",
+   "answers": {
+    "a": "het eindproduct dat de klant koopt",
+    "b": "een grondstof uit de natuur",
+    "c": "een stof die in de keten wordt gemaakt en daarna weer wordt gebruikt",
+    "d": "afval dat wordt verbrand"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een grondstof?",
+   "answers": {
+    "a": "een stof die ontstaat aan het einde van het proces",
+    "b": "een stof uit de natuur waarmee een productieproces begint",
+    "c": "een stof die alleen uit metalen bestaat",
+    "d": "een afvalstof"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

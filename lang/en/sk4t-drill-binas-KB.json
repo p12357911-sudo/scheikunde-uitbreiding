@@ -1,0 +1,149 @@
+{
+ "title": "Drill: looking up data tables - 123 school",
+ "heading": "Drill: looking up data tables",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "In which BINAS table do you find the density of solids?",
+   "a": "table 15"
+  },
+  {
+   "q": "In which BINAS table do you find the solubility of salts?",
+   "a": "table 35"
+  },
+  {
+   "q": "In which BINAS table do you find the colour change range of indicators?",
+   "a": "table 36"
+  },
+  {
+   "q": "In which BINAS table do you find the flame colours of metal ions?",
+   "a": "table 38"
+  },
+  {
+   "q": "In which BINAS table do you find the meaning of hazard symbols?",
+   "a": "table 39"
+  },
+  {
+   "q": "In which BINAS table do you find the maximum allowed concentration (MAC) of hazardous substances in air?",
+   "a": "table 40"
+  },
+  {
+   "q": "In which BINAS table do you find the flow chart of crude oil?",
+   "a": "table 41"
+  },
+  {
+   "q": "In which BINAS table do you find the common names of substances?",
+   "a": "table 42"
+  },
+  {
+   "q": "In which BINAS table do you find the E numbers of additives?",
+   "a": "table 45"
+  },
+  {
+   "q": "In which BINAS table do you find the periodic table?",
+   "a": "table 34"
+  },
+  {
+   "q": "What is the density of iron in g/cm³? (use BINAS table 15)",
+   "a": "7.87 g/cm³"
+  },
+  {
+   "q": "What is the density of lead in g/cm³? (use BINAS table 15)",
+   "a": "11.35 g/cm³"
+  },
+  {
+   "q": "What is the density of nickel in g/cm³? (use BINAS table 15)",
+   "a": "8.90 g/cm³"
+  },
+  {
+   "q": "What is the melting point of sugar in K? (use BINAS table 15)",
+   "a": "458 K"
+  },
+  {
+   "q": "What is the melting point of table salt in K? (use BINAS table 15)",
+   "a": "1081 K"
+  },
+  {
+   "q": "What is the freezing point of alcohol in K? (use BINAS table 16)",
+   "a": "159 K"
+  },
+  {
+   "q": "What is the boiling point of oxygen in K? (use BINAS table 17)",
+   "a": "90 K"
+  },
+  {
+   "q": "What is the boiling point of helium in K? (use BINAS table 17)",
+   "a": "4.2 K"
+  },
+  {
+   "q": "What is the MAC value of carbon monoxide in mg/m³? (use BINAS table 40)",
+   "a": "55 mg/m³"
+  },
+  {
+   "q": "What is the MAC value of chlorine in mg/m³? (use BINAS table 40)",
+   "a": "3 mg/m³"
+  },
+  {
+   "q": "What colour is the flame of a sodium salt? (use BINAS table 38)",
+   "a": "yellow"
+  },
+  {
+   "q": "What is E-420 used for? (use BINAS table 45)",
+   "a": "as a sweetener"
+  },
+  {
+   "q": "What is E-250 (nitrite) used for? (use BINAS table 45)",
+   "a": "as a preservative"
+  },
+  {
+   "q": "What colour is phenol red at pH 5? (use BINAS table 36)",
+   "a": "yellow"
+  },
+  {
+   "q": "What colour is red cabbage juice at pH 12? (use BINAS table 36)",
+   "a": "green"
+  },
+  {
+   "q": "How well does Mg(OH)<sub>2</sub> dissolve in water? (use BINAS table 35)",
+   "a": "poorly soluble"
+  },
+  {
+   "q": "How well does FeSO<sub>4</sub> dissolve in water? (use BINAS table 35)",
+   "a": "well soluble"
+  },
+  {
+   "q": "How well does PbF<sub>2</sub> dissolve in water? (use BINAS table 35)",
+   "a": "moderately soluble"
+  },
+  {
+   "q": "How well does AgCl dissolve in water? (use BINAS table 35)",
+   "a": "poorly soluble"
+  },
+  {
+   "q": "What is laughing gas? (use BINAS table 42)",
+   "a": "dinitrogen monoxide"
+  },
+  {
+   "q": "What is limewater? (use BINAS table 42)",
+   "a": "a solution of calcium hydroxide"
+  },
+  {
+   "q": "What is caustic soda solution? (use BINAS table 42)",
+   "a": "a solution of sodium hydroxide"
+  },
+  {
+   "q": "What is the symbol of copper? (use BINAS table 34)",
+   "a": "Cu"
+  },
+  {
+   "q": "What is the symbol of tin? (use BINAS table 34)",
+   "a": "Sn"
+  },
+  {
+   "q": "What is the atomic number of iron? (use BINAS table 34)",
+   "a": "26"
+  }
+ ]
+}

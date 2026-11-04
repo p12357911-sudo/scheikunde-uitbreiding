@@ -1,0 +1,142 @@
+{
+ "title": "Koolstofchemie: isomerie, alkynen, benzeen, ethers en C=O - 123 school",
+ "heading": "Koolstofchemie: isomerie, alkynen, benzeen, ethers en C=O",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat is de algemene formule van alkanen, alkenen en alkynen (open keten)?",
+   "a": "Alkanen: C<sub>n</sub>H<sub>2n+2</sub>, alkenen: C<sub>n</sub>H<sub>2n</sub>, alkynen: C<sub>n</sub>H<sub>2n–2</sub>"
+  },
+  {
+   "q": "Welke groep is kenmerkend voor alkynen?",
+   "a": "De drievoudige binding C≡C"
+  },
+  {
+   "q": "Geef de naam en molecuulformule van het eenvoudigste alkyn",
+   "a": "Ethyn, C<sub>2</sub>H<sub>2</sub>"
+  },
+  {
+   "q": "Geef de molecuulformule van hex-1-yn",
+   "a": "C<sub>6</sub>H<sub>10</sub>"
+  },
+  {
+   "q": "Hoeveel mol Br<sub>2</sub> kan 1 mol ethyn maximaal opnemen en wat is dan het product?",
+   "a": "2 mol Br<sub>2</sub>. Het product is 1,1,2,2-tetrabroomethaan"
+  },
+  {
+   "q": "Hoeveel mol H<sub>2</sub> is nodig om 1 mol ethyn volledig om te zetten in ethaan?",
+   "a": "2 mol: C<sub>2</sub>H<sub>2</sub> + 2 H<sub>2</sub> → C<sub>2</sub>H<sub>6</sub>"
+  },
+  {
+   "q": "Wat zijn cycloalkanen en wat is hun algemene formule?",
+   "a": "Koolwaterstoffen met een ring van enkelvoudige C–C bindingen. Algemene formule C<sub>n</sub>H<sub>2n</sub>"
+  },
+  {
+   "q": "Geef de molecuulformule van cyclohexaan",
+   "a": "C<sub>6</sub>H<sub>12</sub>"
+  },
+  {
+   "q": "Welk soort koolwaterstof is een isomeer van cyclohexaan?",
+   "a": "Hex-1-een (een alkeen met formule C<sub>6</sub>H<sub>12</sub>)"
+  },
+  {
+   "q": "Hoe kun je met broomwater onderscheid maken tussen cyclohexaan en cyclohexeen?",
+   "a": "Cyclohexeen ontkleurt broomwater (additie), cyclohexaan niet"
+  },
+  {
+   "q": "Wat is de molecuulformule van benzeen en hoe ziet het molecuul eruit?",
+   "a": "C<sub>6</sub>H<sub>6</sub>. Een vlakke ring van 6 C-atomen met alle C–C bindingen even lang"
+  },
+  {
+   "q": "Reageert benzeen gemakkelijk met broomwater zoals alkenen?",
+   "a": "Nee. Benzeen ontkleurt broomwater niet. Het reageert wel met broom onder andere omstandigheden, bijvoorbeeld met een katalysator, via substitutie"
+  },
+  {
+   "q": "Wat is een fenylgroep?",
+   "a": "Een benzeenring waarvan één H-atoom is vervangen door een bindingsplaats naar de rest van het molecuul: C<sub>6</sub>H<sub>5</sub>–"
+  },
+  {
+   "q": "Geef de molecuulformule van broombenzeen",
+   "a": "C<sub>6</sub>H<sub>5</sub>Br"
+  },
+  {
+   "q": "Wat is een ether en welke groep zit erin?",
+   "a": "Een stof met een zuurstofatoom tussen twee koolstofatomen: C–O–C"
+  },
+  {
+   "q": "Geef de naam van CH<sub>3</sub>–O–CH<sub>3</sub>",
+   "a": "Methoxymethaan"
+  },
+  {
+   "q": "Geef de naam van CH<sub>3</sub>–O–CH<sub>2</sub>–CH<sub>3</sub>",
+   "a": "Methoxyethaan"
+  },
+  {
+   "q": "Waarom heeft methoxymethaan een veel lager kookpunt dan ethanol (zelfde molecuulformule)?",
+   "a": "Methoxymethaan heeft geen OH-groep. De moleculen vormen onderling geen waterstofbruggen"
+  },
+  {
+   "q": "Welke groep hebben aldehyden en ketonen gemeenschappelijk, en wat is het verschil?",
+   "a": "Beide hebben een C=O-groep. Bij een aldehyd zit C=O aan het einde van de keten (CHO), bij een keton zit C=O in de keten"
+  },
+  {
+   "q": "Geef de naam van CH<sub>3</sub>–CH<sub>2</sub>–CHO en van CH<sub>3</sub>–CO–CH<sub>3</sub>",
+   "a": "Propanal en propanon"
+  },
+  {
+   "q": "Geef de naam van CH<sub>3</sub>–CO–CH<sub>2</sub>–CH<sub>2</sub>–CH<sub>3</sub>",
+   "a": "Pentaan-2-on"
+  },
+  {
+   "q": "Wat zijn structuurisomeren?",
+   "a": "Stoffen met dezelfde molecuulformule maar een andere structuurformule"
+  },
+  {
+   "q": "Noem drie structuurisomeren van C<sub>5</sub>H<sub>12</sub>",
+   "a": "Pentaan, 2-methylbutaan en 2,2-dimethylpropaan",
+   "e": "Heb je er twee van de drie goed, dan telt het als goed."
+  },
+  {
+   "q": "Welke twee soorten stoffen met de molecuulformule C<sub>3</sub>H<sub>6</sub>O zijn structuurisomeren van elkaar?",
+   "a": "Propanal (aldehyd) en propanon (keton)"
+  },
+  {
+   "q": "Wat is stereo-isomerie?",
+   "a": "Stoffen met dezelfde structuurformule, maar met een andere ruimtelijke bouw van de atomen"
+  },
+  {
+   "q": "Aan welke twee voorwaarden moet een molecuul voldoen om cis/trans-isomerie te hebben?",
+   "a": "Er is een C=C (of ring) en aan elk C-atoom van die binding zitten twee verschillende groepen"
+  },
+  {
+   "q": "Heeft but-2-een cis/trans-isomerie? En but-1-een?",
+   "a": "But-2-een wel (cis-but-2-een en trans-but-2-een), but-1-een niet (twee H-atomen aan één C van de dubbele binding)"
+  },
+  {
+   "q": "Wat is een asymmetrisch C-atoom?",
+   "a": "Een C-atoom met vier verschillende groepen eraan"
+  },
+  {
+   "q": "Welke van deze stoffen heeft een asymmetrisch C-atoom: butaan-2-ol of propaan-2-ol?",
+   "a": "Butaan-2-ol (C-2 heeft H, OH, CH<sub>3</sub> en C<sub>2</sub>H<sub>5</sub>). Bij propaan-2-ol zitten er twee gelijke CH<sub>3</sub>-groepen aan C-2"
+  },
+  {
+   "q": "Wat zijn enantiomeren?",
+   "a": "Twee moleculen die elkaars spiegelbeeld zijn en niet op elkaar passen. Ze ontstaan bij een asymmetrisch C-atoom"
+  },
+  {
+   "q": "Wat is hetzelfde en wat is anders bij twee enantiomeren?",
+   "a": "Bijna alle eigenschappen (kookpunt, oplosbaarheid) zijn gelijk. Ze draaien gepolariseerd licht in tegengestelde richting en kunnen verschillend werken in het lichaam"
+  },
+  {
+   "q": "Een molecuul heeft 3 asymmetrische C-atomen. Hoeveel stereo-isomeren heeft het maximaal?",
+   "a": "2<sup>3</sup> = 8"
+  },
+  {
+   "q": "Wat is het verband tussen melkzuur (2-hydroxypropaanzuur) en enantiomeren?",
+   "a": "C-2 heeft vier verschillende groepen (H, OH, CH<sub>3</sub>, COOH), dus melkzuur heeft twee enantiomeren"
+  }
+ ]
+}

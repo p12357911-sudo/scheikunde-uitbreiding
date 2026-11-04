@@ -1,0 +1,145 @@
+{
+ "title": "Drill: Binas opzoeken en evenwichten - 123 school",
+ "heading": "Drill: Binas opzoeken en evenwichten",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "In welke BINAS-tabel vind je de oplosbaarheidsproducten (K<sub>s</sub>) van zouten?",
+   "a": "tabel 46"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de K<sub>z</sub> van zuren en de K<sub>b</sub> van basen?",
+   "a": "tabel 49"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de standaardelektrodepotentialen?",
+   "a": "tabel 48"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de evenwichtsconstanten van reacties tussen gassen?",
+   "a": "tabel 51"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de ionisatieconstante K<sub>w</sub> van water?",
+   "a": "tabel 50"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je het omslagtraject van zuur-base-indicatoren?",
+   "a": "tabel 52A"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de molaire massa van stoffen?",
+   "a": "tabel 98"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je het periodiek systeem?",
+   "a": "tabel 99"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de verbrandingswarmte van stoffen?",
+   "a": "tabel 56"
+  },
+  {
+   "q": "In welke BINAS-tabel vind je de formules en namen van complexe ionen?",
+   "a": "tabel 47"
+  },
+  {
+   "q": "Wat is K<sub>s</sub> van AgCl? (gebruik BINAS tabel 46)",
+   "a": "1,8·10<sup>–10</sup>"
+  },
+  {
+   "q": "Bereken met K<sub>s</sub> van AgCl (BINAS tabel 46) de oplosbaarheid van AgCl in zuiver water",
+   "a": "1,3·10<sup>–5</sup> mol/L"
+  },
+  {
+   "q": "Wat is K<sub>z</sub> van azijnzuur? (gebruik BINAS tabel 49)",
+   "a": "1,8·10<sup>–5</sup>"
+  },
+  {
+   "q": "Wat is K<sub>b</sub> van ammoniak? (gebruik BINAS tabel 49)",
+   "a": "1,8·10<sup>–5</sup>"
+  },
+  {
+   "q": "Bereken met K<sub>z</sub> van azijnzuur (BINAS tabel 49) de pH van 0,10 mol/L azijnzuur",
+   "a": "2,87"
+  },
+  {
+   "q": "Bereken met K<sub>b</sub> van ammoniak (BINAS tabel 49) de pH van 0,10 mol/L ammoniak",
+   "a": "11,13"
+  },
+  {
+   "q": "Bereken K<sub>b</sub> van het acetaat-ion met K<sub>z</sub> van azijnzuur uit BINAS tabel 49",
+   "a": "5,6·10<sup>–10</sup>"
+  },
+  {
+   "q": "Wat is E<sup>0</sup> van de halfreactie Cu<sup>2+</sup> + 2 e<sup>–</sup> ⇌ Cu? (gebruik BINAS tabel 48)",
+   "a": "+0,34 V"
+  },
+  {
+   "q": "Wat is E<sup>0</sup> van de halfreactie Zn<sup>2+</sup> + 2 e<sup>–</sup> ⇌ Zn? (gebruik BINAS tabel 48)",
+   "a": "–0,76 V"
+  },
+  {
+   "q": "Bereken de standaardspanning van een cel met Zn en Cu (BINAS tabel 48)",
+   "a": "1,10 V"
+  },
+  {
+   "q": "Bereken de standaardspanning van een cel met Fe en Ag (BINAS tabel 48)",
+   "a": "1,24 V"
+  },
+  {
+   "q": "Welke stof is de sterkste oxidator: Ag<sup>+</sup>, Cu<sup>2+</sup> of Zn<sup>2+</sup>? (gebruik BINAS tabel 48)",
+   "a": "Ag<sup>+</sup>"
+  },
+  {
+   "q": "Welke stof is de sterkste reductor: Zn, Cu of Ag? (gebruik BINAS tabel 48)",
+   "a": "Zn"
+  },
+  {
+   "q": "Reageert Zn met een oplossing van HCl? (gebruik BINAS tabel 48)",
+   "a": "ja, want E<sup>0</sup> van Zn is lager dan van H<sup>+</sup>"
+  },
+  {
+   "q": "Reageert Cu met een oplossing van HCl? (gebruik BINAS tabel 48)",
+   "a": "nee, want E<sup>0</sup> van Cu is hoger dan van H<sup>+</sup>"
+  },
+  {
+   "q": "Reageert Cl<sub>2</sub> met Br<sup>–</sup>? (gebruik BINAS tabel 48)",
+   "a": "ja, Cl<sub>2</sub> is een sterkere oxidator dan Br<sub>2</sub>"
+  },
+  {
+   "q": "Je titreert azijnzuur met natronloog. Het equivalentiepunt ligt bij pH hoger dan 7. Welke indicator uit BINAS tabel 52A past dan het best?",
+   "a": "fenolftaleïne (omslag rond pH 9)"
+  },
+  {
+   "q": "Je titreert HCl met natronloog. Het equivalentiepunt ligt bij pH 7. Welke indicator uit BINAS tabel 52A past het best?",
+   "a": "broomthymolblauw (omslag rond pH 7)"
+  },
+  {
+   "q": "Voor A + B ⇌ C geldt K = 10. In evenwicht is [A] = 0,10 en [B] = 0,20 mol/L. Wat is [C]?",
+   "a": "0,20 mol/L"
+  },
+  {
+   "q": "Voor 2 A ⇌ B geldt K = 5,0. In evenwicht is [A] = 0,20 mol/L. Wat is [B]?",
+   "a": "0,20 mol/L"
+  },
+  {
+   "q": "Voor A ⇌ 2 B geldt K = 0,10. In evenwicht is [A] = 0,40 mol/L. Wat is [B]?",
+   "a": "0,20 mol/L"
+  },
+  {
+   "q": "Voor A + B ⇌ C geldt K = 10. Nu is [A] = 0,10, [B] = 0,10 en [C] = 0,20 mol/L. Wat gebeurt er?",
+   "a": "Q = 20; de reactie verloopt naar links"
+  },
+  {
+   "q": "Wat is K voor C ⇌ A + B als voor A + B ⇌ C geldt K = 10?",
+   "a": "0,10"
+  },
+  {
+   "q": "Wat is [Ag<sup>+</sup>] in een verzadigde oplossing van AgCl met [Cl<sup>–</sup>] = 0,010 mol/L? (K<sub>s</sub> uit BINAS tabel 46)",
+   "a": "1,8·10<sup>–8</sup> mol/L"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "title": "Product investigation - 123 school",
+ "heading": "Product investigation",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What do you do in a titration?",
+   "a": "You slowly add a solution from a burette to another solution until the indicator changes colour (the end point)"
+  },
+  {
+   "q": "How can you tell that the end point of a titration has been reached?",
+   "a": "From the colour change of the indicator"
+  },
+  {
+   "q": "With which piece of glassware do you add liquid accurately in a titration?",
+   "a": "With a burette"
+  },
+  {
+   "q": "In a calibration it turns out that 1.0 mL of sodium hydroxide solution reacts with 3.0 mg of acetic acid. A vinegar sample needs 12.0 mL of sodium hydroxide solution. How many mg of acetic acid is in the sample?",
+   "a": "12.0 × 3.0 = 36 mg"
+  },
+  {
+   "q": "The vinegar sample in the previous question was 20 mL. What is the acetic acid content in mg/mL?",
+   "a": "36 mg : 20 mL = 1.8 mg/mL"
+  },
+  {
+   "q": "Which two pieces of data do you need to calculate the content of an acid or base from a titration?",
+   "a": "The volume you added in the titration and the calibration data"
+  },
+  {
+   "q": "Which pH belongs to an acidic, a neutral and a basic solution?",
+   "a": "Acidic: pH lower than 7. Neutral: pH = 7. Basic: pH higher than 7"
+  },
+  {
+   "q": "Name 3 indicators",
+   "a": "For example: litmus, phenolphthalein and red cabbage juice (or universal indicator)",
+   "e": "If you have two of the three right, it counts as correct."
+  },
+  {
+   "q": "In which BINAS table do you find the colour change range of indicators?",
+   "a": "Table 36",
+   "goed": [
+    "36",
+    "table 36"
+   ]
+  },
+  {
+   "q": "An indicator is yellow below pH 6.0 and blue above pH 7.6. What colour is the indicator at pH 5?",
+   "a": "Yellow"
+  },
+  {
+   "q": "What is a decomposition reaction?",
+   "a": "A reaction in which one substance is broken down into two or more other substances"
+  },
+  {
+   "q": "What is breaking down with electricity, with heat and with light called?",
+   "a": "Electrolysis, thermolysis and photolysis"
+  },
+  {
+   "q": "Which substances are formed in the electrolysis of water?",
+   "a": "Hydrogen and oxygen"
+  },
+  {
+   "q": "How do you show the presence of oxygen?",
+   "a": "A glowing splint glows brighter or bursts into flame"
+  },
+  {
+   "q": "How do you show the presence of hydrogen?",
+   "a": "With a burning splint: you hear a (barking) pop"
+  },
+  {
+   "q": "How do you show the presence of carbon dioxide?",
+   "a": "With limewater: the limewater turns cloudy (white)"
+  },
+  {
+   "q": "How do you show the presence of water?",
+   "a": "With white copper sulphate: it turns blue (or with cobalt chloride paper: blue turns pink)"
+  },
+  {
+   "q": "What is a precipitation reaction?",
+   "a": "Two solutions are mixed and a poorly soluble salt (the precipitate) is formed"
+  },
+  {
+   "q": "Which precipitate forms when you mix sodium chloride solution with silver nitrate solution? (use BINAS table 35)",
+   "a": "Silver chloride, AgCl (s)"
+  },
+  {
+   "q": "You dilute 10 mL of a solution with water to 100 mL. By what factor is the solution diluted?",
+   "a": "Factor 10 (100 : 10)"
+  },
+  {
+   "q": "A solution of 50 g/L is diluted 10 times. What is the new concentration?",
+   "a": "50 : 10 = 5.0 g/L"
+  },
+  {
+   "q": "You take 25 mL of a solution of 40 g/L and add water to make 500 mL. What is the concentration of the new solution?",
+   "a": "40 g/L × 25 mL : 500 mL = 2.0 g/L"
+  },
+  {
+   "q": "You see a yellow flame colour. Which metal ion was in the substance? (use BINAS table 38)",
+   "a": "Sodium (Na<sup>+</sup>)"
+  },
+  {
+   "q": "What is an E number and where do you look it up?",
+   "a": "A code for an additive in food, for example a colouring or a preservative; you look it up in BINAS table 45"
+  },
+  {
+   "q": "What do you use a sweetener such as E-420 in a product for? (use BINAS table 45)",
+   "a": "To make the product sweet"
+  },
+  {
+   "q": "A label says: \"Contains water, sugar, citric acid\". Which substance is present in the largest amount?",
+   "a": "Water (the substances are listed from most to least)"
+  },
+  {
+   "q": "In which BINAS table do you find the meaning of hazard symbols on a label?",
+   "a": "Table 39",
+   "goed": [
+    "39",
+    "table 39"
+   ]
+  },
+  {
+   "q": "Name 3 separation methods",
+   "a": "For example: filtration, settling, extraction, adsorption, distillation or evaporation",
+   "e": "If you have two of the three right, it counts as correct."
+  }
+ ]
+}

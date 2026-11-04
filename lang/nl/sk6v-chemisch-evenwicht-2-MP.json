@@ -1,0 +1,279 @@
+{
+ "title": "Chemisch evenwicht 2: verschuiving, Ks, Kv en industrie - 123 school",
+ "heading": "Chemisch evenwicht 2: verschuiving, Ks, Kv en industrie",
+ "intro": [
+  "Kies bij elke vraag het juiste antwoord. Gebruik waar nodig een rekenmachine."
+ ],
+ "questions": [
+  {
+   "question": "Je voegt extra beginstof toe aan een evenwicht. Wat gebeurt er?",
+   "answers": {
+    "a": "er verandert niets",
+    "b": "Q wordt groter dan K en het evenwicht verschuift naar rechts",
+    "c": "K wordt groter",
+    "d": "Q wordt kleiner dan K en het evenwicht verschuift naar rechts"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je haalt een reactieproduct weg uit een evenwicht. Wat gebeurt er?",
+   "answers": {
+    "a": "K wordt groter",
+    "b": "er verandert niets",
+    "c": "het evenwicht verschuift naar rechts",
+    "d": "het evenwicht verschuift naar links"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waardoor verandert de waarde van K?",
+   "answers": {
+    "a": "door de concentratie van een beginstof",
+    "b": "door de druk",
+    "c": "door een katalysator",
+    "d": "alleen door de temperatuur"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Je verhoogt de druk bij N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) ⇌ 2 NH<sub>3</sub> (g). Wat gebeurt er?",
+   "answers": {
+    "a": "K wordt groter",
+    "b": "het evenwicht verschuift naar rechts",
+    "c": "het evenwicht verschuift niet",
+    "d": "het evenwicht verschuift naar links"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bij welk evenwicht heeft een drukverhoging geen invloed op de ligging?",
+   "answers": {
+    "a": "H<sub>2</sub> (g) + I<sub>2</sub> (g) ⇌ 2 HI (g)",
+    "b": "2 NO<sub>2</sub> (g) ⇌ N<sub>2</sub>O<sub>4</sub> (g)",
+    "c": "N<sub>2</sub> (g) + 3 H<sub>2</sub> (g) ⇌ 2 NH<sub>3</sub> (g)",
+    "d": "CaCO<sub>3</sub> (s) ⇌ CaO (s) + CO<sub>2</sub> (g)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je verdubbelt het volume bij 2 NO<sub>2</sub> (g) ⇌ N<sub>2</sub>O<sub>4</sub> (g). Wat gebeurt er?",
+   "answers": {
+    "a": "Q wordt groter dan K en het evenwicht verschuift naar links",
+    "b": "Q wordt kleiner dan K en het evenwicht verschuift naar rechts",
+    "c": "K wordt de helft",
+    "d": "Q blijft gelijk aan K"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je voegt bij constant volume een edelgas toe aan een evenwicht met gassen. Wat gebeurt er?",
+   "answers": {
+    "a": "het evenwicht verschuift naar links",
+    "b": "K wordt groter",
+    "c": "het evenwicht verschuift niet",
+    "d": "het evenwicht verschuift naar rechts"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat doet een katalysator met een evenwicht?",
+   "answers": {
+    "a": "K wordt groter",
+    "b": "het evenwicht verschuift naar rechts",
+    "c": "het evenwicht wordt sneller bereikt",
+    "d": "er ontstaat meer product"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je verhoogt de temperatuur van een evenwicht. Naar welke kant verschuift het?",
+   "answers": {
+    "a": "naar de exotherme kant",
+    "b": "naar de kant met de meeste mol gas",
+    "c": "het verschuift niet",
+    "d": "naar de endotherme kant"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bij CaCO<sub>3</sub> (s) ⇌ CaO (s) + CO<sub>2</sub> (g) is de reactie naar rechts endotherm. Je verhoogt de temperatuur. Wat gebeurt er?",
+   "answers": {
+    "a": "K blijft gelijk",
+    "b": "K wordt groter en er ontstaat meer CO<sub>2</sub>",
+    "c": "K wordt kleiner en er ontstaat meer CO<sub>2</sub>",
+    "d": "K wordt groter en er ontstaat minder CO<sub>2</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "De vorming van NH<sub>3</sub> is exotherm. Je verhoogt de temperatuur. Wat gebeurt er?",
+   "answers": {
+    "a": "K wordt kleiner en het evenwicht verschuift naar links",
+    "b": "K blijft gelijk en het evenwicht verschuift naar links",
+    "c": "K wordt groter en het evenwicht verschuift naar rechts",
+    "d": "K wordt kleiner en het evenwicht verschuift naar rechts"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom gebruikt men bij de ammoniakproductie ongeveer 450 °C?",
+   "answers": {
+    "a": "bij die temperatuur is NH<sub>3</sub> vloeibaar",
+    "b": "bij die temperatuur smelt de katalysator",
+    "c": "een compromis tussen de ligging van het evenwicht en de reactiesnelheid",
+    "d": "bij die temperatuur is K het grootst"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de katalysator bij de ammoniakproductie?",
+   "answers": {
+    "a": "ijzer",
+    "b": "nikkel",
+    "c": "platina",
+    "d": "koper"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarom wordt bij de ammoniakproductie de NH<sub>3</sub> steeds uit het mengsel gehaald?",
+   "answers": {
+    "a": "zo wordt K groter",
+    "b": "zo verschuift het evenwicht steeds naar rechts",
+    "c": "zo wordt de katalysator niet vergiftigd door de druk",
+    "d": "zo daalt de temperatuur"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de evenwichtsvoorwaarde voor het oplosbaarheidsproduct van Ca(OH)<sub>2</sub>?",
+   "answers": {
+    "a": "K<sub>s</sub> = [Ca(OH)<sub>2</sub>]",
+    "b": "K<sub>s</sub> = [Ca<sup>2+</sup>] · [OH<sup>–</sup>]<sup>2</sup>",
+    "c": "K<sub>s</sub> = [Ca<sup>2+</sup>] · 2 [OH<sup>–</sup>]",
+    "d": "K<sub>s</sub> = [Ca<sup>2+</sup>] · [OH<sup>–</sup>]"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de evenwichtsvoorwaarde voor het oplosbaarheidsproduct van Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>?",
+   "answers": {
+    "a": "K<sub>s</sub> = [Ca<sup>2+</sup>]<sup>2</sup> · [PO<sub>4</sub><sup>3–</sup>]<sup>3</sup>",
+    "b": "K<sub>s</sub> = [Ca<sup>2+</sup>] · [PO<sub>4</sub><sup>3–</sup>]",
+    "c": "K<sub>s</sub> = [Ca<sup>2+</sup>]<sup>3</sup> · [PO<sub>4</sub><sup>3–</sup>]<sup>2</sup>",
+    "d": "K<sub>s</sub> = [Ca<sup>2+</sup>]<sup>3</sup> / [PO<sub>4</sub><sup>3–</sup>]<sup>2</sup>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Van een zout MX (1 : 1) is K<sub>s</sub> = 1,0·10<sup>–10</sup>. Wat is de oplosbaarheid in zuiver water?",
+   "answers": {
+    "a": "5,0·10<sup>–11</sup> mol/L",
+    "b": "1,0·10<sup>–5</sup> mol/L",
+    "c": "1,0·10<sup>–20</sup> mol/L",
+    "d": "1,0·10<sup>–10</sup> mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Van een zout M(OH)<sub>2</sub> is K<sub>s</sub> = 4,0·10<sup>–6</sup>. Wat is de oplosbaarheid in zuiver water?",
+   "answers": {
+    "a": "1,0·10<sup>–6</sup> mol/L",
+    "b": "2,0·10<sup>–3</sup> mol/L",
+    "c": "1,6·10<sup>–2</sup> mol/L",
+    "d": "1,0·10<sup>–2</sup> mol/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wanneer ontstaat er een neerslag bij het mengen van twee oplossingen?",
+   "answers": {
+    "a": "als Q groter is dan K<sub>s</sub>",
+    "b": "als Q kleiner is dan K<sub>s</sub>",
+    "c": "als Q gelijk is aan 1",
+    "d": "als K<sub>s</sub> groter is dan 1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je mengt 50 mL 1,0·10<sup>–3</sup> mol/L AgNO<sub>3</sub> met 50 mL 1,0·10<sup>–3</sup> mol/L NaCl. K<sub>s</sub> van AgCl is 1,8·10<sup>–10</sup>. Wat is Q en wat gebeurt er?",
+   "answers": {
+    "a": "Q = 2,5·10<sup>–7</sup>; er ontstaat geen neerslag",
+    "b": "Q = 2,5·10<sup>–7</sup>; er ontstaat een neerslag",
+    "c": "Q = 1,0·10<sup>–6</sup>; er ontstaat een neerslag",
+    "d": "Q = 5,0·10<sup>–4</sup>; er ontstaat geen neerslag"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom lost AgCl slechter op in NaCl-oplossing dan in water?",
+   "answers": {
+    "a": "K<sub>s</sub> wordt kleiner door NaCl",
+    "b": "AgCl wordt een gas",
+    "c": "extra Cl<sup>–</sup> verschuift het evenwicht naar links",
+    "d": "Na<sup>+</sup> reageert met AgCl"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "K<sub>s</sub> van AgCl is 1,8·10<sup>–10</sup>. Wat is [Ag<sup>+</sup>] in een verzadigde oplossing met [Cl<sup>–</sup>] = 0,10 mol/L?",
+   "answers": {
+    "a": "1,8·10<sup>–9</sup> mol/L",
+    "b": "1,8·10<sup>–10</sup> mol/L",
+    "c": "1,8·10<sup>–11</sup> mol/L",
+    "d": "1,3·10<sup>–5</sup> mol/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waar staat K<sub>v</sub> voor?",
+   "answers": {
+    "a": "het vormingsevenwicht van een complex",
+    "b": "de verdampingswarmte",
+    "c": "het verbrandingsevenwicht",
+    "d": "het verdelingsevenwicht van een stof over twee niet-mengbare vloeistoffen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "K<sub>v</sub> = [A] in hexaan / [A] in water. In evenwicht is [A] in water 0,020 mol/L en in hexaan 1,0 mol/L. Wat is K<sub>v</sub>?",
+   "answers": {
+    "a": "0,020",
+    "b": "0,50",
+    "c": "20",
+    "d": "50"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "K<sub>v</sub> = [A] in hexaan / [A] in water = 40. In water is [A] = 0,010 mol/L. Wat is [A] in hexaan?",
+   "answers": {
+    "a": "0,40 mol/L",
+    "b": "0,00025 mol/L",
+    "c": "4,0 mol/L",
+    "d": "0,050 mol/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is gunstig bij extraheren van een stof uit water met een extractiemiddel?",
+   "answers": {
+    "a": "een extractiemiddel dat mengt met water",
+    "b": "een K<sub>v</sub> van precies 0",
+    "c": "een grote K<sub>v</sub> (extractiemiddel / water)",
+    "d": "een kleine K<sub>v</sub> (extractiemiddel / water)"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Je wilt zoveel mogelijk stof uit water extraheren met in totaal 100 mL extractiemiddel. Wat is het slimst?",
+   "answers": {
+    "a": "2 keer extraheren met 50 mL",
+    "b": "4 keer extraheren met 25 mL",
+    "c": "1 keer extraheren met 100 mL",
+    "d": "het extractiemiddel eerst verwarmen tot koken"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

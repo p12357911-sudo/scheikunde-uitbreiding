@@ -1,0 +1,359 @@
+{
+ "title": "Drill: looking up data tables - 123 school",
+ "heading": "Drill: looking up data tables",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "In which BINAS table do you find the density of solids?",
+   "answers": {
+    "a": "table 35",
+    "b": "table 45",
+    "c": "table 39",
+    "d": "table 15"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you find the solubility of salts?",
+   "answers": {
+    "a": "table 42",
+    "b": "table 15",
+    "c": "table 36",
+    "d": "table 35"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you find the colour change range of indicators?",
+   "answers": {
+    "a": "table 35",
+    "b": "table 36",
+    "c": "table 38",
+    "d": "table 40"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the flame colours of metal ions?",
+   "answers": {
+    "a": "table 39",
+    "b": "table 36",
+    "c": "table 38",
+    "d": "table 41"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which BINAS table do you find the meaning of hazard symbols?",
+   "answers": {
+    "a": "table 45",
+    "b": "table 38",
+    "c": "table 39",
+    "d": "table 40"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which BINAS table do you find the maximum allowed concentration (MAC) of hazardous substances in air?",
+   "answers": {
+    "a": "table 41",
+    "b": "table 40",
+    "c": "table 44",
+    "d": "table 39"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the flow chart of crude oil?",
+   "answers": {
+    "a": "table 41",
+    "b": "table 42",
+    "c": "table 40",
+    "d": "table 43"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In which BINAS table do you find the common names of substances?",
+   "answers": {
+    "a": "table 41",
+    "b": "table 45",
+    "c": "table 43",
+    "d": "table 42"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you find the E numbers of additives?",
+   "answers": {
+    "a": "table 43",
+    "b": "table 45",
+    "c": "table 44",
+    "d": "table 42"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the periodic table?",
+   "answers": {
+    "a": "table 34",
+    "b": "table 45",
+    "c": "table 35",
+    "d": "table 15"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the density of iron in g/cm³? (use BINAS table 15)",
+   "answers": {
+    "a": "7.87 g/cm³",
+    "b": "8.90 g/cm³",
+    "c": "11.35 g/cm³",
+    "d": "2.70 g/cm³"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the density of lead in g/cm³? (use BINAS table 15)",
+   "answers": {
+    "a": "7.87 g/cm³",
+    "b": "11.35 g/cm³",
+    "c": "2.70 g/cm³",
+    "d": "8.90 g/cm³"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the density of nickel in g/cm³? (use BINAS table 15)",
+   "answers": {
+    "a": "11.35 g/cm³",
+    "b": "7.87 g/cm³",
+    "c": "2.70 g/cm³",
+    "d": "8.90 g/cm³"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the melting point of sugar in K? (use BINAS table 15)",
+   "answers": {
+    "a": "933 K",
+    "b": "458 K",
+    "c": "1081 K",
+    "d": "373 K"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the melting point of table salt in K? (use BINAS table 15)",
+   "answers": {
+    "a": "933 K",
+    "b": "273 K",
+    "c": "1081 K",
+    "d": "458 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the freezing point of alcohol in K? (use BINAS table 16)",
+   "answers": {
+    "a": "273 K",
+    "b": "159 K",
+    "c": "373 K",
+    "d": "234 K"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the boiling point of oxygen in K? (use BINAS table 17)",
+   "answers": {
+    "a": "373 K",
+    "b": "231 K",
+    "c": "90 K",
+    "d": "4.2 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the boiling point of helium in K? (use BINAS table 17)",
+   "answers": {
+    "a": "90 K",
+    "b": "231 K",
+    "c": "159 K",
+    "d": "4.2 K"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the MAC value of carbon monoxide in mg/m³? (use BINAS table 40)",
+   "answers": {
+    "a": "3 mg/m³",
+    "b": "0.05 mg/m³",
+    "c": "55 mg/m³",
+    "d": "500 mg/m³"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the MAC value of chlorine in mg/m³? (use BINAS table 40)",
+   "answers": {
+    "a": "0.05 mg/m³",
+    "b": "3 mg/m³",
+    "c": "30 mg/m³",
+    "d": "55 mg/m³"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What colour is the flame of a sodium salt? (use BINAS table 38)",
+   "answers": {
+    "a": "yellow",
+    "b": "green",
+    "c": "blue",
+    "d": "purple"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is E-420 used for? (use BINAS table 45)",
+   "answers": {
+    "a": "as a sweetener",
+    "b": "as a preservative",
+    "c": "as a colouring",
+    "d": "as a thickener"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is E-250 (nitrite) used for? (use BINAS table 45)",
+   "answers": {
+    "a": "as a preservative",
+    "b": "as a sweetener",
+    "c": "as a flavour enhancer",
+    "d": "as a colouring"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What colour is phenol red at pH 5? (use BINAS table 36)",
+   "answers": {
+    "a": "colourless",
+    "b": "blue",
+    "c": "yellow",
+    "d": "red"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What colour is red cabbage juice at pH 12? (use BINAS table 36)",
+   "answers": {
+    "a": "purple",
+    "b": "green",
+    "c": "red",
+    "d": "pink"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How well does Mg(OH)<sub>2</sub> dissolve in water? (use BINAS table 35)",
+   "answers": {
+    "a": "moderately soluble",
+    "b": "well soluble",
+    "c": "poorly soluble",
+    "d": "reacts with water"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How well does FeSO<sub>4</sub> dissolve in water? (use BINAS table 35)",
+   "answers": {
+    "a": "well soluble",
+    "b": "reacts with water",
+    "c": "poorly soluble",
+    "d": "moderately soluble"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How well does PbF<sub>2</sub> dissolve in water? (use BINAS table 35)",
+   "answers": {
+    "a": "well soluble",
+    "b": "moderately soluble",
+    "c": "reacts with water",
+    "d": "poorly soluble"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "How well does AgCl dissolve in water? (use BINAS table 35)",
+   "answers": {
+    "a": "reacts with water",
+    "b": "well soluble",
+    "c": "moderately soluble",
+    "d": "poorly soluble"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is laughing gas? (use BINAS table 42)",
+   "answers": {
+    "a": "carbon monoxide",
+    "b": "nitrogen dioxide",
+    "c": "dinitrogen monoxide",
+    "d": "hydrogen peroxide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is limewater? (use BINAS table 42)",
+   "answers": {
+    "a": "a solution of calcium chloride",
+    "b": "a solution of calcium carbonate",
+    "c": "a solution of sodium hydroxide",
+    "d": "a solution of calcium hydroxide"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is caustic soda solution? (use BINAS table 42)",
+   "answers": {
+    "a": "a solution of sodium hydroxide",
+    "b": "a solution of calcium hydroxide",
+    "c": "a solution of sodium chloride",
+    "d": "a solution of sodium carbonate"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of copper? (use BINAS table 34)",
+   "answers": {
+    "a": "Cu",
+    "b": "C",
+    "c": "Co",
+    "d": "Ca"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the symbol of tin? (use BINAS table 34)",
+   "answers": {
+    "a": "Ti",
+    "b": "Pb",
+    "c": "Tn",
+    "d": "Sn"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the atomic number of iron? (use BINAS table 34)",
+   "answers": {
+    "a": "16",
+    "b": "29",
+    "c": "26",
+    "d": "56"
+   },
+   "correctAnswer": "c"
+  }
+ ]
+}

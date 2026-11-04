@@ -1,0 +1,319 @@
+{
+ "title": "Drill: calculations - 123 school",
+ "heading": "Drill: calculations",
+ "intro": [
+  "You learn these terms and calculations by practising. Only use BINAS when the question names a BINAS table."
+ ],
+ "questions": [
+  {
+   "question": "A piece of metal has a mass of 54 g and a volume of 20 cm³. What is the density?",
+   "answers": {
+    "a": "1080 g/cm³",
+    "b": "34 g/cm³",
+    "c": "2.7 g/cm³",
+    "d": "0.37 g/cm³"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A piece of metal has a mass of 78.7 g and a volume of 10.0 cm³. What is the density?",
+   "answers": {
+    "a": "68.7 g/cm³",
+    "b": "0.127 g/cm³",
+    "c": "7.87 g/cm³",
+    "d": "787 g/cm³"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A small block has a volume of 5.0 cm³ and a density of 19.3 g/cm³. What is the mass?",
+   "answers": {
+    "a": "24.3 g",
+    "b": "96.5 g",
+    "c": "9.65 g",
+    "d": "0.26 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A piece of copper has a volume of 10 cm³. The density of copper is 8.96 g/cm³. What is the mass?",
+   "answers": {
+    "a": "896 g",
+    "b": "0.896 g",
+    "c": "89.6 g",
+    "d": "1.12 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Alcohol has a density of 0.80 g/mL. What is the mass of 250 mL of alcohol?",
+   "answers": {
+    "a": "200 g",
+    "b": "20 g",
+    "c": "0.0032 g",
+    "d": "312.5 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A piece of rock has a mass of 500 g and a density of 2.5 g/cm³. What is the volume?",
+   "answers": {
+    "a": "200 cm³",
+    "b": "0.005 cm³",
+    "c": "1250 cm³",
+    "d": "502.5 cm³"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Water has a density of 1.0 g/mL. What is the mass of 3.0 L of water?",
+   "answers": {
+    "a": "3.0 g",
+    "b": "30 g",
+    "c": "0.33 g",
+    "d": "3000 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Convert: 2.5 kg = ... g",
+   "answers": {
+    "a": "25 g",
+    "b": "250 g",
+    "c": "2500 g",
+    "d": "0.0025 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Convert: 750 mL = ... L",
+   "answers": {
+    "a": "7500 L",
+    "b": "7.5 L",
+    "c": "0.075 L",
+    "d": "0.75 L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Convert: 0.35 L = ... mL",
+   "answers": {
+    "a": "3.5 mL",
+    "b": "0.00035 mL",
+    "c": "35 mL",
+    "d": "350 mL"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Convert: 4500 mg = ... g",
+   "answers": {
+    "a": "0.45 g",
+    "b": "0.0045 g",
+    "c": "45 g",
+    "d": "4.5 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Convert: 30 °C = ... K",
+   "answers": {
+    "a": "30 K",
+    "b": "243 K",
+    "c": "303 K",
+    "d": "273 K"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Convert: 300 K = ... °C",
+   "answers": {
+    "a": "300 °C",
+    "b": "27 °C",
+    "c": "−27 °C",
+    "d": "573 °C"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Convert: 5.0 cm³ = ... mL",
+   "answers": {
+    "a": "0.0050 mL",
+    "b": "0.50 mL",
+    "c": "5.0 mL",
+    "d": "50 mL"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Convert: 0.5 kg = ... g",
+   "answers": {
+    "a": "500 g",
+    "b": "5.0 g",
+    "c": "0.0005 g",
+    "d": "50 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A mixture of 120 g contains 30 g of salt. What is the mass percentage of salt?",
+   "answers": {
+    "a": "0.25%",
+    "b": "25%",
+    "c": "75%",
+    "d": "4.0%"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A mixture of 200 g contains 15% sugar. How many grams of sugar is that?",
+   "answers": {
+    "a": "13.3 g",
+    "b": "3000 g",
+    "c": "185 g",
+    "d": "30 g"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A mixture of 80 g contains 12 g of salt. What is the mass percentage of salt?",
+   "answers": {
+    "a": "15%",
+    "b": "85%",
+    "c": "960%",
+    "d": "6.7%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Sea water contains 3.5% salt. How many grams of salt are in 2000 g of sea water?",
+   "answers": {
+    "a": "1930 g",
+    "b": "70 g",
+    "c": "57 g",
+    "d": "7000 g"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "20 g of salt is dissolved in 0.50 L of solution. What is the concentration?",
+   "answers": {
+    "a": "10 g/L",
+    "b": "40 g/L",
+    "c": "0.025 g/L",
+    "d": "20.5 g/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "The concentration is 15 g/L. How many grams are in 2.0 L?",
+   "answers": {
+    "a": "30 g",
+    "b": "0.13 g",
+    "c": "7.5 g",
+    "d": "17 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "60 g of sugar is dissolved in 3.0 L of solution. What is the concentration?",
+   "answers": {
+    "a": "20 g/L",
+    "b": "0.050 g/L",
+    "c": "57 g/L",
+    "d": "180 g/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "The concentration is 25 g/L. How many litres of solution contain 100 g?",
+   "answers": {
+    "a": "75 L",
+    "b": "4.0 L",
+    "c": "2500 L",
+    "d": "0.25 L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You dilute 100 mL of a solution of 20 g/L with water to 400 mL. What is the new concentration?",
+   "answers": {
+    "a": "5.0 g/L",
+    "b": "0.20 g/L",
+    "c": "15 g/L",
+    "d": "80 g/L"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A solution of 50 g/L is diluted 5 times. What is the new concentration?",
+   "answers": {
+    "a": "250 g/L",
+    "b": "10 g/L",
+    "c": "0.10 g/L",
+    "d": "45 g/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "You dilute 10 mL of a solution of 30 g/L with water to 60 mL. What is the new concentration?",
+   "answers": {
+    "a": "180 g/L",
+    "b": "3.0 g/L",
+    "c": "20 g/L",
+    "d": "5.0 g/L"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molecular mass of H<sub>2</sub>O? (H = 1.0 and O = 16.0)",
+   "answers": {
+    "a": "16.0 u",
+    "b": "34.0 u",
+    "c": "17.0 u",
+    "d": "18.0 u"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the molecular mass of CO<sub>2</sub>? (C = 12.0 and O = 16.0)",
+   "answers": {
+    "a": "56.0 u",
+    "b": "28.0 u",
+    "c": "44.0 u",
+    "d": "40.0 u"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the molecular mass of NH<sub>3</sub>? (N = 14.0 and H = 1.0)",
+   "answers": {
+    "a": "15.0 u",
+    "b": "17.0 u",
+    "c": "16.0 u",
+    "d": "42.0 u"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A device takes in 200 J of energy and gives 60 J of useful energy. What is the efficiency?",
+   "answers": {
+    "a": "333%",
+    "b": "70%",
+    "c": "30%",
+    "d": "3.3%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A device has an efficiency of 40% and takes in 500 J. How much of that is useful?",
+   "answers": {
+    "a": "200 J",
+    "b": "460 J",
+    "c": "1250 J",
+    "d": "12.5 J"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}
