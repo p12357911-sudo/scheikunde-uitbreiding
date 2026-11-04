@@ -1,0 +1,134 @@
+{
+ "title": "Separating and analysing - 123 school",
+ "heading": "Separating and analysing",
+ "intro": [
+  "These questions are about separation methods, chromatography, the Rf value, the calibration line and titration.",
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is a mixture?",
+   "a": "A product that consists of more than one pure substance"
+  },
+  {
+   "q": "What difference is filtration based on?",
+   "a": "The difference in particle size: the solid particles stay behind on the filter, the liquid passes through"
+  },
+  {
+   "q": "Which mixture do you separate by filtration?",
+   "a": "A suspension, for example sand and water"
+  },
+  {
+   "q": "What difference is distillation based on?",
+   "a": "The difference in boiling point: the substance with the lowest boiling point evaporates first"
+  },
+  {
+   "q": "You want to get the salt out of salt water. Which separation method do you use?",
+   "a": "Evaporation: the water evaporates and the salt remains"
+  },
+  {
+   "q": "What is the difference between evaporation and distillation?",
+   "a": "With evaporation the evaporated substance is lost, with distillation the vapour is condensed again and collected"
+  },
+  {
+   "q": "What difference is extraction based on?",
+   "a": "The difference in solubility: a substance dissolves better in one solvent than in another"
+  },
+  {
+   "q": "What difference is settling (sedimentation) based on?",
+   "a": "The difference in density: the heavier particles sink to the bottom"
+  },
+  {
+   "q": "What is decanting?",
+   "a": "Carefully pouring off the liquid above the settled solid"
+  },
+  {
+   "q": "What does a centrifuge do?",
+   "a": "It spins a mixture quickly so that the heavier particles move to the bottom faster"
+  },
+  {
+   "q": "What is adsorption?",
+   "a": "The attachment of particles to the surface of a solid, for example dyes to activated carbon"
+  },
+  {
+   "q": "How do you separate iron filings from sand?",
+   "a": "With a magnet, because iron is magnetic and sand is not"
+  },
+  {
+   "q": "Name three separation methods",
+   "a": "For example filtration, distillation, evaporation, extraction, settling, adsorption or chromatography"
+  },
+  {
+   "q": "What do you use chromatography for?",
+   "a": "To separate the substances in a mixture and to recognise them"
+  },
+  {
+   "q": "What are the mobile and the stationary phase in chromatography?",
+   "a": "The mobile phase is the solvent that moves up along the paper; the stationary phase is the paper (or other material) that stays in place"
+  },
+  {
+   "q": "What difference is chromatography based on?",
+   "a": "The difference in how strongly the substances attach to the stationary phase and how well they dissolve in the mobile phase"
+  },
+  {
+   "q": "Why must the starting line in paper chromatography be above the layer of solvent?",
+   "a": "Otherwise the spots dissolve in the liquid in the container and do not travel up the paper"
+  },
+  {
+   "q": "In which BINAS table is information about chromatography found?",
+   "a": "Table 37F"
+  },
+  {
+   "q": "How do you calculate the Rf value of a substance?",
+   "a": "Rf = distance travelled by the substance / distance travelled by the solvent (both measured from the starting line)"
+  },
+  {
+   "q": "Can the Rf value be larger than 1? Explain",
+   "a": "No, because a substance cannot travel further than the solvent"
+  },
+  {
+   "q": "A substance travels 3.0 cm, the solvent 6.0 cm. Calculate the Rf value",
+   "a": "3.0 / 6.0 = 0.50"
+  },
+  {
+   "q": "A substance has Rf = 0.40. The solvent has travelled 10.0 cm. How far has the substance travelled?",
+   "a": "0.40 × 10.0 = 4.0 cm"
+  },
+  {
+   "q": "How do you recognise with chromatography whether two substances are the same?",
+   "a": "Under the same conditions they travel the same distance (same Rf value), so they end up at the same height"
+  },
+  {
+   "q": "On a chromatogram an unknown mixture shows two spots. What do you conclude?",
+   "a": "The mixture contains at least two different substances"
+  },
+  {
+   "q": "What is a calibration line?",
+   "a": "A graph of a measured value (for example absorbance) against the concentration, made with solutions of known concentration"
+  },
+  {
+   "q": "What do you use a calibration line for?",
+   "a": "To read the concentration from the measured value of an unknown solution"
+  },
+  {
+   "q": "How do you use a calibration line to find an unknown concentration?",
+   "a": "Measure the value of the unknown solution, find that value on the vertical axis, go across to the line and read the concentration from the horizontal axis"
+  },
+  {
+   "q": "What is titration?",
+   "a": "Adding a solution of known concentration to a measured amount of another solution until the reaction is exactly complete"
+  },
+  {
+   "q": "What do you use an indicator for in a titration?",
+   "a": "To see from the colour change when the reaction is exactly complete"
+  },
+  {
+   "q": "How do you calculate the number of moles from a concentration and a volume?",
+   "a": "n = c × V (volume in litres, concentration in mol/L)"
+  },
+  {
+   "q": "25.0 mL of HCl needs 20.0 mL of 0.100 mol/L NaOH (HCl + NaOH → NaCl + H<sub>2</sub>O). Calculate the concentration of the HCl",
+   "a": "n(NaOH) = 0.100 × 0.0200 = 2.00·10<sup>-3</sup> mol; n(HCl) is also 2.00·10<sup>-3</sup> mol; c(HCl) = 2.00·10<sup>-3</sup> / 0.0250 = 0.0800 mol/L"
+  }
+ ]
+}

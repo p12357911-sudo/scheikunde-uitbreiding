@@ -1,0 +1,259 @@
+{
+ "title": "Yield and atom economy - 123 school",
+ "heading": "Yield and atom economy",
+ "intro": [
+  "Choose the correct answer for each question. The formulas are in BINAS table 37H. Use a calculator where needed."
+ ],
+ "questions": [
+  {
+   "question": "What is a limiting reactant?",
+   "answers": {
+    "a": "the substance in excess",
+    "b": "the product that is formed",
+    "c": "the starting substance that is used up first",
+    "d": "the substance with the largest mass"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O. You have 2.0 mol H<sub>2</sub> and 2.0 mol O<sub>2</sub>. Which substance is in excess?",
+   "answers": {
+    "a": "H<sub>2</sub>",
+    "b": "H<sub>2</sub>O",
+    "c": "O<sub>2</sub>",
+    "d": "neither"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>. You have 0.100 mol Zn and 0.50 mol HCl. How many moles of H<sub>2</sub> form?",
+   "answers": {
+    "a": "0.100 mol",
+    "b": "0.25 mol",
+    "c": "0.20 mol",
+    "d": "0.050 mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>. You have 1.0 mol N<sub>2</sub> and 6.0 mol H<sub>2</sub>. How many moles of NH<sub>3</sub> can form at most?",
+   "answers": {
+    "a": "3.0 mol",
+    "b": "4.0 mol",
+    "c": "1.0 mol",
+    "d": "2.0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you calculate the yield (BINAS table 37H)?",
+   "answers": {
+    "a": "actual yield / theoretical yield × 100%",
+    "b": "mass of product / mass of waste × 100%",
+    "c": "mass of desired product / mass of starting substances × 100%",
+    "d": "theoretical yield / actual yield × 100%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "The theoretical yield is 25.0 g and you obtain 20.0 g. What is the yield?",
+   "answers": {
+    "a": "80.0%",
+    "b": "5.0%",
+    "c": "20.0%",
+    "d": "125%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "The theoretical yield is 50 g and the yield is 70%. How many grams of product do you obtain?",
+   "answers": {
+    "a": "15 g",
+    "b": "71 g",
+    "c": "35 g",
+    "d": "0.70 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Can the yield of a reaction be above 100% if you did everything correctly?",
+   "answers": {
+    "a": "yes, for an exothermic reaction",
+    "b": "no",
+    "c": "yes, with an excess",
+    "d": "yes, with a catalyst"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A student obtains a yield of 112%. What is a possible cause?",
+   "answers": {
+    "a": "there was a catalyst",
+    "b": "the product was still wet or impure",
+    "c": "there was too little starting substance",
+    "d": "the reaction was exothermic"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "4.86 g of Mg reacts with excess O<sub>2</sub> to give MgO. What is the theoretical yield of MgO? (M(MgO) = 40.30 g/mol)",
+   "answers": {
+    "a": "8.06 g",
+    "b": "16.1 g",
+    "c": "4.03 g",
+    "d": "0.200 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You obtain 7.25 g of MgO and the theoretical yield is 8.06 g. What is the yield?",
+   "answers": {
+    "a": "10.0%",
+    "b": "111%",
+    "c": "81.0%",
+    "d": "90.0%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you calculate the atom economy (BINAS table 37H)?",
+   "answers": {
+    "a": "mass of waste / mass of desired product",
+    "b": "mass of desired product / mass of waste × 100%",
+    "c": "actual yield / theoretical yield × 100%",
+    "d": "mass of desired product / total mass of starting substances × 100%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the atom economy of an addition reaction with one product?",
+   "answers": {
+    "a": "that depends on the yield",
+    "b": "100%",
+    "c": "50%",
+    "d": "0%"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Calculate the atom economy for CaO in CaCO<sub>3</sub> → CaO + CO<sub>2</sub> (M: CaCO<sub>3</sub> 100.09, CaO 56.08 g/mol)",
+   "answers": {
+    "a": "100%",
+    "b": "44.0%",
+    "c": "56.0%",
+    "d": "178%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the atom economy for O<sub>2</sub> in 2 H<sub>2</sub>O<sub>2</sub> → 2 H<sub>2</sub>O + O<sub>2</sub> (M: H<sub>2</sub>O<sub>2</sub> 34.02, O<sub>2</sub> 32.00 g/mol)",
+   "answers": {
+    "a": "94.1%",
+    "b": "53.0%",
+    "c": "100%",
+    "d": "47.0%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the atom economy for ethanol in C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> → 2 C<sub>2</sub>H<sub>5</sub>OH + 2 CO<sub>2</sub> (M: glucose 180.16, ethanol 46.07 g/mol)",
+   "answers": {
+    "a": "51.1%",
+    "b": "25.6%",
+    "c": "48.9%",
+    "d": "100%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the E-factor (BINAS table 37H)?",
+   "answers": {
+    "a": "mass of waste / mass of starting substances × 100%",
+    "b": "actual yield / theoretical yield",
+    "c": "mass of waste / mass of desired product",
+    "d": "mass of desired product / mass of waste"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In a process 5.0 kg of product and 20 kg of waste are formed. What is the E-factor?",
+   "answers": {
+    "a": "0.25",
+    "b": "25",
+    "c": "4.0",
+    "d": "100"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which E-factor belongs to the most environmentally friendly process?",
+   "answers": {
+    "a": "5",
+    "b": "25",
+    "c": "100",
+    "d": "0.5"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "For 2.0 kg of product 10 kg of waste is formed. What is the E-factor?",
+   "answers": {
+    "a": "12",
+    "b": "5.0",
+    "c": "20",
+    "d": "0.20"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which BINAS table contains the principles of green chemistry?",
+   "answers": {
+    "a": "table 37H",
+    "b": "table 97F",
+    "c": "table 98",
+    "d": "table 45A"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which measure belongs to green chemistry?",
+   "answers": {
+    "a": "using a catalyst so that less energy is needed",
+    "b": "using an excess of a hazardous substance",
+    "c": "carrying out the reaction at the highest possible temperature",
+    "d": "using a solvent that is not reused"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What does a high atom economy mean for the environment?",
+   "answers": {
+    "a": "always a higher yield",
+    "b": "less waste per kg of product",
+    "c": "always an exothermic reaction",
+    "d": "more waste per kg of product"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "A reaction has an atom economy of 100%, but the yield is 60%. What does that mean?",
+   "answers": {
+    "a": "all atoms can end up in the product, but in practice some product is lost",
+    "b": "a lot of waste is formed because atoms are lost in the design",
+    "c": "the reaction is endothermic",
+    "d": "the yield can never be lower than the atom economy"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is a substance in excess?",
+   "answers": {
+    "a": "a substance that is used up completely",
+    "b": "the substance with the smallest molar mass",
+    "c": "the product of the reaction",
+    "d": "a starting substance of which some is left after the reaction"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

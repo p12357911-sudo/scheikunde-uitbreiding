@@ -1,0 +1,259 @@
+{
+ "title": "Rendement en atoomeconomie - 123 school",
+ "heading": "Rendement en atoomeconomie",
+ "intro": [
+  "Kies bij elke vraag het juiste antwoord. De formules staan in Binas tabel 37H. Gebruik waar nodig een rekenmachine."
+ ],
+ "questions": [
+  {
+   "question": "Wat is een beperkende stof?",
+   "answers": {
+    "a": "de stof in overmaat",
+    "b": "het product dat ontstaat",
+    "c": "de beginstof die als eerste op is",
+    "d": "de stof met de grootste massa"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O. Je hebt 2,0 mol H<sub>2</sub> en 2,0 mol O<sub>2</sub>. Welke stof is in overmaat?",
+   "answers": {
+    "a": "H<sub>2</sub>",
+    "b": "H<sub>2</sub>O",
+    "c": "O<sub>2</sub>",
+    "d": "geen van beide"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>. Je hebt 0,100 mol Zn en 0,50 mol HCl. Hoeveel mol H<sub>2</sub> ontstaat?",
+   "answers": {
+    "a": "0,100 mol",
+    "b": "0,25 mol",
+    "c": "0,20 mol",
+    "d": "0,050 mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub>. Je hebt 1,0 mol N<sub>2</sub> en 6,0 mol H<sub>2</sub>. Hoeveel mol NH<sub>3</sub> kan maximaal ontstaan?",
+   "answers": {
+    "a": "3,0 mol",
+    "b": "4,0 mol",
+    "c": "1,0 mol",
+    "d": "2,0 mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe bereken je het rendement (Binas tabel 37H)?",
+   "answers": {
+    "a": "werkelijke opbrengst / theoretische opbrengst × 100%",
+    "b": "massa product / massa afval × 100%",
+    "c": "massa gewenst product / massa beginstoffen × 100%",
+    "d": "theoretische opbrengst / werkelijke opbrengst × 100%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "De theoretische opbrengst is 25,0 g en je krijgt 20,0 g. Wat is het rendement?",
+   "answers": {
+    "a": "80,0%",
+    "b": "5,0%",
+    "c": "20,0%",
+    "d": "125%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "De theoretische opbrengst is 50 g en het rendement is 70%. Hoeveel gram product krijg je?",
+   "answers": {
+    "a": "15 g",
+    "b": "71 g",
+    "c": "35 g",
+    "d": "0,70 g"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Kan het rendement van een reactie boven 100% liggen als je alles goed hebt gedaan?",
+   "answers": {
+    "a": "ja, bij een exotherme reactie",
+    "b": "nee",
+    "c": "ja, bij een overmaat",
+    "d": "ja, bij een katalysator"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een leerling krijgt een rendement van 112%. Wat is een mogelijke oorzaak?",
+   "answers": {
+    "a": "er was een katalysator",
+    "b": "het product was nog nat of onzuiver",
+    "c": "er was te weinig beginstof",
+    "d": "de reactie was exotherm"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "4,86 g Mg reageert met overmaat O<sub>2</sub> tot MgO. Wat is de theoretische opbrengst aan MgO? (M(MgO) = 40,30 g/mol)",
+   "answers": {
+    "a": "8,06 g",
+    "b": "16,1 g",
+    "c": "4,03 g",
+    "d": "0,200 g"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je krijgt 7,25 g MgO en de theoretische opbrengst is 8,06 g. Wat is het rendement?",
+   "answers": {
+    "a": "10,0%",
+    "b": "111%",
+    "c": "81,0%",
+    "d": "90,0%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe bereken je de atoomeconomie (Binas tabel 37H)?",
+   "answers": {
+    "a": "massa afval / massa gewenst product",
+    "b": "massa gewenst product / massa afval × 100%",
+    "c": "werkelijke opbrengst / theoretische opbrengst × 100%",
+    "d": "massa gewenst product / totale massa beginstoffen × 100%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de atoomeconomie van een additiereactie met één product?",
+   "answers": {
+    "a": "dat hangt van het rendement af",
+    "b": "100%",
+    "c": "50%",
+    "d": "0%"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bereken de atoomeconomie voor CaO bij CaCO<sub>3</sub> → CaO + CO<sub>2</sub> (M: CaCO<sub>3</sub> 100,09, CaO 56,08 g/mol)",
+   "answers": {
+    "a": "100%",
+    "b": "44,0%",
+    "c": "56,0%",
+    "d": "178%"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken de atoomeconomie voor O<sub>2</sub> bij 2 H<sub>2</sub>O<sub>2</sub> → 2 H<sub>2</sub>O + O<sub>2</sub> (M: H<sub>2</sub>O<sub>2</sub> 34,02, O<sub>2</sub> 32,00 g/mol)",
+   "answers": {
+    "a": "94,1%",
+    "b": "53,0%",
+    "c": "100%",
+    "d": "47,0%"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken de atoomeconomie voor ethanol bij C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> → 2 C<sub>2</sub>H<sub>5</sub>OH + 2 CO<sub>2</sub> (M: glucose 180,16, ethanol 46,07 g/mol)",
+   "answers": {
+    "a": "51,1%",
+    "b": "25,6%",
+    "c": "48,9%",
+    "d": "100%"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de E-factor (Binas tabel 37H)?",
+   "answers": {
+    "a": "massa afval / massa beginstoffen × 100%",
+    "b": "werkelijke opbrengst / theoretische opbrengst",
+    "c": "massa afval / massa gewenst product",
+    "d": "massa gewenst product / massa afval"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bij een proces ontstaat 5,0 kg product en 20 kg afval. Wat is de E-factor?",
+   "answers": {
+    "a": "0,25",
+    "b": "25",
+    "c": "4,0",
+    "d": "100"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke E-factor hoort bij het milieuvriendelijkste proces?",
+   "answers": {
+    "a": "5",
+    "b": "25",
+    "c": "100",
+    "d": "0,5"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Voor 2,0 kg product is 10 kg afval nodig. Wat is de E-factor?",
+   "answers": {
+    "a": "12",
+    "b": "5,0",
+    "c": "20",
+    "d": "0,20"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke Binas-tabel bevat de principes van groene chemie?",
+   "answers": {
+    "a": "tabel 37H",
+    "b": "tabel 97F",
+    "c": "tabel 98",
+    "d": "tabel 45A"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke maatregel hoort bij groene chemie?",
+   "answers": {
+    "a": "een katalysator gebruiken zodat er minder energie nodig is",
+    "b": "een overmaat van een gevaarlijke stof gebruiken",
+    "c": "de reactie bij zo hoog mogelijke temperatuur uitvoeren",
+    "d": "een oplosmiddel gebruiken dat niet hergebruikt wordt"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat betekent een hoge atoomeconomie voor het milieu?",
+   "answers": {
+    "a": "altijd een hoger rendement",
+    "b": "minder afval per kg product",
+    "c": "altijd een exotherme reactie",
+    "d": "meer afval per kg product"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Een reactie heeft een atoomeconomie van 100%, maar het rendement is 60%. Wat betekent dat?",
+   "answers": {
+    "a": "alle atomen kunnen in het product komen, maar in de praktijk gaat er product verloren",
+    "b": "er ontstaat veel afval doordat de atomen verloren gaan in het ontwerp",
+    "c": "de reactie is endotherm",
+    "d": "het rendement kan nooit lager zijn dan de atoomeconomie"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is een stof in overmaat?",
+   "answers": {
+    "a": "een stof die volledig verbruikt wordt",
+    "b": "de stof met de kleinste molaire massa",
+    "c": "het product van de reactie",
+    "d": "een beginstof waarvan na de reactie nog iets over is"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

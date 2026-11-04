@@ -1,0 +1,177 @@
+{
+ "title": "Drill: Binas opzoeken en rekenen 1 - 123 school",
+ "heading": "Drill: Binas opzoeken en rekenen 1",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "In welke Binas-tabel vind je de molaire massa van veel gebruikte stoffen?",
+   "a": "tabel 98"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de relatieve atoommassa van een element?",
+   "a": "tabel 99"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de dichtheid van vloeistoffen zoals ethanol en benzeen?",
+   "a": "tabel 11"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de dichtheid van metalen zoals koper en ijzer?",
+   "a": "tabel 8"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de constante van Avogadro en het molair volume?",
+   "a": "tabel 7A"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de formules voor concentratie en dichtheid?",
+   "a": "tabel 37G"
+  },
+  {
+   "q": "In welke Binas-tabel vind je of een zout goed of slecht oplost in water?",
+   "a": "tabel 45A"
+  },
+  {
+   "q": "Wat is de molaire massa van CaCO<sub>3</sub>? (Binas tabel 98)",
+   "a": "100,09 g/mol"
+  },
+  {
+   "q": "Wat is de molaire massa van NaCl? (Binas tabel 98)",
+   "a": "58,44 g/mol"
+  },
+  {
+   "q": "Wat is de molaire massa van H<sub>2</sub>SO<sub>4</sub>? (Binas tabel 98)",
+   "a": "98,08 g/mol"
+  },
+  {
+   "q": "Wat is de molaire massa van glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>? (Binas tabel 98)",
+   "a": "180,16 g/mol"
+  },
+  {
+   "q": "Wat is de relatieve atoommassa van ijzer? (Binas tabel 99)",
+   "a": "55,85"
+  },
+  {
+   "q": "Bereken de molaire massa van Mg(OH)<sub>2</sub> met de atoommassa's uit Binas tabel 99 (Mg 24,31, O 16,00, H 1,008)",
+   "a": "58,33 g/mol"
+  },
+  {
+   "q": "Hoeveel mol is 29,2 g NaCl? (M uit Binas tabel 98)",
+   "a": "0,500 mol"
+  },
+  {
+   "q": "Hoeveel gram weeg je af voor 0,250 mol NaOH? (M uit Binas tabel 98)",
+   "a": "10,0 g"
+  },
+  {
+   "q": "Hoeveel mol CO<sub>2</sub> is 22,0 g? (M uit Binas tabel 98)",
+   "a": "0,500 mol"
+  },
+  {
+   "q": "Hoeveel gram is 0,0500 mol H<sub>2</sub>SO<sub>4</sub>? (M uit Binas tabel 98)",
+   "a": "4,90 g"
+  },
+  {
+   "q": "Hoeveel mmol glucose zit er in 5,00 g glucose? (M uit Binas tabel 98)",
+   "a": "27,8 mmol"
+  },
+  {
+   "q": "Wat is de dichtheid van ethanol in g/mL? (Binas tabel 11)",
+   "a": "0,80 g/mL"
+  },
+  {
+   "q": "Bereken de massa van 50 mL ethanol. Gebruik de dichtheid uit Binas tabel 11",
+   "a": "40 g"
+  },
+  {
+   "q": "Bereken de massa van 20,0 mL kwik. Gebruik de dichtheid uit Binas tabel 11",
+   "a": "270 g"
+  },
+  {
+   "q": "Bereken het volume van 100 g koper. Gebruik de dichtheid uit Binas tabel 8",
+   "a": "11,2 cm<sup>3</sup>"
+  },
+  {
+   "q": "Een aluminium blokje meet 5,0 cm × 4,0 cm × 2,0 cm. Bereken de massa met de dichtheid uit Binas tabel 8",
+   "a": "1,1·10<sup>2</sup> g"
+  },
+  {
+   "q": "Je hebt 63 g benzeen nodig. Hoeveel mL is dat? Gebruik de dichtheid uit Binas tabel 11",
+   "a": "72 mL"
+  },
+  {
+   "q": "Welke stof heeft de grootste dichtheid: aluminium, koper of lood? (Binas tabel 8)",
+   "a": "lood"
+  },
+  {
+   "q": "Je lost 0,50 mol NaCl op tot 250 mL oplossing. Wat is de concentratie?",
+   "a": "2,0 mol/L"
+  },
+  {
+   "q": "Hoeveel gram NaOH heb je nodig voor 500 mL oplossing van 0,10 mol/L? (M uit Binas tabel 98)",
+   "a": "2,0 g"
+  },
+  {
+   "q": "Je lost 5,85 g NaCl op tot 500 mL oplossing. Wat is de concentratie? (M uit Binas tabel 98)",
+   "a": "0,200 mol/L"
+  },
+  {
+   "q": "Hoeveel mL van een oplossing van 0,50 mol/L HCl bevat 0,010 mol HCl?",
+   "a": "20 mL"
+  },
+  {
+   "q": "Je verdunt 20 mL van een oplossing van 1,0 mol/L met water tot 100 mL. Wat is de nieuwe concentratie?",
+   "a": "0,20 mol/L"
+  },
+  {
+   "q": "Een oplossing van CaCl<sub>2</sub> heeft een concentratie van 0,10 mol/L. Wat is [Cl<sup>–</sup>]?",
+   "a": "0,20 mol/L"
+  },
+  {
+   "q": "Een oplossing van Na<sub>2</sub>SO<sub>4</sub> heeft een concentratie van 0,10 mol/L. Wat is [Na<sup>+</sup>]?",
+   "a": "0,20 mol/L"
+  },
+  {
+   "q": "Een oplossing van Al(NO<sub>3</sub>)<sub>3</sub> heeft een concentratie van 0,20 mol/L. Wat is [NO<sub>3</sub><sup>–</sup>]?",
+   "a": "0,60 mol/L"
+  },
+  {
+   "q": "Welke ionen ontstaan als je Na<sub>2</sub>CO<sub>3</sub> in water oplost?",
+   "a": "2 Na<sup>+</sup> en CO<sub>3</sub><sup>2–</sup>"
+  },
+  {
+   "q": "Hoeveel moleculen zitten er in 0,50 mol water? (constante van Avogadro uit Binas tabel 7A)",
+   "a": "3,0·10<sup>23</sup>"
+  },
+  {
+   "q": "Wat is het volume van 2,00 mol gas bij 298 K en p<sub>0</sub>? (molair volume uit Binas tabel 7A: 24,5 dm<sup>3</sup>/mol)",
+   "a": "49,0 dm<sup>3</sup>"
+  },
+  {
+   "q": "Is AgCl goed of slecht oplosbaar in water? (Binas tabel 45A)",
+   "a": "slecht"
+  },
+  {
+   "q": "Is NaNO<sub>3</sub> goed of slecht oplosbaar in water? (Binas tabel 45A)",
+   "a": "goed"
+  },
+  {
+   "q": "Is BaSO<sub>4</sub> goed of slecht oplosbaar in water? (Binas tabel 45A)",
+   "a": "slecht"
+  },
+  {
+   "q": "Is CaCO<sub>3</sub> goed of slecht oplosbaar in water? (Binas tabel 45A)",
+   "a": "slecht"
+  },
+  {
+   "q": "Wat is de betekenis van 'g' in Binas tabel 45A?",
+   "a": "goed oplosbaar: meer dan ca. 0,1 mol/L"
+  },
+  {
+   "q": "Je mengt oplossingen van natriumchloride en zilvernitraat. Wat gebeurt er volgens Binas tabel 45A?",
+   "a": "Er ontstaat een neerslag van zilverchloride"
+  }
+ ]
+}

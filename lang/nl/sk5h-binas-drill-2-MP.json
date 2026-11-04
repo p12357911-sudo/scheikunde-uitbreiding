@@ -1,0 +1,379 @@
+{
+ "title": "Drill: Binas opzoeken en rekenen 2 - 123 school",
+ "heading": "Drill: Binas opzoeken en rekenen 2",
+ "intro": [
+  "Bij elke vraag staat welke Binas-tabel je nodig hebt. Gebruik waar nodig een rekenmachine."
+ ],
+ "questions": [
+  {
+   "question": "In welke Binas-tabel vind je de standaardelektrodepotentialen?",
+   "answers": {
+    "a": "tabel 49",
+    "b": "tabel 52",
+    "c": "tabel 46",
+    "d": "tabel 48"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de zuurconstanten (K<sub>z</sub>) van zuren?",
+   "answers": {
+    "a": "tabel 52",
+    "b": "tabel 49",
+    "c": "tabel 46",
+    "d": "tabel 48"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de kleuren en omslagtrajecten van zuur-base-indicatoren?",
+   "answers": {
+    "a": "tabel 49",
+    "b": "tabel 52B",
+    "c": "tabel 52A",
+    "d": "tabel 48"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de vormingswarmten van anorganische stoffen?",
+   "answers": {
+    "a": "tabel 59A",
+    "b": "tabel 57A",
+    "c": "tabel 58",
+    "d": "tabel 56"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de verbrandingswarmten van stoffen?",
+   "answers": {
+    "a": "tabel 60",
+    "b": "tabel 58",
+    "c": "tabel 56",
+    "d": "tabel 57"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de bindingsenergieën?",
+   "answers": {
+    "a": "tabel 57",
+    "b": "tabel 58",
+    "c": "tabel 56",
+    "d": "tabel 60"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de formules voor atoomeconomie en rendement?",
+   "answers": {
+    "a": "tabel 37F",
+    "b": "tabel 37H",
+    "c": "tabel 98",
+    "d": "tabel 37G"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de numerieke voorvoegsels zoals mono-, di- en tri-?",
+   "answers": {
+    "a": "tabel 66E",
+    "b": "tabel 57",
+    "c": "tabel 66A",
+    "d": "tabel 66C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Is HCl een sterk of een zwak zuur? (Binas tabel 49)",
+   "answers": {
+    "a": "sterk: K<sub>z</sub> ≫ 1",
+    "b": "zwak: K<sub>z</sub> ≈ 10<sup>–10</sup>",
+    "c": "zwak: K<sub>z</sub> ≈ 10<sup>–5</sup>",
+    "d": "het is een base"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is azijnzuur (CH<sub>3</sub>COOH) een sterk of een zwak zuur? (Binas tabel 49)",
+   "answers": {
+    "a": "sterk: K<sub>z</sub> ≫ 1",
+    "b": "zwak: K<sub>z</sub> = 1,7·10<sup>–5</sup>",
+    "c": "sterk: K<sub>z</sub> = 1,7·10<sup>–5</sup>",
+    "d": "het is een base"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welk zuur is het sterkst: HF, HCOOH of CH<sub>3</sub>COOH? (Binas tabel 49)",
+   "answers": {
+    "a": "ze zijn even sterk",
+    "b": "HCOOH",
+    "c": "HF",
+    "d": "CH<sub>3</sub>COOH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is K<sub>z</sub> van het ammoniumion, NH<sub>4</sub><sup>+</sup>? (Binas tabel 49)",
+   "answers": {
+    "a": "5,6·10<sup>–5</sup>",
+    "b": "1,8·10<sup>–5</sup>",
+    "c": "1,0·10<sup>–7</sup>",
+    "d": "5,6·10<sup>–10</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Is NH<sub>3</sub> een sterke of een zwakke base? (Binas tabel 49)",
+   "answers": {
+    "a": "zwak: K<sub>b</sub> = 1,8·10<sup>–5</sup>",
+    "b": "het is een zuur",
+    "c": "sterk: K<sub>b</sub> = 1,8·10<sup>–5</sup>",
+    "d": "sterk: K<sub>b</sub> ≫ 1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is het sterkste zuur in water: HNO<sub>3</sub>, HCN of H<sub>2</sub>S? (Binas tabel 49)",
+   "answers": {
+    "a": "ze zijn even sterk",
+    "b": "HCN",
+    "c": "HNO<sub>3</sub>",
+    "d": "H<sub>2</sub>S"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke kleur heeft broomthymolblauw bij pH 4? (Binas tabel 52A)",
+   "answers": {
+    "a": "geel",
+    "b": "blauw",
+    "c": "rood",
+    "d": "kleurloos"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke kleur heeft fenolftaleïen bij pH 12? (Binas tabel 52A)",
+   "answers": {
+    "a": "paarsrood",
+    "b": "blauw",
+    "c": "geel",
+    "d": "kleurloos"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke kleur heeft methyloranje bij pH 2? (Binas tabel 52A)",
+   "answers": {
+    "a": "oranjegeel",
+    "b": "blauw",
+    "c": "rood",
+    "d": "kleurloos"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is het omslagtraject van broomthymolblauw? (Binas tabel 52A)",
+   "answers": {
+    "a": "pH 8,2 – 10,0",
+    "b": "pH 1,2 – 2,8",
+    "c": "pH 6,0 – 7,6",
+    "d": "pH 3,2 – 4,4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een oplossing kleurt geel met broomthymolblauw en rood met methylrood. Wat weet je over de pH? (Binas tabel 52A)",
+   "answers": {
+    "a": "pH precies 7",
+    "b": "pH hoger dan 7,6",
+    "c": "pH tussen 6,0 en 7,6",
+    "d": "pH lager dan 4,8"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke indicator is het meest geschikt om te zien of een oplossing een pH lager of hoger dan 7 heeft? (Binas tabel 52A)",
+   "answers": {
+    "a": "broomthymolblauw (omslag pH 6,0 – 7,6)",
+    "b": "methyloranje (omslag pH 3,2 – 4,4)",
+    "c": "methylrood (omslag pH 4,8 – 6,0)",
+    "d": "thymolftaleïen (omslag pH 9,4 – 10,6)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof is de sterkste oxidator: Ag<sup>+</sup>, Cu<sup>2+</sup> of Zn<sup>2+</sup>? (Binas tabel 48)",
+   "answers": {
+    "a": "Zn<sup>2+</sup>",
+    "b": "Ag<sup>+</sup>",
+    "c": "Cu<sup>2+</sup>",
+    "d": "ze zijn even sterk"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke stof is de sterkste reductor: Zn, Cu of Ag? (Binas tabel 48)",
+   "answers": {
+    "a": "Ag",
+    "b": "ze zijn even sterk",
+    "c": "Zn",
+    "d": "Cu"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Reageert zink met een oplossing van kopersulfaat? (Binas tabel 48)",
+   "answers": {
+    "a": "ja: Zn is een sterkere oxidator dan Cu",
+    "b": "ja: Zn is een sterkere reductor dan Cu",
+    "c": "nee: Cu is een sterkere reductor dan Zn",
+    "d": "nee: Zn<sup>2+</sup> is een sterkere oxidator dan Cu<sup>2+</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Reageert koper met een oplossing van zoutzuur (HCl)? (Binas tabel 48)",
+   "answers": {
+    "a": "ja: er ontstaat Cl<sub>2</sub>",
+    "b": "nee: Cu is een sterkere reductor dan H<sub>2</sub>",
+    "c": "nee: Cu is een zwakkere reductor dan H<sub>2</sub>",
+    "d": "ja: er ontstaat H<sub>2</sub>"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken de standaardspanning van een cel met Zn en Cu. Gebruik Binas tabel 48",
+   "answers": {
+    "a": "0,42 V",
+    "b": "0,34 V",
+    "c": "–1,10 V",
+    "d": "1,10 V"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de vormingswarmte van CO<sub>2</sub>(g)? (Binas tabel 57A)",
+   "answers": {
+    "a": "–3,935·10<sup>5</sup> J/mol",
+    "b": "+3,935·10<sup>5</sup> J/mol",
+    "c": "–1,105·10<sup>5</sup> J/mol",
+    "d": "–2,86·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de vormingswarmte van H<sub>2</sub>O(l)? (Binas tabel 57A)",
+   "answers": {
+    "a": "+2,86·10<sup>5</sup> J/mol",
+    "b": "–2,86·10<sup>5</sup> J/mol",
+    "c": "0 J/mol",
+    "d": "–2,42·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Is de vorming van NO(g) uit stikstof en zuurstof exotherm of endotherm? (Binas tabel 57A)",
+   "answers": {
+    "a": "exotherm: de vormingswarmte is +0,913·10<sup>5</sup> J/mol",
+    "b": "endotherm: de vormingswarmte is +0,913·10<sup>5</sup> J/mol",
+    "c": "exotherm: de vormingswarmte is –0,913·10<sup>5</sup> J/mol",
+    "d": "endotherm: de vormingswarmte is 0 J/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bereken de reactiewarmte van 2 Mg + O<sub>2</sub> → 2 MgO met Binas tabel 57A",
+   "answers": {
+    "a": "–6,02·10<sup>5</sup> J",
+    "b": "+12,04·10<sup>5</sup> J",
+    "c": "–3,01·10<sup>5</sup> J",
+    "d": "–12,04·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de verbrandingswarmte van methaan? (Binas tabel 56)",
+   "answers": {
+    "a": "–15,59·10<sup>5</sup> J/mol",
+    "b": "+8,90·10<sup>5</sup> J/mol",
+    "c": "–0,75·10<sup>5</sup> J/mol",
+    "d": "–8,90·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof geeft per mol de meeste warmte bij verbranding: methaan, ethaan of propaan? (Binas tabel 56)",
+   "answers": {
+    "a": "propaan",
+    "b": "ethaan",
+    "c": "methaan",
+    "d": "ze geven evenveel"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoeveel warmte komt er vrij bij de verbranding van 2,00 mol methaan? (Binas tabel 56)",
+   "answers": {
+    "a": "17,8·10<sup>5</sup> J",
+    "b": "1,50·10<sup>5</sup> J",
+    "c": "8,90·10<sup>5</sup> J",
+    "d": "4,45·10<sup>5</sup> J"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke binding is het sterkst: H–H, O=O of N≡N? (Binas tabel 58)",
+   "answers": {
+    "a": "N≡N",
+    "b": "ze zijn even sterk",
+    "c": "H–H",
+    "d": "O=O"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke binding is sterker: een enkele C–C binding of een dubbele C=C binding? (Binas tabel 58)",
+   "answers": {
+    "a": "C–C",
+    "b": "dat staat niet in Binas",
+    "c": "ze zijn even sterk",
+    "d": "C=C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welk voorvoegsel hoort bij het getal 4? (Binas tabel 66C)",
+   "answers": {
+    "a": "tri-",
+    "b": "hexa-",
+    "c": "tetra-",
+    "d": "penta-"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk achtervoegsel hoort bij een alcohol? (Binas tabel 66D)",
+   "answers": {
+    "a": "-ol",
+    "b": "-al",
+    "c": "-on",
+    "d": "-zuur"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welk achtervoegsel hoort bij een aldehyde? (Binas tabel 66D)",
+   "answers": {
+    "a": "-amine",
+    "b": "-on",
+    "c": "-ol",
+    "d": "-al"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "title": "Drill: looking up data and calculating 2 - 123 school",
+ "heading": "Drill: looking up data and calculating 2",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "In which BINAS table do you find the standard electrode potentials?",
+   "a": "table 48"
+  },
+  {
+   "q": "In which BINAS table do you find the acid constants (K<sub>z</sub>) of acids?",
+   "a": "table 49"
+  },
+  {
+   "q": "In which BINAS table do you find the colours and colour change ranges of acid-base indicators?",
+   "a": "table 52A"
+  },
+  {
+   "q": "In which BINAS table do you find the heats of formation of inorganic substances?",
+   "a": "table 57A"
+  },
+  {
+   "q": "In which BINAS table do you find the heats of combustion of substances?",
+   "a": "table 56"
+  },
+  {
+   "q": "In which BINAS table do you find the bond energies?",
+   "a": "table 58"
+  },
+  {
+   "q": "In which BINAS table do you find the formulas for atom economy and yield?",
+   "a": "table 37H"
+  },
+  {
+   "q": "In which BINAS table do you find numerical prefixes such as mono-, di- and tri-?",
+   "a": "table 66C"
+  },
+  {
+   "q": "Is HCl a strong or a weak acid? (BINAS table 49)",
+   "a": "strong: K<sub>z</sub> ≫ 1"
+  },
+  {
+   "q": "Is acetic acid (CH<sub>3</sub>COOH) a strong or a weak acid? (BINAS table 49)",
+   "a": "weak: K<sub>z</sub> = 1.7·10<sup>–5</sup>"
+  },
+  {
+   "q": "Which acid is the strongest: HF, HCOOH or CH<sub>3</sub>COOH? (BINAS table 49)",
+   "a": "HF"
+  },
+  {
+   "q": "What is K<sub>z</sub> of the ammonium ion, NH<sub>4</sub><sup>+</sup>? (BINAS table 49)",
+   "a": "5.6·10<sup>–10</sup>"
+  },
+  {
+   "q": "Is NH<sub>3</sub> a strong or a weak base? (BINAS table 49)",
+   "a": "weak: K<sub>b</sub> = 1.8·10<sup>–5</sup>"
+  },
+  {
+   "q": "What is the strongest acid in water: HNO<sub>3</sub>, HCN or H<sub>2</sub>S? (BINAS table 49)",
+   "a": "HNO<sub>3</sub>"
+  },
+  {
+   "q": "What colour does bromothymol blue have at pH 4? (BINAS table 52A)",
+   "a": "yellow"
+  },
+  {
+   "q": "What colour does phenolphthalein have at pH 12? (BINAS table 52A)",
+   "a": "purple-red"
+  },
+  {
+   "q": "What colour does methyl orange have at pH 2? (BINAS table 52A)",
+   "a": "red"
+  },
+  {
+   "q": "What is the colour change range of bromothymol blue? (BINAS table 52A)",
+   "a": "pH 6.0 – 7.6"
+  },
+  {
+   "q": "A solution turns yellow with bromothymol blue and red with methyl red. What do you know about the pH? (BINAS table 52A)",
+   "a": "pH lower than 4.8"
+  },
+  {
+   "q": "Which indicator is the most suitable to see whether a solution has a pH lower or higher than 7? (BINAS table 52A)",
+   "a": "bromothymol blue (changes at pH 6.0 – 7.6)"
+  },
+  {
+   "q": "Which substance is the strongest oxidising agent: Ag<sup>+</sup>, Cu<sup>2+</sup> or Zn<sup>2+</sup>? (BINAS table 48)",
+   "a": "Ag<sup>+</sup>"
+  },
+  {
+   "q": "Which substance is the strongest reducing agent: Zn, Cu or Ag? (BINAS table 48)",
+   "a": "Zn"
+  },
+  {
+   "q": "Does zinc react with a solution of copper sulfate? (BINAS table 48)",
+   "a": "yes: Zn is a stronger reducing agent than Cu"
+  },
+  {
+   "q": "Does copper react with a solution of hydrochloric acid (HCl)? (BINAS table 48)",
+   "a": "no: Cu is a weaker reducing agent than H<sub>2</sub>"
+  },
+  {
+   "q": "Calculate the standard voltage of a cell with Zn and Cu. Use BINAS table 48",
+   "a": "1.10 V"
+  },
+  {
+   "q": "What is the heat of formation of CO<sub>2</sub>(g)? (BINAS table 57A)",
+   "a": "–3.935·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "What is the heat of formation of H<sub>2</sub>O(l)? (BINAS table 57A)",
+   "a": "–2.86·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Is the formation of NO(g) from nitrogen and oxygen exothermic or endothermic? (BINAS table 57A)",
+   "a": "endothermic: the heat of formation is +0.913·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Calculate the heat of reaction of 2 Mg + O<sub>2</sub> → 2 MgO using BINAS table 57A",
+   "a": "–12.04·10<sup>5</sup> J"
+  },
+  {
+   "q": "What is the heat of combustion of methane? (BINAS table 56)",
+   "a": "–8.90·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Which substance gives the most heat per mole on combustion: methane, ethane or propane? (BINAS table 56)",
+   "a": "propane"
+  },
+  {
+   "q": "How much heat is released when 2.00 mol of methane burns? (BINAS table 56)",
+   "a": "17.8·10<sup>5</sup> J"
+  },
+  {
+   "q": "Which bond is the strongest: H–H, O=O or N≡N? (BINAS table 58)",
+   "a": "N≡N"
+  },
+  {
+   "q": "Which bond is stronger: a single C–C bond or a double C=C bond? (BINAS table 58)",
+   "a": "C=C"
+  },
+  {
+   "q": "Which prefix belongs to the number 4? (BINAS table 66C)",
+   "a": "tetra-"
+  },
+  {
+   "q": "Which suffix belongs to an alcohol? (BINAS table 66D)",
+   "a": "-ol"
+  },
+  {
+   "q": "Which suffix belongs to an aldehyde? (BINAS table 66D)",
+   "a": "-al"
+  }
+ ]
+}

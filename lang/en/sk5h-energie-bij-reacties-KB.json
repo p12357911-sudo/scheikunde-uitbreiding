@@ -1,0 +1,130 @@
+{
+ "title": "Energy in reactions - 123 school",
+ "heading": "Energy in reactions",
+ "intro": [
+  "These questions are about exothermic and endothermic reactions, heat of reaction, heat of formation and activation energy.",
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is an exothermic reaction?",
+   "a": "A reaction in which energy (heat) is released; the surroundings get warmer"
+  },
+  {
+   "q": "What is an endothermic reaction?",
+   "a": "A reaction in which energy is absorbed; the surroundings get colder"
+  },
+  {
+   "q": "Which sign does the heat of reaction have for an exothermic reaction in BINAS?",
+   "a": "Negative (–), because the energy content of the substances decreases"
+  },
+  {
+   "q": "Which sign does the heat of reaction have for an endothermic reaction?",
+   "a": "Positive (+)"
+  },
+  {
+   "q": "In which unit is the heat of reaction given in BINAS?",
+   "a": "In J per mole (in tables 56 and 57 in 10<sup>5</sup> J/mol)"
+  },
+  {
+   "q": "What is the heat of formation of a substance?",
+   "a": "The energy released or absorbed when 1 mole of the substance is formed from the elements (at 298 K and p<sub>0</sub>)"
+  },
+  {
+   "q": "What is the heat of formation of an element in its standard state, for example O<sub>2</sub>(g)?",
+   "a": "0 J/mol (so elements are not listed in BINAS table 57)"
+  },
+  {
+   "q": "In which BINAS table do you find heats of formation of inorganic substances?",
+   "a": "Table 57A"
+  },
+  {
+   "q": "How do you calculate the heat of reaction from heats of formation?",
+   "a": "Heat of reaction = sum of the heats of formation of the products – sum of the heats of formation of the starting substances (take the coefficients into account)"
+  },
+  {
+   "q": "What is the heat of formation of CO<sub>2</sub>(g)? (BINAS table 57A)",
+   "a": "–3.935·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Calculate the heat of reaction of 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O(l) (BINAS table 57A)",
+   "a": "2 × (–2.86) = –5.72·10<sup>5</sup> J"
+  },
+  {
+   "q": "Calculate the heat of reaction of N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> (BINAS table 57A)",
+   "a": "2 × (–0.459) = –0.918·10<sup>5</sup> J; exothermic"
+  },
+  {
+   "q": "Calculate the heat of reaction of CaCO<sub>3</sub> → CaO + CO<sub>2</sub> (BINAS table 57A). Is the reaction exothermic or endothermic?",
+   "a": "(–6.35 – 3.935) – (–12.08) = +1.795·10<sup>5</sup> J; endothermic"
+  },
+  {
+   "q": "Calculate the heat of reaction of CaO + H<sub>2</sub>O(l) → Ca(OH)<sub>2</sub> (BINAS table 57A)",
+   "a": "–9.85 – (–6.35 – 2.86) = –0.64·10<sup>5</sup> J; exothermic"
+  },
+  {
+   "q": "Calculate the heat of reaction of 2 H<sub>2</sub>O<sub>2</sub>(l) → 2 H<sub>2</sub>O(l) + O<sub>2</sub> (BINAS table 57A)",
+   "a": "2 × (–2.86) – 2 × (–1.88) = –1.96·10<sup>5</sup> J"
+  },
+  {
+   "q": "A reaction has a heat of reaction of –2.0·10<sup>5</sup> J. What is the heat of reaction of the reverse reaction?",
+   "a": "+2.0·10<sup>5</sup> J (same size, opposite sign)"
+  },
+  {
+   "q": "What is the heat of combustion of methane? (BINAS table 56)",
+   "a": "–8.90·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "How much heat is released when 10 g of methane burns? (M = 16.04 g/mol; BINAS table 56)",
+   "a": "n = 10/16.04 = 0.62 mol; heat = 0.62 × 8.90·10<sup>5</sup> J = 5.5·10<sup>5</sup> J"
+  },
+  {
+   "q": "How much heat is released when 23.0 g of ethanol burns? (M = 46.07 g/mol; BINAS table 56)",
+   "a": "n = 0.499 mol; heat = 0.499 × 13.66·10<sup>5</sup> J = 6.82·10<sup>5</sup> J"
+  },
+  {
+   "q": "What is activation energy?",
+   "a": "The minimum energy that molecules must have in a collision to react"
+  },
+  {
+   "q": "Why does a mixture of methane and oxygen not react by itself at room temperature, although the reaction is exothermic?",
+   "a": "The activation energy is too high; a spark or flame is needed first to start the reaction"
+  },
+  {
+   "q": "What does a catalyst do to the activation energy and to the heat of reaction?",
+   "a": "The activation energy becomes lower; the heat of reaction stays the same"
+  },
+  {
+   "q": "Why is a reaction faster at a higher temperature?",
+   "a": "More collisions have enough energy to reach the activation energy (and there are more collisions per second)"
+  },
+  {
+   "q": "In an energy diagram the products lie lower than the starting substances. Is the reaction exothermic or endothermic?",
+   "a": "Exothermic"
+  },
+  {
+   "q": "What do you read from an energy diagram as the difference between the top of the curve and the level of the starting substances?",
+   "a": "The activation energy"
+  },
+  {
+   "q": "What takes energy: breaking bonds or forming bonds?",
+   "a": "Breaking bonds takes energy; forming bonds releases energy"
+  },
+  {
+   "q": "In a reaction the energy needed to break bonds is smaller than the energy released when new bonds form. Is the reaction exothermic or endothermic?",
+   "a": "Exothermic"
+  },
+  {
+   "q": "Give an example of an endothermic reaction from daily life",
+   "a": "For example photosynthesis, or dissolving ammonium nitrate in a cold pack"
+  },
+  {
+   "q": "Give an example of an exothermic reaction from daily life",
+   "a": "For example the combustion of natural gas, or iron rusting in a hand warmer"
+  },
+  {
+   "q": "How much heat is needed to warm 250 g of water by 10 K? (c = 4.18 J/(g·K))",
+   "a": "Q = m·c·ΔT = 250 × 4.18 × 10 = 1.0·10<sup>4</sup> J"
+  }
+ ]
+}

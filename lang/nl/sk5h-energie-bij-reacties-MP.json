@@ -1,0 +1,289 @@
+{
+ "title": "Energie bij reacties - 123 school",
+ "heading": "Energie bij reacties",
+ "intro": [
+  "Kies bij elke vraag het juiste antwoord. Waar Binas wordt genoemd, zoek je de gegevens op in de genoemde tabel. Gebruik waar nodig een rekenmachine."
+ ],
+ "questions": [
+  {
+   "question": "Wat betekent het als een reactie exotherm is?",
+   "answers": {
+    "a": "de reactie heeft geen activeringsenergie nodig",
+    "b": "er wordt energie opgenomen",
+    "c": "de reactie verloopt altijd snel",
+    "d": "er komt energie vrij"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een reactie heeft een reactiewarmte van +1,5·10<sup>5</sup> J. Wat geldt?",
+   "answers": {
+    "a": "de reactie verloopt niet",
+    "b": "endotherm: er wordt energie opgenomen",
+    "c": "de reactie is een verbranding",
+    "d": "exotherm: er komt energie vrij"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bij het oplossen van een stof in water daalt de temperatuur. Wat is het oplossen?",
+   "answers": {
+    "a": "endotherm",
+    "b": "een katalyse",
+    "c": "een verbranding",
+    "d": "exotherm"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In welke Binas-tabel vind je de vormingswarmten van anorganische stoffen?",
+   "answers": {
+    "a": "tabel 57A",
+    "b": "tabel 48",
+    "c": "tabel 58",
+    "d": "tabel 56"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de vormingswarmte van H<sub>2</sub>O(l)? (Binas tabel 57A)",
+   "answers": {
+    "a": "–2,86·10<sup>5</sup> J/mol",
+    "b": "+2,86·10<sup>5</sup> J/mol",
+    "c": "–2,42·10<sup>5</sup> J/mol",
+    "d": "0 J/mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de vormingswarmte van Cl<sub>2</sub>(g)?",
+   "answers": {
+    "a": "–1,00·10<sup>5</sup> J/mol",
+    "b": "0 J/mol",
+    "c": "–3,935·10<sup>5</sup> J/mol",
+    "d": "+1,00·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke formule geeft de reactiewarmte uit vormingswarmten?",
+   "answers": {
+    "a": "Σ vormingswarmte producten + Σ vormingswarmte beginstoffen",
+    "b": "Σ vormingswarmte producten – Σ vormingswarmte beginstoffen",
+    "c": "Σ vormingswarmte producten × Σ vormingswarmte beginstoffen",
+    "d": "Σ vormingswarmte beginstoffen – Σ vormingswarmte producten"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Bereken de reactiewarmte van 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O(l) (Binas tabel 57A)",
+   "answers": {
+    "a": "+5,72·10<sup>5</sup> J",
+    "b": "–2,86·10<sup>5</sup> J",
+    "c": "–4,84·10<sup>5</sup> J",
+    "d": "–5,72·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken de reactiewarmte van N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> (Binas tabel 57A)",
+   "answers": {
+    "a": "–0,459·10<sup>5</sup> J",
+    "b": "+0,918·10<sup>5</sup> J",
+    "c": "–0,918·10<sup>5</sup> J",
+    "d": "–1,377·10<sup>5</sup> J"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Bereken de reactiewarmte van CaCO<sub>3</sub> → CaO + CO<sub>2</sub> (Binas tabel 57A)",
+   "answers": {
+    "a": "+1,795·10<sup>5</sup> J",
+    "b": "–22,37·10<sup>5</sup> J",
+    "c": "–1,795·10<sup>5</sup> J",
+    "d": "+22,37·10<sup>5</sup> J"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is de ontleding van CaCO<sub>3</sub> in CaO en CO<sub>2</sub> exotherm of endotherm? (Binas tabel 57A)",
+   "answers": {
+    "a": "endotherm",
+    "b": "geen van beide",
+    "c": "exotherm",
+    "d": "dat hangt van de katalysator af"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bereken de reactiewarmte van CaO + H<sub>2</sub>O(l) → Ca(OH)<sub>2</sub> (Binas tabel 57A)",
+   "answers": {
+    "a": "–0,64·10<sup>5</sup> J",
+    "b": "–3,50·10<sup>5</sup> J",
+    "c": "–19,06·10<sup>5</sup> J",
+    "d": "+0,64·10<sup>5</sup> J"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bereken de reactiewarmte van 2 SO<sub>2</sub> + O<sub>2</sub> → 2 SO<sub>3</sub> (alles gasvormig; Binas tabel 57A)",
+   "answers": {
+    "a": "–13,86·10<sup>5</sup> J",
+    "b": "–0,99·10<sup>5</sup> J",
+    "c": "+1,98·10<sup>5</sup> J",
+    "d": "–1,98·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken de reactiewarmte van 2 NO → N<sub>2</sub> + O<sub>2</sub> (Binas tabel 57A)",
+   "answers": {
+    "a": "+1,826·10<sup>5</sup> J",
+    "b": "–0,913·10<sup>5</sup> J",
+    "c": "0 J",
+    "d": "–1,826·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Bereken de reactiewarmte van Fe<sub>2</sub>O<sub>3</sub> + 3 CO → 2 Fe + 3 CO<sub>2</sub> (Binas tabel 57A)",
+   "answers": {
+    "a": "–0,25·10<sup>5</sup> J",
+    "b": "+19,80·10<sup>5</sup> J",
+    "c": "–19,80·10<sup>5</sup> J",
+    "d": "+0,25·10<sup>5</sup> J"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "De vormingswarmte van water is –2,86·10<sup>5</sup> J/mol. Wat is de reactiewarmte van 2 H<sub>2</sub>O(l) → 2 H<sub>2</sub> + O<sub>2</sub>?",
+   "answers": {
+    "a": "–5,72·10<sup>5</sup> J",
+    "b": "+2,86·10<sup>5</sup> J",
+    "c": "+5,72·10<sup>5</sup> J",
+    "d": "–2,86·10<sup>5</sup> J"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de verbrandingswarmte van ethanol(l)? (Binas tabel 56)",
+   "answers": {
+    "a": "+13,66·10<sup>5</sup> J/mol",
+    "b": "–22,19·10<sup>5</sup> J/mol",
+    "c": "–13,66·10<sup>5</sup> J/mol",
+    "d": "–7,26·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel warmte komt vrij bij de verbranding van 2,0 mol propaan? (Binas tabel 56)",
+   "answers": {
+    "a": "4,4·10<sup>5</sup> J",
+    "b": "2,2·10<sup>6</sup> J",
+    "c": "4,4·10<sup>6</sup> J",
+    "d": "8,9·10<sup>5</sup> J"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel warmte komt vrij bij de verbranding van 10 g methaan? (M = 16,04 g/mol; Binas tabel 56)",
+   "answers": {
+    "a": "8,90·10<sup>5</sup> J",
+    "b": "5,5·10<sup>5</sup> J",
+    "c": "1,4·10<sup>5</sup> J",
+    "d": "89·10<sup>5</sup> J"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is activeringsenergie?",
+   "answers": {
+    "a": "de energie van de producten",
+    "b": "de energie die bij de reactie vrijkomt",
+    "c": "het verschil in energie tussen producten en beginstoffen",
+    "d": "de minimale energie die nodig is om een reactie te laten starten"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat gebeurt er met de activeringsenergie als je een katalysator toevoegt?",
+   "answers": {
+    "a": "die blijft gelijk",
+    "b": "die wordt nul",
+    "c": "die wordt lager",
+    "d": "die wordt hoger"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat gebeurt er met de reactiewarmte als je een katalysator toevoegt?",
+   "answers": {
+    "a": "die verandert van teken",
+    "b": "die wordt kleiner",
+    "c": "die wordt groter",
+    "d": "die blijft gelijk"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In een energiediagram liggen de producten hoger dan de beginstoffen. Wat is de reactie?",
+   "answers": {
+    "a": "een verbranding",
+    "b": "een katalyse",
+    "c": "exotherm",
+    "d": "endotherm"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de activeringsenergie in een energiediagram?",
+   "answers": {
+    "a": "het verschil tussen de producten en de beginstoffen",
+    "b": "het verschil tussen de top en het niveau van de beginstoffen",
+    "c": "het niveau van de top",
+    "d": "het niveau van de producten"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarom verloopt een reactie sneller bij hogere temperatuur?",
+   "answers": {
+    "a": "de activeringsenergie wordt lager",
+    "b": "meer botsingen hebben genoeg energie om te reageren",
+    "c": "de reactiewarmte wordt groter",
+    "d": "de beginstoffen worden zwaarder"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat kost energie bij een reactie?",
+   "answers": {
+    "a": "de reactiewarmte",
+    "b": "een katalysator toevoegen",
+    "c": "bindingen in de beginstoffen verbreken",
+    "d": "bindingen in de producten vormen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Methaan en zuurstof reageren niet zonder vonk, ook al is de reactie exotherm. Wat is de reden?",
+   "answers": {
+    "a": "de reactiewarmte is nul",
+    "b": "de reactie is endotherm",
+    "c": "de activeringsenergie moet eerst worden geleverd",
+    "d": "methaan is een element"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Hoeveel warmte is nodig om 250 g water 10 K op te warmen? (c = 4,18 J/(g·K))",
+   "answers": {
+    "a": "1,0·10<sup>3</sup> J",
+    "b": "1,0·10<sup>4</sup> J",
+    "c": "2,5·10<sup>3</sup> J",
+    "d": "10,4 J"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

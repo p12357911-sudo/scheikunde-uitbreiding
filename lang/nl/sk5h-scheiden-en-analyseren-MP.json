@@ -1,0 +1,339 @@
+{
+ "title": "Scheiden en analyseren - 123 school",
+ "heading": "Scheiden en analyseren",
+ "intro": [
+  "Kies bij elke vraag het juiste antwoord. Waar Binas wordt genoemd, zoek je de gegevens op in de genoemde tabel. Gebruik waar nodig een rekenmachine."
+ ],
+ "questions": [
+  {
+   "question": "Welke scheidingsmethode gebruik je om zand uit water te halen?",
+   "answers": {
+    "a": "destilleren",
+    "b": "indampen",
+    "c": "magnetisch scheiden",
+    "d": "filtreren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke scheidingsmethode gebruik je om zuiver water uit zeewater te krijgen?",
+   "answers": {
+    "a": "filtreren",
+    "b": "bezinken",
+    "c": "chromatografie",
+    "d": "destilleren"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarop berust destilleren?",
+   "answers": {
+    "a": "verschil in dichtheid",
+    "b": "verschil in oplosbaarheid",
+    "c": "verschil in deeltjesgrootte",
+    "d": "verschil in kookpunt"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarop berust filtreren?",
+   "answers": {
+    "a": "verschil in kookpunt",
+    "b": "verschil in deeltjesgrootte",
+    "c": "verschil in smeltpunt",
+    "d": "verschil in lading"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarop berust extraheren?",
+   "answers": {
+    "a": "verschil in dichtheid",
+    "b": "verschil in magnetisme",
+    "c": "verschil in oplosbaarheid",
+    "d": "verschil in kookpunt"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Waarop berust bezinken?",
+   "answers": {
+    "a": "verschil in dichtheid",
+    "b": "verschil in oplosbaarheid",
+    "c": "verschil in kookpunt",
+    "d": "verschil in kleur"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Je wilt de kleurstof uit een oplossing halen met actieve kool. Hoe heet dat?",
+   "answers": {
+    "a": "adsorberen",
+    "b": "indampen",
+    "c": "destilleren",
+    "d": "filtreren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat blijft er over als je zout water indampt?",
+   "answers": {
+    "a": "zout",
+    "b": "water",
+    "c": "niets",
+    "d": "zout water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Hoe scheid je ijzervijlsel van zand?",
+   "answers": {
+    "a": "met een filter",
+    "b": "met een centrifuge",
+    "c": "met een kookplaat",
+    "d": "met een magneet"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Een suspensie is een mengsel van …",
+   "answers": {
+    "a": "twee gassen",
+    "b": "een gas en een vloeistof",
+    "c": "een vaste stof en een vloeistof",
+    "d": "twee vloeistoffen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is een zuivere stof?",
+   "answers": {
+    "a": "een stof die oplost in water",
+    "b": "een stof zonder kleur en geur",
+    "c": "een stof met steeds dezelfde eigenschappen, zoals een vast smeltpunt",
+    "d": "een mengsel van twee stoffen"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat doet een centrifuge?",
+   "answers": {
+    "a": "mengsels scheiden door snel te draaien",
+    "b": "mengsels koelen",
+    "c": "mengsels filtreren met een papieren filter",
+    "d": "mengsels verwarmen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvoor gebruik je chromatografie?",
+   "answers": {
+    "a": "om een mengsel te verwarmen",
+    "b": "om de massa van een stof te bepalen",
+    "c": "om stoffen in een mengsel te scheiden en te herkennen",
+    "d": "om de temperatuur van een mengsel te meten"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de stationaire fase bij papierchromatografie?",
+   "answers": {
+    "a": "het mengsel",
+    "b": "het papier",
+    "c": "de loopvloeistof",
+    "d": "de damp"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de mobiele fase bij papierchromatografie?",
+   "answers": {
+    "a": "het potlood",
+    "b": "het beginstreepje",
+    "c": "de loopvloeistof",
+    "d": "het papier"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In welke Binas-tabel staat chromatografie?",
+   "answers": {
+    "a": "tabel 98",
+    "b": "tabel 37G",
+    "c": "tabel 45A",
+    "d": "tabel 37F"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoe teken je het beginstreepje bij papierchromatografie?",
+   "answers": {
+    "a": "met potlood",
+    "b": "met een viltstift",
+    "c": "met een stift",
+    "d": "met een pen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de formule voor de Rf-waarde?",
+   "answers": {
+    "a": "Rf = afstand stof / afstand loopvloeistof",
+    "b": "Rf = afstand stof × afstand loopvloeistof",
+    "c": "Rf = afstand stof − afstand loopvloeistof",
+    "d": "Rf = afstand loopvloeistof / afstand stof"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Een stof legt 3,0 cm af en de loopvloeistof 6,0 cm. Wat is de Rf-waarde?",
+   "answers": {
+    "a": "3,0",
+    "b": "2,0",
+    "c": "0,50",
+    "d": "18"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een stof legt 2,4 cm af en de loopvloeistof 8,0 cm. Wat is de Rf-waarde?",
+   "answers": {
+    "a": "5,6",
+    "b": "19",
+    "c": "0,30",
+    "d": "3,3"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Een stof heeft Rf = 0,40 en de loopvloeistof is 10,0 cm gelopen. Hoe ver is de stof gekomen?",
+   "answers": {
+    "a": "0,040 cm",
+    "b": "10,4 cm",
+    "c": "4,0 cm",
+    "d": "25 cm"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke Rf-waarde kan niet voorkomen?",
+   "answers": {
+    "a": "1,4",
+    "b": "1,0",
+    "c": "0,5",
+    "d": "0,0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Twee vlekjes hebben op hetzelfde papier dezelfde Rf-waarde. Wat betekent dat waarschijnlijk?",
+   "answers": {
+    "a": "de stof is nog niet opgelost",
+    "b": "het is dezelfde stof",
+    "c": "het zijn twee verschillende stoffen",
+    "d": "het papier is te droog"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Op een chromatogram van een inktmengsel zie je drie vlekjes. Wat betekent dat?",
+   "answers": {
+    "a": "de inkt is zuiver",
+    "b": "de inkt bestaat uit één stof",
+    "c": "de inkt is niet opgelost",
+    "d": "de inkt bevat minstens drie stoffen"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is een ijklijn?",
+   "answers": {
+    "a": "een lijn op een maatcilinder",
+    "b": "een grafiek van de temperatuur tegen de tijd",
+    "c": "een lijn die de pH aangeeft",
+    "d": "een grafiek van een meetwaarde tegen de bekende concentratie"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Waarvoor gebruik je een ijklijn?",
+   "answers": {
+    "a": "om de massa van een stof te berekenen",
+    "b": "om een onbekende concentratie af te lezen",
+    "c": "om de pH van een zuur te meten",
+    "d": "om een mengsel te scheiden"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Voor een ijklijn meet je de extinctie van oplossingen met bekende concentratie. Wat zet je op de horizontale as?",
+   "answers": {
+    "a": "de concentratie",
+    "b": "de tijd",
+    "c": "de extinctie",
+    "d": "het volume"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is titreren?",
+   "answers": {
+    "a": "een vaste stof filtreren",
+    "b": "een oplossing met bekende concentratie toevoegen tot de reactie precies compleet is",
+    "c": "een stof wegen op een balans",
+    "d": "een mengsel verwarmen tot het kookt"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Waarvoor dient een buret bij een titratie?",
+   "answers": {
+    "a": "druppelsgewijs toevoegen en het toegevoegde volume aflezen",
+    "b": "het mengsel verwarmen",
+    "c": "de pH meten zonder indicator",
+    "d": "het mengsel filtreren"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Waarvoor gebruik je een indicator bij een titratie?",
+   "answers": {
+    "a": "om de oplossing te filtreren",
+    "b": "om het mengsel te verwarmen",
+    "c": "om het volume te meten",
+    "d": "om de kleuromslag te zien als de reactie compleet is"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Hoeveel mol is er aanwezig in 20,0 mL van een oplossing met c = 0,100 mol/L?",
+   "answers": {
+    "a": "2,00 mol",
+    "b": "2,00·10<sup>-3</sup> mol",
+    "c": "5,00 mol",
+    "d": "5,00·10<sup>-3</sup> mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Voor 25,0 mL HCl is 20,0 mL 0,100 mol/L NaOH nodig (HCl + NaOH → NaCl + H<sub>2</sub>O). Wat is c(HCl)?",
+   "answers": {
+    "a": "0,125 mol/L",
+    "b": "0,0800 mol/L",
+    "c": "0,100 mol/L",
+    "d": "0,0200 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Voor 10,0 mL NaOH is 15,0 mL 0,200 mol/L HCl nodig (HCl + NaOH → NaCl + H<sub>2</sub>O). Wat is c(NaOH)?",
+   "answers": {
+    "a": "0,133 mol/L",
+    "b": "0,300 mol/L",
+    "c": "3,00·10<sup>-3</sup> mol/L",
+    "d": "0,200 mol/L"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

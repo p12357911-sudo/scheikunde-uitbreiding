@@ -1,0 +1,118 @@
+{
+ "title": "Yield and atom economy - 123 school",
+ "heading": "Yield and atom economy",
+ "intro": [
+  "These questions are about excess, yield, atom economy and the E-factor.",
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is a limiting reactant?",
+   "a": "The starting substance that is used up first; it determines how much product is formed"
+  },
+  {
+   "q": "What is a substance in excess?",
+   "a": "A starting substance of which some is left after the reaction"
+  },
+  {
+   "q": "How do you determine which substance is limiting?",
+   "a": "Convert the amounts to moles and compare them with the mole ratio in the reaction equation"
+  },
+  {
+   "q": "You have 2.0 mol H<sub>2</sub> and 2.0 mol O<sub>2</sub> for 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O. Which substance is limiting and how many moles of water form?",
+   "a": "H<sub>2</sub> is limiting (1.0 mol O<sub>2</sub> is needed); 2.0 mol H<sub>2</sub>O forms"
+  },
+  {
+   "q": "Zn + 2 HCl → ZnCl<sub>2</sub> + H<sub>2</sub>. You have 0.100 mol Zn and 0.50 mol HCl. Which substance is in excess and how many moles of H<sub>2</sub> form?",
+   "a": "HCl is in excess (only 0.20 mol is needed); 0.100 mol H<sub>2</sub> forms"
+  },
+  {
+   "q": "What is the theoretical yield?",
+   "a": "The amount of product you would get if all of the limiting reactant is converted without any loss"
+  },
+  {
+   "q": "Give the formula for the yield (BINAS table 37H)",
+   "a": "Yield = (actual yield / theoretical yield) × 100%"
+  },
+  {
+   "q": "Why is the yield of a reaction in practice usually lower than 100%?",
+   "a": "Because of losses (for example during filtering), side reactions and incomplete conversion (equilibrium)"
+  },
+  {
+   "q": "The theoretical yield is 25.0 g and you obtain 20.0 g. Calculate the yield",
+   "a": "20.0 / 25.0 × 100% = 80.0%"
+  },
+  {
+   "q": "The theoretical yield is 50 g and the yield is 70%. How many grams of product do you obtain?",
+   "a": "0.70 × 50 = 35 g"
+  },
+  {
+   "q": "4.86 g of Mg reacts with excess oxygen: 2 Mg + O<sub>2</sub> → 2 MgO. Calculate the theoretical yield of MgO (M = 40.30 g/mol)",
+   "a": "n(Mg) = 4.86/24.31 = 0.200 mol; n(MgO) = 0.200 mol; mass = 0.200 × 40.30 = 8.06 g"
+  },
+  {
+   "q": "You obtain 7.25 g of MgO while the theoretical yield is 8.06 g. Calculate the yield",
+   "a": "7.25 / 8.06 × 100% = 90.0%"
+  },
+  {
+   "q": "Give the formula for atom economy (BINAS table 37H)",
+   "a": "Atom economy = (mass of the desired product according to the reaction equation / total mass of the starting substances according to the reaction equation) × 100%"
+  },
+  {
+   "q": "What does the atom economy tell you?",
+   "a": "What part of the mass of the starting substances ends up in the desired product"
+  },
+  {
+   "q": "What is the difference between yield and atom economy?",
+   "a": "Yield tells how much product you really get compared with theory; atom economy tells how much of the starting substances ends up in the desired product in principle, even if the reaction goes to completion"
+  },
+  {
+   "q": "What is the atom economy of an addition reaction, such as C<sub>2</sub>H<sub>4</sub> + H<sub>2</sub> → C<sub>2</sub>H<sub>6</sub>?",
+   "a": "100%, because all atoms of the starting substances are in the only product"
+  },
+  {
+   "q": "Calculate the atom economy for CaO from CaCO<sub>3</sub> → CaO + CO<sub>2</sub> (M: CaCO<sub>3</sub> 100.09, CaO 56.08 g/mol)",
+   "a": "56.08 / 100.09 × 100% = 56.0%"
+  },
+  {
+   "q": "Calculate the atom economy for ethanol in C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> → 2 C<sub>2</sub>H<sub>5</sub>OH + 2 CO<sub>2</sub> (M: glucose 180.16, ethanol 46.07 g/mol)",
+   "a": "2 × 46.07 / 180.16 × 100% = 51.1%"
+  },
+  {
+   "q": "Calculate the atom economy for Fe in Fe<sub>2</sub>O<sub>3</sub> + 3 CO → 2 Fe + 3 CO<sub>2</sub> (M: Fe<sub>2</sub>O<sub>3</sub> 159.69, CO 28.01, Fe 55.85 g/mol)",
+   "a": "2 × 55.85 / (159.69 + 3 × 28.01) × 100% = 45.8%"
+  },
+  {
+   "q": "What is the E-factor (BINAS table 37H)?",
+   "a": "The mass of waste per mass of desired product (E-factor = mass of waste / mass of product)"
+  },
+  {
+   "q": "Is a high or a low E-factor better for the environment?",
+   "a": "A low E-factor: less waste per kg of product"
+  },
+  {
+   "q": "In a process 5.0 kg of product and 20 kg of waste are formed. Calculate the E-factor",
+   "a": "20 / 5.0 = 4.0"
+  },
+  {
+   "q": "For 2.0 kg of product 10 kg of waste is formed. Calculate the E-factor",
+   "a": "10 / 2.0 = 5.0"
+  },
+  {
+   "q": "Name three principles of green chemistry",
+   "a": "For example: prevent waste, high atom economy, use catalysts, less hazardous substances, renewable raw materials, save energy"
+  },
+  {
+   "q": "In which BINAS table do you find the principles of green chemistry?",
+   "a": "Table 97F"
+  },
+  {
+   "q": "Why is a catalyst good for green chemistry?",
+   "a": "A catalyst makes reactions possible at a lower temperature (less energy) and is not used up"
+  },
+  {
+   "q": "Why is a closed cycle (reusing substances) good for green chemistry?",
+   "a": "Less raw material is lost and less waste is formed"
+  }
+ ]
+}

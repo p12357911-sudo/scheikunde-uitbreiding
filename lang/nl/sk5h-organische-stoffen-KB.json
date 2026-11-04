@@ -1,0 +1,130 @@
+{
+ "title": "Organische stoffen: namen en groepen - 123 school",
+ "heading": "Organische stoffen: namen en groepen",
+ "intro": [
+  "Deze vragen gaan over koolwaterstoffen, functionele groepen, namen en isomerie.",
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een koolwaterstof?",
+   "a": "Een stof waarvan de moleculen alleen uit C-atomen en H-atomen bestaan"
+  },
+  {
+   "q": "Wat is de algemene formule van alkanen (open keten)?",
+   "a": "C<sub>n</sub>H<sub>2n+2</sub>"
+  },
+  {
+   "q": "Wat is de algemene formule van alkenen (open keten) en wat is kenmerkend voor een alkeen?",
+   "a": "C<sub>n</sub>H<sub>2n</sub>. Een alkeen heeft een dubbele binding C=C"
+  },
+  {
+   "q": "Wat zijn de namen van de eerste vier alkanen (1 tot en met 4 C-atomen)?",
+   "a": "Methaan, ethaan, propaan, butaan"
+  },
+  {
+   "q": "Welke stamnamen horen bij 5, 6, 7 en 8 C-atomen in de keten?",
+   "a": "Pent-, hex-, hept-, oct-"
+  },
+  {
+   "q": "Geef de molecuulformule van hexaan",
+   "a": "C<sub>6</sub>H<sub>14</sub>"
+  },
+  {
+   "q": "Geef de molecuulformule van propeen",
+   "a": "C<sub>3</sub>H<sub>6</sub>"
+  },
+  {
+   "q": "Wat is de functionele groep van een alcohol en welk achtervoegsel hoort erbij?",
+   "a": "De hydroxylgroep –OH; achtervoegsel -ol"
+  },
+  {
+   "q": "Wat is de functionele groep van een carbonzuur en welk achtervoegsel hoort erbij?",
+   "a": "De carboxylgroep –COOH; achtervoegsel -zuur (bijvoorbeeld ethaanzuur)"
+  },
+  {
+   "q": "Wat is het verschil tussen een aldehyde en een keton?",
+   "a": "Bij een aldehyde zit de C=O groep aan het uiteinde van de keten (–CHO), bij een keton midden in de keten"
+  },
+  {
+   "q": "Welke functionele groep heeft een amine?",
+   "a": "De aminogroep –NH<sub>2</sub>"
+  },
+  {
+   "q": "Uit welke twee soorten stoffen ontstaat een ester?",
+   "a": "Uit een alcohol en een carbonzuur (onder afsplitsing van water)"
+  },
+  {
+   "q": "Geef de reactievergelijking in woorden voor de vorming van een ester",
+   "a": "Alcohol + carbonzuur ⇌ ester + water"
+  },
+  {
+   "q": "Welke functionele groep zit in een ester?",
+   "a": "–COO– (de estergroep)"
+  },
+  {
+   "q": "Geef de naam van CH<sub>3</sub>–CH<sub>2</sub>–OH",
+   "a": "Ethanol"
+  },
+  {
+   "q": "Geef de naam van CH<sub>3</sub>–COOH",
+   "a": "Ethaanzuur (azijnzuur)"
+  },
+  {
+   "q": "Geef de naam van CH<sub>3</sub>–CO–CH<sub>3</sub>",
+   "a": "Propanon"
+  },
+  {
+   "q": "Geef de naam van CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CHO",
+   "a": "Butanal"
+  },
+  {
+   "q": "Geef de naam van de ester die ontstaat uit methanol en propaanzuur",
+   "a": "Methylpropanoaat"
+  },
+  {
+   "q": "Wat is de naam van een zijketen met 1 C-atoom, –CH<sub>3</sub>?",
+   "a": "Methyl"
+  },
+  {
+   "q": "Wat zijn isomeren?",
+   "a": "Stoffen met dezelfde molecuulformule maar een verschillende structuurformule"
+  },
+  {
+   "q": "Teken of beschrijf twee isomeren van C<sub>4</sub>H<sub>10</sub>",
+   "a": "Butaan (CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CH<sub>3</sub>) en 2-methylpropaan (CH<sub>3</sub>–CH(CH<sub>3</sub>)–CH<sub>3</sub>)"
+  },
+  {
+   "q": "Hoeveel isomeren heeft pentaan, C<sub>5</sub>H<sub>12</sub>?",
+   "a": "Drie: pentaan, 2-methylbutaan en 2,2-dimethylpropaan"
+  },
+  {
+   "q": "Noem twee isomeren met molecuulformule C<sub>3</sub>H<sub>8</sub>O die allebei een alcohol zijn",
+   "a": "Propan-1-ol en propan-2-ol"
+  },
+  {
+   "q": "Waarom heeft ethanol een veel hoger kookpunt dan ethaan?",
+   "a": "Tussen ethanolmoleculen zitten waterstofbruggen (via de –OH groep), tussen ethaanmoleculen alleen zwakke vanderwaalskrachten"
+  },
+  {
+   "q": "Waarom stijgt het kookpunt van de alkanen met de lengte van de keten?",
+   "a": "Grotere moleculen hebben sterkere vanderwaalskrachten"
+  },
+  {
+   "q": "Hoe kun je met broomwater een alkaan van een alkeen onderscheiden?",
+   "a": "Een alkeen ontkleurt broomwater (additie), een alkaan niet"
+  },
+  {
+   "q": "Welk reactietype is de reactie van een alkeen met broom?",
+   "a": "Additie"
+  },
+  {
+   "q": "Wat is een verzadigde koolwaterstof?",
+   "a": "Een koolwaterstof met alleen enkelvoudige bindingen tussen de C-atomen (bijvoorbeeld een alkaan)"
+  },
+  {
+   "q": "Geef de reactievergelijking van de volledige verbranding van methaan",
+   "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O"
+  }
+ ]
+}

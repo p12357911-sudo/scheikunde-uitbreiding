@@ -86,7 +86,7 @@ def vergelijk(a, c):
             else: delen.append(f'  {k}\n    orig: {str(a[k])[:3000]}\n    nieuw: {str(c.get(k))[:3000]}')
     return delen
 
-_NIEUW4T = ('sk4t-productonderzoek', 'sk4t-productieprocessen', 'sk4t-drill-', 'sk6v-')
+_NIEUW4T = ('sk4t-productonderzoek', 'sk4t-productieprocessen', 'sk4t-drill-', 'sk6v-', 'sk5h-')
 
 def main():
     man = json.load(open(os.path.join(ROOT, 'tools/manifest.json')))['pagina']
@@ -120,9 +120,10 @@ def main():
                 c['links'] = [l for l in c['links'] if 'sk4h-soorten-stoffen' not in l and not any(x in l for x in _NIEUW4T)]
                 c['sec'] = {k: v.replace(' Soorten stoffen', '', 1).replace('Proefversie scheikunde-uitbreiding', 'Proefversie') for k, v in c['sec'].items()}
                 # bewust (uitbreidingssite): nieuwe menu-items in de NaSk2-lijst (leerjaar 4 vmbo)
-                for _t in ('Productonderzoek', 'Productieprocessen', 'Drill: begrippen', 'Drill: rekenen', 'Drill: Binas opzoeken', 'Chemisch evenwicht 1', 'Chemisch evenwicht 2', 'Zuur-base-evenwichten', 'Koolstofchemie', 'Drill: Binas en evenwichten'):
+                for _t in ('Productonderzoek', 'Productieprocessen', 'Drill: begrippen', 'Drill: rekenen', 'Drill: Binas opzoeken', 'Chemisch evenwicht 1', 'Chemisch evenwicht 2', 'Zuur-base-evenwichten', 'Koolstofchemie', 'Drill: Binas en evenwichten', 'Kunststoffen MP', 'Drill: Binas 1', 'Drill: Binas 2', 'Organische stoffen', 'Energie bij reacties', 'Rendement en atoomeconomie', 'Scheiden en analyseren'):
                     c['sec'] = {k: v.replace(' ' + _t, '', 1) for k, v in c['sec'].items()}
                 c['sec'] = {k: v.replace(' Leerjaar 6 Onderwerpen', '', 1) for k, v in c['sec'].items()}; c['kop'] = [h for h in c['kop'] if h != 'H2:Leerjaar 6']   # bewust (uitbreidingssite): extra kolom Leerjaar 6
+                c['sec'] = {k: v.replace('Redox KB', 'Redox').replace('Molecuulbouw KB', 'Molecuulbouw').replace('Kunststoffen KB', 'Kunststoffen') for k, v in c['sec'].items()}; c['links'] = [l.replace('Redox KB|', 'Redox|').replace('Molecuulbouw KB|', 'Molecuulbouw|').replace('Kunststoffen KB|', 'Kunststoffen|') for l in c['links'] if 'kunststoffenMP' not in l]   # bewust (uitbreidingssite): leerjaar-5-labels met KB en extra Kunststoffen MP
                 a['sec'].pop('contact'); cc = c['sec'].pop('contact')
                 a['links'] = [l for l in a['links'] if 'mailto:' not in l and l != 'Stuur ons een bericht|#contact']
                 c_links = [l for l in c['links'] if l != 'Stuur een bericht|'+FORM]

@@ -1,0 +1,134 @@
+{
+ "title": "Scheiden en analyseren - 123 school",
+ "heading": "Scheiden en analyseren",
+ "intro": [
+  "Deze vragen gaan over scheidingsmethoden, chromatografie, de Rf-waarde, de ijklijn en titreren.",
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een mengsel?",
+   "a": "Een product dat uit meer dan één zuivere stof bestaat"
+  },
+  {
+   "q": "Op welk verschil berust filtreren?",
+   "a": "Op het verschil in deeltjesgrootte: de vaste deeltjes blijven op het filter achter, de vloeistof loopt erdoor"
+  },
+  {
+   "q": "Welk mengsel scheid je door filtreren?",
+   "a": "Een suspensie, bijvoorbeeld zand en water"
+  },
+  {
+   "q": "Op welk verschil berust destilleren?",
+   "a": "Op het verschil in kookpunt: de stof met het laagste kookpunt verdampt het eerst"
+  },
+  {
+   "q": "Je wilt het zout uit zout water halen. Welke scheidingsmethode gebruik je?",
+   "a": "Indampen: het water verdampt en het zout blijft over"
+  },
+  {
+   "q": "Wat is het verschil tussen indampen en destilleren?",
+   "a": "Bij indampen gaat de verdampte stof verloren, bij destilleren wordt de damp weer vloeibaar gemaakt en opgevangen"
+  },
+  {
+   "q": "Op welk verschil berust extraheren?",
+   "a": "Op het verschil in oplosbaarheid: een stof lost beter op in het ene oplosmiddel dan in het andere"
+  },
+  {
+   "q": "Op welk verschil berust bezinken?",
+   "a": "Op het verschil in dichtheid: de zwaardere deeltjes zakken naar de bodem"
+  },
+  {
+   "q": "Wat is decanteren?",
+   "a": "Het voorzichtig afgieten van de vloeistof boven de bezonken vaste stof"
+  },
+  {
+   "q": "Wat doet een centrifuge?",
+   "a": "Hij laat een mengsel snel draaien, waardoor de zwaardere deeltjes sneller naar de bodem gaan"
+  },
+  {
+   "q": "Wat is adsorberen?",
+   "a": "Het aanhechten van deeltjes aan het oppervlak van een vaste stof, bijvoorbeeld van kleurstoffen aan actieve kool"
+  },
+  {
+   "q": "Hoe scheid je ijzervijlsel van zand?",
+   "a": "Met een magneet, want ijzer is magnetisch en zand niet"
+  },
+  {
+   "q": "Noem drie scheidingsmethoden",
+   "a": "Bijvoorbeeld filtreren, destilleren, indampen, extraheren, bezinken, adsorberen of chromatografie"
+  },
+  {
+   "q": "Waarvoor gebruik je chromatografie?",
+   "a": "Om de stoffen in een mengsel van elkaar te scheiden en te herkennen"
+  },
+  {
+   "q": "Wat zijn de mobiele en de stationaire fase bij chromatografie?",
+   "a": "De mobiele fase is de loopvloeistof die langs het papier omhoog loopt; de stationaire fase is het papier (of ander materiaal) dat blijft zitten"
+  },
+  {
+   "q": "Op welk verschil berust chromatografie?",
+   "a": "Op het verschil in hoe sterk de stoffen aan de stationaire fase hechten en hoe goed ze oplossen in de mobiele fase"
+  },
+  {
+   "q": "Waarom moet het beginstreepje bij papierchromatografie boven het laagje loopvloeistof liggen?",
+   "a": "Anders lossen de vlekjes op in de vloeistof in het bakje en lopen ze niet over het papier"
+  },
+  {
+   "q": "In welke Binas-tabel staat informatie over chromatografie?",
+   "a": "Tabel 37F"
+  },
+  {
+   "q": "Hoe bereken je de Rf-waarde van een stof?",
+   "a": "Rf = afstand die de stof heeft afgelegd / afstand die de loopvloeistof heeft afgelegd (beide gemeten vanaf de startlijn)"
+  },
+  {
+   "q": "Kan de Rf-waarde groter zijn dan 1? Leg uit",
+   "a": "Nee, want een stof kan niet verder komen dan de loopvloeistof"
+  },
+  {
+   "q": "Een stof legt 3,0 cm af, de loopvloeistof 6,0 cm. Bereken de Rf-waarde",
+   "a": "3,0 / 6,0 = 0,50"
+  },
+  {
+   "q": "Een stof heeft Rf = 0,40. De loopvloeistof is 10,0 cm gelopen. Hoe ver is de stof gekomen?",
+   "a": "0,40 × 10,0 = 4,0 cm"
+  },
+  {
+   "q": "Hoe herken je met chromatografie of twee stoffen hetzelfde zijn?",
+   "a": "Ze leggen onder dezelfde omstandigheden dezelfde afstand af (zelfde Rf-waarde) en staan dus op dezelfde hoogte"
+  },
+  {
+   "q": "Op een chromatogram heeft een onbekend mengsel twee vlekjes. Wat leid je daaruit af?",
+   "a": "Het mengsel bevat minstens twee verschillende stoffen"
+  },
+  {
+   "q": "Wat is een ijklijn?",
+   "a": "Een grafiek van een meetwaarde (bijvoorbeeld extinctie) tegen de concentratie, gemaakt met oplossingen waarvan de concentratie bekend is"
+  },
+  {
+   "q": "Waarvoor gebruik je een ijklijn?",
+   "a": "Om uit de meetwaarde van een onbekende oplossing de concentratie af te lezen"
+  },
+  {
+   "q": "Hoe gebruik je een ijklijn om een onbekende concentratie te bepalen?",
+   "a": "Meet de waarde van de onbekende oplossing, zoek die waarde op de verticale as, ga naar de lijn en lees op de horizontale as de concentratie af"
+  },
+  {
+   "q": "Wat is titreren?",
+   "a": "Een oplossing met bekende concentratie toevoegen aan een afgemeten hoeveelheid van een andere oplossing totdat de reactie precies compleet is"
+  },
+  {
+   "q": "Waarvoor gebruik je een indicator bij een titratie?",
+   "a": "Om aan de kleuromslag te zien wanneer de reactie precies compleet is"
+  },
+  {
+   "q": "Hoe bereken je het aantal mol uit een concentratie en een volume?",
+   "a": "n = c × V (volume in liter, concentratie in mol/L)"
+  },
+  {
+   "q": "Voor 25,0 mL HCl is 20,0 mL 0,100 mol/L NaOH nodig (HCl + NaOH → NaCl + H<sub>2</sub>O). Bereken de concentratie van het HCl",
+   "a": "n(NaOH) = 0,100 × 0,0200 = 2,00·10<sup>-3</sup> mol; n(HCl) is ook 2,00·10<sup>-3</sup> mol; c(HCl) = 2,00·10<sup>-3</sup> / 0,0250 = 0,0800 mol/L"
+  }
+ ]
+}

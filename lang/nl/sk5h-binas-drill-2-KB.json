@@ -1,0 +1,157 @@
+{
+ "title": "Drill: Binas opzoeken en rekenen 2 - 123 school",
+ "heading": "Drill: Binas opzoeken en rekenen 2",
+ "intro": [
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "In welke Binas-tabel vind je de standaardelektrodepotentialen?",
+   "a": "tabel 48"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de zuurconstanten (K<sub>z</sub>) van zuren?",
+   "a": "tabel 49"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de kleuren en omslagtrajecten van zuur-base-indicatoren?",
+   "a": "tabel 52A"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de vormingswarmten van anorganische stoffen?",
+   "a": "tabel 57A"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de verbrandingswarmten van stoffen?",
+   "a": "tabel 56"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de bindingsenergieën?",
+   "a": "tabel 58"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de formules voor atoomeconomie en rendement?",
+   "a": "tabel 37H"
+  },
+  {
+   "q": "In welke Binas-tabel vind je de numerieke voorvoegsels zoals mono-, di- en tri-?",
+   "a": "tabel 66C"
+  },
+  {
+   "q": "Is HCl een sterk of een zwak zuur? (Binas tabel 49)",
+   "a": "sterk: K<sub>z</sub> ≫ 1"
+  },
+  {
+   "q": "Is azijnzuur (CH<sub>3</sub>COOH) een sterk of een zwak zuur? (Binas tabel 49)",
+   "a": "zwak: K<sub>z</sub> = 1,7·10<sup>–5</sup>"
+  },
+  {
+   "q": "Welk zuur is het sterkst: HF, HCOOH of CH<sub>3</sub>COOH? (Binas tabel 49)",
+   "a": "HF"
+  },
+  {
+   "q": "Wat is K<sub>z</sub> van het ammoniumion, NH<sub>4</sub><sup>+</sup>? (Binas tabel 49)",
+   "a": "5,6·10<sup>–10</sup>"
+  },
+  {
+   "q": "Is NH<sub>3</sub> een sterke of een zwakke base? (Binas tabel 49)",
+   "a": "zwak: K<sub>b</sub> = 1,8·10<sup>–5</sup>"
+  },
+  {
+   "q": "Wat is het sterkste zuur in water: HNO<sub>3</sub>, HCN of H<sub>2</sub>S? (Binas tabel 49)",
+   "a": "HNO<sub>3</sub>"
+  },
+  {
+   "q": "Welke kleur heeft broomthymolblauw bij pH 4? (Binas tabel 52A)",
+   "a": "geel"
+  },
+  {
+   "q": "Welke kleur heeft fenolftaleïen bij pH 12? (Binas tabel 52A)",
+   "a": "paarsrood"
+  },
+  {
+   "q": "Welke kleur heeft methyloranje bij pH 2? (Binas tabel 52A)",
+   "a": "rood"
+  },
+  {
+   "q": "Wat is het omslagtraject van broomthymolblauw? (Binas tabel 52A)",
+   "a": "pH 6,0 – 7,6"
+  },
+  {
+   "q": "Een oplossing kleurt geel met broomthymolblauw en rood met methylrood. Wat weet je over de pH? (Binas tabel 52A)",
+   "a": "pH lager dan 4,8"
+  },
+  {
+   "q": "Welke indicator is het meest geschikt om te zien of een oplossing een pH lager of hoger dan 7 heeft? (Binas tabel 52A)",
+   "a": "broomthymolblauw (omslag pH 6,0 – 7,6)"
+  },
+  {
+   "q": "Welke stof is de sterkste oxidator: Ag<sup>+</sup>, Cu<sup>2+</sup> of Zn<sup>2+</sup>? (Binas tabel 48)",
+   "a": "Ag<sup>+</sup>"
+  },
+  {
+   "q": "Welke stof is de sterkste reductor: Zn, Cu of Ag? (Binas tabel 48)",
+   "a": "Zn"
+  },
+  {
+   "q": "Reageert zink met een oplossing van kopersulfaat? (Binas tabel 48)",
+   "a": "ja: Zn is een sterkere reductor dan Cu"
+  },
+  {
+   "q": "Reageert koper met een oplossing van zoutzuur (HCl)? (Binas tabel 48)",
+   "a": "nee: Cu is een zwakkere reductor dan H<sub>2</sub>"
+  },
+  {
+   "q": "Bereken de standaardspanning van een cel met Zn en Cu. Gebruik Binas tabel 48",
+   "a": "1,10 V"
+  },
+  {
+   "q": "Wat is de vormingswarmte van CO<sub>2</sub>(g)? (Binas tabel 57A)",
+   "a": "–3,935·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Wat is de vormingswarmte van H<sub>2</sub>O(l)? (Binas tabel 57A)",
+   "a": "–2,86·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Is de vorming van NO(g) uit stikstof en zuurstof exotherm of endotherm? (Binas tabel 57A)",
+   "a": "endotherm: de vormingswarmte is +0,913·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Bereken de reactiewarmte van 2 Mg + O<sub>2</sub> → 2 MgO met Binas tabel 57A",
+   "a": "–12,04·10<sup>5</sup> J"
+  },
+  {
+   "q": "Wat is de verbrandingswarmte van methaan? (Binas tabel 56)",
+   "a": "–8,90·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Welke stof geeft per mol de meeste warmte bij verbranding: methaan, ethaan of propaan? (Binas tabel 56)",
+   "a": "propaan"
+  },
+  {
+   "q": "Hoeveel warmte komt er vrij bij de verbranding van 2,00 mol methaan? (Binas tabel 56)",
+   "a": "17,8·10<sup>5</sup> J"
+  },
+  {
+   "q": "Welke binding is het sterkst: H–H, O=O of N≡N? (Binas tabel 58)",
+   "a": "N≡N"
+  },
+  {
+   "q": "Welke binding is sterker: een enkele C–C binding of een dubbele C=C binding? (Binas tabel 58)",
+   "a": "C=C"
+  },
+  {
+   "q": "Welk voorvoegsel hoort bij het getal 4? (Binas tabel 66C)",
+   "a": "tetra-"
+  },
+  {
+   "q": "Welk achtervoegsel hoort bij een alcohol? (Binas tabel 66D)",
+   "a": "-ol"
+  },
+  {
+   "q": "Welk achtervoegsel hoort bij een aldehyde? (Binas tabel 66D)",
+   "a": "-al"
+  }
+ ]
+}

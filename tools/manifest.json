@@ -1516,6 +1516,156 @@
    "br": 0,
    "opnieuw": false,
    "fixed": false
+  },
+  "sk5h-binas-drill-1-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk5h-binas-drill-1-KB",
+    "sk5h-binas-drill-1-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk5h-binas-drill-1-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk5h-binas-drill-1-KB",
+    "sk5h-binas-drill-1-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk5h-binas-drill-2-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk5h-binas-drill-2-KB",
+    "sk5h-binas-drill-2-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk5h-binas-drill-2-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk5h-binas-drill-2-KB",
+    "sk5h-binas-drill-2-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk5h-organische-stoffen-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk5h-organische-stoffen-KB",
+    "sk5h-organische-stoffen-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk5h-organische-stoffen-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk5h-organische-stoffen-KB",
+    "sk5h-organische-stoffen-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk5h-energie-bij-reacties-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk5h-energie-bij-reacties-KB",
+    "sk5h-energie-bij-reacties-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk5h-energie-bij-reacties-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk5h-energie-bij-reacties-KB",
+    "sk5h-energie-bij-reacties-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk5h-rendement-en-atoomeconomie-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk5h-rendement-en-atoomeconomie-KB",
+    "sk5h-rendement-en-atoomeconomie-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk5h-rendement-en-atoomeconomie-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk5h-rendement-en-atoomeconomie-KB",
+    "sk5h-rendement-en-atoomeconomie-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
+  },
+  "sk5h-scheiden-en-analyseren-KB": {
+   "soort": "kb",
+   "wissel": [
+    "sk5h-scheiden-en-analyseren-KB",
+    "sk5h-scheiden-en-analyseren-MP"
+   ],
+   "ai": false,
+   "vrij": "alle",
+   "opnieuw": true,
+   "opnieuw_wrap": "w3-container w3-padding-64 w3-center"
+  },
+  "sk5h-scheiden-en-analyseren-MP": {
+   "soort": "mp",
+   "wissel": [
+    "sk5h-scheiden-en-analyseren-KB",
+    "sk5h-scheiden-en-analyseren-MP"
+   ],
+   "ai": false,
+   "kop": "em",
+   "cont_id": "scheikunde",
+   "cont_class": "w3-container w3-padding-64 w3-center",
+   "br": 0,
+   "opnieuw": false,
+   "fixed": false
   }
  },
  "stubs": [

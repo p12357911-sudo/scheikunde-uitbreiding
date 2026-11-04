@@ -1,0 +1,309 @@
+{
+ "title": "Organic substances: names and groups - 123 school",
+ "heading": "Organic substances: names and groups",
+ "intro": [
+  "Choose the correct answer for each question. You may use BINAS tables 66C and 66D for names of organic substances."
+ ],
+ "questions": [
+  {
+   "question": "Which general formula belongs to open-chain alkanes?",
+   "answers": {
+    "a": "C<sub>n</sub>H<sub>2n+2</sub>",
+    "b": "C<sub>n</sub>H<sub>n</sub>",
+    "c": "C<sub>n</sub>H<sub>2n</sub>",
+    "d": "C<sub>n</sub>H<sub>2n–2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the molecular formula of heptane?",
+   "answers": {
+    "a": "C<sub>7</sub>H<sub>14</sub>",
+    "b": "C<sub>7</sub>H<sub>16</sub>",
+    "c": "C<sub>7</sub>H<sub>18</sub>",
+    "d": "C<sub>6</sub>H<sub>14</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the molecular formula of but-1-ene?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>6</sub>",
+    "b": "C<sub>4</sub>H<sub>10</sub>",
+    "c": "C<sub>3</sub>H<sub>8</sub>",
+    "d": "C<sub>4</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance is an alkene?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CH<sub>2</sub>–COOH",
+    "b": "CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CH<sub>3</sub>",
+    "c": "CH<sub>3</sub>–CH<sub>2</sub>–OH",
+    "d": "CH<sub>3</sub>–CH=CH–CH<sub>3</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CH<sub>3</sub>?",
+   "answers": {
+    "a": "pentane",
+    "b": "butane",
+    "c": "butene",
+    "d": "propane"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CH(CH<sub>3</sub>)–CH<sub>3</sub>?",
+   "answers": {
+    "a": "2-methylpropane",
+    "b": "1-methylpropane",
+    "c": "butane",
+    "d": "2-methylbutane"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CH=CH<sub>2</sub>?",
+   "answers": {
+    "a": "propane",
+    "b": "propanol",
+    "c": "propene",
+    "d": "propyne"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CH=CH–CH<sub>3</sub>?",
+   "answers": {
+    "a": "but-2-ene",
+    "b": "butane",
+    "c": "2-methylpropene",
+    "d": "but-1-ene"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–OH?",
+   "answers": {
+    "a": "propanal",
+    "b": "propanoic acid",
+    "c": "propan-1-ol",
+    "d": "propan-2-ol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CH(OH)–CH<sub>3</sub>?",
+   "answers": {
+    "a": "propanoic acid",
+    "b": "propan-2-ol",
+    "c": "propanone",
+    "d": "propan-1-ol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CH<sub>2</sub>–COOH?",
+   "answers": {
+    "a": "propanol",
+    "b": "ethanoic acid",
+    "c": "propanal",
+    "d": "propanoic acid"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of HCOOH?",
+   "answers": {
+    "a": "ethanoic acid",
+    "b": "methanal",
+    "c": "methanol",
+    "d": "methanoic acid"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CHO?",
+   "answers": {
+    "a": "butan-1-ol",
+    "b": "butanal",
+    "c": "butanoic acid",
+    "d": "butanone"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–CO–CH<sub>2</sub>–CH<sub>3</sub>?",
+   "answers": {
+    "a": "butanoic acid",
+    "b": "butan-2-ol",
+    "c": "butanal",
+    "d": "butanone"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the name of CH<sub>3</sub>–COO–CH<sub>3</sub>?",
+   "answers": {
+    "a": "methyl propanoate",
+    "b": "ethanoic acid",
+    "c": "ethyl methanoate",
+    "d": "methyl ethanoate"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which functional group is present in ethanol?",
+   "answers": {
+    "a": "the hydroxyl group –OH",
+    "b": "the ester group –COO–",
+    "c": "the amino group –NH<sub>2</sub>",
+    "d": "the carboxyl group –COOH"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which functional group is present in acetic acid?",
+   "answers": {
+    "a": "the carboxyl group –COOH",
+    "b": "the hydroxyl group –OH",
+    "c": "the amino group –NH<sub>2</sub>",
+    "d": "the ester group –COO–"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance has the amino group –NH<sub>2</sub>?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CH<sub>2</sub>–OH",
+    "b": "CH<sub>3</sub>–CH<sub>2</sub>–NH<sub>2</sub>",
+    "c": "CH<sub>3</sub>–CH<sub>2</sub>–COOH",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–CHO"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance is an ester?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CO–CH<sub>2</sub>–CH<sub>3</sub>",
+    "b": "CH<sub>3</sub>–O–CH<sub>2</sub>–CH<sub>3</sub>",
+    "c": "CH<sub>3</sub>–COO–CH<sub>2</sub>–CH<sub>3</sub>",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–COOH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance is an aldehyde?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CO–CH<sub>3</sub>",
+    "b": "CH<sub>3</sub>–COOH",
+    "c": "CH<sub>3</sub>–CH<sub>2</sub>–CHO",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–OH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which two substances react to form an ester?",
+   "answers": {
+    "a": "two alcohols",
+    "b": "an alcohol and a carboxylic acid",
+    "c": "an alkane and a carboxylic acid",
+    "d": "an aldehyde and an amine"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which ester is formed from ethanol and ethanoic acid?",
+   "answers": {
+    "a": "methyl ethanoate",
+    "b": "ethyl propanoate",
+    "c": "ethyl ethanoate",
+    "d": "ethyl methanoate"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which substance is an isomer of CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–OH?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CH(OH)–CH<sub>3</sub>",
+    "b": "CH<sub>3</sub>–CH<sub>2</sub>–COOH",
+    "c": "CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>3</sub>",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–CHO"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is an isomer of butane?",
+   "answers": {
+    "a": "pentane",
+    "b": "propane",
+    "c": "2-methylpropane",
+    "d": "but-1-ene"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What do isomers always have in common?",
+   "answers": {
+    "a": "the same molecular formula",
+    "b": "the same boiling points",
+    "c": "the same structural formula",
+    "d": "the same functional group"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is an isomer of ethanol, C<sub>2</sub>H<sub>6</sub>O?",
+   "answers": {
+    "a": "CH<sub>3</sub>–COOH",
+    "b": "CH<sub>3</sub>–O–CH<sub>3</sub>",
+    "c": "CH<sub>3</sub>–CHO",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–OH"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance has the highest boiling point: ethane, ethanol or ethanal?",
+   "answers": {
+    "a": "ethane",
+    "b": "they boil at the same temperature",
+    "c": "ethanal",
+    "d": "ethanol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What do you see when you shake an alkene with bromine water?",
+   "answers": {
+    "a": "a precipitate forms",
+    "b": "the bromine water stays brown",
+    "c": "the bromine water becomes colourless",
+    "d": "a gas forms"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What kind of reaction takes place when propene reacts with bromine?",
+   "answers": {
+    "a": "substitution",
+    "b": "addition",
+    "c": "combustion",
+    "d": "esterification"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What are the products of the complete combustion of propane?",
+   "answers": {
+    "a": "carbon dioxide and water",
+    "b": "carbon dioxide and hydrogen",
+    "c": "carbon monoxide and water",
+    "d": "carbon and hydrogen"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

@@ -1,0 +1,379 @@
+{
+ "title": "Drill: looking up data and calculating 2 - 123 school",
+ "heading": "Drill: looking up data and calculating 2",
+ "intro": [
+  "Each question tells you which BINAS table you need. Use a calculator where needed."
+ ],
+ "questions": [
+  {
+   "question": "In which BINAS table do you find the standard electrode potentials?",
+   "answers": {
+    "a": "table 49",
+    "b": "table 52",
+    "c": "table 46",
+    "d": "table 48"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In which BINAS table do you find the acid constants (K<sub>z</sub>) of acids?",
+   "answers": {
+    "a": "table 52",
+    "b": "table 49",
+    "c": "table 46",
+    "d": "table 48"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the colours and colour change ranges of acid-base indicators?",
+   "answers": {
+    "a": "table 49",
+    "b": "table 52B",
+    "c": "table 52A",
+    "d": "table 48"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which BINAS table do you find the heats of formation of inorganic substances?",
+   "answers": {
+    "a": "table 59A",
+    "b": "table 57A",
+    "c": "table 58",
+    "d": "table 56"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the heats of combustion of substances?",
+   "answers": {
+    "a": "table 60",
+    "b": "table 58",
+    "c": "table 56",
+    "d": "table 57"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which BINAS table do you find the bond energies?",
+   "answers": {
+    "a": "table 57",
+    "b": "table 58",
+    "c": "table 56",
+    "d": "table 60"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find the formulas for atom economy and yield?",
+   "answers": {
+    "a": "table 37F",
+    "b": "table 37H",
+    "c": "table 98",
+    "d": "table 37G"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "In which BINAS table do you find numerical prefixes such as mono-, di- and tri-?",
+   "answers": {
+    "a": "table 66E",
+    "b": "table 57",
+    "c": "table 66A",
+    "d": "table 66C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Is HCl a strong or a weak acid? (BINAS table 49)",
+   "answers": {
+    "a": "strong: K<sub>z</sub> ≫ 1",
+    "b": "weak: K<sub>z</sub> ≈ 10<sup>–10</sup>",
+    "c": "weak: K<sub>z</sub> ≈ 10<sup>–5</sup>",
+    "d": "it is a base"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is acetic acid (CH<sub>3</sub>COOH) a strong or a weak acid? (BINAS table 49)",
+   "answers": {
+    "a": "strong: K<sub>z</sub> ≫ 1",
+    "b": "weak: K<sub>z</sub> = 1.7·10<sup>–5</sup>",
+    "c": "strong: K<sub>z</sub> = 1.7·10<sup>–5</sup>",
+    "d": "it is a base"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which acid is the strongest: HF, HCOOH or CH<sub>3</sub>COOH? (BINAS table 49)",
+   "answers": {
+    "a": "they are equally strong",
+    "b": "HCOOH",
+    "c": "HF",
+    "d": "CH<sub>3</sub>COOH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is K<sub>z</sub> of the ammonium ion, NH<sub>4</sub><sup>+</sup>? (BINAS table 49)",
+   "answers": {
+    "a": "5.6·10<sup>–5</sup>",
+    "b": "1.8·10<sup>–5</sup>",
+    "c": "1.0·10<sup>–7</sup>",
+    "d": "5.6·10<sup>–10</sup>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Is NH<sub>3</sub> a strong or a weak base? (BINAS table 49)",
+   "answers": {
+    "a": "weak: K<sub>b</sub> = 1.8·10<sup>–5</sup>",
+    "b": "it is an acid",
+    "c": "strong: K<sub>b</sub> = 1.8·10<sup>–5</sup>",
+    "d": "strong: K<sub>b</sub> ≫ 1"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the strongest acid in water: HNO<sub>3</sub>, HCN or H<sub>2</sub>S? (BINAS table 49)",
+   "answers": {
+    "a": "they are equally strong",
+    "b": "HCN",
+    "c": "HNO<sub>3</sub>",
+    "d": "H<sub>2</sub>S"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What colour does bromothymol blue have at pH 4? (BINAS table 52A)",
+   "answers": {
+    "a": "yellow",
+    "b": "blue",
+    "c": "red",
+    "d": "colourless"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What colour does phenolphthalein have at pH 12? (BINAS table 52A)",
+   "answers": {
+    "a": "purple-red",
+    "b": "blue",
+    "c": "yellow",
+    "d": "colourless"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What colour does methyl orange have at pH 2? (BINAS table 52A)",
+   "answers": {
+    "a": "orange-yellow",
+    "b": "blue",
+    "c": "red",
+    "d": "colourless"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the colour change range of bromothymol blue? (BINAS table 52A)",
+   "answers": {
+    "a": "pH 8.2 – 10.0",
+    "b": "pH 1.2 – 2.8",
+    "c": "pH 6.0 – 7.6",
+    "d": "pH 3.2 – 4.4"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A solution turns yellow with bromothymol blue and red with methyl red. What do you know about the pH? (BINAS table 52A)",
+   "answers": {
+    "a": "pH exactly 7",
+    "b": "pH higher than 7.6",
+    "c": "pH between 6.0 and 7.6",
+    "d": "pH lower than 4.8"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which indicator is the most suitable to see whether a solution has a pH lower or higher than 7? (BINAS table 52A)",
+   "answers": {
+    "a": "bromothymol blue (changes at pH 6.0 – 7.6)",
+    "b": "methyl orange (changes at pH 3.2 – 4.4)",
+    "c": "methyl red (changes at pH 4.8 – 6.0)",
+    "d": "thymolphthalein (changes at pH 9.4 – 10.6)"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which substance is the strongest oxidising agent: Ag<sup>+</sup>, Cu<sup>2+</sup> or Zn<sup>2+</sup>? (BINAS table 48)",
+   "answers": {
+    "a": "Zn<sup>2+</sup>",
+    "b": "Ag<sup>+</sup>",
+    "c": "Cu<sup>2+</sup>",
+    "d": "they are equally strong"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which substance is the strongest reducing agent: Zn, Cu or Ag? (BINAS table 48)",
+   "answers": {
+    "a": "Ag",
+    "b": "they are equally strong",
+    "c": "Zn",
+    "d": "Cu"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Does zinc react with a solution of copper sulfate? (BINAS table 48)",
+   "answers": {
+    "a": "yes: Zn is a stronger oxidising agent than Cu",
+    "b": "yes: Zn is a stronger reducing agent than Cu",
+    "c": "no: Cu is a stronger reducing agent than Zn",
+    "d": "no: Zn<sup>2+</sup> is a stronger oxidising agent than Cu<sup>2+</sup>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Does copper react with a solution of hydrochloric acid (HCl)? (BINAS table 48)",
+   "answers": {
+    "a": "yes: Cl<sub>2</sub> is formed",
+    "b": "no: Cu is a stronger reducing agent than H<sub>2</sub>",
+    "c": "no: Cu is a weaker reducing agent than H<sub>2</sub>",
+    "d": "yes: H<sub>2</sub> is formed"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the standard voltage of a cell with Zn and Cu. Use BINAS table 48",
+   "answers": {
+    "a": "0.42 V",
+    "b": "0.34 V",
+    "c": "–1.10 V",
+    "d": "1.10 V"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the heat of formation of CO<sub>2</sub>(g)? (BINAS table 57A)",
+   "answers": {
+    "a": "–3.935·10<sup>5</sup> J/mol",
+    "b": "+3.935·10<sup>5</sup> J/mol",
+    "c": "–1.105·10<sup>5</sup> J/mol",
+    "d": "–2.86·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the heat of formation of H<sub>2</sub>O(l)? (BINAS table 57A)",
+   "answers": {
+    "a": "+2.86·10<sup>5</sup> J/mol",
+    "b": "–2.86·10<sup>5</sup> J/mol",
+    "c": "0 J/mol",
+    "d": "–2.42·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Is the formation of NO(g) from nitrogen and oxygen exothermic or endothermic? (BINAS table 57A)",
+   "answers": {
+    "a": "exothermic: the heat of formation is +0.913·10<sup>5</sup> J/mol",
+    "b": "endothermic: the heat of formation is +0.913·10<sup>5</sup> J/mol",
+    "c": "exothermic: the heat of formation is –0.913·10<sup>5</sup> J/mol",
+    "d": "endothermic: the heat of formation is 0 J/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Calculate the heat of reaction of 2 Mg + O<sub>2</sub> → 2 MgO using BINAS table 57A",
+   "answers": {
+    "a": "–6.02·10<sup>5</sup> J",
+    "b": "+12.04·10<sup>5</sup> J",
+    "c": "–3.01·10<sup>5</sup> J",
+    "d": "–12.04·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the heat of combustion of methane? (BINAS table 56)",
+   "answers": {
+    "a": "–15.59·10<sup>5</sup> J/mol",
+    "b": "+8.90·10<sup>5</sup> J/mol",
+    "c": "–0.75·10<sup>5</sup> J/mol",
+    "d": "–8.90·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which substance gives the most heat per mole on combustion: methane, ethane or propane? (BINAS table 56)",
+   "answers": {
+    "a": "propane",
+    "b": "ethane",
+    "c": "methane",
+    "d": "they give the same"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How much heat is released when 2.00 mol of methane burns? (BINAS table 56)",
+   "answers": {
+    "a": "17.8·10<sup>5</sup> J",
+    "b": "1.50·10<sup>5</sup> J",
+    "c": "8.90·10<sup>5</sup> J",
+    "d": "4.45·10<sup>5</sup> J"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which bond is the strongest: H–H, O=O or N≡N? (BINAS table 58)",
+   "answers": {
+    "a": "N≡N",
+    "b": "they are equally strong",
+    "c": "H–H",
+    "d": "O=O"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which bond is stronger: a single C–C bond or a double C=C bond? (BINAS table 58)",
+   "answers": {
+    "a": "C–C",
+    "b": "that is not in BINAS",
+    "c": "they are equally strong",
+    "d": "C=C"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which prefix belongs to the number 4? (BINAS table 66C)",
+   "answers": {
+    "a": "tri-",
+    "b": "hexa-",
+    "c": "tetra-",
+    "d": "penta-"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which suffix belongs to an alcohol? (BINAS table 66D)",
+   "answers": {
+    "a": "-ol",
+    "b": "-al",
+    "c": "-on",
+    "d": "-zuur"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Which suffix belongs to an aldehyde? (BINAS table 66D)",
+   "answers": {
+    "a": "-amine",
+    "b": "-on",
+    "c": "-ol",
+    "d": "-al"
+   },
+   "correctAnswer": "d"
+  }
+ ]
+}

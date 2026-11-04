@@ -1,0 +1,309 @@
+{
+ "title": "Organische stoffen: namen en groepen - 123 school",
+ "heading": "Organische stoffen: namen en groepen",
+ "intro": [
+  "Kies bij elke vraag het juiste antwoord. Binas tabel 66C en 66D mag je gebruiken bij namen van organische stoffen."
+ ],
+ "questions": [
+  {
+   "question": "Welke algemene formule hoort bij alkanen met open keten?",
+   "answers": {
+    "a": "C<sub>n</sub>H<sub>2n+2</sub>",
+    "b": "C<sub>n</sub>H<sub>n</sub>",
+    "c": "C<sub>n</sub>H<sub>2n</sub>",
+    "d": "C<sub>n</sub>H<sub>2n–2</sub>"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de molecuulformule van heptaan?",
+   "answers": {
+    "a": "C<sub>7</sub>H<sub>14</sub>",
+    "b": "C<sub>7</sub>H<sub>16</sub>",
+    "c": "C<sub>7</sub>H<sub>18</sub>",
+    "d": "C<sub>6</sub>H<sub>14</sub>"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de molecuulformule van but-1-een?",
+   "answers": {
+    "a": "C<sub>4</sub>H<sub>6</sub>",
+    "b": "C<sub>4</sub>H<sub>10</sub>",
+    "c": "C<sub>3</sub>H<sub>8</sub>",
+    "d": "C<sub>4</sub>H<sub>8</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke stof is een alkeen?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CH<sub>2</sub>–COOH",
+    "b": "CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CH<sub>3</sub>",
+    "c": "CH<sub>3</sub>–CH<sub>2</sub>–OH",
+    "d": "CH<sub>3</sub>–CH=CH–CH<sub>3</sub>"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CH<sub>3</sub>?",
+   "answers": {
+    "a": "pentaan",
+    "b": "butaan",
+    "c": "buteen",
+    "d": "propaan"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–CH(CH<sub>3</sub>)–CH<sub>3</sub>?",
+   "answers": {
+    "a": "2-methylpropaan",
+    "b": "1-methylpropaan",
+    "c": "butaan",
+    "d": "2-methylbutaan"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–CH=CH<sub>2</sub>?",
+   "answers": {
+    "a": "propaan",
+    "b": "propanol",
+    "c": "propeen",
+    "d": "propyn"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–CH=CH–CH<sub>3</sub>?",
+   "answers": {
+    "a": "but-2-een",
+    "b": "butaan",
+    "c": "2-methylpropeen",
+    "d": "but-1-een"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–OH?",
+   "answers": {
+    "a": "propanal",
+    "b": "propaanzuur",
+    "c": "propan-1-ol",
+    "d": "propan-2-ol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–CH(OH)–CH<sub>3</sub>?",
+   "answers": {
+    "a": "propaanzuur",
+    "b": "propan-2-ol",
+    "c": "propanon",
+    "d": "propan-1-ol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–CH<sub>2</sub>–COOH?",
+   "answers": {
+    "a": "propanol",
+    "b": "ethaanzuur",
+    "c": "propanal",
+    "d": "propaanzuur"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van HCOOH?",
+   "answers": {
+    "a": "ethaanzuur",
+    "b": "methanal",
+    "c": "methanol",
+    "d": "methaanzuur"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CHO?",
+   "answers": {
+    "a": "butan-1-ol",
+    "b": "butanal",
+    "c": "butaanzuur",
+    "d": "butanon"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–CO–CH<sub>2</sub>–CH<sub>3</sub>?",
+   "answers": {
+    "a": "butaanzuur",
+    "b": "butan-2-ol",
+    "c": "butanal",
+    "d": "butanon"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat is de naam van CH<sub>3</sub>–COO–CH<sub>3</sub>?",
+   "answers": {
+    "a": "methylpropanoaat",
+    "b": "ethaanzuur",
+    "c": "ethylmethanoaat",
+    "d": "methylethanoaat"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Welke functionele groep is aanwezig in ethanol?",
+   "answers": {
+    "a": "de hydroxylgroep –OH",
+    "b": "de estergroep –COO–",
+    "c": "de aminogroep –NH<sub>2</sub>",
+    "d": "de carboxylgroep –COOH"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke functionele groep is aanwezig in azijnzuur?",
+   "answers": {
+    "a": "de carboxylgroep –COOH",
+    "b": "de hydroxylgroep –OH",
+    "c": "de aminogroep –NH<sub>2</sub>",
+    "d": "de estergroep –COO–"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Bij welke stof hoort de aminogroep –NH<sub>2</sub>?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CH<sub>2</sub>–OH",
+    "b": "CH<sub>3</sub>–CH<sub>2</sub>–NH<sub>2</sub>",
+    "c": "CH<sub>3</sub>–CH<sub>2</sub>–COOH",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–CHO"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke stof is een ester?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CO–CH<sub>2</sub>–CH<sub>3</sub>",
+    "b": "CH<sub>3</sub>–O–CH<sub>2</sub>–CH<sub>3</sub>",
+    "c": "CH<sub>3</sub>–COO–CH<sub>2</sub>–CH<sub>3</sub>",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–COOH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stof is een aldehyde?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CO–CH<sub>3</sub>",
+    "b": "CH<sub>3</sub>–COOH",
+    "c": "CH<sub>3</sub>–CH<sub>2</sub>–CHO",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–OH"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke twee stoffen reageren tot een ester?",
+   "answers": {
+    "a": "twee alcoholen",
+    "b": "een alcohol en een carbonzuur",
+    "c": "een alkaan en een carbonzuur",
+    "d": "een aldehyde en een amine"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke ester ontstaat uit ethanol en ethaanzuur?",
+   "answers": {
+    "a": "methylethanoaat",
+    "b": "ethylpropanoaat",
+    "c": "ethylethanoaat",
+    "d": "ethylmethanoaat"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welke stof is een isomeer van CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–OH?",
+   "answers": {
+    "a": "CH<sub>3</sub>–CH(OH)–CH<sub>3</sub>",
+    "b": "CH<sub>3</sub>–CH<sub>2</sub>–COOH",
+    "c": "CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>3</sub>",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–CHO"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof is een isomeer van butaan?",
+   "answers": {
+    "a": "pentaan",
+    "b": "propaan",
+    "c": "2-methylpropaan",
+    "d": "but-1-een"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Wat hebben isomeren altijd gemeenschappelijk?",
+   "answers": {
+    "a": "dezelfde molecuulformule",
+    "b": "dezelfde kookpunten",
+    "c": "dezelfde structuurformule",
+    "d": "dezelfde functionele groep"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Welke stof is een isomeer van ethanol, C<sub>2</sub>H<sub>6</sub>O?",
+   "answers": {
+    "a": "CH<sub>3</sub>–COOH",
+    "b": "CH<sub>3</sub>–O–CH<sub>3</sub>",
+    "c": "CH<sub>3</sub>–CHO",
+    "d": "CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–OH"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Welke stof heeft het hoogste kookpunt: ethaan, ethanol of ethanal?",
+   "answers": {
+    "a": "ethaan",
+    "b": "ze koken bij dezelfde temperatuur",
+    "c": "ethanal",
+    "d": "ethanol"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Wat zie je als je een alkeen schudt met broomwater?",
+   "answers": {
+    "a": "er ontstaat een neerslag",
+    "b": "het broomwater blijft bruin",
+    "c": "het broomwater wordt kleurloos",
+    "d": "er ontstaat een gas"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Welk soort reactie vindt plaats als propeen met broom reageert?",
+   "answers": {
+    "a": "substitutie",
+    "b": "additie",
+    "c": "verbranding",
+    "d": "verestering"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Wat zijn de producten van de volledige verbranding van propaan?",
+   "answers": {
+    "a": "koolstofdioxide en water",
+    "b": "koolstofdioxide en waterstof",
+    "c": "koolstofmonoxide en water",
+    "d": "koolstof en waterstof"
+   },
+   "correctAnswer": "a"
+  }
+ ]
+}

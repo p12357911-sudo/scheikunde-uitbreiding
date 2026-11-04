@@ -1,0 +1,289 @@
+{
+ "title": "Energy in reactions - 123 school",
+ "heading": "Energy in reactions",
+ "intro": [
+  "Choose the correct answer for each question. Where BINAS is mentioned, look up the data in the table named. Use a calculator where needed."
+ ],
+ "questions": [
+  {
+   "question": "What does it mean if a reaction is exothermic?",
+   "answers": {
+    "a": "the reaction needs no activation energy",
+    "b": "energy is absorbed",
+    "c": "the reaction is always fast",
+    "d": "energy is released"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A reaction has a heat of reaction of +1.5·10<sup>5</sup> J. What holds?",
+   "answers": {
+    "a": "the reaction does not take place",
+    "b": "endothermic: energy is absorbed",
+    "c": "the reaction is a combustion",
+    "d": "exothermic: energy is released"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "When a substance dissolves in water the temperature drops. What is the dissolving?",
+   "answers": {
+    "a": "endothermic",
+    "b": "a catalysis",
+    "c": "a combustion",
+    "d": "exothermic"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "In which BINAS table do you find the heats of formation of inorganic substances?",
+   "answers": {
+    "a": "table 57A",
+    "b": "table 48",
+    "c": "table 58",
+    "d": "table 56"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the heat of formation of H<sub>2</sub>O(l)? (BINAS table 57A)",
+   "answers": {
+    "a": "–2.86·10<sup>5</sup> J/mol",
+    "b": "+2.86·10<sup>5</sup> J/mol",
+    "c": "–2.42·10<sup>5</sup> J/mol",
+    "d": "0 J/mol"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the heat of formation of Cl<sub>2</sub>(g)?",
+   "answers": {
+    "a": "–1.00·10<sup>5</sup> J/mol",
+    "b": "0 J/mol",
+    "c": "–3.935·10<sup>5</sup> J/mol",
+    "d": "+1.00·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Which formula gives the heat of reaction from heats of formation?",
+   "answers": {
+    "a": "Σ heat of formation of products + Σ heat of formation of starting substances",
+    "b": "Σ heat of formation of products – Σ heat of formation of starting substances",
+    "c": "Σ heat of formation of products × Σ heat of formation of starting substances",
+    "d": "Σ heat of formation of starting substances – Σ heat of formation of products"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Calculate the heat of reaction of 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O(l) (BINAS table 57A)",
+   "answers": {
+    "a": "+5.72·10<sup>5</sup> J",
+    "b": "–2.86·10<sup>5</sup> J",
+    "c": "–4.84·10<sup>5</sup> J",
+    "d": "–5.72·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the heat of reaction of N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> (BINAS table 57A)",
+   "answers": {
+    "a": "–0.459·10<sup>5</sup> J",
+    "b": "+0.918·10<sup>5</sup> J",
+    "c": "–0.918·10<sup>5</sup> J",
+    "d": "–1.377·10<sup>5</sup> J"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Calculate the heat of reaction of CaCO<sub>3</sub> → CaO + CO<sub>2</sub> (BINAS table 57A)",
+   "answers": {
+    "a": "+1.795·10<sup>5</sup> J",
+    "b": "–22.37·10<sup>5</sup> J",
+    "c": "–1.795·10<sup>5</sup> J",
+    "d": "+22.37·10<sup>5</sup> J"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Is the decomposition of CaCO<sub>3</sub> into CaO and CO<sub>2</sub> exothermic or endothermic? (BINAS table 57A)",
+   "answers": {
+    "a": "endothermic",
+    "b": "neither",
+    "c": "exothermic",
+    "d": "that depends on the catalyst"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate the heat of reaction of CaO + H<sub>2</sub>O(l) → Ca(OH)<sub>2</sub> (BINAS table 57A)",
+   "answers": {
+    "a": "–0.64·10<sup>5</sup> J",
+    "b": "–3.50·10<sup>5</sup> J",
+    "c": "–19.06·10<sup>5</sup> J",
+    "d": "+0.64·10<sup>5</sup> J"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Calculate the heat of reaction of 2 SO<sub>2</sub> + O<sub>2</sub> → 2 SO<sub>3</sub> (all gaseous; BINAS table 57A)",
+   "answers": {
+    "a": "–13.86·10<sup>5</sup> J",
+    "b": "–0.99·10<sup>5</sup> J",
+    "c": "+1.98·10<sup>5</sup> J",
+    "d": "–1.98·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the heat of reaction of 2 NO → N<sub>2</sub> + O<sub>2</sub> (BINAS table 57A)",
+   "answers": {
+    "a": "+1.826·10<sup>5</sup> J",
+    "b": "–0.913·10<sup>5</sup> J",
+    "c": "0 J",
+    "d": "–1.826·10<sup>5</sup> J"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Calculate the heat of reaction of Fe<sub>2</sub>O<sub>3</sub> + 3 CO → 2 Fe + 3 CO<sub>2</sub> (BINAS table 57A)",
+   "answers": {
+    "a": "–0.25·10<sup>5</sup> J",
+    "b": "+19.80·10<sup>5</sup> J",
+    "c": "–19.80·10<sup>5</sup> J",
+    "d": "+0.25·10<sup>5</sup> J"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "The heat of formation of water is –2.86·10<sup>5</sup> J/mol. What is the heat of reaction of 2 H<sub>2</sub>O(l) → 2 H<sub>2</sub> + O<sub>2</sub>?",
+   "answers": {
+    "a": "–5.72·10<sup>5</sup> J",
+    "b": "+2.86·10<sup>5</sup> J",
+    "c": "+5.72·10<sup>5</sup> J",
+    "d": "–2.86·10<sup>5</sup> J"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the heat of combustion of ethanol(l)? (BINAS table 56)",
+   "answers": {
+    "a": "+13.66·10<sup>5</sup> J/mol",
+    "b": "–22.19·10<sup>5</sup> J/mol",
+    "c": "–13.66·10<sup>5</sup> J/mol",
+    "d": "–7.26·10<sup>5</sup> J/mol"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How much heat is released when 2.0 mol of propane burns? (BINAS table 56)",
+   "answers": {
+    "a": "4.4·10<sup>5</sup> J",
+    "b": "2.2·10<sup>6</sup> J",
+    "c": "4.4·10<sup>6</sup> J",
+    "d": "8.9·10<sup>5</sup> J"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How much heat is released when 10 g of methane burns? (M = 16.04 g/mol; BINAS table 56)",
+   "answers": {
+    "a": "8.90·10<sup>5</sup> J",
+    "b": "5.5·10<sup>5</sup> J",
+    "c": "1.4·10<sup>5</sup> J",
+    "d": "89·10<sup>5</sup> J"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is activation energy?",
+   "answers": {
+    "a": "the energy of the products",
+    "b": "the energy released in the reaction",
+    "c": "the difference in energy between products and starting substances",
+    "d": "the minimum energy needed to start a reaction"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What happens to the activation energy if you add a catalyst?",
+   "answers": {
+    "a": "it stays the same",
+    "b": "it becomes zero",
+    "c": "it becomes lower",
+    "d": "it becomes higher"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What happens to the heat of reaction if you add a catalyst?",
+   "answers": {
+    "a": "it changes sign",
+    "b": "it becomes smaller",
+    "c": "it becomes larger",
+    "d": "it stays the same"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "In an energy diagram the products lie higher than the starting substances. What is the reaction?",
+   "answers": {
+    "a": "a combustion",
+    "b": "a catalysis",
+    "c": "exothermic",
+    "d": "endothermic"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is the activation energy in an energy diagram?",
+   "answers": {
+    "a": "the difference between the products and the starting substances",
+    "b": "the difference between the top and the level of the starting substances",
+    "c": "the level of the top",
+    "d": "the level of the products"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "Why is a reaction faster at a higher temperature?",
+   "answers": {
+    "a": "the activation energy becomes lower",
+    "b": "more collisions have enough energy to react",
+    "c": "the heat of reaction becomes larger",
+    "d": "the starting substances become heavier"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What takes energy in a reaction?",
+   "answers": {
+    "a": "the heat of reaction",
+    "b": "adding a catalyst",
+    "c": "breaking bonds in the starting substances",
+    "d": "forming bonds in the products"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Methane and oxygen do not react without a spark, even though the reaction is exothermic. What is the reason?",
+   "answers": {
+    "a": "the heat of reaction is zero",
+    "b": "the reaction is endothermic",
+    "c": "the activation energy must first be supplied",
+    "d": "methane is an element"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "How much heat is needed to warm 250 g of water by 10 K? (c = 4.18 J/(g·K))",
+   "answers": {
+    "a": "1.0·10<sup>3</sup> J",
+    "b": "1.0·10<sup>4</sup> J",
+    "c": "2.5·10<sup>3</sup> J",
+    "d": "10.4 J"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

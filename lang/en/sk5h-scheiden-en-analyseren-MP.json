@@ -1,0 +1,339 @@
+{
+ "title": "Separating and analysing - 123 school",
+ "heading": "Separating and analysing",
+ "intro": [
+  "Choose the correct answer for each question. Where BINAS is mentioned, look up the data in the table named. Use a calculator where needed."
+ ],
+ "questions": [
+  {
+   "question": "Which separation method do you use to remove sand from water?",
+   "answers": {
+    "a": "distillation",
+    "b": "evaporation",
+    "c": "magnetic separation",
+    "d": "filtration"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "Which separation method do you use to obtain pure water from sea water?",
+   "answers": {
+    "a": "filtration",
+    "b": "settling",
+    "c": "chromatography",
+    "d": "distillation"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is distillation based on?",
+   "answers": {
+    "a": "difference in density",
+    "b": "difference in solubility",
+    "c": "difference in particle size",
+    "d": "difference in boiling point"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is filtration based on?",
+   "answers": {
+    "a": "difference in boiling point",
+    "b": "difference in particle size",
+    "c": "difference in melting point",
+    "d": "difference in charge"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is extraction based on?",
+   "answers": {
+    "a": "difference in density",
+    "b": "difference in magnetism",
+    "c": "difference in solubility",
+    "d": "difference in boiling point"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is settling based on?",
+   "answers": {
+    "a": "difference in density",
+    "b": "difference in solubility",
+    "c": "difference in boiling point",
+    "d": "difference in colour"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "You want to remove a dye from a solution with activated carbon. What is this called?",
+   "answers": {
+    "a": "adsorption",
+    "b": "evaporation",
+    "c": "distillation",
+    "d": "filtration"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What remains when you evaporate salt water?",
+   "answers": {
+    "a": "salt",
+    "b": "water",
+    "c": "nothing",
+    "d": "salt water"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "How do you separate iron filings from sand?",
+   "answers": {
+    "a": "with a filter",
+    "b": "with a centrifuge",
+    "c": "with a hot plate",
+    "d": "with a magnet"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "A suspension is a mixture of …",
+   "answers": {
+    "a": "two gases",
+    "b": "a gas and a liquid",
+    "c": "a solid and a liquid",
+    "d": "two liquids"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is a pure substance?",
+   "answers": {
+    "a": "a substance that dissolves in water",
+    "b": "a substance without colour and smell",
+    "c": "a substance with always the same properties, such as a fixed melting point",
+    "d": "a mixture of two substances"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What does a centrifuge do?",
+   "answers": {
+    "a": "separates mixtures by spinning quickly",
+    "b": "cools mixtures",
+    "c": "filters mixtures with a paper filter",
+    "d": "heats mixtures"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you use chromatography for?",
+   "answers": {
+    "a": "to heat a mixture",
+    "b": "to determine the mass of a substance",
+    "c": "to separate and recognise the substances in a mixture",
+    "d": "to measure the temperature of a mixture"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "What is the stationary phase in paper chromatography?",
+   "answers": {
+    "a": "the mixture",
+    "b": "the paper",
+    "c": "the solvent",
+    "d": "the vapour"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is the mobile phase in paper chromatography?",
+   "answers": {
+    "a": "the pencil",
+    "b": "the starting line",
+    "c": "the solvent",
+    "d": "the paper"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "In which BINAS table is chromatography found?",
+   "answers": {
+    "a": "table 98",
+    "b": "table 37G",
+    "c": "table 45A",
+    "d": "table 37F"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How do you draw the starting line in paper chromatography?",
+   "answers": {
+    "a": "with a pencil",
+    "b": "with a felt-tip pen",
+    "c": "with a marker",
+    "d": "with a pen"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is the formula for the Rf value?",
+   "answers": {
+    "a": "Rf = distance substance / distance solvent",
+    "b": "Rf = distance substance × distance solvent",
+    "c": "Rf = distance substance − distance solvent",
+    "d": "Rf = distance solvent / distance substance"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "A substance travels 3.0 cm and the solvent 6.0 cm. What is the Rf value?",
+   "answers": {
+    "a": "3.0",
+    "b": "2.0",
+    "c": "0.50",
+    "d": "18"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A substance travels 2.4 cm and the solvent 8.0 cm. What is the Rf value?",
+   "answers": {
+    "a": "5.6",
+    "b": "19",
+    "c": "0.30",
+    "d": "3.3"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "A substance has Rf = 0.40 and the solvent has travelled 10.0 cm. How far has the substance travelled?",
+   "answers": {
+    "a": "0.040 cm",
+    "b": "10.4 cm",
+    "c": "4.0 cm",
+    "d": "25 cm"
+   },
+   "correctAnswer": "c"
+  },
+  {
+   "question": "Which Rf value cannot occur?",
+   "answers": {
+    "a": "1.4",
+    "b": "1.0",
+    "c": "0.5",
+    "d": "0.0"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "Two spots have the same Rf value on the same paper. What does that probably mean?",
+   "answers": {
+    "a": "the substance has not dissolved yet",
+    "b": "it is the same substance",
+    "c": "they are two different substances",
+    "d": "the paper is too dry"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "On a chromatogram of an ink mixture you see three spots. What does that mean?",
+   "answers": {
+    "a": "the ink is pure",
+    "b": "the ink consists of one substance",
+    "c": "the ink has not dissolved",
+    "d": "the ink contains at least three substances"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What is a calibration line?",
+   "answers": {
+    "a": "a line on a measuring cylinder",
+    "b": "a graph of temperature against time",
+    "c": "a line that shows the pH",
+    "d": "a graph of a measured value against the known concentration"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "What do you use a calibration line for?",
+   "answers": {
+    "a": "to calculate the mass of a substance",
+    "b": "to read an unknown concentration",
+    "c": "to measure the pH of an acid",
+    "d": "to separate a mixture"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "For a calibration line you measure the absorbance of solutions with known concentrations. What do you put on the horizontal axis?",
+   "answers": {
+    "a": "the concentration",
+    "b": "the time",
+    "c": "the absorbance",
+    "d": "the volume"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What is titration?",
+   "answers": {
+    "a": "filtering a solid",
+    "b": "adding a solution of known concentration until the reaction is exactly complete",
+    "c": "weighing a substance on a balance",
+    "d": "heating a mixture until it boils"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "What is a burette used for in a titration?",
+   "answers": {
+    "a": "adding dropwise and reading the volume added",
+    "b": "heating the mixture",
+    "c": "measuring the pH without an indicator",
+    "d": "filtering the mixture"
+   },
+   "correctAnswer": "a"
+  },
+  {
+   "question": "What do you use an indicator for in a titration?",
+   "answers": {
+    "a": "to filter the solution",
+    "b": "to heat the mixture",
+    "c": "to measure the volume",
+    "d": "to see the colour change when the reaction is complete"
+   },
+   "correctAnswer": "d"
+  },
+  {
+   "question": "How many moles are present in 20.0 mL of a solution with c = 0.100 mol/L?",
+   "answers": {
+    "a": "2.00 mol",
+    "b": "2.00·10<sup>-3</sup> mol",
+    "c": "5.00 mol",
+    "d": "5.00·10<sup>-3</sup> mol"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "25.0 mL of HCl needs 20.0 mL of 0.100 mol/L NaOH (HCl + NaOH → NaCl + H<sub>2</sub>O). What is c(HCl)?",
+   "answers": {
+    "a": "0.125 mol/L",
+    "b": "0.0800 mol/L",
+    "c": "0.100 mol/L",
+    "d": "0.0200 mol/L"
+   },
+   "correctAnswer": "b"
+  },
+  {
+   "question": "10.0 mL of NaOH needs 15.0 mL of 0.200 mol/L HCl (HCl + NaOH → NaCl + H<sub>2</sub>O). What is c(NaOH)?",
+   "answers": {
+    "a": "0.133 mol/L",
+    "b": "0.300 mol/L",
+    "c": "3.00·10<sup>-3</sup> mol/L",
+    "d": "0.200 mol/L"
+   },
+   "correctAnswer": "b"
+  }
+ ]
+}

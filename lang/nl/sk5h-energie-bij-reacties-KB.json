@@ -1,0 +1,130 @@
+{
+ "title": "Energie bij reacties - 123 school",
+ "heading": "Energie bij reacties",
+ "intro": [
+  "Deze vragen gaan over exotherme en endotherme reacties, reactiewarmte, vormingswarmte en activeringsenergie.",
+  "Test je kennis door je antwoord in te typen en te vergelijken met het juiste antwoord. Klik daarna op 'Controleer antwoorden'."
+ ],
+ "questions": [
+  {
+   "q": "Wat is een exotherme reactie?",
+   "a": "Een reactie waarbij energie (warmte) vrijkomt; de omgeving wordt warmer"
+  },
+  {
+   "q": "Wat is een endotherme reactie?",
+   "a": "Een reactie waarbij energie wordt opgenomen; de omgeving wordt kouder"
+  },
+  {
+   "q": "Welk teken heeft de reactiewarmte bij een exotherme reactie in Binas?",
+   "a": "Negatief (–), want de energie-inhoud van de stoffen daalt"
+  },
+  {
+   "q": "Welk teken heeft de reactiewarmte bij een endotherme reactie?",
+   "a": "Positief (+)"
+  },
+  {
+   "q": "In welke eenheid wordt de reactiewarmte in Binas gegeven?",
+   "a": "In J per mol (in tabel 56 en 57 in 10<sup>5</sup> J/mol)"
+  },
+  {
+   "q": "Wat is de vormingswarmte van een stof?",
+   "a": "De energie die vrijkomt of wordt opgenomen als 1 mol van de stof wordt gevormd uit de elementen (bij 298 K en p<sub>0</sub>)"
+  },
+  {
+   "q": "Wat is de vormingswarmte van een element in zijn standaardtoestand, bijvoorbeeld O<sub>2</sub>(g)?",
+   "a": "0 J/mol (daarom staan elementen niet in Binas tabel 57)"
+  },
+  {
+   "q": "In welke Binas-tabel vind je vormingswarmten van anorganische stoffen?",
+   "a": "Tabel 57A"
+  },
+  {
+   "q": "Hoe bereken je de reactiewarmte uit vormingswarmten?",
+   "a": "Reactiewarmte = som van de vormingswarmten van de producten – som van de vormingswarmten van de beginstoffen (houd rekening met de coëfficiënten)"
+  },
+  {
+   "q": "Wat is de vormingswarmte van CO<sub>2</sub>(g)? (Binas tabel 57A)",
+   "a": "–3,935·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Bereken de reactiewarmte van 2 H<sub>2</sub> + O<sub>2</sub> → 2 H<sub>2</sub>O(l) (Binas tabel 57A)",
+   "a": "2 × (–2,86) = –5,72·10<sup>5</sup> J"
+  },
+  {
+   "q": "Bereken de reactiewarmte van N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub> (Binas tabel 57A)",
+   "a": "2 × (–0,459) = –0,918·10<sup>5</sup> J; exotherm"
+  },
+  {
+   "q": "Bereken de reactiewarmte van CaCO<sub>3</sub> → CaO + CO<sub>2</sub> (Binas tabel 57A). Is de reactie exotherm of endotherm?",
+   "a": "(–6,35 – 3,935) – (–12,08) = +1,795·10<sup>5</sup> J; endotherm"
+  },
+  {
+   "q": "Bereken de reactiewarmte van CaO + H<sub>2</sub>O(l) → Ca(OH)<sub>2</sub> (Binas tabel 57A)",
+   "a": "–9,85 – (–6,35 – 2,86) = –0,64·10<sup>5</sup> J; exotherm"
+  },
+  {
+   "q": "Bereken de reactiewarmte van 2 H<sub>2</sub>O<sub>2</sub>(l) → 2 H<sub>2</sub>O(l) + O<sub>2</sub> (Binas tabel 57A)",
+   "a": "2 × (–2,86) – 2 × (–1,88) = –1,96·10<sup>5</sup> J"
+  },
+  {
+   "q": "Een reactie heeft een reactiewarmte van –2,0·10<sup>5</sup> J. Wat is de reactiewarmte van de omgekeerde reactie?",
+   "a": "+2,0·10<sup>5</sup> J (zelfde grootte, tegengesteld teken)"
+  },
+  {
+   "q": "Wat is de verbrandingswarmte van methaan? (Binas tabel 56)",
+   "a": "–8,90·10<sup>5</sup> J/mol"
+  },
+  {
+   "q": "Hoeveel warmte komt vrij bij de verbranding van 10 g methaan? (M = 16,04 g/mol; Binas tabel 56)",
+   "a": "n = 10/16,04 = 0,62 mol; warmte = 0,62 × 8,90·10<sup>5</sup> J = 5,5·10<sup>5</sup> J"
+  },
+  {
+   "q": "Hoeveel warmte komt vrij bij de verbranding van 23,0 g ethanol? (M = 46,07 g/mol; Binas tabel 56)",
+   "a": "n = 0,499 mol; warmte = 0,499 × 13,66·10<sup>5</sup> J = 6,82·10<sup>5</sup> J"
+  },
+  {
+   "q": "Wat is activeringsenergie?",
+   "a": "De minimale energie die moleculen bij een botsing moeten hebben om te reageren"
+  },
+  {
+   "q": "Waarom reageert een mengsel van methaan en zuurstof niet vanzelf bij kamertemperatuur, hoewel de reactie exotherm is?",
+   "a": "De activeringsenergie is te hoog; er is eerst een vonk of vlam nodig om de reactie te starten"
+  },
+  {
+   "q": "Wat doet een katalysator met de activeringsenergie en met de reactiewarmte?",
+   "a": "De activeringsenergie wordt lager; de reactiewarmte blijft gelijk"
+  },
+  {
+   "q": "Waarom verloopt een reactie sneller bij een hogere temperatuur?",
+   "a": "Meer botsingen hebben voldoende energie om de activeringsenergie te halen (en er zijn meer botsingen per seconde)"
+  },
+  {
+   "q": "Bij een energiediagram liggen de producten lager dan de beginstoffen. Is de reactie exotherm of endotherm?",
+   "a": "Exotherm"
+  },
+  {
+   "q": "Wat lees je af in een energiediagram als het verschil tussen de top van de curve en het niveau van de beginstoffen?",
+   "a": "De activeringsenergie"
+  },
+  {
+   "q": "Wat kost energie: bindingen verbreken of bindingen vormen?",
+   "a": "Bindingen verbreken kost energie; bindingen vormen levert energie op"
+  },
+  {
+   "q": "Bij een reactie is de energie die nodig is om bindingen te verbreken kleiner dan de energie die vrijkomt bij het vormen van nieuwe bindingen. Is de reactie exotherm of endotherm?",
+   "a": "Exotherm"
+  },
+  {
+   "q": "Geef een voorbeeld van een endotherme reactie uit het dagelijks leven",
+   "a": "Bijvoorbeeld fotosynthese, of het oplossen van ammoniumnitraat in een koelpakket (kompres)"
+  },
+  {
+   "q": "Geef een voorbeeld van een exotherme reactie uit het dagelijks leven",
+   "a": "Bijvoorbeeld verbranding van aardgas, of ijzer dat roest in een handwarmer"
+  },
+  {
+   "q": "Hoeveel warmte is nodig om 250 g water 10 K op te warmen? (c = 4,18 J/(g·K))",
+   "a": "Q = m·c·ΔT = 250 × 4,18 × 10 = 1,0·10<sup>4</sup> J"
+  }
+ ]
+}

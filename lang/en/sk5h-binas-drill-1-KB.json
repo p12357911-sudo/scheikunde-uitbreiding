@@ -1,0 +1,177 @@
+{
+ "title": "Drill: looking up data and calculating 1 - 123 school",
+ "heading": "Drill: looking up data and calculating 1",
+ "intro": [
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "In which BINAS table do you find the molar mass of commonly used substances?",
+   "a": "table 98"
+  },
+  {
+   "q": "In which BINAS table do you find the relative atomic mass of an element?",
+   "a": "table 99"
+  },
+  {
+   "q": "In which BINAS table do you find the density of liquids such as ethanol and benzene?",
+   "a": "table 11"
+  },
+  {
+   "q": "In which BINAS table do you find the density of metals such as copper and iron?",
+   "a": "table 8"
+  },
+  {
+   "q": "In which BINAS table do you find Avogadro's constant and the molar volume?",
+   "a": "table 7A"
+  },
+  {
+   "q": "In which BINAS table do you find the formulas for concentration and density?",
+   "a": "table 37G"
+  },
+  {
+   "q": "In which BINAS table do you find whether a salt dissolves well or poorly in water?",
+   "a": "table 45A"
+  },
+  {
+   "q": "What is the molar mass of CaCO<sub>3</sub>? (BINAS table 98)",
+   "a": "100.09 g/mol"
+  },
+  {
+   "q": "What is the molar mass of NaCl? (BINAS table 98)",
+   "a": "58.44 g/mol"
+  },
+  {
+   "q": "What is the molar mass of H<sub>2</sub>SO<sub>4</sub>? (BINAS table 98)",
+   "a": "98.08 g/mol"
+  },
+  {
+   "q": "What is the molar mass of glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>? (BINAS table 98)",
+   "a": "180.16 g/mol"
+  },
+  {
+   "q": "What is the relative atomic mass of iron? (BINAS table 99)",
+   "a": "55.85"
+  },
+  {
+   "q": "Calculate the molar mass of Mg(OH)<sub>2</sub> using the atomic masses from BINAS table 99 (Mg 24.31, O 16.00, H 1.008)",
+   "a": "58.33 g/mol"
+  },
+  {
+   "q": "How many moles is 29.2 g of NaCl? (M from BINAS table 98)",
+   "a": "0.500 mol"
+  },
+  {
+   "q": "How many grams do you weigh for 0.250 mol of NaOH? (M from BINAS table 98)",
+   "a": "10.0 g"
+  },
+  {
+   "q": "How many moles of CO<sub>2</sub> is 22.0 g? (M from BINAS table 98)",
+   "a": "0.500 mol"
+  },
+  {
+   "q": "How many grams is 0.0500 mol of H<sub>2</sub>SO<sub>4</sub>? (M from BINAS table 98)",
+   "a": "4.90 g"
+  },
+  {
+   "q": "How many mmol of glucose are in 5.00 g of glucose? (M from BINAS table 98)",
+   "a": "27.8 mmol"
+  },
+  {
+   "q": "What is the density of ethanol in g/mL? (BINAS table 11)",
+   "a": "0.80 g/mL"
+  },
+  {
+   "q": "Calculate the mass of 50 mL of ethanol. Use the density from BINAS table 11",
+   "a": "40 g"
+  },
+  {
+   "q": "Calculate the mass of 20.0 mL of mercury. Use the density from BINAS table 11",
+   "a": "270 g"
+  },
+  {
+   "q": "Calculate the volume of 100 g of copper. Use the density from BINAS table 8",
+   "a": "11.2 cm<sup>3</sup>"
+  },
+  {
+   "q": "An aluminium block measures 5.0 cm × 4.0 cm × 2.0 cm. Calculate the mass using the density from BINAS table 8",
+   "a": "1.1·10<sup>2</sup> g"
+  },
+  {
+   "q": "You need 63 g of benzene. How many mL is that? Use the density from BINAS table 11",
+   "a": "72 mL"
+  },
+  {
+   "q": "Which substance has the greatest density: aluminium, copper or lead? (BINAS table 8)",
+   "a": "lead"
+  },
+  {
+   "q": "You dissolve 0.50 mol of NaCl to make 250 mL of solution. What is the concentration?",
+   "a": "2.0 mol/L"
+  },
+  {
+   "q": "How many grams of NaOH do you need for 500 mL of a 0.10 mol/L solution? (M from BINAS table 98)",
+   "a": "2.0 g"
+  },
+  {
+   "q": "You dissolve 5.85 g of NaCl to make 500 mL of solution. What is the concentration? (M from BINAS table 98)",
+   "a": "0.200 mol/L"
+  },
+  {
+   "q": "How many mL of a 0.50 mol/L HCl solution contain 0.010 mol of HCl?",
+   "a": "20 mL"
+  },
+  {
+   "q": "You dilute 20 mL of a 1.0 mol/L solution with water to 100 mL. What is the new concentration?",
+   "a": "0.20 mol/L"
+  },
+  {
+   "q": "A solution of CaCl<sub>2</sub> has a concentration of 0.10 mol/L. What is [Cl<sup>–</sup>]?",
+   "a": "0.20 mol/L"
+  },
+  {
+   "q": "A solution of Na<sub>2</sub>SO<sub>4</sub> has a concentration of 0.10 mol/L. What is [Na<sup>+</sup>]?",
+   "a": "0.20 mol/L"
+  },
+  {
+   "q": "A solution of Al(NO<sub>3</sub>)<sub>3</sub> has a concentration of 0.20 mol/L. What is [NO<sub>3</sub><sup>–</sup>]?",
+   "a": "0.60 mol/L"
+  },
+  {
+   "q": "Which ions are formed when you dissolve Na<sub>2</sub>CO<sub>3</sub> in water?",
+   "a": "2 Na<sup>+</sup> and CO<sub>3</sub><sup>2–</sup>"
+  },
+  {
+   "q": "How many molecules are in 0.50 mol of water? (Avogadro's constant from BINAS table 7A)",
+   "a": "3.0·10<sup>23</sup>"
+  },
+  {
+   "q": "What is the volume of 2.00 mol of gas at 298 K and p<sub>0</sub>? (molar volume from BINAS table 7A: 24.5 dm<sup>3</sup>/mol)",
+   "a": "49.0 dm<sup>3</sup>"
+  },
+  {
+   "q": "Is AgCl very soluble or poorly soluble in water? (BINAS table 45A)",
+   "a": "poorly soluble"
+  },
+  {
+   "q": "Is NaNO<sub>3</sub> very soluble or poorly soluble in water? (BINAS table 45A)",
+   "a": "very soluble"
+  },
+  {
+   "q": "Is BaSO<sub>4</sub> very soluble or poorly soluble in water? (BINAS table 45A)",
+   "a": "poorly soluble"
+  },
+  {
+   "q": "Is CaCO<sub>3</sub> very soluble or poorly soluble in water? (BINAS table 45A)",
+   "a": "poorly soluble"
+  },
+  {
+   "q": "What does 'g' mean in BINAS table 45A?",
+   "a": "very soluble: more than about 0.1 mol/L"
+  },
+  {
+   "q": "You mix solutions of sodium chloride and silver nitrate. What happens according to BINAS table 45A?",
+   "a": "A precipitate of silver chloride forms"
+  }
+ ]
+}

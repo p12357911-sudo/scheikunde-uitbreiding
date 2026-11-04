@@ -1,0 +1,130 @@
+{
+ "title": "Organic substances: names and groups - 123 school",
+ "heading": "Organic substances: names and groups",
+ "intro": [
+  "These questions are about hydrocarbons, functional groups, names and isomerism.",
+  "Test your knowledge by typing your answer and comparing it with the correct answer. Then click 'Check answers'."
+ ],
+ "questions": [
+  {
+   "q": "What is a hydrocarbon?",
+   "a": "A substance whose molecules consist only of C atoms and H atoms"
+  },
+  {
+   "q": "What is the general formula of alkanes (open chain)?",
+   "a": "C<sub>n</sub>H<sub>2n+2</sub>"
+  },
+  {
+   "q": "What is the general formula of alkenes (open chain) and what is characteristic of an alkene?",
+   "a": "C<sub>n</sub>H<sub>2n</sub>. An alkene has a double bond C=C"
+  },
+  {
+   "q": "What are the names of the first four alkanes (1 to 4 C atoms)?",
+   "a": "Methane, ethane, propane, butane"
+  },
+  {
+   "q": "Which stem names belong to 5, 6, 7 and 8 C atoms in the chain?",
+   "a": "Pent-, hex-, hept-, oct-"
+  },
+  {
+   "q": "Give the molecular formula of hexane",
+   "a": "C<sub>6</sub>H<sub>14</sub>"
+  },
+  {
+   "q": "Give the molecular formula of propene",
+   "a": "C<sub>3</sub>H<sub>6</sub>"
+  },
+  {
+   "q": "What is the functional group of an alcohol and which suffix belongs to it?",
+   "a": "The hydroxyl group –OH; suffix -ol"
+  },
+  {
+   "q": "What is the functional group of a carboxylic acid and which suffix belongs to it?",
+   "a": "The carboxyl group –COOH; suffix -oic acid (for example ethanoic acid)"
+  },
+  {
+   "q": "What is the difference between an aldehyde and a ketone?",
+   "a": "In an aldehyde the C=O group is at the end of the chain (–CHO), in a ketone it is in the middle of the chain"
+  },
+  {
+   "q": "Which functional group does an amine have?",
+   "a": "The amino group –NH<sub>2</sub>"
+  },
+  {
+   "q": "From which two kinds of substances is an ester formed?",
+   "a": "From an alcohol and a carboxylic acid (with the loss of water)"
+  },
+  {
+   "q": "Give the word equation for the formation of an ester",
+   "a": "Alcohol + carboxylic acid ⇌ ester + water"
+  },
+  {
+   "q": "Which functional group is in an ester?",
+   "a": "–COO– (the ester group)"
+  },
+  {
+   "q": "Give the name of CH<sub>3</sub>–CH<sub>2</sub>–OH",
+   "a": "Ethanol"
+  },
+  {
+   "q": "Give the name of CH<sub>3</sub>–COOH",
+   "a": "Ethanoic acid (acetic acid)"
+  },
+  {
+   "q": "Give the name of CH<sub>3</sub>–CO–CH<sub>3</sub>",
+   "a": "Propanone"
+  },
+  {
+   "q": "Give the name of CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CHO",
+   "a": "Butanal"
+  },
+  {
+   "q": "Give the name of the ester formed from methanol and propanoic acid",
+   "a": "Methyl propanoate"
+  },
+  {
+   "q": "What is the name of a side chain with 1 C atom, –CH<sub>3</sub>?",
+   "a": "Methyl"
+  },
+  {
+   "q": "What are isomers?",
+   "a": "Substances with the same molecular formula but a different structural formula"
+  },
+  {
+   "q": "Draw or describe two isomers of C<sub>4</sub>H<sub>10</sub>",
+   "a": "Butane (CH<sub>3</sub>–CH<sub>2</sub>–CH<sub>2</sub>–CH<sub>3</sub>) and 2-methylpropane (CH<sub>3</sub>–CH(CH<sub>3</sub>)–CH<sub>3</sub>)"
+  },
+  {
+   "q": "How many isomers does C<sub>5</sub>H<sub>12</sub> have?",
+   "a": "Three: pentane, 2-methylbutane and 2,2-dimethylpropane"
+  },
+  {
+   "q": "Name two isomers with molecular formula C<sub>3</sub>H<sub>8</sub>O that are both alcohols",
+   "a": "Propan-1-ol and propan-2-ol"
+  },
+  {
+   "q": "Why does ethanol have a much higher boiling point than ethane?",
+   "a": "Between ethanol molecules there are hydrogen bonds (via the –OH group), between ethane molecules only weak van der Waals forces"
+  },
+  {
+   "q": "Why does the boiling point of alkanes increase with the length of the chain?",
+   "a": "Larger molecules have stronger van der Waals forces"
+  },
+  {
+   "q": "How can you distinguish an alkane from an alkene with bromine water?",
+   "a": "An alkene decolourises bromine water (addition), an alkane does not"
+  },
+  {
+   "q": "What type of reaction is the reaction of an alkene with bromine?",
+   "a": "Addition"
+  },
+  {
+   "q": "What is a saturated hydrocarbon?",
+   "a": "A hydrocarbon with only single bonds between the C atoms (for example an alkane)"
+  },
+  {
+   "q": "Give the equation for the complete combustion of methane",
+   "a": "CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O"
+  }
+ ]
+}
