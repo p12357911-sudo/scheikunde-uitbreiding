@@ -189,7 +189,7 @@
    "question": "What is E<sup>0</sup> of the half-reaction Zn<sup>2+</sup> + 2 e<sup>–</sup> ⇌ Zn? (use BINAS table 48)",
    "answers": {
     "a": "+0.76 V",
-    "b": "–0.44 V",
+    "b": "–0.45 V",
     "c": "–1.66 V",
     "d": "–0.76 V"
    },
@@ -208,10 +208,10 @@
   {
    "question": "Calculate the standard voltage of a cell with Fe and Ag (BINAS table 48)",
    "answers": {
-    "a": "1.24 V",
-    "b": "0.36 V",
+    "a": "1.25 V",
+    "b": "0.35 V",
     "c": "0.80 V",
-    "d": "0.44 V"
+    "d": "0.45 V"
    },
    "correctAnswer": "a"
   },
