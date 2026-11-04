@@ -649,7 +649,12 @@ body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has
   .rij-compact { display: flex; flex-wrap: wrap; justify-content: center; gap: 0 2rem; }
   .rij-compact > .w3-quarter, .rij-compact > .w3-third, .rij-compact > .w3-half { width: auto; float: none; flex: 0 1 200px; }
   .rij-compact > br { display: none; }
+  /* kop bovenaan, knop onderaan: alle knoppen in een rij op dezelfde hoogte */
+  .rij-compact > div > .w3-container { display: flex; flex-direction: column; align-items: center; height: 100%; box-sizing: border-box; }
+  .rij-compact > div > .w3-container > .w3-dropdown-hover { margin-top: auto; }
 }
+/* kleine ondertitel onder een kolomkop (bijv. Basis / leerjaar 3 en 4) */
+.kolom-sub { margin: -0.4em 0 0.8em; font-size: 14px; font-weight: normal; text-transform: none; }
 
 /* 'Onderwerpen'-knoppen: duidelijk klikbaar (zwart/wit, met pijltje, hover- en focusstatus) */
 .w3-container .w3-dropdown-hover > button.w3-button.w3-black { border-radius: 6px; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; border: 2px solid #000; transition: background-color .15s, color .15s; }
