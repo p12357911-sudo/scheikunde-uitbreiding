@@ -639,3 +639,22 @@ footer .w3-tooltip .w3-button { padding: 4px 10px; }
 body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has(.oefen-wissel)) { padding-top: 100px; }
 @media (max-width: 768px) { body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has(.oefen-wissel)) { padding-top: 62px; } }
 @media (min-width: 1200px) { body[data-pagina="kb"]:not(:has(.oefen-wissel)), body[data-pagina="mp"]:not(:has(.oefen-wissel)) { padding-top: 56px; } }
+
+/* subkoppen in uitklapmenu (bijv. NaSk2: Leerjaar 3 / Leerjaar 4) */
+.menu-kop{font-weight:bold;font-size:0.85em;background:#f1f1f1;color:#111;border-bottom:1px solid #ccc;cursor:default}
+.menu-kop-2{border-top:1px solid #ccc}
+
+/* kolomgroepen op de startpagina: op brede schermen dicht bij elkaar in het midden; mobiel blijft onder elkaar */
+@media (min-width: 601px) {
+  .rij-compact { display: flex; flex-wrap: wrap; justify-content: center; gap: 0 2rem; }
+  .rij-compact > .w3-quarter, .rij-compact > .w3-third, .rij-compact > .w3-half { width: auto; float: none; flex: 0 1 200px; }
+  .rij-compact > br { display: none; }
+}
+
+/* 'Onderwerpen'-knoppen: duidelijk klikbaar (zwart/wit, met pijltje, hover- en focusstatus) */
+.w3-container .w3-dropdown-hover > button.w3-button.w3-black { border-radius: 6px; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; border: 2px solid #000; transition: background-color .15s, color .15s; }
+.w3-container .w3-dropdown-hover > button.w3-button.w3-black::after { content: " \25BE"; text-decoration: none; display: inline-block; margin-left: .3em; }
+.w3-container .w3-dropdown-hover:hover > button.w3-button.w3-black,
+.w3-container .w3-dropdown-hover:focus-within > button.w3-button.w3-black { background-color: #fff !important; color: #000 !important; }
+.w3-container .w3-dropdown-hover > button.w3-button.w3-black:focus-visible { outline: 3px solid #0b57d0; outline-offset: 2px; }
+.w3-dropdown-hover:focus-within > .w3-dropdown-content { display: block; }
